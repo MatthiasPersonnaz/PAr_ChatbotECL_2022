@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-# -*- coding: utf-8 -*-
-
 
 import gensim
 import nltk
@@ -13,10 +11,23 @@ from sklearn.decomposition import PCA
 
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-f = open("./documents_scolarite/mobydick.txt", "r", encoding="utf-8")
-texte = f.read()
 
-texte.replace("\n",'')
+path = './documents_scolarite/'
+
+texte = ''
+
+documents = ['consignes-mobilite-covid19.txt', 'dispense-de-mobilite-obligatoire.txt', 'mobilite-3a-explication-de-la-procedure-intranet.txt', 'mobilite-cesure-choix-post-2a.txt', 'procedure-selection-ceu.txt', 'reglement-scolarite-2021.txt', 'sejour-international.txt', 'validation-post-tfe.txt']
+
+for i in range(len(documents)):
+    documents[i] = path+documents[i]
+    f = open(documents[i], 'r', encoding="utf-8")
+    texte += f.read()
+    f.close()
+
+
+with open(path+'total.txt', 'w', encoding="utf-8") as f:
+    f.write(texte)
+    f.close()
 
 
 
@@ -26,11 +37,17 @@ texte.replace("\n",'')
 phrases = texte.split("\n")
 phrases = [c for c in phrases if len(c) != 0]
 
+
+
+
+
 def gensim_preprocess_data(texte):
+    stopwords = set(nltk.corpus.stopwords.words('french'))
+    stopWordsFrench = stopwords | set([l[0].upper()+l[1:] for l in stopwords])
     sentences = sent_tokenize(texte)
     tokenized_sentences = list([word_tokenize(sentence) for sentence in sentences])
     for i in range(0, len(tokenized_sentences)):
-        tokenized_sentences[i] = [word for word in tokenized_sentences[i] if word not in string.punctuation]
+        tokenized_sentences[i] = [word for word in tokenized_sentences[i] if word not in string.punctuation and word not in stopWordsFrench]
     return tokenized_sentences
 
 phrases = gensim_preprocess_data(texte)
@@ -55,6 +72,9 @@ sns.set_style("darkgrid")
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
+
+
+# code inspiré du turotiel de Gensim sur kaggle
 def tsnescatterplot(model, word, list_names):
     """ Plot in seaborn the results from the t-SNE dimensionality reduction algorithm of the vectors of a query word,
     its list of most similar words, and a list of words.
@@ -129,7 +149,7 @@ def tsnescatterplot(model, word, list_names):
             
     plt.title('visualisation t-SNE for {}'.format(word.title()))
     
-tsnescatterplot(skipgram, 'sea', [])
+tsnescatterplot(skipgram, 'Centrale', [])
     
     
 """
@@ -142,4 +162,5 @@ result = pca.fit_transform(X)
 skipgram.wv["Centrale"]
 skipgram.wv.key_to_index # pour accéder au dictionnaire des mots
 skipgram.wv.wmdistance(["procédure"],["scolarité"])
+skipgram.wv.most_similar([word])
 """
