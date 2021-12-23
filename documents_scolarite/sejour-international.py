@@ -52,6 +52,8 @@ texte = regex.sub(rf'[^{whitelist}]', "", texte)
 
 texte = texte.replace("-\n", "")         # raccorder les mots coupés
 
+
+
 texte = regex.sub(r'(- )+', ' ', texte)
 
 texte = regex.sub("\([^()]*\)",u'',texte)     # enlever les parenthèses et leur contenu
@@ -62,6 +64,8 @@ texte = regex.sub(r"(.+)\n{1}", r"\1\n", texte) # supprimer les retours à la li
 texte = regex.sub(r" +", " ", texte)
 
 
+
+texte = regex.sub(r"[a-z,] +\n[a-z]", " ", texte) # enlever les retours à la ligne intempestifs
 
 
 enregistrer_texte('./sejour-international.txt')

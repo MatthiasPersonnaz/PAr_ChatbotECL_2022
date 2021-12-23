@@ -38,43 +38,68 @@ def enregistrer_texte(fichier):
 
 
 
-whitelist = '\x00\x01\x02\x03\x04\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'’()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~«»ôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæÇÉÈŒœÙﬁ—'
+whitelist = '\x01\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'’()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~«»ôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæÇÉÈŒœÙﬁ—'
 
 
 texte = load_data()
 
-texte = regex.sub(rf'[^{whitelist}]', "", texte)
+texte = regex.sub(rf'[^{whitelist}]', "", texte) # ne garder que les caractères de la whitelist
 
 
 texte = texte.replace("-\n", "")         # raccorder les mots coupés
 
-texte = texte.replace("\x0cRÈGLEMENT DE SCOLARITÉ DE L’ECOLE CENTRALE DE LYON\n\n2021-2022\n\n","").replace("\x0c","") # supprimer les entêtes
-texte = regex.sub("[0-9]+\n{2}",u'',texte) # supprimer les numéros de pages en footers
-
-
+texte = texte.replace("\x0cRÈGLEMENT DE SCOLARITÉ DE L’ECOLE CENTRALE DE LYON\n\n2021-2022\n\n","").replace("\x0c","") # supprimer les entêtes (headers)
+texte = regex.sub("[0-9]+\n{2}",u'',texte) # supprimer la numérotation en pide de page (footers)
 
 
 
 texte = regex.sub("\([^()]*\)",u'',texte)     # enlever les parenthèses et leur contenu
 # permet de transformer "l’(les) année(s) universitaires" en "l' année universitaires"
-texte = texte.replace("’", "'")
+texte = texte.replace("’", "'")    # changer les types d'apostrophes
 texte = texte.replace("l ?", "l'") # supprimer les bugs de formatage du document
-texte = texte.replace("' ", "'") # enlever les espaces après les apostrophes
+texte = texte.replace("' ", "'")     # enlever les espaces après les apostrophes
+texte = regex.sub(" +",u' ',texte)   # supprimer les répétitions d'espaces
+texte = regex.sub(" +([,.])",u'\1',texte)  # supprimer les espaces avant une virgule ou un point
 texte = texte.replace("ﬁ", "fi") # remplacement des ligatures
 texte = texte.replace("æ", "ae") 
 texte = texte.replace("œ", "oe")
+texte = texte.replace(u"U+0001", "")
 
 
-texte = regex.sub(r"(.+)\n{1}", r"\1 ", texte) # supprimer les retours à la ligne dans un paragraphe
+ # à ce stade on a déjà un document assez épuré et très lisible
+
+
+texte = regex.sub(r"(.+)\n{1}", r"\1 ", texte) # supprimer les retours à la ligne dans un paragraphe (i.e. sauts de ligne doubles)
 
 
 
-texte = regex.sub(r"(Article [0-9]+ – )", r"\n\n", texte) # rajouter des sauts de ligne entre les paragraphes
-# texte = regex.sub(r"([A-Z]+\.{1}[0-9]+.+)\n{1}", r"\n\n", texte) # rajouter les sauts de ligne entre les paragraphes annexes et supprimer les titres de paragraphes d'annexe
 
 
-texte = regex.sub(r"([A-Z]+\.{1}[0-9])\n{1}", r"", texte)
+texte = regex.sub(r'([;:.]) *\n—', r' ', texte) # supprimer les retours à la ligne de listes à puces
 
+texte = regex.sub(r'—', ' ', texte)
+
+
+
+texte = regex.sub(r"(Article [0-9]+ – )", r"\n\n", texte) # rajouter des sauts de ligne entre les articles et virer les titres
+
+
+texte = regex.sub(r"[\n][A-Z]{1}\.{1}[0-9]{1}[^\.\n,]{1}.+\n{1}", "\n\n", texte) # supprimer les titres de paragraphes d'annexes tupe "L.1 Principe \n"
+
+
+texte = regex.sub(r"[A-Z]{1} {1}.+\n{1}", "\n\n", texte) # supprimer les titres de paragraphes d'annexes tupe "L Mobilité à l'international \n"
+
+
+
+
+'''
+
+texte = regex.sub(r"[A-Z]+\.[0-9]\.{1}[0-9]\.{1}[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1.2.3
+texte = regex.sub(r"[A-Z]+\.[0-9]\.{1}[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1.2
+texte = regex.sub(r"[A-Z]+\.[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1
+
+
+'''
 
 enregistrer_texte('./reglement-scolarite-2021.txt')
 

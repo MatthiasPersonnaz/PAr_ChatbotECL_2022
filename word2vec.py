@@ -3,20 +3,19 @@
 
 
 import gensim
-import nltk
+
 import string
 from gensim.models import Word2Vec
 from sklearn.decomposition import PCA
+import re as regex
 
-
-from nltk.tokenize import word_tokenize, sent_tokenize
 
 
 path = './documents_scolarite/'
 
 texte = ''
 
-documents = ['consignes-mobilite-covid19.txt', 'dispense-de-mobilite-obligatoire.txt', 'mobilite-3a-explication-de-la-procedure-intranet.txt', 'mobilite-cesure-choix-post-2a.txt', 'procedure-selection-ceu.txt', 'reglement-scolarite-2021.txt', 'sejour-international.txt', 'validation-post-tfe.txt']
+documents = ['consignes-mobilite-covid19.txt', 'dispense-de-mobilite-obligatoire.txt', 'mobilite-3a-explication-de-la-procedure-intranet.txt', 'mobilite-cesure-choix-post-2a.txt', 'procedure-selection-ceu.txt', 'reglement-scolarite-2021_corrige-main.txt', 'sejour-international.txt', 'validation-post-tfe.txt']
 
 for i in range(len(documents)):
     documents[i] = path+documents[i]
@@ -34,28 +33,79 @@ with open(path+'total.txt', 'w', encoding="utf-8") as f:
 
 
 
-phrases = texte.split("\n")
-phrases = [c for c in phrases if len(c) != 0]
+whitelist = '\n\',-.0123456789:;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæÇÉÈŒœÙﬁ '
+
+texte = regex.sub(rf'[^{whitelist}]', "", texte) 
 
 
 
 
 
-def gensim_preprocess_data(texte):
-    stopwords = set(nltk.corpus.stopwords.words('french'))
-    stopWordsFrench = stopwords | set([l[0].upper()+l[1:] for l in stopwords])
-    sentences = sent_tokenize(texte)
-    tokenized_sentences = list([word_tokenize(sentence) for sentence in sentences])
-    for i in range(0, len(tokenized_sentences)):
-        tokenized_sentences[i] = [word for word in tokenized_sentences[i] if word not in string.punctuation and word not in stopWordsFrench]
-    return tokenized_sentences
 
-phrases = gensim_preprocess_data(texte)
+
+
+
+
+
+# importation de Spacy
+import spacy
+from spacy import displacy
+
+
+nlp = spacy.load('fr_core_news_sm')  # fr_core_news_sm pour efficacité
+                                    # fr_dep_news_trf précision (mais hyper lent !)
+
+# importation de NLTK
+import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+
+# création des ensembles de stop-words
+stopwordsNLTK = set(nltk.corpus.stopwords.words('french'))
+stopWordsNLTK = stopwordsNLTK | set([l[0].upper()+l[1:] for l in stopwordsNLTK])
+from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
+
+
+# on extrait les phrases à l'aide du tokenizer de phrases de NLTK
+sentences = sent_tokenize(texte, language='french')
+
+
+# tokénisation des mots avec Spacy
+tokenizedSentencesSpacy = [[token.text for token in nlp(sentence)] for sentence in sentences]
+for i in range(0, len(tokenizedSentencesSpacy)):
+    tokenizedSentencesSpacy[i] = [word for word in tokenizedSentencesSpacy[i] 
+                                  if word not in string.punctuation
+                                  and word not in stopwordsSpacy]
+
+#  tokénisation des mots avec NLTK
+tokenizedSentencesNLTK = [word_tokenize(sentence, language='french') for sentence in sentences]
+for i in range(0, len(tokenizedSentencesNLTK)):
+    tokenizedSentencesNLTK[i] = [word for word in tokenizedSentencesNLTK[i] 
+                                 if word not in string.punctuation
+                                 and word not in stopwordsNLTK]
+
+
+
+
+
+
+
+
+
+# enregistrer les phrases
+textfile = open("phrases.txt", "w", encoding='utf8')
+for mot in tokenizedSentencesSpacy:
+    textfile.write(str(mot) + "\n\n")
+textfile.close()
+
+
+
+
 
 
 dimension = 300
 
-skipgram = Word2Vec(sentences=phrases, window=5, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
+skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=5, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
 
 #word_embedding = skip_gram[skip_gram.wv.vocab] 
 
@@ -103,16 +153,16 @@ def tsnescatterplot(model, word, list_names):
         color_list.append('green')
         arrays = np.append(arrays, wrd_vector, axis=0)
         
-    # Reduces the dimensionality from 40 to 10 dimensions with PCA
+    # Réduire la domention de 40 à 10 avec PCA
     reduc = PCA(n_components=2).fit_transform(arrays)
     
     
-    # Finds t-SNE coordinates for 2 dimensions
+    # Trouver les coordonnées de  t-SNE en deux dimensions
     np.set_printoptions(suppress=True)
     
     Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
     
-    # Sets everything up to plot
+    # Fabriquer le cadre pour le plot
     df = pd.DataFrame({'x': [x for x in reduc[:, 0]],
                        'y': [y for y in reduc[:, 1]],
                        'words': word_labels,
@@ -121,7 +171,7 @@ def tsnescatterplot(model, word, list_names):
     fig, _ = plt.subplots()
     fig.set_size_inches(9, 9)
     
-    # Basic plot
+    # Faire le plot des mots
     p1 = sns.regplot(data=df,
                      x="x",
                      y="y",
@@ -132,7 +182,7 @@ def tsnescatterplot(model, word, list_names):
                                  }
                     )
     
-    # Adds annotations one by one with a loop
+    # Ajouter les annotations avec une boucle
     for line in range(0, df.shape[0]):
          p1.text(df["x"][line],
                  df['y'][line],
@@ -164,3 +214,4 @@ skipgram.wv.key_to_index # pour accéder au dictionnaire des mots
 skipgram.wv.wmdistance(["procédure"],["scolarité"])
 skipgram.wv.most_similar([word])
 """
+
