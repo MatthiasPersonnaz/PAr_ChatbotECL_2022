@@ -1,318 +1,44 @@
-['\n', "L'", 'obligation', 'mobilité', 'inscrite', 'règlement', 'scolarité', 'valable', 'contexte', 'actuel']
+['Le', 'Règlement', 'scolarité', 'présente', 'modalités', 'admission', 'École', 'Centrale', 'Lyon', 'objectifs', 'modalités', 'évaluation', 'connaissances', 'compétences', 'formation', 'ingénieur', 'modalités', 'diversification', 'formation', 'conditions', 'obtention', 'diplômes', 'École', 'Centrale', 'Lyon', 'diplômes', 'Master', 'co-accrédités', 'diplôme', 'Ingénieur', 'Energie', 'Alternance']
 
-['Toutefois', 'difficultés', 'liées', 'crise', 'sanitaire', 'prises', 'compte', 'travers', 'dispositif', 'reconnaissancedispense', 'mobilité', 'outil', 'existant', 'ECL']
+['Le', 'présent', 'Règlement', 'Scolarité', 'concerne', 'exclusivement', 'formation', 'initiale', 'Ingénieur', 'Généraliste', 'délivrée', 'élèves', 'ingénieurs', 'étudiants', 'auditeurs', 'École', 'Tout', 'élève', 'auditeur', 'École', 'Centrale', 'Lyon', 'conformer', 'Règlement', 'Scolarité']
 
-['La', 'prise', 'décision', 'relève', 'direction', 'études', 'adjoint', 'commission', 'regroupant', 'directeurs', 'adjoints', 'études', 'directeur', 'relations', 'internationales', 'responsable', 'scolarité', 'VP', 'étudiant', 'CE']
+['De', 'École', 'Centrale', 'Lyon', 'constituant', 'communauté', 'élève', 'auditeur', 'respecter', 'règles', 'élémentaires', 'vie', 'société', 'respect', 'statut', 'respect', 'locaux', 'matériels', '..']
 
-['Les', 'élèves', 'souhaitant', 'expérience', 'mobilité', 'partielle', 'reconnue', 'obtenir', 'dispense', 'mobilité', 'constituer', 'dossier', 'indiqué', 'page', 'intranet']
+['Enfin', 'formation', 'École', 'Centrale', 'Lyon', 'destinant', 'élèves', 'postes', 'ingénieur', 'hautement', 'qualifié', 'élèves', 'faire', 'preuve', 'professionnalisme', 'ponctualité', 'participation', 'active', 'activités', 'formation', 'respect', 'engagements', 'pris', 'respect', 'chartes', 'informatique', 'anti-plagiat', 'respect', 'clauses', 'confidentialité']
 
-['Les', 'demandes', 'transmises', 'service', 'scolarité']
+['Le', 'Règlement', 'Scolarité', 'établi', 'conditions', 'limites', 'fixées', 'décret', '92', '378', '1er', 'avril', '1992', 'relatif', 'École', 'Centrale', 'Lyon']
 
-['Mobilité', ' ', 'distance', '\n', 'Il', 'été', 'indiqué', 'début', 'avril', 'stage', 'mobilité', 'académique', 'effectués', 'contexte', 'actuel', 'totalement', 'distance', 'France', 'éligible', 'reconnaissance', 'mobilité', 'dépôt', 'dossier', 'commission', 'mobilité']
+['Il', 'approuvé', 'Conseil', 'Administration', 'École', 'consultation', 'Conseil', 'Etudes']
 
-['On', 'demande', 'élèves', 'concernés', 'insérer', 'éléments', 'analyse', 'expérience', 'travail', 'contexte', 'international', 'distance']
+['Les', 'modalités', 'pratiques', 'application', 'découlent', 'regroupées', 'Annexes', 'pouvant', 'révisées', 'annuellement', 'Conseil', 'Administration', 'École', 'avis', 'Conseil', 'Etudes', 'proposition', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'Les', 'Annexes', 'document', 'partie', 'intégrale', 'Règlement', 'Scolarité']
 
-['La', 'demande', 'transmise', 'fin', 'stage', 'séjour', 'académique']
+['Le', 'Règlement', 'Scolarité', 'disponible', 'site', 'WEB', 'École', 'début', 'année', 'scolaire']
 
-['Mobilités', 'annulées', '\n\n', 'Pour', 'TFE', 'planifiés', 'étranger', 'effectués', 'raison', 'crise', 'sanitaire', 'dossiers', 'demande', 'dispense', 'mobilité', 'effectués']
+['Il', 'porté', 'connaissance', 'ensemble', 'personnels', 'École', 'intermédiaire', 'Directeurs', 'Département', 'Directeurs', 'Unité', 'Enseignement']
 
-['Pour', 'stages', 'application', 'césure', 'étranger', 'annulés', 'demande', 'effectuée', 'année', 'mobilité', 'effectuée', 'TFE']
+['Les', 'étudiants', 'admis', 'École', 'Centrale', 'Lyon', 'formation', 'ingénieur', 'préparer', 'diplôme', 'national', 'ingénieur', 'École', 'Centrale', 'Lyon', 'appelés', 'élèves']
 
-['De', 'semestres', 'années', 'échange', 'doubles', 'diplômes', 'international', 'été', 'compromis', 'crise', 'sanitaire', 'demande', 'faire', 'année', 'mobilité', 'effectuée', 'TFE']
+["L'", 'admission', '1ère', 'année', 'formation', 'ingénieur', 'effectue', 'voie', 'concours', 'commun', 'Centrale', 'Supélec', 'voie', 'admission', 'titre', 'CASTing', 'admission', 'titres', 'ingénieurs', 'commun', 'Groupe', 'Écoles', 'Centrales', 'ENIS']
 
-['Les', 'principes', 'appliquent', 'mobilités', 'raccourcies', 'raison', 'crise', 'sanitaire']
+['Le', 'nombre', 'places', 'offertes', 'concours', 'admission', 'titre', 'fixé', 'ministre', 'chargé', 'enseignement', 'supérieur', 'avis', 'Conseil', 'Administration']
 
-['Dispense', 'mobilité', 'obligatoire']
-
-['La', 'présence', 'responsables', 'associations', 'délèves', 'campus', 'proximité', 'nécessaire', 'bon', 'fonctionnement', 'qualité', 'vie', 'campus']
-
-['Une', 'demande', 'été', 'faite', 'BDE', 'quils', 'puissent', 'dispensés', 'lobligation', 'mobilité']
-
-['Ils', 'pourraient', 'actifs', 'S8', 'stage', '2A', 'intégralité', '3A.']
-
-['Une', 'liste', 'générique', 'été', 'établie', 'demande', 'dispense', 'BDE', 'président', 'vice-président', 'chargé', 'communication', 'externe', 'Trésoriers', 'BDE', 'trésorier', 'général', 'BDS', 'président', 'trésorier', 'Trésoriers', 'Bar', 'responsable', 'comptabilité', 'responsable', 'foyer', 'Association', 'ECLAIR', 'président', 'responsable', 'matériel', 'serveur', 'Laccord', 'CE', 'demandé', 'autoriser', 'dispense', 'mobilité']
-
-['Nous', 'proposons', 'année', 'président', 'BDE', 'transmette', 'liste', 'nominative', 'demande', 'dispense', 'établie', 'partir', 'liste', 'générique', 'direction', 'études', 'transmission', 'scolarité', 'président', 'jury', 'diplômant']
-
-['Mobilité', '3A', 'international', 'Explication', 'procédure', 'Constitution', 'dossier', 'candidature', 'français', 'temps', '1', 'Un', 'formulaire', 'ligne', 'comportant', 'informations', 'pouvez', 'préparer', 'amont', 'Paragraphe', 'activités', 'responsabilités', 'artistiques', 'associatives', 'sportives']
-
-['Lettre', 'motivation', 'lettre', 'choix', 'établissements', 'accueil']
-
-['Recommandant', 'langue', 'nom', 'professeur', 'langue', 'fournira', 'appréciation', 'compétences', 'linguistiques', 'nom', 'choisir', 'liste', 'déroulante', 'professeurs', 'ECL', 'Mobility', 'Online']
-
-['La', 'langue', 'sélectionnée', 'enseignement', 'cursus', 'suivrez']
-
-['A', 'priori', 'agit', 'nom', 'professeur', '1A']
-
-['Si', 'langue', 'cursus', 'langue', 'pays', 'pouvez', 'solliciter', 'professeur', 'langue', 'pays', 'transmette', 'appréciation', 'référent', 'langue', 'inclura', 'appréciation']
-
-['Par', 'exemple', 'partez', 'Italie', 'cursus', 'déroule', 'langue', 'anglaise', 'référent', 'langue', 'professeur', 'anglais']
-
-['Mais', 'pouvez', 'demander', 'professeur', 'italien', 'transmettre', 'appréciation', 'référent', 'langue']
-
-['Attention', 'langue', 'cursus', 'français', 'référent', 'langue', 'professeur', 'anglais']
-
-['Si', 'avez', 'été', 'dispensé', 'cours', 'langue', 'faudra', 'contacter', 'responsable', 'langue']
-
-['Le', 'professeur', 'langue', 'contacté', 'MobilityOnline', 'connecter', 'saisir', 'recommandation', 'conseillons', 'contacter', 'amont', 'côté', 'projet']
-
-['Recommandant', 'PCP', 'tuteur', 'PCP', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
-
-['Vous', 'devez', 'contacter', 'amont', 'informer', 'projet', 'indiquer', 'recevra', 'mail', 'saisir', 'recommandation', 'MobilityOnline']
-
-['Recommandant', 'facultatif', 'souhaitez', 'rajouter', 'recommandant', 'contacté', 'MobilityOnline', 'adresse', 'email', 'aurez', 'indiquée']
-
-['2', 'Constitution', 'complément', 'dossier', 'Mobility', 'Online', 'Un', 'unique', 'document', 'compilant', 'descriptif', 'cursus', 'envisagez', 'choix', 'établissements', 'accueil', 'joindre', 'dossier']
-
-['Fonctionnement', 'CEU', 'Avant', 'CEU', 'dossier', 'expertisé', 'correspondant', 'pays', 'déposera', 'évaluation', 'ensemble', 'projet']
-
-['Lors', 'CEU', 'membres', 'commission', 'évaluent', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
-
-['Entre', 'commission', 'étudie', 'éléments', 'ci-dessous', 'Les', 'résultats', 'académiques', 'La', 'destination', 'priorité', 'accordée', 'pays', 'universités', 'partenaires', 'compte', 'quotas', 'universités', 'demandées', 'Le', 'type', 'mobilité', 'priorité', 'donnée', 'cursus', 'déroulent', 'cadre', 'accord', 'échange', 'ECL']
-
-['Le', 'dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demandée', 'domaine', 'envisagé', 'motivation', 'niveau', 'langue']
-
-['Tous', 'dossiers', 'forcément', 'retenus']
-
-['Une', 'réponse', 'positive', 'CEU', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'été', 'validé', 'reporter', 'décision', 'indiquée', 'document']
-
-['Une', 'fois', 'réponse', 'positive', 'CEU', 'reçue', 'e-mail', 'avez', '5', 'jours', 'confirmer', 'renoncer', 'intention', 'partir']
-
-['Au', '5', 'jours', 'réponse', 'part', 'considérerons', 'renoncez', 'mobilité']
-
-['Pour', 'confirmer', 'signerez', 'fiche', 'engagement', 'partir']
-
-['Si', 'tard', 'annulez', 'mobilité', 'serez', 'prioritaire', 'affectations', 'options', 'métiers', '3ème', 'année', 'ECL', 'situation', 'communiquée', 'jury', 'diplômant']
-
-['Choix', 'établissements', 'accueil', 'Pour', 'constitution', 'dossier', 'avez', 'maximum', 'choix']
-
-['Choix', '1', 'Partenaire', 'Choix', '2', 'Partenaire', 'Si', 'CEU', 'considère', 'qualité', 'dossier', 'suffisamment', 'bonne', 'postuler', 'universités', 'autoriser', 'candidater', 'choix']
-
-['Choix', '1', 'Partenaire', 'Choix', '2', 'Hors', 'Partenariat', 'Vous', 'serez', 'autorisé', 'postuler', 'partenaire']
-
-['La', 'CEU', 'décidera', 'qualité', 'dossier', 'nombre', 'places', 'disponibles']
-
-['Choix', '1', 'Hors', 'Partenariat', 'Choix', '2', 'Partenaire', 'Le', 'partenaire', 'restera', 'privilégié', 'serez', 'facilement', 'basculé', 'choix', 'partenariat', 'université', 'partenaire', 'demandée', 'réserve', 'qualité', 'dossier']
-
-['Choix', '1', 'Hors', 'Partenariat', 'Choix', '2', 'Hors', 'Partenariat', 'Le', 'partenaire', 'privilégié']
-
-["L'", 'autorisation', 'candidater', 'partenaire', 'dépendra', 'qualité', 'dossier', 'nombre', 'places', 'disponibles']
-
-['Quelques', 'infos', 'conseils', 'Même', 'Mobility', 'Online', 'pouvez', 'ores-et-déjà', 'commencer', 'préparer', 'dossier', 'texte', 'lettre', 'motivation', 'paragraphe', 'activités', 'responsabilités', 'descriptif', 'cursus', 'envisagés', 'sorte', 'ayez', 'faire', 'copier', 'coller', 'moment', 'venu']
-
-['Vérifiez', 'l', 'ors', 'ouverture', 'campagne', 'saisie', 'établissement', 'souhaitez', 'postuler', 'existe', 'bien', 'base', 'formulaire', 'candidature']
-
-['Si', 'cas', 'faudra', 'créé', 'service', 'Relations', 'Internationales', 'avez', 'main']
-
-['Cela', 'immédiat', 'vérifiez', 'bien', 'attendez', 'dernière', 'minute', ' ', 'Dans', 'cas', 'uniquement', 'cas', 'envoyez', 'mail', 'informations', 'établissement', 'driec', 'lyon.fr']
-
-['Compte', 'tenu', 'situation', 'sanitaire', 'actuelle', 'imprévisibilité', 'évolution', 'conseillons', 'porter', 'choix', 'université', 'européenne']
-
-['La', 'partie', 'dossier', 'fois', 'devez', 'aller', 'bout', 'processus', 'enregistré', 'base']
-
-['Si', 'quittez', 'page', 'valider', 'devrez', 'recommencer', 'procédure']
-
-['Après', 'validé', 'recevrez', 'mail', 'confirmation', 'adresse', 'centralienne']
-
-['Vos', 'notes', 'récupérées', 'Scolarité', 'fois', 'candidature', 'mises', 'jour', 'veille', 'CEU']
-
-['Plusieurs', 'acteurs', 'sollicités', 'impliquent', 'constitution', 'dossier']
-
-['Nous', 'invitons', 'entrer', 'contact', 'aussitôt']
-
-['Enfin', 'déposez', 'dossier', 'dernier', 'moment', ' ', 'Annexe', 'Responsables', 'langues', 'Langue', 'Responsable', 'Allemand', 'Waltraut', 'WUNDER', 'Anglais', 'Alain', 'DOUGNAC', 'Arabe', 'Florence', 'MILON', 'Chinois', 'Cheng', 'SUN', 'Espagnol', 'Nathalie', 'PASTOR', 'Italien', 'Giannetto', 'FRANCESCO', 'Japonais', 'Mariko', 'AKUTSU', 'Portugais', 'Florence', 'MILON', 'Russe', 'Florence', 'MILONMobilité', 'césure', 'choix', 'post-2A', 'Année', '2021', '2022', 'Calendrier', 'inscription', 'post-2A', '2022', '2023', 'Supports', 'AG', '13', 'décembre', '2021', 'Après', '2A', ' ', 'Supports', 'AG', '26', 'janvier', '2022', 'Inscription', '3A', 'Supports', 'AG', 'Césure', 'xx', 'février', '2022', 'Mobilité', 'international', 'dispense', 'mobilité', 'post-TFE', 'Césure', '3A', 'Ecole', 'Centrale', 'ENTPE', 'ENISE', '3A', 'EM', 'Lyon', 'Double', 'diplôme', 'EM', 'Lyon', 'Double', 'diplôme', 'ENS', 'Lyon', 'Double', 'diplôme', 'ENSAE', '3A', 'contrat', 'professionnalisation', 'NB', 'descriptifs', 'double-diplômes', 'France', 'disponibles', 'rubrique', 'Double-Diplômes', 'intranet']
-
-['Mobilité', 'international', 'dispense', 'mobilité', 'post-TFE', 'Supports', 'présentation', '1', 'juin', '2021', 'Mobilité', 'international', 'processus', 'Supports', 'présentation', '2', 'juin', '2020', 'Mobilité', 'choix', '2A', 'Entrants', '2017', 'Le', 'séjour', 'étranger', '3', 'mois', 'minimum', 'obligatoire', 'scolarité']
-
-['Le', 'document', 'ci-dessous', 'explique', 'modalités', 'déroulement', 'validation']
-
-['Le', 'séjour', 'international']
-
-['Entrants', '2018', 'Le', 'conseil', 'études', '18', 'mai', '2018', 'conseil', 'administration', '28', 'juin', '2018', 'voté', 'allongement', 'durée', 'minimale', 'mobilité', '5', 'mois']
-
-['Le', 'texte', 'voté', 'conseils', 'corrige', 'document', 'précédent', 'aspects', 'durée']
-
-["Lorsqu'", 'élève', 'souhaite', 'valider', 'mobilité', 'activité', 'sabbatique', 'impérativement', 'remplir', 'page', '3', 'dossier', 'césure', 'définit', 'preuves', 'réalisation', 'mission', 'élève', 'engage', 'rapporter', 'issue']
-
-['Ce', 'formulaire', 'normalement', 'rempli', 'dépot', 'dossier', 'césure', 'envoyé', 'tard', 'projet', 'mieux', 'défini']
-
-['A', 'renvoyer', 'service', 'scolarité', 'Le', 'conseil', 'Etudes', 'décidé', 'situations', 'pouvaient', 'conduire', 'dispense', 'obligation', 'mobilité']
-
-['Cette', 'disposition', 'concerne', 'élèves', 'élèves', 'élus', 'Conseil', 'Administration', 'Vice-Président', 'élève', 'Conseil', 'Etudes', 'élèves', 'occupant', 'postes', 'responsabilités', 'associatives', 'proposition', 'président', 'Bureau', 'Des', 'Elèves', 'élèves', 'admis', 'concours', 'expérience', 'académique', 'significative', 'international', 'admission', 'Ecole', 'centrale', 'Lyon', 'élèves', 'admis', 'concours', 'suivent', 'cursus', 'ENSAL', 'élèves', 'admis', 'ENSAL', 'suivent', 'cursus', 'ingénieur', 'ECL', 'élèves', 'raison', 'force', 'majeure', 'empêché', 'départ', 'planifié']
-
-['Le', 'CE', 'recommande', 'toutefois', 'mobilité', 'élèves', 'dispensés']
-
-['En', 'raison', 'crise', 'sanitaire', 'aménagements', 'reconnaissance', 'mobilité', 'prévus']
-
-['Le', 'document', 'diffusé', 'juillet', '2020', 'précise', 'cadre']
-
-['Les', 'demandes', 'dispense', 'reconnaissance', 'effectuées', 'dépôt', 'formulaire', 'rempli', 'auprès', 'Mme', 'Moragues', '1er', 'mars', 'année', '3A.']
-
-['La', 'décision', 'prise', 'commission', 'Mobilité', 'réunit', 'mois', 'élève', 'averti', 'semaines', 'suivent', 'réunion']
-
-['Tout', 'élève', 'séjour', 'international', 'cadre', 'cursus', 'ECL', 'référer', 'Fiche', 'sécurité', 'séjour', 'étranger', 'lire', 'respecter', 'consignes', 'indiquées', 'séjour', 'étranger']
-
-['La', 'validation', 'mobilité', 'fin', 'scolarité', 'respecter', 'conditions', 'document', 'explicatif', 'Documents', 'service', 'relations', 'internationales', 'Voici', 'lien', 'documents']
-
-['Retour', 'haut', 'page', 'Césure', 'Les', 'modalités', 'césure', 'La', 'césure', 'existe', 'uniquement', 'forme', 'dune', 'année', 'pleine', '1er', 'septembre', 'année', 'N', '31', 'août', 'année', 'N1']
-
-['Tout', 'élève', 'inscrit', 'formation', 'initiale', 'statut', 'étudiant', 'faire', 'demande']
-
-['Il', 'remplit', 'dossier', 'demande', 'disponible', 'intranet', 'précise', 'projet', 'personnel', 'professionnel', 'période']
-
-['Il', 'indique', 'démarches', 'entreprises', 'plan', 'financement', 'réalisation', 'projet']
-
-['Le', 'calendrier', 'processus', 'publié', 'site', 'intranet', 'lécole']
-
-['La', 'commission', 'césure', 'examine', 'dossiers', 'recommandations', 'émet', 'avis', 'destination', 'directeur', 'lécole']
-
-['Le', 'départ', 'césure', 'conditionné', 'décision', 'jury', 'prononce', 'poursuite', 'cursus', 'létudiant']
-
-['En', 'cas', 'redoublement', 'prononcé', 'jury', 'prioritaire']
-
-['Le', 'directeur', 'lécole', 'prend', 'finalement', 'décision', 'dautoriser', 'non', 'césure']
-
-['En', 'cas', 'dacceptation', 'lannée', 'césure', 'convention', 'signée', 'lécole', 'directeur', 'létudiant']
-
-['Linscription', 'césure', 'deffectuer', 'stage', 'convention', 'lécole', 'élève', 'inscrit', 'certificats', 'diplôme', 'organisés', 'ECL', 'délivrent', '200h', 'formation', 'requises', 'obtention', 'convention', 'stage']
-
-['Conformément', 'règlementation', 'activité', 'effectuée', 'lannée', 'césure', 'demande', 'létudiant', 'donner', 'droit', 'dispense', 'reconnaissance', 'totale', 'partielle', 'enseignements', 'stages', 'relevant', 'cursus', 'étudiant']
-
-['Les', 'modalités', 'demande', 'validation', 'établies', 'Conseil', 'Etudes']
-
-['Pour', 'bénéficier', 'validation', 'étudiants', 'exercer', 'lannée', 'césure', 'activités', 'engagements', 'limitativement', 'énumérés', 'article', 'L.']
-
-['611', '9', 'activité', 'bénévole', 'sein', 'association', 'activité', 'professionnelle', 'activité', 'militaire', 'réserve', 'opérationnelle', 'engagement', 'sapeur', 'pompier', 'volontaire', 'engagement', 'service', 'civique', 'engagement', 'volontariat', 'armées']
-
-['La', 'fiche', 'disponible', 'ici', 'demander', 'validation', 'obligation', 'stage', 'application', 'exécution', 'mission', 'réalisée', 'césure']
-
-['Les', 'dossiers', 'césure', 'descriptions', 'certificats', 'MOODLE']
-
-['Retour', 'haut', 'page', '3A', 'Ecole', 'Centrale', 'ENTPE', 'ENISE', 'Les', 'dossiers', 'demande', '3A', 'EC', 'ENTPE', 'ENISE', 'disponibles', 'ci-dessous']
-
-['Les', 'dossiers', 'élèves', 'candidats', 'devront', 'remis', 'pièces', 'nécessaires', 'Mme', 'Guinamard', '1er', 'mars', '2022']
-
-['La', 'liste', 'pièces', 'précisée', 'dossier']
-
-['Veuillez', 'noter', 'demande', 'porter', 'parcours', 'formation', 'relation', 'projet', 'professionnel']
-
-['Dossier', 'demande', '3A', 'EC', 'indispensable', 'référer', 'tableau', 'Options', 'Métiers', 'GEC', 'remplir', 'dossier', 'candidature', 'Dossier', 'demande', '3A', 'ENTPE', 'Dossier', 'demande', '3A', 'ENISE']
-
-['NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partagé', 'Tutorat']
-
-['Retour', 'haut', 'page', '3A', 'Ecole', 'Management', 'Lyon', 'Les', 'candidatures', '3A', 'Ecole', 'Management', 'Lyon', '2022', '2023', 'approuvées', 'ECL', 'EML']
-
-['Les', 'informations', 'disponibles', 'MOODLE']
-
-['Les', 'dossiers', 'élèves', 'candidats', 'devront', 'remis', 'pièces', 'nécessaires', 'Mme', 'Guinamard', '7', 'janvier', '2022']
-
-['La', 'liste', 'pièces', 'précisée', 'dossier']
-
-['Dossier', 'demande', '3ème', 'année', 'échange', 'EML', 'NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partagé', 'Tutorat']
-
-['Pour', 'renseignement', 'complémentaire', 'contacter', 'Mme', 'Sylvie', 'MIRA', 'BONNARDEL', 'responsable', 'ECL', 'échange', 'ECL', 'EML', 'Retour', 'haut', 'page', 'Double', 'Diplôme', 'Ecole', 'Management', 'Lyon', 'Le', 'dossier', 'ECL', 'demande', 'Double', 'Diplôme', 'Ecole', 'Management', 'Lyon', '2022', '2024', 'disponible', 'ci-dessous']
-
-['Les', 'dossiers', 'élèves', 'candidats', 'devront', 'remis', 'pièces', 'nécessaires', 'Mme', 'Guinamard', '1er', 'mars', '2022']
-
-['La', 'liste', 'pièces', 'précisée', 'dossier']
-
-['Dossier', 'demande', 'Double', 'Diplôme', 'EML', 'NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partagé', 'Tutorat']
-
-['Le', 'site', 'inscriptions', 'EML', 'janvier', 'février']
-
-['Retour', 'haut', 'page', 'Double', 'Diplôme', 'Ecole', 'Normale', 'Supérieure', 'Lyon', 'Les', 'volets', 'dossier', 'ECL', 'demande', 'DD', 'ENSL', '2022', '2024', 'disponibles', 'ci-dessous']
-
-['Le', 'volet', 'remis', 'Mme', 'Guinamard', 'scolarité', 'tard', '6', 'janvier', '2022']
-
-['Le', '2ème', 'volet', 'remis', 'pièces', 'nécessaires', 'Mme', 'Guinamard', '1er', 'mars', '2022']
-
-['La', 'liste', 'pièces', 'précisée', 'dossier']
-
-['Dossier', 'demande', 'Double', 'Diplôme', 'ENSL', 'Volet', '1', 'Prévenir', 'responsable', 'cours', 'ENS', 'janvier', 'jerome.calvetens-lyon.fr', 'Dossier', 'demande', 'Double', 'Diplôme', 'ENSL', 'Volet', '2', 'NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partagé', 'Tutorat']
-
-['Retour', 'haut', 'page', 'Double-Diplôme', 'ENSAE', 'Le', 'dossier', 'ECL', 'demande', 'Double', 'Diplôme', 'Ecole', 'Nationale', 'Statistique', 'Administration', 'Economique', '2022', '2024', 'disponible', 'ci-dessous']
-
-['Les', 'dossiers', 'élèves', 'candidats', 'devront', 'remis', 'pièces', 'nécessaires', 'Mme', 'Guinamard', '1er', 'mars', '2022']
-
-['La', 'liste', 'pièces', 'précisée', 'dossier']
-
-['Dossier', 'demande', 'Double', 'Diplôme', 'ENSAE', 'NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partagé', 'Tutorat']
-
-['Retour', 'haut', 'page', 'Contrat', 'professionnalisation', 'Une', 'voie', 'obtention', 'diplôme', 'ingénieur', 'ECL', 'proposée', 'élèves', 'ingénieurs', 'issue', 'année', 'agit', 'contrat', 'professionnalisation']
-
-['Pour', 'renseignement', 'allez', 'page', 'Contrat', 'PRO', '\n', 'Mobilité', 'international', 'projet', 'réfléchit', 'mûrit', '\n\n\n\n', 'Avant', 'déposer', 'demande', 'assurez', '-vous', 'projet', 'réaliste', 'cohérent', 'concerté', 'autorisé', 'cadre', 'accords', 'échange']
-
-['Nous', 'invitons', 'bien', 'consulter', 'rubrique', 'Dans', 'cadre', 'partir', '\n\n\n', 'Le', 'dossier', 'constituer', 'français', '\n\n    ', 'Paragraphe', 'activités', 'responsabilités', 'artistiques', 'associatives', 'sportives', '1000', 'caractères', 'maximum']
-
-['Lettre', 'motivation', 'lettre', 'choix', 'établissements', 'accueil', '3000', 'caractères', 'maximum']
-
-['Recommandant', 'PCP', 'tuteur', 'PCP', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
-
-['Recommandant', 'langue', 'nom', 'professeur', 'langue', 'fournira', 'appréciation', 'compétences', 'linguistiques', 'nom', 'choisir', 'liste', 'déroulante', 'professeurs', 'École', 'Centrale', 'Mobility', 'Online']
-
-['Recommandant', 'facultatif', 'souhaitez', 'rajouter', 'recommandant', 'École', 'Centrale', 'extérieur']
-
-['Il', 'contacté', 'MobilityOnline', 'adresse', 'email', 'aurez', 'indiquée']
-
-['Un', 'unique', 'document', 'compilant', 'descriptif', 'cursus', 'envisagez', 'choix', 'établissements', 'accueil', 'joindre', 'dossier', 'descriptif', 'master', 'agit', 'Msc', 'exemple', 'plan', 'études', 'cours', 'suivis', 'durée']
-
-['Ne', 'préparez', 'dossier', 'dernier', 'moment', 'élements', 'préparés', 'amont', '\n', 'Fonctionnement', 'Commission', 'Échanges', 'Universitaires', 'CEU', '\n', 'Avant', 'CEU', 'dossier', 'expertisé', 'correspondant', 'pays', 'dépose', 'évaluation', 'ensemble', 'projet']
-
-['Lors', 'CEU', 'membres', 'commission', 'évaluent', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
-
-['Entre', 'commission', 'étudie', 'éléments', 'ci-dessous', '\n\n    ', 'Les', 'résultats', 'académiques', '\n    ', 'La', 'destination', 'priorité', 'accordée', 'pays', 'universités', 'partenaires', 'compte', 'quotas', 'universités', 'demandées', '\n    ', 'Le', 'type', 'mobilité', 'priorité', 'donnée', 'cursus', 'déroulent', 'cadre', 'accord', 'échange', 'École', 'Centrale', 'Lyon']
-
-['Le', 'dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demandée', 'domaine', 'envisagé', 'motivation', 'niveau', 'langue']
-
-['Tous', 'dossiers', 'forcément', 'retenus']
-
-['Une', 'réponse', 'positive', 'CEU', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'été', 'validé', 'reporter', 'décision', 'indiquée', 'document']
-
-['Une', 'fois', 'réponse', 'positive', 'CEU', 'reçue', 'e-mail', 'avez', '5', 'jours', 'confirmer', 'renoncer', 'intention', 'partir']
-
-['Au', '5', 'jours', 'réponse', 'part', 'considérerons', 'renoncez', 'mobilité']
-
-['Pour', 'confirmer', 'signerez', 'fiche', 'engagement', 'partir']
-
-['Si', 'tard', 'annulez', 'mobilité', 'raison', 'valable', 'serez', 'prioritaire', 'affectations', 'options', 'métiers', '3e', 'année', 'École', 'Centrale', 'situation', 'communiquée', 'jury', 'diplômant']
-
-['Règlement', 'Scolarité', 'Cursus', 'Ingénieur', 'Généraliste', '\n', 'Modalités', 'pratiques', 'application', '\n\n\n\n', 'Le', 'Règlement', 'scolarité', 'présente', 'modalités', 'admission', 'Ecole', 'Centrale', 'Lyon', 'objectifs', 'modalités', 'évaluation', 'connaissances', 'compétences', 'formation', 'ingénieur', 'modalités', 'diversification', 'formation', 'conditions', 'obtention', 'diplômes', 'Ecole', 'Centrale', 'Lyon', 'diplômes', 'Master', 'co-accrédités', 'diplôme', 'Ingénieur', 'Energie', 'Alternance']
-
-['Le', 'présent', 'Règlement', 'Scolarité', 'concerne', 'exclusivement', 'formation', 'initiale', 'Ingénieur', 'Généraliste', 'délivrée', 'élèves', 'ingénieurs', 'étudiants', 'auditeurs', 'Ecole', ' ', 'Tout', 'élève', 'auditeur', 'Ecole', 'Centrale', 'Lyon', 'conformer', 'Règlement', 'Scolarité']
-
-['De', 'Ecole', 'Centrale', 'Lyon', 'constituant', 'communauté', 'élève', 'auditeur', 'respecter', 'règles', 'élémentaires', 'vie', 'société', 'respect', 'statut', 'respect', 'locaux', 'matériels', 'etc.']
-
-['Enfin', 'formation', 'Ecole', 'Centrale', 'Lyon', 'destinant', 'élèves', 'postes', 'ingénieur', 'hautement', 'qualifié', 'élèves', 'faire', 'preuve', 'professionnalisme', 'ponctualité', 'participation', 'active', 'activités', 'formation', 'respect', 'engagements', 'pris', 'respect', 'chartes', 'informatique', 'anti-plagiat', 'respect', 'clauses', 'confidentialité', ' ', 'Le', 'Règlement', 'Scolarité', 'établi', 'conditions', 'limites', 'fixées', 'décret', '92', '378', '1er', 'avril', '1992', 'relatif', 'Ecole', 'Centrale', 'Lyon']
-
-['Il', 'approuvé', 'Conseil', 'Administration', 'Ecole', 'consultation', 'Conseil', 'Etudes']
-
-['Les', 'modalités', 'pratiques', 'application', 'découlent', 'regroupées', 'Annexes', 'pouvant', 'révisées', 'annuellement', 'Conseil', 'Administration', 'Ecole', 'avis', 'Conseil', 'Etudes', 'proposition', 'Commission', 'Evolution', 'Règlement', 'Scolarité', ' ', 'Les', 'Annexes', 'document', 'partie', 'intégrale', 'Règlement', 'Scolarité', ' ', 'Le', 'Règlement', 'Scolarité', 'disponible', 'site', 'WEB', 'lEcole', 'dé-', '\n', 'but', 'lannée', 'scolaire']
-
-['Il', 'porté', 'connaissance', 'lensemble', 'personnels', 'lEcole', 'lintermédiaire', 'Directeurs', 'Département', 'Directeurs', 'dUnité', 'dEnseignement']
-
-['Article', '1', 'Admission', 'lEcole', 'Centrale', 'Lyon', '\n\n', 'Les', 'étudiants', 'admis', 'Ecole', 'Centrale', 'Lyon', 'formation', 'ingénieur', 'préparer', 'diplôme', '\n', 'national', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'appelés', ' ', 'élèves']
-
-["L'", 'admission', '1ère', 'année', 'formation', 'ingénieur', 'effectue', 'voie', 'concours', 'commun', ' ', 'Centrale', 'Supélec', ' ', 'voie', 'admission', 'titre', ' ', 'CASTing', 'admission', 'titres', 'ingénieurs', 'commun', 'Groupe', 'Ecoles', 'Centrales', ' ', 'ENIS']
-
-['Le', 'nombre', 'places', 'offertes', 'concours', '\n', 'ladmission', 'titre', 'fixé', 'ministre', 'chargé', 'lenseignement', 'supérieur', 'avis', 'Conseil', 'dAdministration']
-
-['Les', 'élèves', 'admis', 'voies', 'appelés', ' ', 'élèves', 'admis', 'concours', 'titres']
+['Les', 'élèves', 'admis', 'voies', 'appelés', 'élèves', 'admis', 'concours', 'titres']
 
 ['Dans', 'cadre', 'formations', 'double', 'diplômantes', 'admissions', 'titres', 'proposées', 'année', 'seconde', 'année', 'Commission', 'Echanges', 'Universitaires', 'définie', 'Annexe']
 
 ['Des', 'étudiants', 'provenance', 'universités', 'étrangères', 'établissements', 'français', 'accueillis', '3e', 'année', 'formation', 'conduisant', 'diplôme', 'ingénieur']
 
-['Le', 'recrutement', 'étudiants', 'prononcé', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires', 'procédures', 'prévues', 'conventions', 'passées', 'établissements', 'français']
+['Le', 'recrutement', 'étudiants', 'prononcé', 'Directeur', 'École', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires', 'procédures', 'prévues', 'conventions', 'passées', 'établissements', 'français']
 
-['Les', 'élèves', 'admis', 'Ecole', 'Centrale', 'Lyon', 'cadre', 'formations', 'double', 'diplômantes', 'appelés', ' ', 'élèves', 'admis', 'double', 'diplôme']
+['Les', 'élèves', 'admis', 'École', 'Centrale', 'Lyon', 'cadre', 'formations', 'double', 'diplômantes', 'appelés', 'élèves', 'admis', 'double', 'diplôme']
 
-['Les', 'étudiants', 'accueillis', 'Ecole', 'Centrale', 'Lyon', 'enseignements', 'formation', 'ingénieur', 'École', 'Centrale', 'Lyon', 'préparer', 'diplôme', 'ingénieur', 'appelés', ' ', 'auditeurs']
+['Les', 'étudiants', 'accueillis', 'École', 'Centrale', 'Lyon', 'enseignements', 'formation', 'ingénieur', 'École', 'Centrale', 'Lyon', 'préparer', 'diplôme', 'ingénieur', 'appelés', 'auditeurs']
 
-['Article', '2', 'Inscription', 'Ecole', 'Centrale', 'Lyon', '\n\n', 'Les', 'élèves', 'auditeurs', 'effectivement', 'inscrits', 'Ecole', 'Centrale', 'Lyon', "lorsqu'", 'effectué']
+['Les', 'élèves', 'auditeurs', 'effectivement', 'inscrits', 'École', 'Centrale', 'Lyon', "lorsqu'", 'effectué']
 
 ['Pour', 'élèves', 'signé', 'contrat', 'professionnalisation', 'inscription', 'uniquement', 'pédagogiques', 'règlement', 'Droits', 'Universitaires', 'réglementaires']
 
-['Ils', 'produit', 'jour', 'rentrée', 'dossier', 'personnel', 'composition', 'définie', 'Directeur', 'Ecole', 'Centrale', 'Lyon']
+['Ils', 'produit', 'jour', 'rentrée', 'dossier', 'personnel', 'composition', 'définie', 'Directeur', 'École', 'Centrale', 'Lyon']
 
 ['Il', 'imposé', 'souscrire', 'assurance', 'Responsabilité', 'Civile']
 
@@ -322,17 +48,17 @@
 
 ['Ils', 'lu', 'approuvé', 'signé', 'chartes', 'informatique', 'anti-plagiat']
 
-['Article', '3', 'Scolarité', 'Ecole', 'Centrale', 'Lyon', '\n\n', 'La', 'formation', 'ingénieur', 'déroule', 'années', 'découpées', 'semestres', 'notés', 'S5', 'S10', 'premiers', 'semestres', 'stages', 'constituant', 'parcours', 'appelé', 'Tronc', 'Commun', 'semestres', 'constituant', 'stage', 'parcours', 'appelé', 'Parcours', 'Electif', 'dernier', 'semestre', 'correspondant', 'stage', 'appelé', 'Travail', 'Fin', 'Etudes', 'Un', 'stage', 'période', 'formation', 'déroule', 'milieu', 'professionnel', 'France', 'étranger', 'contrôle', 'Ecole', 'convention', 'stage', 'contrat', 'embauche']
+['La', 'formation', 'ingénieur', 'déroule', 'années', 'découpées', 'semestres', 'notés', 'S5', 'S10', 'premiers', 'semestres', 'stages', 'constituant', 'parcours', 'appelé', 'Tronc', 'Commun', 'semestres', 'constituant', 'stage', 'parcours', 'appelé', 'Parcours', 'Electif', 'dernier', 'semestre', 'correspondant', 'stage', 'appelé', 'Travail', 'Fin', 'Etudes', 'Un', 'stage', 'période', 'formation', 'déroule', 'milieu', 'professionnel', 'France', 'étranger', 'contrôle', 'École', 'convention', 'stage', 'contrat', 'embauche']
 
-['Le', 'Parcours', 'Electif', 'défini', 'choix', 'Option', 'Métier', 'décidé', 'Commission', 'Parcours', 'Electif', 'modalités', 'présentées', 'Annexe', ' ', 'Personnalisation', 'cursus', 'ingénieur']
+['Le', 'Parcours', 'Electif', 'défini', 'choix', 'Option', 'Métier', 'décidé', 'Commission', 'Parcours', 'Electif', 'modalités', 'présentées', 'Annexe', 'Personnalisation', 'cursus', 'ingénieur']
 
-['Le', 'Parcours', 'Electif', 'dautre', 'part', 'aménagé', 'effectuer', 'partie', 'parcours', 'universités', 'étrangères']
+['Le', 'Parcours', 'Electif', 'part', 'aménagé', 'effectuer', 'partie', 'parcours', 'universités', 'étrangères']
 
-['La', 'formation', 'aménagée', 'effectuer', 'double', 'diplôme', 'voir', 'lArticle', '15']
+['La', 'formation', 'aménagée', 'effectuer', 'double', 'diplôme', 'voir', 'Article', '15']
 
-['La', 'formation', 'dispensée', 'lEcole', 'Centrale', 'Lyon', 'élèves', 'double', 'diplôme', 'consiste', 'Tronc', 'Commun', 'Etendu', 'Tronc', 'Commun', ' ', 'S8', 'Parcours', 'Electif', 'Etendu', 'S7', 'S7', 'dintégration', ' ', 'Parcours', 'Electif', 'Parcours', 'Electif', 'Réduit', 'S9']
+['La', 'formation', 'dispensée', 'École', 'Centrale', 'Lyon', 'élèves', 'double', 'diplôme', 'consiste', 'Tronc', 'Commun', 'Etendu', 'Tronc', 'Commun', 'S8', 'Parcours', 'Electif', 'Etendu', 'S7', 'S7', 'intégration', 'Parcours', 'Electif', 'Parcours', 'Electif', 'Réduit', 'S9']
 
-['Les', 'variantes', 'cursus', 'ingénieur', 'présentées', 'section', 'lAnnexe', 'A', ' ', 'Personnalisation', 'cursus', 'ingénieur']
+['Les', 'variantes', 'cursus', 'ingénieur', 'présentées', 'section', 'Annexe', 'A', 'Personnalisation', 'cursus', 'ingénieur']
 
 ['Dans', 'semestre', 'déroulent', 'Unités', 'Enseignement', 'sein', 'activités', 'pédagogiques', 'regroupées', 'Actions', 'Formation']
 
@@ -342,7 +68,7 @@
 
 ['De', 'générale', 'participation', 'active', 'élèves', 'activités', 'Actions', 'Formation', 'primordiale']
 
-['Le', 'programme', 'pédagogique', 'parcours', 'formation', 'ingénieur', 'approuvé', 'Conseil', 'Administration', 'proposition', 'Directeur', 'Ecole', 'avis', 'Conseil', 'Etudes']
+['Le', 'programme', 'pédagogique', 'parcours', 'formation', 'ingénieur', 'approuvé', 'Conseil', 'Administration', 'proposition', 'Directeur', 'École', 'avis', 'Conseil', 'Etudes']
 
 ['Il', 'définit', 'ensemble', 'activités', 'Action', 'Formation', 'présenté', 'fascicule', 'pédagogique']
 
@@ -354,129 +80,153 @@
 
 ['Toute', 'absence', 'signalée', 'élève', 'Service', 'Scolarité', 'tôt', 'tard', 'jours', 'ouvrables', 'suivent', 'jour', 'absence']
 
-['Seules', 'autorisées', 'absences', 'raisons', 'force', 'majeure', 'convocations', 'émanant', 'autorités', 'administratives', 'motifs', 'précisés', 'Annexe', ' ', 'Autorisations', 'dabsences']
+['Seules', 'autorisées', 'absences', 'raisons', 'force', 'majeure', 'convocations', 'émanant', 'autorités', 'administratives', 'motifs', 'précisés', 'Annexe', 'Autorisations', 'absences']
 
-['Les', 'justificatifs', 'impérativement', 'four-', '\n', 'nis', 'Service', 'Scolarité', 'déclaration', 'dabsence']
+['Les', 'justificatifs', 'impérativement', 'four-', 'nis', 'Service', 'Scolarité', 'déclaration', 'absence']
 
-['Enfin', 'manque', 'ponctualité', 'frein', 'bon', 'déroulement', 'activités', 'dune', 'Action', 'Formation', 'enseignants', 'participent', 'promotion', 'respect', 'ponctualité']
+['Enfin', 'manque', 'ponctualité', 'frein', 'bon', 'déroulement', 'activités', 'Action', 'Formation', 'enseignants', 'participent', 'promotion', 'respect', 'ponctualité']
 
-['Article', '4', 'Objectifs', 'évaluation', 'connaissances', 'compétences', '\n\n', 'Chaque', 'élève', 'auditeur', 'objet', 'évaluation', 'continue', 'objectif', 'estimer', 'long', 'année', 'niveau', 'atteint', 'aider', 'effectuer', 'travail', 'régulier', 'assimilation', 'renseigner', 'progression', 'faciliter', 'choix', 'orientations', 'conduit', 'effectuer']
+['Chaque', 'élève', 'auditeur', 'objet', 'évaluation', 'continue', 'objectif', 'estimer', 'long', 'année', 'niveau', 'atteint', 'aider', 'effectuer', 'travail', 'régulier', 'assimilation', 'renseigner', 'progression', 'faciliter', 'choix', 'orientations', 'conduit', 'effectuer']
 
 ['Les', 'résultats', 'semestriels', 'obtenus', 'élèves', 'auditeurs', 'consignés', 'dossier', 'individuel', 'Service', 'Scolarité']
 
-['Les', 'jurys', 'arrêtent', 'semestre', 'position', 'globale', 'élève', 'rapport', 'demipromotion', 'position', 'globale', 'élève', 'rapport', 'promotion', 'barème', 'niveaux', 'défini', 'Annexe', '  ', 'Évaluation', 'connaissances', 'compétences', 'page', '13']
+['Les', 'jurys', 'arrêtent', 'semestre', 'position', 'globale', 'élève', 'rapport', 'demipromotion', 'position', 'globale', 'élève', 'rapport', 'promotion', 'barème', 'niveaux', 'défini', 'Annexe', 'Évaluation', 'connaissances', 'compétences', 'page', '13']
 
-['Une', 'synthèse', 'résultats', 'décisions', 'Jurys', 'portées', 'connaissance', 'élèves', 'auditeurs', 'lissue', 'délibérations']
+['Une', 'synthèse', 'résultats', 'décisions', 'Jurys', 'portées', 'connaissance', 'élèves', 'auditeurs', 'issue', 'délibérations']
 
-['Ces', 'éléments', 'communicables', 'organismes', 'extérieurs', 'demande', 'écrite', 'lélève', 'lauditeur']
+['Ces', 'éléments', 'communicables', 'organismes', 'extérieurs', 'demande', 'écrite', 'élève', 'auditeur']
 
-['Article', '5', 'Organisation', 'évaluation', 'connaissances', 'compétences', '\n\n', "L'", 'évaluation', 'élèves', 'auditeurs', 'porte', 'ensemble', 'programme', 'pédagogique']
+["L'", 'évaluation', 'élèves', 'auditeurs', 'porte', 'ensemble', 'programme', 'pédagogique']
 
-["L'", 'examen', 'connaissances', 'compétences', 'ressort', 'exclusif', 'enseignants', 'personnes', 'vocation', 'enseigner', 'Ecole', 'couvert', 'Conseils', 'Unités', 'Enseignement', 'responsables', 'Parcours', 'assurent', 'cohérence']
+["L'", 'examen', 'connaissances', 'compétences', 'ressort', 'exclusif', 'enseignants', 'personnes', 'vocation', 'enseigner', 'École', 'couvert', 'Conseils', 'Unités', 'Enseignement', 'responsables', 'Parcours', 'assurent', 'cohérence']
 
 ['La', 'nature', 'modalités', 'évaluations', 'déterminées', 'enseignant', 'responsable', 'Action', 'Formation', 'collaborateurs', 'validées', 'instances', 'statutaires', 'compétentes', 'titre', 'programme', 'pédagogique']
 
 ['Elles', 'publiées', 'fascicules', 'pédagogiques']
 
-['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', '  ', 'Évaluation', 'connaissances', 'compétences']
+['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', 'Évaluation', 'connaissances', 'compétences']
 
-['Article', '6', 'Fraudes', 'Plagiats', '\n\n', 'Les', 'fraudes', 'plagiats', 'tentatives', 'fraudes', 'plagiats', 'actes', 'extrêmement', 'graves', 'sanctions', 'prévues', 'Code', 'Education', 'Livre', 'VIII', 'Titre', 'Ier', 'Section', 'Procédures', 'disciplinaires']
+['Les', 'fraudes', 'plagiats', 'tentatives', 'fraudes', 'plagiats', 'actes', 'extrêmement', 'graves', 'sanctions', 'prévues', 'Code', 'Education', 'Livre', 'VIII', 'Titre', 'Ier', 'Section', 'Procédures', 'disciplinaires']
 
 ['Les', 'sanctions', 'prévues', 'aller', "jusqu'", 'exclusion', 'définitive', 'établissement', 'public', 'enseignement', 'supérieur']
 
-['Les', 'sanctions', 'prises', 'Section', 'Disciplinaire', 'Ecole', 'Centrale', 'Lyon', 'été', 'saisie', 'Directeur', 'Ecole', 'Centrale', 'Lyon']
+['Les', 'sanctions', 'prises', 'Section', 'Disciplinaire', 'École', 'Centrale', 'Lyon', 'été', 'saisie', 'Directeur', 'École', 'Centrale', 'Lyon']
 
 ["L'", 'objectif', 'charte', 'anti-plagiat', 'sensibiliser', 'élèves', 'problème']
 
 ['Une', 'commission', 'anti-plagiat', 'instituée', 'objectif', 'réunir', 'faits', 'cas', 'présomption', 'plagiat']
 
-['Les', 'modalités', 'pratiques', 'organisation', 'sanction', 'définies', 'Annexe', ' ', 'Fraudes', 'Plagiats']
+['Les', 'modalités', 'pratiques', 'organisation', 'sanction', 'définies', 'Annexe', 'Fraudes', 'Plagiats']
 
-['Article', '7', 'Année', 'césure', 'cours', 'scolarité', '\n\n', 'Une', 'année', 'césure', 'possibilité', 'offerte', 'élèves', 'effectuer', 'année', 'supplémentaire', 'réaliser', 'projet', 'professionnel', 'personnel']
+['Une', 'année', 'césure', 'possibilité', 'offerte', 'élèves', 'effectuer', 'année', 'supplémentaire', 'réaliser', 'projet', 'professionnel', 'personnel']
 
-['Tout', 'élève', 'solliciter', 'année', 'césure', 'cours', 'scolarité', 'Ecole', 'Centrale', 'Lyon', 'conditions', 'précisées', 'Annexe', ' ', 'Année', 'césure']
+['Tout', 'élève', 'solliciter', 'année', 'césure', 'cours', 'scolarité', 'École', 'Centrale', 'Lyon', 'conditions', 'précisées', 'Annexe', 'Année', 'césure']
 
-['Article', '8', 'Mobilité', 'international', '\n\n', "L'", 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'contexte', 'exercice', 'futur', 'métier', 'ingénieur']
+["L'", 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'contexte', 'exercice', 'futur', 'métier', 'ingénieur']
 
-["L'", 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'subordonnée', 'réalisation', 'séjour', '21', 'semaines', 'minimum', 'étranger', 'formes', 'modalités', 'pratiques', 'définies', 'Annexe', ' ', 'Mobilité', 'linternational']
+["L'", 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonnée', 'réalisation', 'séjour', '21', 'semaines', 'minimum', 'étranger', 'formes', 'modalités', 'pratiques', 'définies', 'Annexe', 'Mobilité', 'international']
 
-['Article', '9', 'Scolarité', 'Ecole', 'Centrale', 'Lyon', ' \n\n\n', 'En', 'formations', 'double', 'diplômante', 'effectuées', 'étranger', 'cursus', 'ingénieur', 'personnalisé', 'effectuant', 'partie', 'scolarité', 'Ecole', 'Centrale', 'Lyon', 'modalités', 'remplaçant', 'semestres', 'complets', 'Ecole', 'Centrale', 'Lyon', 'nombre', 'semestres', 'suivis', 'établissement', 'remplaçant', 'Actions', 'Formation', 'enseignements', 'suivis', 'formation']
+['En', 'formations', 'double', 'diplômante', 'effectuées', 'étranger', 'cursus', 'ingénieur', 'personnalisé', 'effectuant', 'partie', 'scolarité', 'École', 'Centrale', 'Lyon', 'modalités', 'remplaçant', 'semestres', 'complets', 'École', 'Centrale', 'Lyon', 'nombre', 'semestres', 'suivis', 'établissement', 'remplaçant', 'Actions', 'Formation', 'enseignements', 'suivis', 'formation']
 
-['La', 'validation', 'semestres', 'complets', 'prendre', 'formes', 'exclusives', '\n', 'effectuer', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 'S8', ' ', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'Ecole', 'Centrale', 'Lyon', '  ', 'effectuer', 'semestre', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestres', 'S8', 'S9', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'Ecole', 'Centrale', 'Lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'français', 'étranger', 'partenaire', 'Ecole', 'Centrale', 'Lyon', 'remplacement', 'semestres', 'S9', 'S10', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'Ecole', 'Centrale', 'Lyon', 'effectuer', 'stage', 'final', 'cursus', 'ingénieur']
+['La', 'validation', 'semestres', 'complets', 'prendre', 'formes', 'exclusives', 'effectuer', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 'S8', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestres', 'S8', 'S9', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'français', 'étranger', 'partenaire', 'École', 'Centrale', 'Lyon', 'remplacement', 'semestres', 'S9', 'S10', 'condition', 'effectué', 'premiers', 'semestres', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'stage', 'final', 'cursus', 'ingénieur']
 
-['La', 'liste', 'élèves', 'autorisés', 'Ecole', 'effectuer', 'semestres', 'établissement', 'étranger', 'élèves', 'autorisés', 'Ecole', 'effectuer', 'semestres', 'établissement', 'arrêtées', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+['La', 'liste', 'élèves', 'autorisés', 'École', 'effectuer', 'semestres', 'établissement', 'étranger', 'élèves', 'autorisés', 'École', 'effectuer', 'semestres', 'établissement', 'arrêtées', 'Directeur', 'École', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires']
 
-['Le', 'programme', 'études', 'élève', 'établissement', 'accueil', 'décrit', 'engagement', 'écrit', 'signé', 'élève', 'approuvé', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'représentant']
+['Le', 'programme', 'études', 'élève', 'établissement', 'accueil', 'décrit', 'engagement', 'écrit', 'signé', 'élève', 'approuvé', 'Directeur', 'École', 'Centrale', 'Lyon', 'représentant']
 
 ['Ce', 'document', 'transmis', 'Jury', 'Parcours', 'Electif', 'habilité', 'valider', 'résultats', 'obtenus', 'établissement', 'accueil']
 
-['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', 'lAnnexe', ' ', 'Personnalisation', 'cursus', 'ingénieur']
+['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', 'Annexe', 'Personnalisation', 'cursus', 'ingénieur']
 
-['Le', 'remplacement', 'validation', 'Actions', 'Formation', 'Parcours', 'Electif', 'validation', 'cours', 'suivis', 'formation', 'validé', 'commission', 'aménagement', 'Parcours', 'Electif', 'définie', 'Annexe', ' ', 'Personnalisation', 'cursus', 'ingénieur', '\n', 'modalités', 'présentées', 'lAnnexe', ' ', 'Évaluation', 'connaissances', 'compétences']
+['Le', 'remplacement', 'validation', 'Actions', 'Formation', 'Parcours', 'Electif', 'validation', 'cours', 'suivis', 'formation', 'validé', 'commission', 'aménagement', 'Parcours', 'Electif', 'définie', 'Annexe', 'Personnalisation', 'cursus', 'ingénieur', 'modalités', 'présentées', 'Annexe', 'Évaluation', 'connaissances', 'compétences']
 
-['Article', '10', 'Organisation', 'scolarité', 'situation', 'handicap', '\n\n', 'Le', 'handicap', 'défini', 'article', 'L.114', 'Code', 'action', 'sociale', 'familles', ' ', 'Constitue', 'handicap', 'limitation', 'activité', 'restriction', 'participation', 'vie', 'société', 'subie', 'environnement', 'raison', 'altération', 'substantielle', 'durable', 'définitive', 'fonctions', 'physiques', 'sensorielles', 'mentales', 'cognitives', 'psychiques', 'poly', 'handicap', 'trouble', 'santé', 'invalidant']
+['Le', 'handicap', 'défini', 'article', 'L.114', 'Code', 'action', 'sociale', 'familles', 'Constitue', 'handicap', 'limitation', 'activité', 'restriction', 'participation', 'vie', 'société', 'subie', 'environnement', 'raison', 'altération', 'substantielle', 'durable', 'définitive', 'fonctions', 'physiques', 'sensorielles', 'mentales', 'cognitives', 'psychiques', 'poly', 'handicap', 'trouble', 'santé', 'invalidant']
 
-['En', 'accord', 'Décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'relatif', ' ', 'aménagements', 'examens', 'concours', 'enseignement', 'scolaire', 'enseignement', 'supérieur', 'candidats', 'présentant', 'handicap', 'élève', 'auditeur', 'situation', 'handicap', 'formation', 'ingénieur', 'aménagée', 'fonction', 'handicap', 'niveau', 'examens', 'contrôles', 'connaissances', 'compétences', 'niveau', 'déroulement', 'cursus', 'complet']
+['En', 'accord', 'Décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'relatif', 'aménagements', 'examens', 'concours', 'enseignement', 'scolaire', 'enseignement', 'supérieur', 'candidats', 'présentant', 'handicap', 'élève', 'auditeur', 'situation', 'handicap', 'formation', 'ingénieur', 'aménagée', 'fonction', 'handicap', 'niveau', 'examens', 'contrôles', 'connaissances', 'compétences', 'niveau', 'déroulement', 'cursus', 'complet']
 
-['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', ' ', 'Scolarité', 'situation', 'handicap']
+['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', 'Scolarité', 'situation', 'handicap']
 
-['Article', '11', 'Les', 'jurys', '\n\n', 'Le', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'constitue', 'année', '  ', 'Jury', 'Tronc', 'Commun', 'jury', 'promotion', 'ensemble', 'semestres', 'S5', 'S6', 'S7', '  ', 'Jury', 'Parcours', 'Electif', 'jury', 'promotion', 'ensemble', 'semestres', 'S8', 'S9', 'S10', '  ', 'Commission', 'Echanges', 'Universitaires']
+['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'constitue', 'année', 'Jury', 'Tronc', 'Commun', 'jury', 'promotion', 'ensemble', 'semestres', 'S5', 'S6', 'S7', 'Jury', 'Parcours', 'Electif', 'jury', 'promotion', 'ensemble', 'semestres', 'S8', 'S9', 'S10', 'Commission', 'Echanges', 'Universitaires']
 
-['Suite', 'indisponibilité', 'membre', 'Jury', 'Directeur', 'Ecole', 'désigne', 'remplaçant']
+['Suite', 'indisponibilité', 'membre', 'Jury', 'Directeur', 'École', 'désigne', 'remplaçant']
 
-['Les', 'Annexe', ' ', 'Personnalisation', 'cursus', 'ingénieur', 'Annexe', 'J', ' ', 'Fonctionnement', 'Jurys', ' ', 'précisent', 'règles', 'modalités', 'pratiques', 'fonctionnement', 'relatives', 'instances']
+['Les', 'Annexe', 'Personnalisation', 'cursus', 'ingénieur', 'Annexe', 'J', 'Fonctionnement', 'Jurys', 'précisent', 'règles', 'modalités', 'pratiques', 'fonctionnement', 'relatives', 'instances']
 
-['Article', '12', 'Validation', 'Tronc', 'Commun', 'Parcours', 'Electif', ' \n\n', 'La', 'validation', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'décidée', 'Jury', 'Tronc', 'Commun', 'promotion', 'concernée']
+['La', 'validation', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'décidée', 'Jury', 'Tronc', 'Commun', 'promotion', 'concernée']
 
-['Les', 'éloges', 'avertissements', 'mesures', 'prononcés', 'souverainement', 'Jurys', 'définis', 'Annexe', ' ', 'Fonctionnement', 'Jurys']
+['Les', 'éloges', 'avertissements', 'mesures', 'prononcés', 'souverainement', 'Jurys', 'définis', 'Annexe', 'Fonctionnement', 'Jurys']
 
-['Article', '13', 'Redoublement', '\n\n', 'Le', 'redoublement', 'autorisé', 'fois', 'cours', 'scolarité', 'cas', 'redoublement', 'raison', 'médicale']
+['Le', 'redoublement', 'autorisé', 'fois', 'cours', 'scolarité', 'cas', 'redoublement', 'raison', 'médicale']
 
-['Les', 'jurys', 'décident', 'redoublement', 'effectué', 'Ecole', 'Centrale', 'Lyon', 'titre', 'exceptionnel', 'Ecoles', 'Centrales', 'Intergroupe']
+['Les', 'jurys', 'décident', 'redoublement', 'effectué', 'École', 'Centrale', 'Lyon', 'titre', 'exceptionnel', 'Écoles', 'Centrales', 'Intergroupe']
 
-['Dans', 'dernier', 'cas', 'choix', 'Ecole', 'accueillant', 'redoublant', 'résulte', 'accord', 'Directions', 'Etudes']
+['Dans', 'dernier', 'cas', 'choix', 'École', 'accueillant', 'redoublant', 'résulte', 'accord', 'Directions', 'Etudes']
 
-['Les', 'modalités', 'pratiques', 'relatives', 'redoublement', 'définies', 'Annexe', ' ', 'Fonctionnement', 'Jurys']
+['Les', 'modalités', 'pratiques', 'relatives', 'redoublement', 'définies', 'Annexe', 'Fonctionnement', 'Jurys']
 
-['Article', '14', 'Délivrance', 'Diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', '\n\n', 'Pour', 'élèves', 'issus', 'concours', 'Jury', 'Parcours', 'Electif', 'examine', 'ensemble', 'scolarité', 'vue', 'proposer', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'délivré', 'Recteur', 'Académie', 'représentant', 'Ministre', 'chargé', 'Enseignement', 'Supérieur']
+['Pour', 'élèves', 'issus', 'concours', 'Jury', 'Parcours', 'Electif', 'examine', 'ensemble', 'scolarité', 'vue', 'proposer', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'délivré', 'Recteur', 'Académie', 'représentant', 'Ministre', 'chargé', 'Enseignement', 'Supérieur']
 
-["L'", 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'subordonnée', 'validation', 'Tronc', 'Commun', 'validation', 'Parcours', 'Electif', 'réalisation', 'validation', 'ensemble', 'activités', 'définies', 'cadre', 'programme', 'pédagogique', 'précisées', 'Annexe', ' ', 'Conditions', '\n', 'délivrance', 'diplôme', 'dingénieur']
+["L'", 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonnée', 'validation', 'Tronc', 'Commun', 'validation', 'Parcours', 'Electif', 'réalisation', 'validation', 'ensemble', 'activités', 'définies', 'cadre', 'programme', 'pédagogique', 'précisées', 'Annexe', 'Conditions', 'délivrance', 'diplôme', 'ingénieur']
 
-['Article', '15', 'Formation', 'double', 'diplômante', 'élèves', 'admis', 'concours', 'titres', '\n\n', 'Dans', 'cadre', 'accords', 'passés', 'universités', 'partenaires', 'étrangères', 'élèves', 'admis', 'concours', 'titres', 'suivent', 'formation', 'double', 'diplômante']
+['Dans', 'cadre', 'accords', 'passés', 'universités', 'partenaires', 'étrangères', 'élèves', 'admis', 'concours', 'titres', 'suivent', 'formation', 'double', 'diplômante']
 
 ['Le', 'processus', 'sélection', 'élèves', 'autorisés', 'formation', 'effectué', 'Commission', 'Echanges', 'Universitaires']
 
-['Ces', 'élèves', 'quittent', 'Ecole', 'fin', 'semestre', 'condition', 'validation', 'Tronc', 'Commun', 'élargi', 'S8', 'stage', 'application', 'Jury', 'Tronc', 'Commun']
+['Ces', 'élèves', 'quittent', 'École', 'fin', 'semestre', 'condition', 'validation', 'Tronc', 'Commun', 'élargi', 'S8', 'stage', 'application', 'Jury', 'Tronc', 'Commun']
 
-['Ils', 'terminer', 'études', 'université', 'partenaire', 'diplôme', 'Ingénieur', 'Ecole', 'Centrale', 'Lyon', 'automatiquement', 'décerné', "lorsqu'", 'remplissent', 'conditions', 'obtention', 'diplôme', 'ECL', 'quils', 'obtiennent', 'diplôme', 'correspondant', 'luniversité', 'partenaire']
+['Ils', 'terminer', 'études', 'université', 'partenaire', 'diplôme', 'Ingénieur', 'École', 'Centrale', 'Lyon', 'automatiquement', 'décerné', "lorsqu'", 'remplissent', 'conditions', 'obtention', 'diplôme', 'ECL', 'obtiennent', 'diplôme', 'correspondant', 'université', 'partenaire']
 
-["D'", 'formations', 'double', 'diplômantes', 'ouvertes', 'élèves', 'admis', 'concours', 'double', 'diplôme', 'Architecture', 'Ecole', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'double', 'diplôme', 'Management', 'EMLyon', 'Business', 'School', 'double', 'diplôme', 'Ecole', 'Nationale', 'Statistique', 'Administration', 'Economique', 'double', 'diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'organisée', 'Université', 'Claude', 'Bernard', 'Lyon', '1', 'double', 'diplôme', 'Masters', 'co-accrédités', 'non', 'Ecole', 'Normale', 'Supérieure', 'Lyon', 'etou', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
+["D'", 'formations', 'double', 'diplômantes', 'ouvertes', 'élèves', 'admis', 'concours', 'double', 'diplôme', 'Architecture', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'double', 'diplôme', 'Management', 'EMLyon', 'Business', 'School', 'double', 'diplôme', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'double', 'diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'organisée', 'Université', 'Claude', 'Bernard', 'Lyon', '1', 'double', 'diplôme', 'Masters', 'co-accrédités', 'non', 'École', 'Normale', 'Supérieure', 'Lyon', 'etou', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
 
-['Article', '16', 'Diplôme', 'Etudes', 'Supérieures', 'Ecole', 'Centrale', 'Lyon', '\n\n', 'Le', 'Diplôme', 'Etudes', 'Supérieures', 'Ecole', 'Centrale', 'Lyon', 'sanctionne', 'validation', 'Unités', 'Enseignement', 'semestres', 'S9', 'S10', 'réalisation', 'activités', 'semestres', 'auditeur', 'voir', 'Annexe', ' ', 'Conditions', 'délivrance', 'DESECL']
+['Le', 'Diplôme', 'Etudes', 'Supérieures', 'École', 'Centrale', 'Lyon', 'sanctionne', 'validation', 'Unités', 'Enseignement', 'semestres', 'S9', 'S10', 'réalisation', 'activités', 'semestres', 'auditeur', 'voir', 'Annexe', 'Conditions', 'délivrance', 'DESECL']
 
-['Article', '17', 'Commission', 'Evolution', 'Règlement', 'Scolarité', '\n\n', "L'", 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'retours', 'expérience', 'ensemble', 'Jurys', 'améliorer', 'Règlement', 'Scolarité']
+["L'", 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'retours', 'expérience', 'ensemble', 'Jurys', 'améliorer', 'Règlement', 'Scolarité']
 
-['Cette', 'commission', 'constituée', 'année', 'Directeur', 'Ecole', 'Centrale', 'Lyon']
+['Cette', 'commission', 'constituée', 'année', 'Directeur', 'École', 'Centrale', 'Lyon']
 
-['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', ' ', 'Evolution', 'Règlement', 'Scolarité']
+['Les', 'modalités', 'pratiques', 'organisation', 'définies', 'Annexe', 'Evolution', 'Règlement', 'Scolarité']
 
-['Modalités', 'Application', '\n\n', 'Personnalisation', 'cursus', 'ingénieur', '\n', 'Différentes', 'variantes', 'cursus', 'ingénieur', '\n\n', 'Pour', 'élèves', 'admis', 'concours', 'titres', 'variantes', 'cursus', 'ingénieur', '\n', 'représentées', 'tableau', 'ci-dessous']
+['Pour', 'élèves', 'admis', 'concours', 'titres', 'variantes', 'cursus', 'ingénieur', 'représentées', 'tableau', 'ci-dessous']
 
-['\n', 'ECL', ' ', 'diplôme', 'dingénieur', 'lEcole', 'Centrale', 'Lyon', '\n', 'ENSAL', ' ', 'diplôme', 'détat', 'dArchitecte', 'valant', 'grade', 'master', 'lEcole', 'Nationale', 'Supérieure', 'dAr-', '\n', 'chitecture', 'Lyon', '\n', 'ENSL', ' ', 'diplôme', 'Master', 'co-accrédité', 'lEcole', 'Normale', 'Supérieure', 'Lyon', 'lUniversité', '\n', 'Claude', 'Bernard', 'Lyon', '1', '\n', 'Médecine', ' ', 'Diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'lUniversité', 'Claude', '\n', 'Bernard', 'Lyon', '1', '\n', 'EML', ' ', 'diplôme', 'programme', 'Grande', 'Ecole', 'MSc', 'in', 'Management', 'lEMLyon', 'Business', 'School', '\n', 'ENSAE', ' ', 'diplôme', 'lEcole', 'Nationale', 'Statistique', 'l', 'Administration', 'Economique', 'Pa-', '\n', 'ristech', '\n', 'Univ']
+['ECL', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon']
 
-['diplôme', 'lUniversité', 'étrangère', 'partenaire']
+['ENSAL', 'diplôme', 'état', 'Architecte', 'valant', 'grade', 'master', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon']
 
-['Lensemble', 'Parcours', 'Electif', ' ', 'Stage', 'dApplication', ' ', 'TFE', 'réaménagé']
+['ENSL', 'diplôme', 'Master', 'co-accrédité', 'École', 'Normale', 'Supérieure', 'Lyon', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
 
-['Deux', 'semestres', 'académiques', 'non', 'diplômants', 'effectués', 'université', 'étrangère', 'partenaire', 'validant', '30', 'crédits', 'ECTS', 'équivalent', 'OU', 'semestres', 'académiques', 'effectués', 'université', 'étrangère', 'non', 'partenaire', 'sanctionnés', 'diplôme', 'luniversité', 'daccueil']
+['Médecine', 'Diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
 
-['Au', 'semestres', 'académiques', 'incluant', 'projet', 'recherche', 'effectués', 'université', 'étrangère', 'non', 'partenaire', 'sanctionnés', 'diplôme', 'luniversité', 'daccueil']
+['EML', 'diplôme', 'programme', 'Grande', 'École', 'MSc', 'in', 'Management', 'EMLyon', 'Business', 'School']
+
+['ENSAE', 'diplôme', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'Paristech']
+
+['Univ']
+
+['diplôme', 'Université', 'étrangère', 'partenaire']
+
+["L'", 'ensemble', 'Parcours', 'Electif', 'Stage', 'Application', 'TFE', 'réaménagé']
+
+['Deux', 'semestres', 'académiques', 'non', 'diplômants', 'effectués', 'université', 'étrangère', 'partenaire', 'validant', '30', 'crédits', 'ECTS', 'équivalent', 'OU', 'semestres', 'académiques', 'effectués', 'université', 'étrangère', 'non', 'partenaire', 'sanctionnés', 'diplôme', 'université', 'accueil']
+
+['Au', 'semestres', 'académiques', 'incluant', 'projet', 'recherche', 'effectués', 'université', 'étrangère', 'non', 'partenaire', 'sanctionnés', 'diplôme', 'université', 'accueil']
 
 ['Pour', 'élèves', 'admis', 'formation', 'double-diplômante', 'variantes', 'cursus', 'ingénieur', 'représentée', 'tableau', 'ci-dessous']
 
-['ENSAL', 'ECL', 'correspond', 'élèves', 'lEcole', 'Nationale', 'Supérieure', 'dArchitecture', 'Lyon', 'admis', '\n', 'année', '\n', 'ENSL', 'ECL', ' ', 'correspond', 'élèves', 'lEcole', 'Normale', 'Supérieure', 'Lyon', 'admis', '\n', 'année', '\n', 'ENSAE', 'ECL', 'correspond', 'élèves', 'lEcole', 'Nationale', 'Statistique', 'l', 'Administration', '\n', 'Economique', 'Paristech', 'admis', 'année', '\n', 'EML', 'ECL', 'correspond', 'élèves', 'lEMLyon', 'Business', 'School', 'admis', 'année', '\n', 'Mahindra', 'ECL', 'correspond', 'élèves', 'Mahindra', 'Ecole', 'Centrale', 'admis', 'année', '\n', 'Médecine', 'ECL', 'correspond', 'étudiants', 'facultés', 'médecine', 'lUniversité', 'Claude', 'Bernard', '\n', 'Lyon', '1', 'admis', 'année', '\n', 'Univ.-', 'ECL', '1', 'correspond', 'étudiants', 'duniversités', 'étrangères', 'admis', 'année', '\n', 'Univ.-', 'ECL', '2', 'correspond', 'étudiants', 'duniversités', 'étrangères', 'admis', 'année']
+['ENSAL', 'ECL', 'correspond', 'élèves', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admis', 'année', 'ENSL', 'ECL', 'correspond', 'élèves', 'École', 'Normale', 'Supérieure', 'Lyon', 'admis', 'année']
 
-['Echanges', 'universitaires', '\n\n', 'La', 'Commission', 'Echanges', 'Universitaires', ' \n', 'La', 'Commission', 'Echanges', 'Universitaires', 'mise', 'place', 'année', '15', 'Novembre']
+['ENSAE', 'ECL', 'correspond', 'élèves', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'Paristech', 'admis', 'année']
+
+['EML', 'ECL', 'correspond', 'élèves', 'EMLyon', 'Business', 'School', 'admis', 'année']
+
+['Mahindra', 'ECL', 'correspond', 'élèves', 'Mahindra', 'École', 'Centrale', 'admis', 'année']
+
+['Médecine', 'ECL', 'correspond', 'étudiants', 'facultés', 'médecine', 'Université', 'Claude', 'Bernard', 'Lyon', '1', 'admis', 'année']
+
+['Univ.-', 'ECL', '1', 'correspond', 'étudiants', 'universités', 'étrangères', 'admis', 'année']
+
+['Univ.-', 'ECL', '2', 'correspond', 'étudiants', 'universités', 'étrangères', 'admis', 'année']
+
+['La', 'Commission', 'Echanges', 'Universitaires', 'mise', 'place', 'année', '15', 'Novembre']
 
 ['Elle', 'décompose', 'sous-commissions']
 
@@ -486,87 +236,81 @@
 
 ['Les', 'sous-commissions', 'inviter', 'compétente', 'assister', 'travaux', 'responsables', 'équipes', 'pédagogiques', 'cursus', 'mobilités', 'entrantes']
 
-['Mobilités', 'internationales', '\n\n', 'La', 'CEU', 'internationale', 'examine', 'dossiers', 'étudiants', 'candidats', 'recrutement', 'cadre', 'accords', 'internationaux', 'létablissement', 'admission', 'qualité', 'délèves', 'lEcole', 'Centrale', 'Lyon', 'scolarité', 'ans', 'vue', 'lobtention', 'diplôme', 'dingénieur', 'généraliste', 'lEcole', 'Centrale', 'Lyon']
+['La', 'CEU', 'internationale', 'examine', 'dossiers', 'étudiants', 'candidats', 'recrutement', 'cadre', 'accords', 'internationaux', 'établissement', 'admission', 'qualité', 'élèves', 'École', 'Centrale', 'Lyon', 'scolarité', 'ans', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'École', 'Centrale', 'Lyon']
 
-['Elle', 'examine', 'dossiers', 'étudiants', 'candidats', 'scolarité', '3e', 'année', 'vue', 'lobtention', 'DESECL', 'lacquisition', 'crédits', 'ECTS', 'European', 'Credit', 'Transfert', 'System', 'certificat', 'formation', 'recherche', 'ladmission', 'échange', 'dun', 'semestre', 'S8']
+['Elle', 'examine', 'dossiers', 'étudiants', 'candidats', 'scolarité', '3e', 'année', 'vue', 'obtention', 'DESECL', 'acquisition', 'crédits', 'ECTS', 'European', 'Credit', 'Transfert', 'System', 'certificat', 'formation', 'recherche', 'admission', 'échange', 'semestre', 'S8']
 
 ['Dans', 'cas', 'candidats', 'priorité', 'étudiants', 'proposés', 'universités', 'partenaires']
 
-['Le', 'Directeur', 'lEcole', 'Centrale', 'Lyon', 'fixe', 'liste', 'élèves', 'admis', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'fixe', 'liste', 'élèves', 'admis', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
 
 ['La', 'CEU', 'internationale', 'examine', 'dossiers', 'élèves', 'ingénieurs', 'centraliens', 'candidats', 'formation', 'double', 'diplômante', 'échange', 'université', 'étrangère', 'critères', 'présentés', 'dossier', 'demande']
 
 ['En', 'cas', 'refus', 'motifs', 'décision', 'transmis', 'élèves', 'concernés']
 
-['Lélève', 'finalement', 'autorisé', 'partir', 'létablissement', 'daccueil', 'émet', 'avis', '\n', 'favorable', 'laccueillir', 'validation', 'Tronc', 'Commun', 'Etendu', 'cas', 'échéant', 'jury', 'Tronc', 'Commun']
+["L'", 'élève', 'finalement', 'autorisé', 'partir', 'établissement', 'accueil', 'émet', 'avis', 'favorable', 'accueillir', 'validation', 'Tronc', 'Commun', 'Etendu', 'cas', 'échéant', 'jury', 'Tronc', 'Commun']
 
-['Mobilités', 'France', '\n\n', 'La', 'CEU', 'France', 'examine', 'dossiers', 'étudiants', 'candidats', 'recrutement', 'cadre', 'accords', 'établissements', 'partenaires', 'France', 'lEcole', 'Centrale', 'Casablanca', 'admission', 'titre', 'qualité', 'délèves', 'lEcole', 'Centrale', 'Lyon', 'double', 'diplôme', 'scolarité', '\n', 'ans', 'vue', 'lobtention', 'diplôme', 'dingénieur', 'généraliste', 'lEcole', 'Centrale', 'Lyon']
+['La', 'CEU', 'France', 'examine', 'dossiers', 'étudiants', 'candidats', 'recrutement', 'cadre', 'accords', 'établissements', 'partenaires', 'France', 'École', 'Centrale', 'Casablanca', 'admission', 'titre', 'qualité', 'élèves', 'École', 'Centrale', 'Lyon', 'double', 'diplôme', 'scolarité', 'ans', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'École', 'Centrale', 'Lyon']
 
-['Elle', 'examine', 'dossiers', 'étudiants', 'issus', 'détablissements', 'partenaires', 'France', 'candidats', 'scolarité', '3e', 'année', 'vue', 'lobtention', 'DESECL']
+['Elle', 'examine', 'dossiers', 'étudiants', 'issus', 'établissements', 'partenaires', 'France', 'candidats', 'scolarité', '3e', 'année', 'vue', 'obtention', 'DESECL']
 
-['Le', 'Directeur', 'lEcole', 'Centrale', 'Lyon', 'fixe', 'liste', 'élèves', 'admis', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'fixe', 'liste', 'élèves', 'admis', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
 
 ['La', 'CEU', 'France', 'examine', 'dossiers', 'élèves', 'ingénieurs', 'centraliens', 'candidats', 'formation', 'double', 'diplômante', 'échange', 'établissement', 'partenaire', 'France', 'critères', 'présentés', 'dossier', 'demande']
 
 ['En', 'cas', 'refus', 'motifs', 'décision', 'transmis', 'élèves', 'concernés']
 
-['Lélève', 'finalement', 'autorisé', 'partir', 'létablissement', 'daccueil', 'émet', 'avis', 'favorable', 'laccueillir', 'validation', 'Tronc', 'Commun', 'Etendu', 'cas', 'échéant', 'jury', 'Tronc', 'Commun']
+["L'", 'élève', 'finalement', 'autorisé', 'partir', 'établissement', 'accueil', 'émet', 'avis', 'favorable', 'accueillir', 'validation', 'Tronc', 'Commun', 'Etendu', 'cas', 'échéant', 'jury', 'Tronc', 'Commun']
 
-['Commission', 'Parcours', 'Electif', '\n\n', 'Lobjectif', 'Commission', 'Parcours', 'Electif', 'élèves', 'auditeurs', 'effectuant', 'semestre', 'S9', 'lEcole', 'Centrale', 'Lyon', 'affecter', 'Métiers', 'Options']
+["L'", 'objectif', 'Commission', 'Parcours', 'Electif', 'élèves', 'auditeurs', 'effectuant', 'semestre', 'S9', 'École', 'Centrale', 'Lyon', 'affecter', 'Métiers', 'Options']
 
-['Elle', 'composée', 'Responsables', 'Métier', 'Responsables', 'dOption', 'Directeur', 'Etudes', 'Responsable', 'pédagogique', 'Parcours', 'Electif', 'Directeurs', 'UE', 'Métier', 'UE', 'Secteur']
+['Elle', 'composée', 'Responsables', 'Métier', 'Responsables', 'Option', 'Directeur', 'Etudes', 'Responsable', 'pédagogique', 'Parcours', 'Electif', 'Directeurs', 'UE', 'Métier', 'UE', 'Secteur']
 
-['Les', 'règles', 'daffection', 'présentées', 'formulaire', 'dinscription']
+['Les', 'règles', 'affection', 'présentées', 'formulaire', 'inscription']
 
-['Après', 'affectation', 'recours', 'auprès', 'Commission', 'Parcours', 'Electif', 'remplissant', 'dossier', 'dappel']
+['Après', 'affectation', 'recours', 'auprès', 'Commission', 'Parcours', 'Electif', 'remplissant', 'dossier', 'appel']
 
 ['La', 'décision', 'finale', 'prise', 'critères', 'présentés', 'dossier']
 
 ['En', 'cas', 'refus', 'motifs', 'décision', 'transmis', 'élèves', 'concernés']
 
-['Commission', 'daménagement', 'Parcours', 'Electif', '\n\n', 'Un', 'élève', 'possibilité', 'aménager', 'Parcours', 'Electif', 'Ecole', 'Centrale', 'Lyon', 'double', 'cursus', 'ingénieur', 'master', 'ingénieur', 'architecte', 'parcours', 'entrepreneur', 'parcours', 'intrapreneur', 'cursus', 'croisés', 'nécessitent', 'emplois', 'temps', 'aménagés', 'voire', 'mise', 'place', 'exceptions', 'suivi', 'Actions', 'Formation', 'établissements', 'extérieurs', 'Collègue', 'Hautes', 'Etudes', 'Lyon', 'Sciences', 'Une', 'commission', 'aménagement', 'Parcours', 'Electif', 'mise', 'place', 'objectif', 'étudier', 'demandes', 'responsables', 'cursus', 'nécessaire', 'proposer', 'Conseil', 'Etudes', 'intégrer', 'Règlement', 'Scolarité', 'aménagements', 'nécessaires']
+['Un', 'élève', 'possibilité', 'aménager', 'Parcours', 'Electif', 'École', 'Centrale', 'Lyon', 'double', 'cursus', 'ingénieur', 'master', 'ingénieur', 'architecte', 'parcours', 'entrepreneur', 'parcours', 'intrapreneur', 'cursus', 'croisés', 'nécessitent', 'emplois', 'temps', 'aménagés', 'voire', 'mise', 'place', 'exceptions', 'suivi', 'Actions', 'Formation', 'établissements', 'extérieurs', 'Collègue', 'Hautes', 'Etudes', 'Lyon', 'Sciences', 'Une', 'commission', 'aménagement', 'Parcours', 'Electif', 'mise', 'place', 'objectif', 'étudier', 'demandes', 'responsables', 'cursus', 'nécessaire', 'proposer', 'Conseil', 'Etudes', 'intégrer', 'Règlement', 'Scolarité', 'aménagements', 'nécessaires']
 
 ['La', 'commission', 'composée', 'Directeur', 'Etudes', 'responsable', 'pédagogique', 'Parcours', 'Electif', 'représentant', 'Scolarité', 'enseignant', 'étudiant', 'Conseil', 'Etudes', 'représentant', 'Commission', 'Evolution', 'Règlement', 'Scolarité']
 
-['Evaluation', 'connaissances', 'compétences', '\n', 'Dispositions', 'générales', 'lévaluation', 'connaissances', 'compétences', 'disciplinaires', '\n', 'Validation', 'dune', 'Unité', 'dEnseignement', '\n\n', 'Pour', 'élève', 'auditeur', 'reconnaissance', 'dun', 'niveau', 'connaissances', 'compétences', 'disciplinaires', 'validation', 'dUnités', 'dEnseignement', 'UE']
+['Pour', 'élève', 'auditeur', 'reconnaissance', 'niveau', 'connaissances', 'compétences', 'disciplinaires', 'validation', 'Unités', 'Enseignement', 'UE']
 
-['Une', 'UE', 'validée', 'sommes', 'pondérées', 'évaluations', 'chiffrées', 'connaissances', 'compétences', 'Action', 'Formation', 'lUnité', 'dEnseignement', 'supérieures', 'égales', '1020', 'règles', 'validation']
+['Une', 'UE', 'validée', 'sommes', 'pondérées', 'évaluations', 'chiffrées', 'connaissances', 'compétences', 'Action', 'Formation', 'Unité', 'Enseignement', 'supérieures', 'égales', '1020', 'règles', 'validation']
 
-['Crédits', 'ECTS', '\n\n', 'La', 'validation', 'dune', 'UE', 'donne', 'lieu', 'lattribution', 'crédits', 'ECTS', 'nombre', 'défini', 'fascicule', 'pédagogique']
+['La', 'validation', 'UE', 'donne', 'lieu', 'attribution', 'crédits', 'ECTS', 'nombre', 'défini', 'fascicule', 'pédagogique']
 
 ['Une', 'UE', 'validée', 'refaite']
 
-['Responsabilité', '\n', 'Les', 'responsables', 'Actions', 'Formation', 'obligation', 'évaluer', 'connaissances', 'compétences', 'disciplinaires', 'élèves', 'étudiants', 'suivent', 'Actions', 'Formation']
+['Les', 'responsables', 'Actions', 'Formation', 'obligation', 'évaluer', 'connaissances', 'compétences', 'disciplinaires', 'élèves', 'étudiants', 'suivent', 'Actions', 'Formation']
 
 ['Ils', 'tenus', 'assurer', 'homogénéité', 'encadrement', 'évaluation', 'groupes', 'travail', 'sein', 'promotion']
 
 ['Ils', 'transmettent', 'Service', 'Scolarité', 'relevé', 'absences']
 
-['Modalités', '\n\n\n', 'Lévaluation', 'connaissances', 'compétences', 'disciplinaires', 'combiner', 'confi-', '\n', 'gurations', 'épreuves', 'écrites', 'etou', 'orales', 'planifiées', 'Service', 'Scolarité', 'décidées', 'Direction', 'Etudes', 'épreuves', 'écrites', 'etou', 'orales', 'cadre', 'activités', 'Actions', 'Formation', 'Cours', 'Magistraux', 'Travaux', 'Dirigés', 'Bureaux', 'dEtudes', 'travaux', 'natures', 'comptes', 'rendus', 'rapports', 'soutenances', 'orales', 'réalisés', 'élèves', 'cadre', 'Travaux', 'Pratiques', 'travail', 'Autonomie', 'créneaux', 'planifiés']
+["L'", 'évaluation', 'connaissances', 'compétences', 'disciplinaires', 'combiner', 'configurations', 'épreuves', 'écrites', 'etou', 'orales', 'planifiées', 'Service', 'Scolarité', 'décidées', 'Direction', 'Etudes', 'épreuves', 'écrites', 'etou', 'orales', 'cadre', 'activités', 'Actions', 'Formation', 'Cours', 'Magistraux', 'Travaux', 'Dirigés', 'Bureaux', 'Etudes', 'travaux', 'natures', 'comptes', 'rendus', 'rapports', 'soutenances', 'orales', 'réalisés', 'élèves', 'cadre', 'Travaux', 'Pratiques', 'travail', 'Autonomie', 'créneaux', 'planifiés']
 
-['Sauf', 'mentions', 'particulières', 'précisées', 'suite', 'modalités', 'pratiques', 'propres', 'Action', 'Formation', 'défaut', 'lUnité', 'dEnseignement', 'figurer', 'fascicules', 'pédagogiques']
+['Sauf', 'mentions', 'particulières', 'précisées', 'suite', 'modalités', 'pratiques', 'propres', 'Action', 'Formation', 'défaut', 'Unité', 'Enseignement', 'figurer', 'fascicules', 'pédagogiques']
 
-['Les', 'responsables', 'dActions', 'Formation', 'tenus', 'dinformer', 'élèves', 'détails', 'dorganisation', 'épreuves', 'présence', 'non', 'documents', 'autorisés', 'épreuves', 'tard', 'dernière', 'séance', '\n', 'encadrée', 'lAction', 'Formation', 'précédant']
+['Les', 'responsables', 'Actions', 'Formation', 'tenus', 'informer', 'élèves', 'détails', 'organisation', 'épreuves', 'présence', 'non', 'documents', 'autorisés', 'épreuves', 'tard', 'dernière', 'séance', 'encadrée', 'Action', 'Formation', 'précédant']
 
-['Notation', 'numérique', '\n', 'Toute', 'évaluation', 'chiffrée', 'sein', 'dune', 'Action', 'Formation', 'connaissances', 'compétences', 'disciplinaires', 'exprimée', 'exclusivement', 'échelle', 'unique', '0', '20']
+['Toute', 'évaluation', 'chiffrée', 'sein', 'Action', 'Formation', 'connaissances', 'compétences', 'disciplinaires', 'exprimée', 'exclusivement', 'échelle', 'unique', '0', '20']
 
-['Objet', 'lévaluation', '\n', 'Lévaluation', 'connaissances', 'compétences', 'disciplinaires', 'Action', 'Formation', 'porte', '\n', 'Savoir', 'forme', 'traditionnelle', 'dévaluation', 'lexamen', 'écrit', 'individualisé', 'portant', 'connaissances', 'théoriques', 'présentées', 'Action', 'Formation', 'Savoir', 'faire', 'forme', 'traditionnelle', 'lévaluation', 'travail', 'effectué', 'Travaux', 'Pratiques', 'Projet']
+["L'", 'évaluation', 'connaissances', 'compétences', 'disciplinaires', 'Action', 'Formation', 'porte', 'Savoir', 'forme', 'traditionnelle', 'évaluation', 'examen', 'écrit', 'individualisé', 'portant', 'connaissances', 'théoriques', 'présentées', 'Action', 'Formation', 'Savoir', 'faire', 'forme', 'traditionnelle', 'évaluation', 'travail', 'effectué', 'Travaux', 'Pratiques', 'Projet']
 
-['Notes', 'lAF', '\n\n', 'Lévaluation', 'Savoir', 'resp']
+["L'", 'évaluation', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'traduit', 'note', '20', 'appelée', 'Note', 'Savoir', 'AF', 'respectivement', 'Note', 'Savoir', 'Faire', 'AF', 'résultant', 'combinaison', 'notes', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'Action', 'Formation']
 
-['Savoir', 'Faire', 'traduit', 'note', '20', 'appelée', ' ', 'Note', 'Savoir', 'lAF', ' ', 'resp']
+['Par', 'exemple', 'note', 'Savoir', 'consister', 'somme', 'pondérée', 'notes', 'examens', 'théoriques', 'note', 'Savoir', 'Faire', 'somme', 'pondérée', 'notes', 'Travaux', 'Pratiques']
 
-['Note', 'Savoir', 'Faire', 'lAF', ' ', 'résultant', 'combinaison', 'notes', 'Savoir', 'resp']
+["L'", 'évaluation', 'Savoir', 'Faire', 'traduit', 'note', '20', 'appelée', 'Note', 'Savoir', 'Faire', 'AF', 'résultant', 'combinaison', 'notes', 'Savoir', 'Faire', 'Action', 'Formation']
 
-['Savoir', 'Faire', 'lAction', 'Formation']
+['La', 'note', 'globale', 'Action', 'Formation', 'obtenue', 'somme', 'pondérée', 'notes', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation']
 
-['Par', 'exemple', 'note', 'Savoir', 'consister', 'somme', 'pondérée', 'notes', 'dexamens', 'théoriques', 'note', 'Savoir', 'Faire', 'somme', 'pondérée', 'notes', 'Travaux', 'Pratiques']
-
-['Lévaluation', 'Savoir', 'Faire', 'traduit', 'note', '20', 'appelée', '  ', 'Note', 'Savoir', 'Faire', 'lAF', ' ', 'résultant', 'combinaison', 'notes', 'Savoir', 'Faire', 'lAction', 'Formation']
-
-['Note', 'globale', 'AF', '\n\n', 'La', 'note', 'globale', 'Action', 'Formation', 'obtenue', 'somme', 'pondérée', 'notes', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation']
-
-['Transmission', 'publication', 'notes', 'numériques', '\n\n', 'Les', 'notes', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation', 'transmises', 'Service', 'Scolarité', 'responsable', 'Action', 'Formation', 'tard', 'semaines', 'fin', 'Action', 'Formation', 'cas', 'semestre', 'S6', 'transmises', 'semaine', 'fin', 'semestre']
+['Les', 'notes', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation', 'transmises', 'Service', 'Scolarité', 'responsable', 'Action', 'Formation', 'tard', 'semaines', 'fin', 'Action', 'Formation', 'cas', 'semestre', 'S6', 'transmises', 'semaine', 'fin', 'semestre']
 
 ['Dans', 'cas', 'épreuve', 'seconde', 'session', 'notes', 'transmises', 'semaines', 'tard', 'épreuve', 'cas', 'épreuves', 'seconde', 'session', 'semestres', 'S6', 'S7', 'transmises', 'semaine', 'dernière', 'épreuve', 'seconde', 'session']
 
@@ -574,57 +318,51 @@
 
 ['Une', 'fois', 'résultats', 'publiés', 'éventuelles', 'rectifications', 'apporter', 'signifiées', 'écrit', 'Service', 'Scolarité', 'responsable', 'Action', 'Formation', 'tard', 'délai', 'semaines', 'publication']
 
-['Mesures', 'appliquer', 'suite', 'absence', 'épreuve', 'contrôle', 'continu', 'séance', 'TP', '\n\n', 'Les', 'mesures', 'absence', 'élève', 'auditeur', 'autorisée', 'non', '3']
+['Les', 'mesures', 'absence', 'élève', 'auditeur', 'autorisée', 'non']
 
-['Absence', 'autorisée', '\n\n', 'En', 'accord', 'Direction', 'Etudes', 'Conseil', 'Unité', 'Enseignement', 'définit', 'ensemble', 'règles', 'mesures', 'précises', 'circonstanciées', 'cas', 'absence', 'autorisée', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'séance', 'Travaux', 'Pratiques']
+['En', 'accord', 'Direction', 'Etudes', 'Conseil', 'Unité', 'Enseignement', 'définit', 'ensemble', 'règles', 'mesures', 'précises', 'circonstanciées', 'cas', 'absence', 'autorisée', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'séance', 'Travaux', 'Pratiques']
 
 ['Elles', 'portent', 'possibilité', 'matérielle', 'non', 'instaurer', 'rattrapage', 'cas', 'modalités', 'pratiques', 'cas', 'prise', 'compte', 'évaluation', 'connaissances']
 
 ['Ces', 'règles', 'mesures', 'présentées', 'fascicules', 'pédagogiques']
 
-['Absence', 'non', 'autorisée', '\n', 'Toute', 'absence', 'non', 'autorisée', 'dun', 'élève', 'dun', 'auditeur', 'séance', '\n', 'TP', 'entraîne', 'minimum', 'lattribution', 'note', '0', 'élève', 'auditeur', 'lévaluation', 'séance']
+['Toute', 'absence', 'non', 'autorisée', 'élève', 'auditeur', 'séance', 'TP', 'entraîne', 'minimum', 'attribution', 'note', '0', 'élève', 'auditeur', 'évaluation', 'séance']
 
-['Le', 'Conseil', 'lUnité', 'dEnseignement', 'préciser', 'conséquences', 'labsence', 'non', 'autorisée', 'notation', 'déroulement', 'série', 'complète', 'TP', 'lélève', 'lauditeur', 'absence', 'non', 'autorisée']
+['Le', 'Conseil', 'Unité', 'Enseignement', 'préciser', 'conséquences', 'absence', 'non', 'autorisée', 'notation', 'déroulement', 'série', 'complète', 'TP', 'élève', 'auditeur', 'absence', 'non', 'autorisée']
 
 ['Ceci', 'mentionné', 'fascicule', 'pédagogique']
 
-['Toute', 'absence', 'non', 'autorisée', 'dun', 'élève', 'dun', 'auditeur', 'épreuve', 'contrôle', 'continu', 'entraîne', 'lattribution', 'note', '0', 'épreuve']
+['Toute', 'absence', 'non', 'autorisée', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'entraîne', 'attribution', 'note', '0', 'épreuve']
 
-['Evaluation', 'connaissances', 'sein', 'dune', 'Unité', 'dEnseignement', '\n\n', 'Dispositions', 'générales', '\n', 'Chaque', 'UE', 'dirigée', 'Directeur', 'assisté', 'dun', 'Conseil', 'quil', 'préside']
+['Chaque', 'UE', 'dirigée', 'Directeur', 'assisté', 'Conseil', 'préside']
 
-['Le', 'Conseil', 'lUnité', 'dEnseignement', 'assure', 'cohésion', 'modalités', 'lévaluation', 'connaissances', 'Actions', 'Formation', 'lUE', 'concernée']
+['Le', 'Conseil', 'Unité', 'Enseignement', 'assure', 'cohésion', 'modalités', 'évaluation', 'connaissances', 'Actions', 'Formation', 'UE', 'concernée']
 
-['Le', 'Conseil', 'lUnité', 'dEnseignement', 'garantit', 'labsence', 'disparités', 'flagrantes', 'notations', 'Actions', 'Formation']
+['Le', 'Conseil', 'Unité', 'Enseignement', 'garantit', 'absence', 'disparités', 'flagrantes', 'notations', 'Actions', 'Formation']
 
-['Plusieurs', 'UE', 'dirigées', 'Directeur', 'assisté', 'dun', 'Conseil', 'dUnité', 'dEnseignement', 'dassurer', 'cohérence', 'pédagogique', 'UE']
+['Plusieurs', 'UE', 'dirigées', 'Directeur', 'assisté', 'Conseil', 'Unité', 'Enseignement', 'assurer', 'cohérence', 'pédagogique', 'UE']
 
-['Pour', 'élève', 'auditeur', 'Unité', 'dEnseignement', 'lobjet', 'dune', 'évaluation', 'semestrielle', 'chiffrée', 'comprend', '\n', 'Savoir', 'resp']
+['Pour', 'élève', 'auditeur', 'Unité', 'Enseignement', 'objet', 'évaluation', 'semestrielle', 'chiffrée', 'comprend', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'évalué', 'Actions', 'Formation', 'note', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'UE', 'obtenue', 'somme', 'pondérée', 'notes', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'Actions', 'Formation', 'UE', 'note', 'globale', 'UE', 'obtenue', 'somme', 'pondérée', 'notes', 'globales', 'Action', 'Formation']
 
-['Savoir', 'Faire', 'évalué', 'Actions', 'Formation', 'note', 'Savoir', 'resp']
+['En', 'accord', 'Direction', 'Etudes', 'Conseil', 'Unité', 'Enseignement', 'définir', 'retranscrire', 'fascicule', 'pédagogique', 'Action', 'Formation', 'évalué', 'Savoir', 'etou', 'Savoir', 'Faire', 'évaluation', 'traduire', 'note', '20', 'Action', 'Formation', 'poids', 'note', 'globale', 'AF', 'notes', 'évalué', 'AF', 'UE', 'poids', 'note', 'globale', 'UE', 'notes', 'globales', 'Actions', 'Formation']
 
-['Savoir', 'Faire', 'lUE', 'obtenue', 'somme', 'pondérée', 'notes', 'Savoir', 'resp']
-
-['Savoir', 'Faire', 'Actions', 'Formation', 'lUE', 'note', 'globale', 'lUE', 'obtenue', 'somme', 'pondérée', 'notes', 'globales', 'Action', 'Formation']
-
-['En', 'accord', 'Direction', 'Etudes', 'Conseil', 'dUnité', 'dEnseignement', 'définir', 'retranscrire', 'fascicule', 'pédagogique', 'Action', 'Formation', 'évalué', 'Savoir', 'etou', 'Savoir', 'Faire', 'évaluation', 'traduire', 'note', '20', 'Action', 'Formation', 'poids', 'note', 'globale', 'lAF', 'notes', 'évalué', 'lAF', 'UE', 'poids', 'note', 'globale', 'lUE', 'notes', 'globales', 'Actions', 'Formation']
-
-['A', 'partir', 'poids', 'notes', 'Action', 'Formation', 'note', 'Savoir', 'etou', 'Savoir', 'Faire', 'calculée', 'lUE', 'utilisant', 'somme', 'pondérée']
+['A', 'partir', 'poids', 'notes', 'Action', 'Formation', 'note', 'Savoir', 'etou', 'Savoir', 'Faire', 'calculée', 'UE', 'utilisant', 'somme', 'pondérée']
 
 ['Les', 'notes', 'Savoir', 'etou', 'Savoir', 'Faire', 'Actions', 'Formation', 'transmises', 'Service', 'Scolarité', 'responsables', 'Actions', 'Formation', 'charge', 'calculer', 'notes', 'globales', 'Actions', 'Formation', 'notes', 'compétence', 'UE']
 
-['Une', 'UE', 'validée', 'élève', 'auditeur', 'note', 'globale', 'lUE', 'supérieure', '\n', 'égale', '1020', 'règles', 'validation', '\n\n', 'Le', 'Directeur', 'Conseil', 'lUnité', 'dEnseignement', 'procède', 'vérification', 'cohérence', 'lensemble', 'notes', 'Savoir', 'etou', 'Savoir', 'Faire', 'dUE', 'saisies', 'site', 'WEB', 'Service', 'Scolarité']
+['Une', 'UE', 'validée', 'élève', 'auditeur', 'note', 'globale', 'UE', 'supérieure', 'égale', '1020', 'règles', 'validation', 'Le', 'Directeur', 'Conseil', 'Unité', 'Enseignement', 'procède', 'vérification', 'cohérence', 'ensemble', 'notes', 'Savoir', 'etou', 'Savoir', 'Faire', 'UE', 'saisies', 'site', 'WEB', 'Service', 'Scolarité']
 
-['Sil', 'juge', 'nécessaire', 'Conseil', 'dUE', 'transmet', 'Service', 'Scolarité', 'informations', 'jugées', 'pertinentes', 'strictement', 'destinées', 'renseigner', 'Jury', 'travail', 'comportement', 'général', 'élèves', 'auditeurs', 'notes', 'obtenues', 'permettent', 'valider', 'lUE', 'élèves', 'auditeurs', 'désignés', 'Jury']
+["S'", 'juge', 'nécessaire', 'Conseil', 'UE', 'transmet', 'Service', 'Scolarité', 'informations', 'jugées', 'pertinentes', 'strictement', 'destinées', 'renseigner', 'Jury', 'travail', 'comportement', 'général', 'élèves', 'auditeurs', 'notes', 'obtenues', 'permettent', 'valider', 'UE', 'élèves', 'auditeurs', 'désignés', 'Jury']
 
-['Dispositions', '\n', 'Les', 'Unités', 'Enseignement', 'Tronc', 'Commun', 'Parcours', 'Electif', 'regroupent', 'type', 'objectifs', 'pédagogiques', 'modalités', 'fonctionnement']
+['Les', 'Unités', 'Enseignement', 'Tronc', 'Commun', 'Parcours', 'Electif', 'regroupent', 'type', 'objectifs', 'pédagogiques', 'modalités', 'fonctionnement']
 
-['Les', 'types', '  ', 'Unités', 'Enseignement', 'Disciplines', 'Scientifiques', '  ', 'Unités', 'Enseignement', 'Professionnelles', 'Stages', '  ', 'Unités', 'Enseignement', 'Langues', 'Vivantes', '  ', 'Unités', 'Enseignement', 'Parcours', 'Electif']
+['Les', 'types', 'Unités', 'Enseignement', 'Disciplines', 'Scientifiques', 'Unités', 'Enseignement', 'Professionnelles', 'Stages', 'Unités', 'Enseignement', 'Langues', 'Vivantes', 'Unités', 'Enseignement', 'Parcours', 'Electif']
 
-['Unités', 'Enseignement', 'Disciplines', 'Scientifiques', '\n', 'Les', 'Unités', 'Enseignement', 'Disciplines', 'Scientifiques', 'évaluer', 'Savoir']
+['Les', 'Unités', 'Enseignement', 'Disciplines', 'Scientifiques', 'évaluer', 'Savoir']
 
-['Pour', 'évaluation', 'compétence', 'sessions', 'examen', 'organisées', 'seconde', 'session', 'destinée', 'élèves', 'auditeurs', 'validé', 'UE', 'lissue', 'session', 'participation', 'nest', 'interdite', 'Jury']
+['Pour', 'évaluation', 'compétence', 'sessions', 'examen', 'organisées', 'seconde', 'session', 'destinée', 'élèves', 'auditeurs', 'validé', 'UE', 'issue', 'session', 'participation', 'interdite', 'Jury']
 
-['Evaluation', 'Savoir', 'cours', 'session', 'examen', '\n\n ', "L'", 'examen', 'Savoir', 'Unité', 'Enseignement', 'Disciplines', 'Scientifiques', 'comprend', 'épreuve', 'terminale', 'écrite', 'individuelle', 'planifiée', 'Service', 'Scolarité']
+["L'", 'examen', 'Savoir', 'Unité', 'Enseignement', 'Disciplines', 'Scientifiques', 'comprend', 'épreuve', 'terminale', 'écrite', 'individuelle', 'planifiée', 'Service', 'Scolarité']
 
 ['Une', 'épreuve', 'terminale', 'épreuve', 'porte', 'ensemble', 'Savoir', 'Action', 'Formation', 'UE']
 
@@ -644,187 +382,187 @@
 
 ['Ces', 'modalités', 'définies', 'Conseil', 'Unité', 'Enseignement', 'retranscrites', 'fascicules', 'pédagogiques']
 
-['Les', 'formules', 'établies', 'note', 'globale', 'UE', 'contribution', 'épreuves', 'écrites', 'individuelles', 'terminales', 'portant', 'Savoir', 'planifiées', 'Service', 'Scolarité', 'corresponde', '50', ' ', 'note', 'globale', 'UE']
+['Les', 'formules', 'établies', 'note', 'globale', 'UE', 'contribution', 'épreuves', 'écrites', 'individuelles', 'terminales', 'portant', 'Savoir', 'planifiées', 'Service', 'Scolarité', 'corresponde', '50', 'note', 'globale', 'UE']
 
-['Seconde', 'session', 'examen', 'UE', 'Disciplines', 'Scientifiques', 'cas', 'général', '\n', 'Lorsquà', '\n', 'lissue', 'semestre', 'Jury', 'constaté', 'quune', 'UE', 'Disciplines', 'Scientifiques', 'nest', 'validée', 'élève', 'auditeur', 'cest-à-dire', 'note', 'globale', 'lUE', 'strictement', 'inférieure', '1020', 'lélève', 'lauditeur', 'convoqué', 'seconde', 'session', 'dexamen', 'planifiée', 'Service', 'Scolarité', '\n', 'semestre']
+["Lorsqu'", 'issue', 'semestre', 'Jury', 'constaté', 'UE', 'Disciplines', 'Scientifiques', 'validée', 'élève', 'auditeur', 'note', 'globale', 'UE', 'strictement', 'inférieure', '1020', 'élève', 'auditeur', 'convoqué', 'seconde', 'session', 'examen', 'planifiée', 'Service', 'Scolarité', 'semestre']
 
-['Une', 'seconde', 'session', 'dexamen', 'nest', 'valable', 'organisée', 'Service', 'Scolarité']
+['Une', 'seconde', 'session', 'examen', 'valable', 'organisée', 'Service', 'Scolarité']
 
-['La', 'seconde', 'session', 'lUE', 'effectuée', 'conditions', 'session', 'épreuves', 'écrites', 'individuelles', 'nature', 'durée']
+['La', 'seconde', 'session', 'UE', 'effectuée', 'conditions', 'session', 'épreuves', 'écrites', 'individuelles', 'nature', 'durée']
 
-['Deux', 'catégories', 'délèves', 'dauditeurs', 'concernées', 'passage', 'dune', 'épreuves', 'terminales', 'seconde', 'session', 'dexamen', 'dune', 'UE', 'élèves', 'auditeurs', 'absents', 'autorisation', 'dabsence', 'non', 'épreuve', '\n', 'session', 'dexamen', 'lUE', 'élèves', 'auditeurs', 'validé', 'UE', 'faute', 'note', 'globale', 'UE']
+['Deux', 'catégories', 'élèves', 'auditeurs', 'concernées', 'passage', 'épreuves', 'terminales', 'seconde', 'session', 'examen', 'UE', 'élèves', 'auditeurs', 'absents', 'autorisation', 'absence', 'non', 'épreuve', 'session', 'examen', 'UE', 'élèves', 'auditeurs', 'validé', 'UE', 'faute', 'note', 'globale', 'UE']
 
 ["L'", 'absence', 'élève', 'auditeur', 'épreuves', 'session', 'entraîne', 'impossibilité', 'Jury', 'valider', 'UE']
 
-['A', 'lissue', 'session', 'Jury', 'linterdise', 'lélève', 'lauditeur', 'absent', 'participer', 'lépreuve', 'correspondante', 'seconde', 'session', 'dexamen', 'lUE']
+['A', 'issue', 'session', 'Jury', 'interdise', 'élève', 'auditeur', 'absent', 'participer', 'épreuve', 'correspondante', 'seconde', 'session', 'examen', 'UE']
 
-['Le', 'élève', 'auditeur', 'présenter', 'session', 'seconde', 'session', 'dune', 'épreuve', 'entraîne', 'limpossibilité', 'valider', 'UE']
+['Le', 'élève', 'auditeur', 'présenter', 'session', 'seconde', 'session', 'épreuve', 'entraîne', 'impossibilité', 'valider', 'UE']
 
-['Un', 'élève', 'auditeur', 'nayant', 'validé', 'UE', 'dune', 'note', 'dUE', 'insuffisante', 'convoqué', '\n', 'épreuves', 'terminales', 'seconde', 'session', 'dexamen', 'Actions', 'Formation', 'lUE', 'note', 'globale', 'dAction', 'Formation', 'supérieure', 'égale', '10']
+['Un', 'élève', 'auditeur', 'validé', 'UE', 'note', 'UE', 'insuffisante', 'convoqué', 'épreuves', 'terminales', 'seconde', 'session', 'examen', 'Actions', 'Formation', 'UE', 'note', 'globale', 'Action', 'Formation', 'supérieure', 'égale', '10']
 
-['Il', 'décider', 'participer', 'épreuve', 'condition', 'den', 'informer', 'Service', 'Scolarité', 'délai', 'fixé', 'cas', '-là', 'note', 'session', 'conservée']
+['Il', 'décider', 'participer', 'épreuve', 'condition', 'informer', 'Service', 'Scolarité', 'délai', 'fixé', 'cas', '-là', 'note', 'session', 'conservée']
 
-['A', 'défaut', 'prévenir', 'Service', 'Scolarité', 'sil', 'sagit', 'dune', 'absence', 'autorisée', 'définie', 'lélève', 'lauditeur', 'note', '0', 'épreuve', 'sil', 'participé', 'session']
+['A', 'défaut', 'prévenir', 'Service', 'Scolarité', 'agit', 'absence', 'autorisée', 'définie', 'élève', 'auditeur', 'note', '0', 'épreuve', 'participé', 'session']
 
-['Les', 'catégories', 'détudiants', 'possibilité', 'repasser', 'rattrapage', 'épreuves', 'lUE', 'condition', 'den', 'informer', 'Service', 'Scolarité', 'délai', 'fixé']
+['Les', 'catégories', 'étudiants', 'possibilité', 'repasser', 'rattrapage', 'épreuves', 'UE', 'condition', 'informer', 'Service', 'Scolarité', 'délai', 'fixé']
 
-['Dans', 'cas', 'cas', 'participation', 'seconde', 'session', 'note', 'Savoir', 'Action', 'Formation', 'recalculée', 'partir', 'notes', 'épreuves', 'terminales', 'seconde', 'session', 'prendre', 'compte', 'notes', 'dun', 'éventuel', 'contrôle', 'continu', 'connaissances']
+['Dans', 'cas', 'cas', 'participation', 'seconde', 'session', 'note', 'Savoir', 'Action', 'Formation', 'recalculée', 'partir', 'notes', 'épreuves', 'terminales', 'seconde', 'session', 'prendre', 'compte', 'notes', 'éventuel', 'contrôle', 'continu', 'connaissances']
 
-['Pour', 'Actions', 'Formation', 'lUE', 'concernées', 'note', 'Savoir', 'recalculée']
+['Pour', 'Actions', 'Formation', 'UE', 'concernées', 'note', 'Savoir', 'recalculée']
 
-['LUE', 'validée', 'note', 'globale', 'dUE', 'calculée', 'partir', 'notes', 'Savoir', 'obtenues', 'lissue', 'seconde', 'session', 'dexamen', 'supérieure', 'égale', '10']
+["L'", 'UE', 'validée', 'note', 'globale', 'UE', 'calculée', 'partir', 'notes', 'Savoir', 'obtenues', 'issue', 'seconde', 'session', 'examen', 'supérieure', 'égale', '10']
 
-['Cas', 'Unités', 'dEnseignement', 'Disciplines', 'Scientifiques', 'choix', 'multiples', '\n\n', 'Une', 'UE', 'Disciplines', 'Scientifiques', 'choix', 'multiples', 'UE', 'Disciplines', 'Scientifiques', 'Actions', 'Formation', '\n', 'suivies', 'élève', 'auditeur', 'déterminées', 'partir', 'dun', 'choix', 'exprimé']
+['Une', 'UE', 'Disciplines', 'Scientifiques', 'choix', 'multiples', 'UE', 'Disciplines', 'Scientifiques', 'Actions', 'Formation', 'suivies', 'élève', 'auditeur', 'déterminées', 'partir', 'choix', 'exprimé']
 
 ['Dans', 'cas', '-là', 'Savoir', 'évaluée', 'Action', 'Formation', 'épreuve', 'terminale', 'écrite', 'individuelle', 'planifiée', 'Service', 'Scolarité', 'durée', 'comprise', 'heure', 'heures']
 
-['La', 'note', 'épreuve', 'terminale', 'compter', '50', ' ', 'note', 'globale', 'lAction', 'Formation']
+['La', 'note', 'épreuve', 'terminale', 'compter', '50', 'note', 'globale', 'Action', 'Formation']
 
-['Unités', 'Enseignement', 'Professionnelles', 'Stages', '\n', 'La', 'validation', 'dune', 'Unité', 'dEnseignement', 'Professionnelle', 'basée', 'réalisation', 'dactivités', 'lUE', 'lélève', 'évaluation', 'Savoir', 'etou', 'Savoir', 'Faire']
+['La', 'validation', 'Unité', 'Enseignement', 'Professionnelle', 'basée', 'réalisation', 'activités', 'UE', 'élève', 'évaluation', 'Savoir', 'etou', 'Savoir', 'Faire']
 
-['Les', 'règles', 'validation', 'dune', 'UE', 'Professionnelle', 'lautre', 'détaillées', 'fascicules', 'pédagogiques']
+['Les', 'règles', 'validation', 'UE', 'Professionnelle', 'détaillées', 'fascicules', 'pédagogiques']
 
-['A', 'lissue', 'dun', 'semestre', 'cas', 'non', 'validation', 'dune', 'UE', 'Professionnelle', 'élève', 'lélève', 'guise', 'seconde', 'session', 'réaliservalider', 'activités', 'supplémentaires', 'semestre', 'modalités', 'présen', 'tées', 'fascicules', 'pédagogiques']
+['A', 'issue', 'semestre', 'cas', 'non', 'validation', 'UE', 'Professionnelle', 'élève', 'élève', 'guise', 'seconde', 'session', 'réaliservalider', 'activités', 'supplémentaires', 'semestre', 'modalités', 'présen', 'tées', 'fascicules', 'pédagogiques']
 
-['En', 'cas', 'non', 'réalisationvalidation', 'activités', 'lUE', 'Professionnelle', 'considérée', 'non', 'validée', 'lissue', 'seconde', 'session']
+['En', 'cas', 'non', 'réalisationvalidation', 'activités', 'UE', 'Professionnelle', 'considérée', 'non', 'validée', 'issue', 'seconde', 'session']
 
-['Dans', 'cas', '-là', 'Conseil', 'Unités', 'dEnseignement', 'Professionnelles', 'transmettre', 'Jury', 'concerné', 'avis', 'participation', 'limplication', 'lélève', 'lUE', 'Professionnelle']
+['Dans', 'cas', '-là', 'Conseil', 'Unités', 'Enseignement', 'Professionnelles', 'transmettre', 'Jury', 'concerné', 'avis', 'participation', 'implication', 'élève', 'UE', 'Professionnelle']
 
-['Un', 'avis', 'négatif', 'élément', 'défavorable', 'important', '\n', 'validation', 'dun', 'Parcours', 'compensation', 'dUE']
+['Un', 'avis', 'négatif', 'élément', 'défavorable', 'important', 'validation', 'Parcours', 'compensation', 'UE']
 
-['Chaque', 'stage', 'cursus', 'ingénieur', 'constitue', 'Unité', 'dEnseignement']
+['Chaque', 'stage', 'cursus', 'ingénieur', 'constitue', 'Unité', 'Enseignement']
 
-['Si', 'validation', 'UE', 'rentre', 'validation', 'parcours', 'Tronc', 'Commun', 'Parcours', 'Electif', 'validation', 'condition', 'nécessaire', 'dobtention', 'diplôme', 'dingénieur', 'voir', 'lAnnexe', 'G', ' ', 'Conditions', 'délivrance', 'diplôme', 'dingénieur', 'page', '26']
+['Si', 'validation', 'UE', 'rentre', 'validation', 'parcours', 'Tronc', 'Commun', 'Parcours', 'Electif', 'validation', 'condition', 'nécessaire', 'obtention', 'diplôme', 'ingénieur', 'voir', 'Annexe', 'G', 'Conditions', 'délivrance', 'diplôme', 'ingénieur', 'page', '26']
 
-['La', 'définition', 'objectifs', 'pédagogiques', 'modalités', 'pratiques', 'stage', 'présentés', 'fascicule', 'pédagogique', 'lannée', 'concernée']
+['La', 'définition', 'objectifs', 'pédagogiques', 'modalités', 'pratiques', 'stage', 'présentés', 'fascicule', 'pédagogique', 'année', 'concernée']
 
-['LEcole', 'évalue', 'stage', 'effectué', 'élève', 'base', 'lappréciation', 'donnée', 'structure', 'daccueil', 'travail', 'effectué', 'lélève', 'dun', 'rapport', 'etou', 'dune', 'présentation', 'orale', 'jury']
+["L'", 'École', 'évalue', 'stage', 'effectué', 'élève', 'base', 'appréciation', 'donnée', 'structure', 'accueil', 'travail', 'effectué', 'élève', 'rapport', 'etou', 'présentation', 'orale', 'jury']
 
-['Les', 'critères', 'modalités', 'dévaluation', 'fonction', 'type', 'stage', 'présentés', 'fascicules', 'pédagogiques']
+['Les', 'critères', 'modalités', 'évaluation', 'fonction', 'type', 'stage', 'présentés', 'fascicules', 'pédagogiques']
 
 ['Seul', 'Savoir', 'Faire', 'évalué', 'UE', 'Langues', 'Cultures']
 
-['La', 'note', 'Savoir', 'Faire', 'lUE', 'donnée', 'note', 'globale', 'lUE']
+['La', 'note', 'Savoir', 'Faire', 'UE', 'donnée', 'note', 'globale', 'UE']
 
-['Pour', 'Action', 'Formation', 'dune', 'UE', 'Langues', 'Cultures', 'lexamen', 'connaissances', 'compétences', 'disciplinaires', 'faite', 'contrôle', 'continu', 'épreuve', 'terminale', 'individuelle', 'comptant', '50', 'note', 'total', 'lAction', 'Formation']
+['Pour', 'Action', 'Formation', 'UE', 'Langues', 'Cultures', 'examen', 'connaissances', 'compétences', 'disciplinaires', 'faite', 'contrôle', 'continu', 'épreuve', 'terminale', 'individuelle', 'comptant', '50', 'note', 'total', 'Action', 'Formation']
 
-['La', 'note', 'globale', 'dune', 'UE', 'Langues', 'Cultures', 'obtenue', 'moyenne', 'arithmétique', 'notes', 'Actions', 'Formation']
+['La', 'note', 'globale', 'UE', 'Langues', 'Cultures', 'obtenue', 'moyenne', 'arithmétique', 'notes', 'Actions', 'Formation']
 
-['Pour', 'UE', 'Langues', 'Cultures', 'Tronc', 'Commun', 'paragraphe', 'B.2.8', 'sapplique', 'rattrapage', 'contrôle', 'continu']
+['Pour', 'UE', 'Langues', 'Cultures', 'Tronc', 'Commun', 'paragraphe', 'B.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
 
-['Le', 'rattrapage', 'lexamen', 'terminal', 'dune', 'Action', 'Formation', 'seffectue', 'épreuve', 'écrite', 'individuelle', '2', 'heures', 'seconde', 'session', 'dexamen']
+['Le', 'rattrapage', 'examen', 'terminal', 'Action', 'Formation', 'effectue', 'épreuve', 'écrite', 'individuelle', '2', 'heures', 'seconde', 'session', 'examen']
 
-['Pour', 'UE', 'Langues', 'Cultures', 'Parcours', 'Electif', 'paragraphe', 'B.2.8', 'sapplique', 'rattrapage', 'contrôle', 'continu']
+['Pour', 'UE', 'Langues', 'Cultures', 'Parcours', 'Electif', 'paragraphe', 'B.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
 
-['Il', 'ny', 'seconde', 'session', 'organisée']
+['Il', 'seconde', 'session', 'organisée']
 
-['En', 'cas', 'dabsence', 'autorisée', 'lépreuve', 'terminale', 'Service', 'Scolarité', 'délèves', 'dauditeurs', 'épreuve', 'rattrapage', 'proposée', 'modalités', 'lépreuve', 'initiale', 'élèves', 'auditeurs', 'condition', 'organisation', 'matériellement']
+['En', 'cas', 'absence', 'autorisée', 'épreuve', 'terminale', 'Service', 'Scolarité', 'élèves', 'auditeurs', 'épreuve', 'rattrapage', 'proposée', 'modalités', 'épreuve', 'initiale', 'élèves', 'auditeurs', 'condition', 'organisation', 'matériellement']
 
-['Unités', 'Enseignement', 'Parcours', 'Electif', '\n\n', 'Cet', 'ensemble', 'dUE', 'recouvre', 'lUE', 'Electif', 'lUE', ' ', 'Modules', 'Ouverts', 'Disciplinaires', ' ', 'MOD', 'lUE', 'Métier', 'lUE', 'Secteur']
+['Cet', 'ensemble', 'UE', 'recouvre', 'UE', 'Electif', 'UE', 'Modules', 'Ouverts', 'Disciplinaires', 'MOD', 'UE', 'Métier', 'UE', 'Secteur']
 
-['LUE', 'Secteur', 'regroupe', 'types', 'dActions', 'Formation', ' ', 'Modules', 'Ouverts', 'Secteur', ' ', 'MOS', ' ', 'Modules', 'Spécifiques', 'Option', ' ', 'MSO']
+["L'", 'UE', 'Secteur', 'regroupe', 'types', 'Actions', 'Formation', 'Modules', 'Ouverts', 'Secteur', 'MOS', 'Modules', 'Spécifiques', 'Option', 'MSO']
 
-['Les', 'Actions', 'Formation', 'lUE', 'Electif', 'lUE', 'MOD', 'MOS', 'lUE', 'Secteur', 'Actions', 'Formation', 'multi-disciplinaires', 'choix', 'multiples']
+['Les', 'Actions', 'Formation', 'UE', 'Electif', 'UE', 'MOD', 'MOS', 'UE', 'Secteur', 'Actions', 'Formation', 'multi-disciplinaires', 'choix', 'multiples']
 
-['Lévaluation', 'connaissances', 'Action', 'Formation', 'AF', 'comprendre', 'épreuve', 'écrite', 'individuelle', 'Savoir', 'durée', 'comprise', '1h', '2h', 'planifiée', 'Service', 'Scolarité']
+["L'", 'évaluation', 'connaissances', 'Action', 'Formation', 'AF', 'comprendre', 'épreuve', 'écrite', 'individuelle', 'Savoir', 'durée', 'comprise', '1h', '2h', 'planifiée', 'Service', 'Scolarité']
 
-['Il', 'ny', 'seconde', 'session', 'organisée']
+['Il', 'seconde', 'session', 'organisée']
 
-['En', 'cas', 'dabsences', 'autorisées', 'Service', 'Scolarité', 'délèves', 'dauditeurs', 'épreuve', 'rattrapage', 'proposée', 'modalités', 'lépreuve', 'initiale', 'élèves', 'auditeurs', 'condition', 'organisation', 'matériellement']
+['En', 'cas', 'absences', 'autorisées', 'Service', 'Scolarité', 'élèves', 'auditeurs', 'épreuve', 'rattrapage', 'proposée', 'modalités', 'épreuve', 'initiale', 'élèves', 'auditeurs', 'condition', 'organisation', 'matériellement']
 
-['Le', 'contrôle', 'connaissance', 'dune', 'AF', 'comprendre', 'épreuve', 'écrite', 'individuelle', 'Savoir', 'condition', 'quil', 'comprenne', 'évaluation', 'individuelle', 'quil', 'validé', 'Conseil', 'lUnité', 'dEnseignement']
+['Le', 'contrôle', 'connaissance', 'AF', 'comprendre', 'épreuve', 'écrite', 'individuelle', 'Savoir', 'condition', 'comprenne', 'évaluation', 'individuelle', 'validé', 'Conseil', 'Unité', 'Enseignement']
 
-['Les', 'Actions', 'Formation', 'lUE', 'Métier', 'MSO', 'lUE', 'Secteur', 'Actions', 'Formation', 'bon', 'déroulement', 'obtenu', 'travers', 'participation', 'active', 'élèves', 'auditeurs']
+['Les', 'Actions', 'Formation', 'UE', 'Métier', 'MSO', 'UE', 'Secteur', 'Actions', 'Formation', 'bon', 'déroulement', 'obtenu', 'travers', 'participation', 'active', 'élèves', 'auditeurs']
 
-['Avec', 'laccord', 'Conseil', 'lUnité', 'dEnseignement', 'concernée', 'participation', 'présence', 'élèves', 'auditeurs', 'AF', 'pourront', 'faire', 'lobjet', 'dune', 'évaluation', 'chiffrée']
+['Avec', 'accord', 'Conseil', 'Unité', 'Enseignement', 'concernée', 'participation', 'présence', 'élèves', 'auditeurs', 'AF', 'pourront', 'faire', 'objet', 'évaluation', 'chiffrée']
 
-['Un', 'avis', 'comportement', 'général', 'lélève', 'cours', 'activités', 'Actions', 'Formation', 'adaptation', 'intégration', 'vie', 'doption', 'présence', 'travail', 'personnel', 'autonomie', 'aptitude', 'travailler', 'équipe', ' ', 'exigé', 'élève', 'auditeur']
+['Un', 'avis', 'comportement', 'général', 'élève', 'cours', 'activités', 'Actions', 'Formation', 'adaptation', 'intégration', 'vie', 'option', 'présence', 'travail', 'personnel', 'autonomie', 'aptitude', 'travailler', 'équipe', 'exigé', 'élève', 'auditeur']
 
-['Les', 'Unités', 'dEnseignement', 'Parcours', 'Electif', 'UE', 'AF', 'suivies', 'élève', 'résulte', 'choix']
+['Les', 'Unités', 'Enseignement', 'Parcours', 'Electif', 'UE', 'AF', 'suivies', 'élève', 'résulte', 'choix']
 
-['Ce', 'type', 'dUE', 'validé', 'élève', 'auditeur', 'note', 'globale', 'Action', 'Formation', 'supérieure', 'égale', '10']
+['Ce', 'type', 'UE', 'validé', 'élève', 'auditeur', 'note', 'globale', 'Action', 'Formation', 'supérieure', 'égale', '10']
 
-['Dans', 'cas', 'dune', 'note', 'globale', 'dAction', 'Formation', 'dun', 'élève', 'dun', 'auditeur', 'strictement', 'inférieure', '10', 'note', 'globale', 'dUE', 'supérieure', 'égale', '10', 'Conseil', 'lUnité', 'dEnseignement', 'faire', 'Jury', 'Parcours', 'Electif', 'proposition', 'motivée', 'validation', 'élève', 'auditeur']
+['Dans', 'cas', 'note', 'globale', 'Action', 'Formation', 'élève', 'auditeur', 'strictement', 'inférieure', '10', 'note', 'globale', 'UE', 'supérieure', 'égale', '10', 'Conseil', 'Unité', 'Enseignement', 'faire', 'Jury', 'Parcours', 'Electif', 'proposition', 'motivée', 'validation', 'élève', 'auditeur']
 
-['Cette', 'proposition', 'fonde', 'appréciation', 'générale', 'travail', 'personnel', 'lélève', 'implication']
+['Cette', 'proposition', 'fonde', 'appréciation', 'générale', 'travail', 'personnel', 'élève', 'implication']
 
-['Pour', 'Conseil', 'dUE', 'fonde', 'paramètres', 'incluant', 'notes', 'compétence', 'lUE', 'labsentéisme']
+['Pour', 'Conseil', 'UE', 'fonde', 'paramètres', 'incluant', 'notes', 'compétence', 'UE', 'absentéisme']
 
-['Dans', 'cas', 'note', 'globale', 'dUE', 'strictement', 'inférieure', '10', 'validation', 'lUE', 'discutée', 'Jury']
+['Dans', 'cas', 'note', 'globale', 'UE', 'strictement', 'inférieure', '10', 'validation', 'UE', 'discutée', 'Jury']
 
-['Aménagements', 'lévaluation', 'connaissances', '\n \n', 'Le', 'contrôle', 'connaissances', 'aménagé', 'niveau', 'linguistique', 'scientifique', 'culturel']
+['Le', 'contrôle', 'connaissances', 'aménagé', 'niveau', 'linguistique', 'scientifique', 'culturel']
 
 ['Ces', 'aménagements', 'temporaires', 'appliquent', 'étudiants', 'objectif', 'faciliter', 'intégration', 'catégories', 'étudiants']
 
-['Aménagement', 'raison', 'linguistique', '\n\n', 'Chaque', 'Conseil', 'dUnité', 'dEnseignement', 'définit', 'lévaluation', 'connaissances', 'lUE', 'nécessite', 'aménagement', 'niveau', 'linguistique', 'oui', 'définit', 'règles', 'précises', 'daménagement', 'mentionnées', 'fascicule', 'pédagogique']
+['Chaque', 'Conseil', 'Unité', 'Enseignement', 'définit', 'évaluation', 'connaissances', 'UE', 'nécessite', 'aménagement', 'niveau', 'linguistique', 'oui', 'définit', 'règles', 'précises', 'aménagement', 'mentionnées', 'fascicule', 'pédagogique']
 
-['Laménagement', 'consister', 'loctroi', 'dun', 'tiers', 'temps', 'supplémentaire', 'dun', 'sujet', 'différencié', '...', 'Laménagement', 'raison', 'linguistique', 'prévu', 'étudiants', 'venant', 'préparer', 'Diplôme', 'dingé-', 'nieur', 'lÉcole', 'Centrale', 'Lyon', 'issus', 'dun', 'établissement', 'étranger', 'non', 'francophone', 'CASTING', 'Double', 'Diplôme', 'partenariat', 'université', 'étrangère', 'etc.', 'non', 'titulaires', 'dun', 'baccalauréat', 'français']
+["L'", 'aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', '...']
 
-['Tout', 'étudiant', 'laménagement', 'nest', 'prévu', 'priori', 'faire', 'demande', 'entrée', 'lÉcole', 'Centrale', 'Lyon', 'auprès', 'Service', 'Scolarité', 'date', 'fixée', 'Service', 'Scolarité']
+["L'", 'aménagement', 'raison', 'linguistique', 'prévu', 'étudiants', 'venant', 'préparer', 'Diplôme', 'ingé-', 'nieur', 'École', 'Centrale', 'Lyon', 'issus', 'établissement', 'étranger', 'non', 'francophone', 'CASTING', 'Double', 'Diplôme', 'partenariat', 'université', 'étrangère', '..', 'non', 'titulaires', 'baccalauréat', 'français']
 
-['Lacceptation', 'non', 'demande', 'dépendra', 'résultat', 'dun', 'test', 'langue', 'organisé', 'enseignants', 'lUE', 'Langues', 'Cultures']
+['Tout', 'étudiant', 'aménagement', 'prévu', 'priori', 'faire', 'demande', 'entrée', 'École', 'Centrale', 'Lyon', 'auprès', 'Service', 'Scolarité', 'date', 'fixée', 'Service', 'Scolarité']
 
-['Dans', 'cas', 'dun', 'aménagement', 'raison', 'linguistique', 'létudiant', 'lobligation', 'lenseignement', ' ', 'Français', 'Langue', 'Etrangère', ' ', 'lenseignement', ' ', 'Français', 'écrit', 'décision', 'enseignants', 'langue']
+["L'", 'acceptation', 'non', 'demande', 'dépendra', 'résultat', 'test', 'langue', 'organisé', 'enseignants', 'UE', 'Langues', 'Cultures']
 
-['Pour', 'suivi', 'enseignements', 'Langues', 'vivantes', 'létudiant', 'conformer', 'règles', 'définies', 'lUE', 'Langues', 'Cultures', 'mentionnées', 'fascicule', 'pédagogique']
+['Dans', 'cas', 'aménagement', 'raison', 'linguistique', 'étudiant', 'obligation', 'enseignement', 'Français', 'Langue', 'Etrangère', 'enseignement', 'Français', 'écrit', 'décision', 'enseignants', 'langue']
 
-['La', 'durée', 'aménagement', 'UE', 'dédiées', 'Sciences', 'lingénieur', 'limitée', 'an']
+['Pour', 'suivi', 'enseignements', 'Langues', 'vivantes', 'étudiant', 'conformer', 'règles', 'définies', 'UE', 'Langues', 'Cultures', 'mentionnées', 'fascicule', 'pédagogique']
+
+['La', 'durée', 'aménagement', 'UE', 'dédiées', 'Sciences', 'ingénieur', 'limitée', 'an']
 
 ['Enfin', 'stages', 'réaliser', 'période', 'devront', 'effectués', 'France']
 
-['Aménagement', 'raison', 'scientifique', 'Unités', 'dEnseignement', 'relevant', 'Sciences', 'Humaines', 'Sociales', '\n\n\n', 'Chaque', 'Conseil', 'dUnité', 'dEnseignement', 'définit', 'lévaluation', 'connaissances', 'lUE', 'nécessite', 'aménagement', 'raison', 'scientifique', 'oui', 'définit', 'fonction', 'élèves', 'concernées', 'règles', 'précises', 'daménagement', 'mentionnées', 'fascicules', 'pédagogiques']
+['Chaque', 'Conseil', 'Unité', 'Enseignement', 'définit', 'évaluation', 'connaissances', 'UE', 'nécessite', 'aménagement', 'raison', 'scientifique', 'oui', 'définit', 'fonction', 'élèves', 'concernées', 'règles', 'précises', 'aménagement', 'mentionnées', 'fascicules', 'pédagogiques']
 
-['Laménagement', 'consister', 'loctroi', 'dun', 'tiers', 'temps', 'supplémentaire', 'dun', 'sujet', 'différencié', 'etc.']
+["L'", 'aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', '..']
 
-['Les', 'élèves', 'concernés', 'élèves', 'élèves', 'double', 'diplôme', 'issus', 'université', 'étrangère', 'bénéficiant', 'aména', 'gement', 'raison', 'linguistique', 'durée', 'aménagement', 'limitée', 'an', ' ', 'élèves', 'architectes', 'S5', 'S6', 'correspond', '3', 'premières', 'années', 'étude', 'effec', 'tuées', 'Ecole', 'Centrale', 'parallèle', 'école', 'architecture', ' ', 'élèves', 'EMLyon', 'Business', 'School', 'double', 'diplôme', 'Tronc', 'Commun']
+['Les', 'élèves', 'concernés', 'élèves', 'élèves', 'double', 'diplôme', 'issus', 'université', 'étrangère', 'bénéficiant', 'aména', 'gement', 'raison', 'linguistique', 'durée', 'aménagement', 'limitée', 'an', 'élèves', 'architectes', 'S5', 'S6', 'correspond', '3', 'premières', 'années', 'étude', 'effec', 'tuées', 'École', 'Centrale', 'parallèle', 'école', 'architecture', 'élèves', 'EMLyon', 'Business', 'School', 'double', 'diplôme', 'Tronc', 'Commun']
 
-['Aménagement', 'raison', 'culturelle', ' \n', 'Le', 'Conseil', 'Unité', 'Enseignement', 'relevant', 'Sciences', 'Humaines', 'Sociales', 'définit', 'évaluation', 'connaissances', 'UE', 'nécessite', 'aménagement', 'raison', 'culturelle', 'oui', 'définit', 'règles', 'précises', 'daménagement', 'mentionnées', 'fascicule', 'pédagogique']
+['Le', 'Conseil', 'Unité', 'Enseignement', 'relevant', 'Sciences', 'Humaines', 'Sociales', 'définit', 'évaluation', 'connaissances', 'UE', 'nécessite', 'aménagement', 'raison', 'culturelle', 'oui', 'définit', 'règles', 'précises', 'aménagement', 'mentionnées', 'fascicule', 'pédagogique']
 
-['Les', 'élèves', 'concernés', 'élèves', 'admis', 'double', 'diplôme', 'issus', 'dune', 'université', 'étrangère']
+['Les', 'élèves', 'concernés', 'élèves', 'admis', 'double', 'diplôme', 'issus', 'université', 'étrangère']
 
-['Aménagement', 'élèves', 'ingénieurs', 'Actions', 'Formation', 'Collège', 'Hautes', 'Etudes', 'Lyon', 'Sciences', '\n\n', 'Un', 'élève', 'ingénieur', 'autorisé', 'participer', 'programme', 'déchange', 'Collègue', 'Hautes', 'Etudes', 'Lyon', 'Sciences', 'bénéficie', 'dun', 'aménagement', 'S8', 'respectivement', 'S9', 'validation', 'lUE', 'Electif', 'resp']
+['Un', 'élève', 'ingénieur', 'autorisé', 'participer', 'programme', 'échange', 'Collègue', 'Hautes', 'Etudes', 'Lyon', 'Sciences', 'bénéficie', 'aménagement', 'S8', 'respectivement', 'S9', 'validation', 'UE', 'Electif', 'respectivement', 'UE', 'MOD', 'm', 'crédits', 'ECTS', 'remplacée', 'validation', 'UE', 'constituée', 'Action', 'Formation', 'suivie', 'établissement', 'extérieur', 'CHELS', 'n', 'm', 'crédits', 'ECTS', 'modalités', 'contrôle', 'connaissances', 'établissement', 'validation', 'UE', 'constituée', 'nombre', 'réduit', 'Actions', 'Formation', 'UE', 'Electif', 'respectivement', 'UE', 'MOD', 'm', 'n', 'crédits', 'ECTS']
 
-['UE', 'MOD', 'm', 'crédits', 'ECTS', 'remplacée', 'validation', 'dune', 'UE', 'constituée', 'lAction', 'Formation', 'suivie', 'létablissement', 'extérieur', 'CHELS', 'n', ' ', 'm', 'crédits', 'ECTS', 'modalités', 'contrôle', 'connaissances', 'établissement', 'validation', 'dune', 'UE', 'constituée', 'dun', 'nombre', 'réduit', 'dActions', 'Formation', 'lUE', 'Electif', 'resp']
+['Le', 'nombre', 'n', 'crédits', 'ECTS', 'décidé', 'Direction', 'Etudes', 'base', 'dossier', 'déposé', 'élève']
 
-['UE', 'MOD', 'm', ' ', 'n', 'crédits', 'ECTS']
+['Un', 'élève', '3ème', 'année', 'ECL', 'inscrit', 'diplôme', 'national', 'Master', 'demander', 'reconnaissance', 'équivalence', 'Modules', 'Modules', 'Ouverts', 'Disciplinaires', 'MOD', 'Modules', 'Ouverts', 'Secteur', 'MOS', 'Modules', 'Spécifiques', 'Option', 'MSO', 'libre', 'choix', 'enseignements', 'Master', 'co-accrédité', 'ECL', 'appartenant', 'liste', 'Masters', 'inscrits', 'fasicule', 'pédagogique', 'modules', 'métier']
 
-['Le', 'nombre', 'n', 'crédits', 'ECTS', 'décidé', 'Direction', 'Etudes', 'base', 'dossier', 'déposé', 'lélève']
-
-['Aménagement', 'élèves', 'ingénieurs', 'Double', 'Diplôme', 'Master', '\n\n', 'Un', 'élève', '3ème', 'année', 'lECL', 'inscrit', 'diplôme', 'national', 'Master', 'demander', 'reconnaissance', 'léquivalence', 'dun', 'Modules', ' ', 'Modules', 'Ouverts', 'Disciplinaires', ' ', 'MOD', ' ', 'Modules', 'Ouverts', 'Secteur', ' ', 'MOS', ' ', 'Modules', 'Spécifiques', 'Option', ' ', 'MSO', 'libre', 'choix', 'enseignements', 'Master', 'co-accrédité', 'lECL', 'appartenant', 'liste', 'Masters', 'inscrits', 'fasicule', 'pédagogique', 'modules', 'métier']
-
-['Le', 'correspondant', 'ECL', 'Master', 'faire', 'demande', 'auprès', 'Direction', 'Études', 'sengage', 'fournir', 'Service', 'Scolarité', 'notation', 'chiffrée', 'reportée', 'dossier', 'dévaluation', '3ème', 'année', 'ECL', 'lélève', 'rubrique', ' ', 'Master', 'co-accrédité']
+['Le', 'correspondant', 'ECL', 'Master', 'faire', 'demande', 'auprès', 'Direction', 'Études', 'engage', 'fournir', 'Service', 'Scolarité', 'notation', 'chiffrée', 'reportée', 'dossier', 'évaluation', '3ème', 'année', 'ECL', 'élève', 'rubrique', 'Master', 'co-accrédité']
 
 ['Une', 'soutenance', 'travail', 'recherche', 'master', 'associée', 'soutenance', 'stage', 'final', 'cursus', 'ingénieur', 'TFE', 'respect', 'règles', 'déroulement', 'soutenances', 'TFE']
 
-['Dispositions', 'générales', '\n', 'Validation', 'Compétence', 'Transversale', '\n\n', 'Pour', 'élève', 'auditeur', 'reconnaissance', 'niveau', 'compétence', 'réferentiel', 'présentée', 'fascicules', 'pédagogiques', 'validation', 'composantes', 'définies', 'fascicules', 'pédagogiques']
+['Pour', 'élève', 'auditeur', 'reconnaissance', 'niveau', 'compétence', 'réferentiel', 'présentée', 'fascicules', 'pédagogiques', 'validation', 'composantes', 'définies', 'fascicules', 'pédagogiques']
 
-['Pour', 'composante', 'validée', 'élève', 'obtenir', 'fois', 'niveau', 'acquis', ' ', 'niveau', 'compétent']
+['Pour', 'composante', 'validée', 'élève', 'obtenir', 'fois', 'niveau', 'acquis', 'niveau', 'compétent']
 
-['Crédits', 'ECT', '\n', 'La', 'validation', 'dune', 'Compétence', 'Transversale', 'donne', 'lieu', 'lattribution', 'crédits', 'ECTS']
+['La', 'validation', 'Compétence', 'Transversale', 'donne', 'lieu', 'attribution', 'crédits', 'ECTS']
 
 ['Une', 'Compétence', 'validée', 'réévaluée']
 
-['Evaluation', 'Compétences', 'Transversales', '\n', 'Responsabilité', '\n', 'Les', 'responsables', 'Parcours', 'obligation', 'assurer', 'Compétences', 'Transversales', 'élèves', 'effectivement', 'évaluées', 'issue', 'Parcours', 'responsabilité']
+['Les', 'responsables', 'Parcours', 'obligation', 'assurer', 'Compétences', 'Transversales', 'élèves', 'effectivement', 'évaluées', 'issue', 'Parcours', 'responsabilité']
 
 ['Ils', 'désigneront', 'particulier', 'enseignants', 'charge', 'évaluation', 'transmission', 'notes', 'Service', 'Scolarité']
 
-['Notation', 'alphabétique', '\n', "L'", 'évaluation', 'composante', 'Compétence', 'Transversale', 'exprimée', 'exclusivement', 'lettre', 'appartenant', 'ensemble', 'insuffisant', 'acquis', 'remarquable']
+["L'", 'évaluation', 'composante', 'Compétence', 'Transversale', 'exprimée', 'exclusivement', 'lettre', 'appartenant', 'ensemble', 'insuffisant', 'acquis', 'remarquable']
 
-['Transmission', 'publication', 'notes', 'alphabétiques', '\n\n', 'Les', 'notes', 'alphabétiques', 'transmises', 'Service', 'Scolarité', 'tard', 'semaines', 'évaluation', 'enseignants', 'charge', 'évaluation']
+['Les', 'notes', 'alphabétiques', 'transmises', 'Service', 'Scolarité', 'tard', 'semaines', 'évaluation', 'enseignants', 'charge', 'évaluation']
 
 ['Le', 'Service', 'Scolarité', 'publie', 'reporte', 'dossier', 'élève']
 
 ['Une', 'fois', 'résultats', 'publiés', 'éventuelles', 'rectifications', 'apporter', 'signifiées', 'écrit', 'Service', 'Scolarité', 'enseignant', 'charge', 'évaluation', 'tard', 'délai', 'semaines', 'publication']
 
-['Mesures', 'appliquer', 'suite', 'absence', 'évaluation', '\n\n', 'Les', 'mesures', 'décidées', 'responsables', 'Parcours', 'mentionnées', 'fascicule', 'pédagogique']
+['Les', 'mesures', 'appliquer', 'suite', 'absence', 'évaluation', 'décidées', 'responsables', 'Parcours', 'mentionnées', 'fascicule', 'pédagogique']
 
-['Aménagement', 'évaluation', 'Compétences', 'Transversales', '\n\n', 'Pour', 'élève', 'aménagements', 'décidés', 'responsables', 'Parcours', 'partir', 'examen', 'cas', 'demande']
+['Pour', 'élève', 'aménagements', 'décidés', 'responsables', 'Parcours', 'partir', 'examen', 'Compétences', 'Transversales', 'cas', 'demande']
 
-['Transmission', 'Jury', '\n', 'Elements', 'dossier', '\n\n', "L'", 'ensemble', 'notes', 'transmis', 'Jury', 'fin', 'semestre', 'Service', 'Scolarité']
+["L'", 'ensemble', 'notes', 'transmis', 'Jury', 'fin', 'semestre', 'Service', 'Scolarité']
 
-['Le', 'Service', 'Scolarité', 'constitue', 'élève', 'dossier', 'scolaire', 'comprend', '  ', 'feuilles', 'synthèse', 'semestrielles', 'incluant', 'décisions', 'jurys', '  ', 'relevés', 'résultats', 'relatifs', 'Unité', 'Enseignement', 'activité', '  ', 'relevés', 'résultats', 'relatifs', 'Compétence', 'Transversale', '  ', 'informations', 'éventuellement', 'fournies', 'Conseils', 'Unité', 'Enseignement', '  ', 'documents', 'personnalisés', 'trait', 'scolarité', 'élève', 'éventuels', 'compléments', 'information', 'transmis', 'élève', 'PVs', 'audition', 'commission', 'issue', 'Jury', 'certificats', 'médicaux', 'relevés', 'absences', 'éventuels', 'avertissements', 'blâmes']
+['Le', 'Service', 'Scolarité', 'constitue', 'élève', 'dossier', 'scolaire', 'comprend', 'feuilles', 'synthèse', 'semestrielles', 'incluant', 'décisions', 'jurys', 'relevés', 'résultats', 'relatifs', 'Unité', 'Enseignement', 'activité', 'relevés', 'résultats', 'relatifs', 'Compétence', 'Transversale', 'informations', 'éventuellement', 'fournies', 'Conseils', 'Unité', 'Enseignement', 'documents', 'personnalisés', 'trait', 'scolarité', 'élève', 'éventuels', 'compléments', 'information', 'transmis', 'élève', 'PVs', 'audition', 'commission', 'issue', 'Jury', 'certificats', 'médicaux', 'relevés', 'absences', 'éventuels', 'avertissements', 'blâmes']
 
-['Fraudes', 'Plagiats', '\n\n', 'Les', 'modalités', 'gestion', 'fraudes', 'définies', 'Code', 'Education', 'Livre', 'VIII', 'Titre', 'Ier', 'Section', '2', 'Ce', 'texte', 'décrit', 'précise', 'procédure']
+['Les', 'modalités', 'gestion', 'fraudes', 'définies', 'Code', 'Education', 'Livre', 'VIII', 'Titre', 'Ier', 'Section', '2']
+
+['Ce', 'texte', 'décrit', 'précise', 'procédure']
 
 ['Le', 'plagiat', 'consiste', 'faire', 'passer', 'travaux', 'fragments', 'travaux', 'produits']
 
@@ -834,25 +572,25 @@
 
 ['La', 'procédure', 'définie', 'Code', 'Education', 'applique']
 
-['Commission', 'anti-plagiat', '\n\n', 'Une', 'commission', 'anti-plagiat', 'instituée', 'objectif', 'réunir', 'faits', 'cas', 'présomption', 'plagiat', 'consigner', 'rapport']
+['Une', 'commission', 'anti-plagiat', 'instituée', 'objectif', 'réunir', 'faits', 'cas', 'présomption', 'plagiat', 'consigner', 'rapport']
 
-['Ce', 'rapport', 'utilisé', 'Directeur', 'Ecole', 'décider', 'saisie', 'section', 'disciplinaire', 'transmis', 'Section', 'Disciplinaire', 'instruction', 'celleci', 'élève', 'auditeur', 'présumé', 'plagiaire']
+['Ce', 'rapport', 'utilisé', 'Directeur', 'École', 'décider', 'saisie', 'section', 'disciplinaire', 'transmis', 'Section', 'Disciplinaire', 'instruction', 'celleci', 'élève', 'auditeur', 'présumé', 'plagiaire']
 
 ['La', 'commission', 'anti-plagiat', 'constituée', 'expert', 'technique', 'TICE', 'membre', 'Service', 'Scolarité', 'représentants', 'Unités', 'Enseignement', 'enseignant', 'concernés', 'plagiat', 'présence', 'représentant', 'Unité', 'Enseignement', 'enseignant', 'concernés', 'obligatoire']
 
-['Autorisations', 'dabsences', '\n\n', 'En', 'complément', 'Article', '3', 'Règlement', 'Scolarité', 'élèves', 'ingénieurs', 'auditeurs', 'bénéficier', 'autorisation', 'absence', 'délivrée', 'Direction', 'Etudes', 'activités', 'encadrées', 'Actions', 'Formation', 'cas', '  ', 'convocation', 'contrôle', 'connaissances', 'examens', 'cadre', 'compléments', 'formation', 'inscrits', 'fascicules', 'pédagogiques', 'planification', 'relève', 'Ecole', '  ', 'participation', 'activités', 'responsable', 'Association', 'élèves', '  ', 'convocation', 'officielle', 'jury', 'conseil', 'commission', 'Ecole', 'Centrale', 'Lyon', '  ', 'convocations', 'émanant', 'autorités', 'administratives', 'convenance', 'personnelle', 'condition', ' ', 'concerne', 'séances', 'contrôle', 'connaissance']
+['En', 'complément', 'Article', '3', 'Règlement', 'Scolarité', 'élèves', 'ingénieurs', 'auditeurs', 'bénéficier', 'autorisation', 'absence', 'délivrée', 'Direction', 'Etudes', 'activités', 'encadrées', 'Actions', 'Formation', 'cas', 'convocation', 'contrôle', 'connaissances', 'examens', 'cadre', 'compléments', 'formation', 'inscrits', 'fascicules', 'pédagogiques', 'planification', 'relève', 'École', 'participation', 'activités', 'responsable', 'Association', 'élèves', 'convocation', 'officielle', 'jury', 'conseil', 'commission', 'École', 'Centrale', 'Lyon', 'convocations', 'émanant', 'autorités', 'administratives', 'convenance', 'personnelle', 'condition', 'concerne', 'séances', 'contrôle', 'connaissance']
 
-['Absences', 'contrôle', 'connaissance', '\n\n', 'Dans', 'cas', 'convocation', 'contrôle', 'connaissances', 'cadre', 'compléments', 'formation', 'inscrits', 'fascicules', 'pédagogiques', 'planification', 'relève', 'Ecole', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposée', 'élève', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jours', 'ouvrables', 'précédant', 'date', 'contrôle', 'cas', 'inscription', 'Licence', 'inscription', 'effectuée', 'Université', 'Lyon', 'déclarée', 'Service', 'Scolarité', 'fin', 'octobre', 'année', 'inscription']
+['Dans', 'cas', 'convocation', 'contrôle', 'connaissances', 'cadre', 'compléments', 'formation', 'inscrits', 'fascicules', 'pédagogiques', 'planification', 'relève', 'École', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposée', 'élève', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jours', 'ouvrables', 'précédant', 'date', 'contrôle', 'cas', 'inscription', 'Licence', 'inscription', 'effectuée', 'Université', 'Lyon', 'déclarée', 'Service', 'Scolarité', 'fin', 'octobre', 'année', 'inscription']
 
-['Dans', 'cas', 'participation', 'activités', 'relevant', 'Association', 'Elèves', 'Ecole', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposée', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jours', 'ouvrables', 'jour', 'activité', 'forme', 'liste', 'élèves', 'concernés', 'activité', 'arrêtée', 'responsabilité', 'VP', 'concerné']
+['Dans', 'cas', 'participation', 'activités', 'relevant', 'Association', 'Elèves', 'École', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposée', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jours', 'ouvrables', 'jour', 'activité', 'forme', 'liste', 'élèves', 'concernés', 'activité', 'arrêtée', 'responsabilité', 'VP', 'concerné']
 
-['Pour', 'motif', 'caractère', 'exceptionnel', 'Directeur', 'Ecole', 'habilité', 'traiter', 'mande', 'formulée', 'formes', 'délais']
+['Pour', 'motif', 'caractère', 'exceptionnel', 'Directeur', 'École', 'habilité', 'traiter', 'mande', 'formulée', 'formes', 'délais']
 
-['Rattrapage', '\n', "L'", 'élève', 'auditeur', 'disposant', 'justification', 'absence', 'sens', 'Article', '3', 'Règlement', 'Scolarité', 'procédure', 'procurer', 'propre', 'initiative', 'séance', 'rattrapage', 'contenus', 'travaillés', 'cours', 'magistral', 'travaux', 'dirigés', ' ', 'prendre', 'contact', 'tôt', 'responsables', 'Actions', 'Formation', 'séances', 'pratiques', 'séances', 'Autonomie', 'rattraper', 'matériellement', 'règles', 'modalités', 'fixées', 'Conseil', 'Unité', 'Enseignement']
+["L'", 'élève', 'auditeur', 'disposant', 'justification', 'absence', 'sens', 'Article', '3', 'Règlement', 'Scolarité', 'procédure', 'procurer', 'propre', 'initiative', 'séance', 'rattrapage', 'contenus', 'travaillés', 'cours', 'magistral', 'travaux', 'dirigés', 'prendre', 'contact', 'tôt', 'responsables', 'Actions', 'Formation', 'séances', 'pratiques', 'séances', 'Autonomie', 'rattraper', 'matériellement', 'règles', 'modalités', 'fixées', 'Conseil', 'Unité', 'Enseignement']
 
-['Une', 'année', 'césure', 'accomplie', 'élève', 'fois', 'cours', 'scolarité', 'Ecole', 'Centrale', 'Lyon']
+['Une', 'année', 'césure', 'accomplie', 'élève', 'fois', 'cours', 'scolarité', 'École', 'Centrale', 'Lyon']
 
-['Elle', 'déroule', 'semestre', 'S6', 'semestre', 'S8', 'cursus', 'ingénieur', 'Ecole']
+['Elle', 'déroule', 'semestre', 'S6', 'semestre', 'S8', 'cursus', 'ingénieur', 'École']
 
 ['Dans', 'cas', 'élève', 'double-diplôme', 'accord', 'établissement', 'partenaire', 'nécessaire']
 
@@ -860,31 +598,31 @@
 
 ['Cela', 'correspond', 'parenthèse', 'formation', 'élève', 'cours', 'latitude', 'réaliser', 'projet', 'personnel', 'professionnel']
 
-['La', 'décision', 'accorder', 'année', 'césure', 'revient', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'demande', 'motivée', 'élève', 'validation', 'dossier', 'Commission', 'Césure']
+['La', 'décision', 'accorder', 'année', 'césure', 'revient', 'Directeur', 'École', 'Centrale', 'Lyon', 'demande', 'motivée', 'élève', 'validation', 'dossier', 'Commission', 'Césure']
 
 ['La', 'Commission', 'Césure', 'mise', 'place', 'année', '15', 'décembre']
 
 ['Elle', 'composée', 'Directeur', 'Etudes', 'représentant', 'Service', 'Scolarité', 'Responsable', 'Tronc', 'Commun', 'Responsable', 'Parcours', 'Electif', 'permanents', 'membres', 'Conseil', 'Etudes', 'élèves', 'membres', 'Conseil', 'Etudes']
 
-['Exceptionnellement', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'accorder', 'césure', 'dossier', 'demande', 'été', 'validé', 'Commission', 'Césure']
+['Exceptionnellement', 'Directeur', 'École', 'Centrale', 'Lyon', 'accorder', 'césure', 'dossier', 'demande', 'été', 'validé', 'Commission', 'Césure']
 
 ['La', 'décision', 'accorder', 'césure', 'conditionnée', 'absence', 'mesure', 'redoublement', 'renvoi', 'prise', 'Jury', 'Tronc', 'Commun', 'Parcours', 'Electif']
 
-["D'", 'décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'élèves', 'auditeurs', 'présentant', '\n', 'handicap', ' ', 'bénéficier', 'aménagements', 'portant', ' ', 'conditions', 'déroulement', 'épreuves', 'nature', 'permettre', 'bénéficier', 'conditions', 'matérielles', 'aides', 'techniques', 'aides', 'humaines', 'appropriées', 'situation', 'majoration', 'temps', 'imparti', 'épreuves', 'excéder', 'tiers', 'temps', 'normalement', 'prévu']
+["D'", 'décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'élèves', 'auditeurs', 'présentant', 'handicap', 'bénéficier', 'aménagements', 'portant', 'conditions', 'déroulement', 'épreuves', 'nature', 'permettre', 'bénéficier', 'conditions', 'matérielles', 'aides', 'techniques', 'aides', 'humaines', 'appropriées', 'situation', 'majoration', 'temps', 'imparti', 'épreuves', 'excéder', 'tiers', 'temps', 'normalement', 'prévu']
 
 ['Toutefois', 'majoration', 'allongée', 'égard', 'situation', 'exceptionnelle', 'candidat', 'demande', 'motivée', 'médecin', 'conservation', 'ans', 'notes', 'épreuves', 'unités', 'obtenues', 'examens', 'étalement', 'sessions', 'passage', 'épreuves', 'examens']
 
-['Les', 'aménagements', 'prévus', 'décret', 'mis', 'oeuvre', 'Ecole', 'Centrale', 'Lyon', 'procédure', 'définie', 'ci-dessous']
+['Les', 'aménagements', 'prévus', 'décret', 'mis', 'oeuvre', 'École', 'Centrale', 'Lyon', 'procédure', 'définie', 'ci-dessous']
 
-['Déclaration', 'élèves', 'auditeurs', 'situation', 'handicap', 'handicap', 'permanent', 'déclaré', 'inscription', 'Ecole', 'Centrale', 'Lyon', 'élève', 'déposer', 'demande', 'aménagement', 'auprès', 'Service', 'Scolarité', 'inscription', 'Ecole', 'Centrale', 'Lyon']
+['Déclaration', 'élèves', 'auditeurs', 'situation', 'handicap', 'handicap', 'permanent', 'déclaré', 'inscription', 'École', 'Centrale', 'Lyon', 'élève', 'déposer', 'demande', 'aménagement', 'auprès', 'Service', 'Scolarité', 'inscription', 'École', 'Centrale', 'Lyon']
 
 ['Dans', 'cas', 'handicap', 'déclare', 'cours', 'scolarité', 'temporaire', 'non', 'élève', 'déposer', 'demande', 'aménagement', "lorsqu'", 'déclare']
 
-['Evaluation', 'situation', 'handicap', 'trouve', 'élève', 'auditeur', 'déposé', 'demande', 'aménagement', 'élève', 'auditeur', 'examiné', 'Médecine', 'Préventive', 'Universitaire', 'Ecole', 'Centrale', 'Lyon', 'émet', 'avis', 'demande', 'aménagement']
+['Evaluation', 'situation', 'handicap', 'trouve', 'élève', 'auditeur', 'déposé', 'demande', 'aménagement', 'élève', 'auditeur', 'examiné', 'Médecine', 'Préventive', 'Universitaire', 'École', 'Centrale', 'Lyon', 'émet', 'avis', 'demande', 'aménagement']
 
 ["L'", 'élève', 'auditeur', 'apporter', 'documents', 'médicaux', 'justifiant', 'état']
 
-['Décision', 'aménagements', 'nécessaires', 'examens', 'contrôles', 'connaissance', 'Direction', 'Etudes', 'concertation', 'élève', 'auditeur', 'Médecine', 'Préventive', 'Universitaire', 'Ecole', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'décide', 'aménagements', 'nécessaires']
+['Décision', 'aménagements', 'nécessaires', 'examens', 'contrôles', 'connaissance', 'Direction', 'Etudes', 'concertation', 'élève', 'auditeur', 'Médecine', 'Préventive', 'Universitaire', 'École', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'décide', 'aménagements', 'nécessaires']
 
 ["D'", 'décret', 'épreuve', 'dérouler', 'hospitalisation']
 
@@ -894,45 +632,45 @@
 
 ['Suivant', 'cas', 'décisions', 'prises', 'aller', 'réaménagement', 'séance', 'TP', 'dispense']
 
-['Décision', 'dadaptation', 'déroulement', 'formation', 'ingénieur', 'étalant', 'suivi', 'validation', 'dUE', 'période', 'longue', 'initialement', 'prévue', 'exemple', 'UE', 'correspondant', 'semestres', 'suivis', 'semestres', 'quune', 'UE', 'semestre', 'cas', 'dune', 'UE', 'non', 'validée', 'donnant', 'possibilité', 'conserver', 'notes', 'examens', 'lUE', 'supérieures', '1020', 'dun', ' ', 'redoublement', ' ', 'UE']
+['Décision', 'adaptation', 'déroulement', 'formation', 'ingénieur', 'étalant', 'suivi', 'validation', 'UE', 'période', 'longue', 'initialement', 'prévue', 'exemple', 'UE', 'correspondant', 'semestres', 'suivis', 'semestres', 'UE', 'semestre', 'cas', 'UE', 'non', 'validée', 'donnant', 'possibilité', 'conserver', 'notes', 'examens', 'UE', 'supérieures', '1020', 'redoublement', 'UE']
 
 ['Les', 'notes', 'conservées', '5', 'ans']
 
-['De', 'application', 'règles', 'entraîner', 'élève', 'auditeur', 'situation', 'handicap', 'dépassement', 'durée', 'maximale', 'inscription', 'Ecole', 'Centrale', 'Lyon', '34', 'ans']
+['De', 'application', 'règles', 'entraîner', 'élève', 'auditeur', 'situation', 'handicap', 'dépassement', 'durée', 'maximale', 'inscription', 'École', 'Centrale', 'Lyon', '34', 'ans']
 
-['Pour', 'ensemble', 'élèves', 'admis', 'cursus', 'ingénieur', 'concours', 'commun', 'titres', 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'subordonnée', 'conditions', 'rassemblées', 'tableau', 'règlement', 'scolarité']
+['Pour', 'ensemble', 'élèves', 'admis', 'cursus', 'ingénieur', 'concours', 'commun', 'titres', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonnée', 'conditions', 'rassemblées', 'tableau', 'règlement', 'scolarité']
 
 ['De', 'ensemble', 'élèves', 'double', 'diplôme', 'soumis', 'règles', 'générales', 'attribution', 'double', 'diplôme']
 
-["L'", 'obtention', 'Diplôme', 'Etudes', 'Supérieures', 'Ecole', 'Centrale', 'Lyon', 'subordonnée', 'validation', 'cadre', '3ème', 'année', 'ensemble', 'Unités', 'Enseignement', 'définies', 'fascicule', 'pédagogique']
+["L'", 'obtention', 'Diplôme', 'Etudes', 'Supérieures', 'École', 'Centrale', 'Lyon', 'subordonnée', 'validation', 'cadre', '3ème', 'année', 'ensemble', 'Unités', 'Enseignement', 'définies', 'fascicule', 'pédagogique']
 
-['Un', 'étudiant', 'accepté', 'lEcole', 'Centrale', 'Lyon', 'effectuer', 'programme', 'formation', 'permettant', 'valider', 'minimum', '30', 'crédits', 'ECTS', 'programme', 'formation', 'tient', 'compte', 'études', 'acquis', 'professionnels', 'constitué', 'validation', 'dUE', 'puisées', '3', 'ans', 'formation', 'cursus', 'ingénieur', 'lEcole', 'Centrale', 'Lyon', 'réserve', 'contraintes', 'moyens', 'disponibles', 'lEcole', 'planning', 'organisation', 'groupes', 'délèves', 'etc.', 'létudiant', 'remet', 'Service', 'Scolarité', 'vérifie', 'conformité', 'responsabilité', 'létudiant', 'dattester', 'dun', 'niveau', 'français', 'faute', 'inscription', 'refusée', 'stage', '3', '6', 'mois', 'effectué', 'laboratoire', 'lEcole', 'Centrale', 'Lyon', 'responsabilité', 'dun', 'enseignant', 'chercheur', 'lEcole', 'permettant', 'valider', 'minimum', '15', 'crédits', 'ECTS']
+['Un', 'étudiant', 'accepté', 'École', 'Centrale', 'Lyon', 'effectuer', 'programme', 'formation', 'permettant', 'valider', 'minimum', '30', 'crédits', 'ECTS', 'programme', 'formation', 'tient', 'compte', 'études', 'acquis', 'professionnels', 'constitué', 'validation', 'UE', 'puisées', '3', 'ans', 'formation', 'cursus', 'ingénieur', 'École', 'Centrale', 'Lyon', 'réserve', 'contraintes', 'moyens', 'disponibles', 'École', 'planning', 'organisation', 'groupes', 'élèves', '..', 'étudiant', 'remet', 'Service', 'Scolarité', 'vérifie', 'conformité', 'responsabilité', 'étudiant', 'attester', 'niveau', 'français', 'faute', 'inscription', 'refusée', 'stage', '3', '6', 'mois', 'effectué', 'laboratoire', 'École', 'Centrale', 'Lyon', 'responsabilité', 'enseignant', 'chercheur', 'École', 'permettant', 'valider', 'minimum', '15', 'crédits', 'ECTS']
 
-['Lobtention', 'crédits', 'ECTS', 'saccompagne', 'délivrance', 'diplôme']
+["L'", 'obtention', 'crédits', 'ECTS', 'accompagne', 'délivrance', 'diplôme']
 
-['Fonctionnement', 'Jurys', '\n\n', 'Le', 'Jury', 'Tronc', 'Commun', 'Jury', 'Parcours', 'Electif', 'comprennent', '13', 'membres', 'appartenant', 'Equipes', 'Enseignement', 'Ecole', 'Centrale', 'Lyon', 'recouvrant', 'thématiques', 'enseignées', 'Ecole']
+['Le', 'Jury', 'Tronc', 'Commun', 'Jury', 'Parcours', 'Electif', 'comprennent', '13', 'membres', 'appartenant', 'Equipes', 'Enseignement', 'École', 'Centrale', 'Lyon', 'recouvrant', 'thématiques', 'enseignées', 'École']
 
 ['Au', 'membres', 'Jury', 'Parcours', 'Electif', 'renouvelés', 'année']
 
-['Le', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'membre', 'droit', 'Jury']
+['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'membre', 'droit', 'Jury']
 
-['La', 'mise', 'place', 'Jurys', 'ajustements', 'renouvellements', 'membres', 'prononcés', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
+['La', 'mise', 'place', 'Jurys', 'ajustements', 'renouvellements', 'membres', 'prononcés', 'Directeur', 'École', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
 
 ['Chaque', 'Jury', 'choisit', 'membres', 'Président', 'Vice-Président', 'Secrétaire', 'Secrétaire', 'Adjoint', 'constitue', 'Bureau', 'Jury']
 
 ['Le', 'Président', 'choisi', 'membres', 'rang', 'Professeur', 'Universités']
 
-['Mise', 'place', '\n', 'La', 'mise', 'place', 'Jurys', 'ajustements', 'renouvellements', 'membres', 'prononcés', 'Directeur', 'lEcole', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
+['La', 'mise', 'place', 'Jurys', 'ajustements', 'renouvellements', 'membres', 'prononcés', 'Directeur', 'École', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
 
-['Bureau', 'Jury', '\n\n', 'Chaque', 'Jury', 'choisit', 'membres', 'Président', 'Vice-Président', 'Secrétaire', 'Secrétaire', 'Adjoint', 'constitue', 'Bureau', 'Jury']
+['Chaque', 'Jury', 'choisit', 'membres', 'Président', 'Vice-Président', 'Secrétaire', 'Secrétaire', 'Adjoint', 'constitue', 'Bureau', 'Jury']
 
 ['Le', 'Président', 'choisi', 'membres', 'rang', 'Professeur', 'Universités']
 
-['Convocation', '\n', 'Un', 'Jury', 'convoqué', 'linitiative', 'Président', 'particulier', 'demande', 'Direction', 'Etudes']
+['Un', 'Jury', 'convoqué', 'initiative', 'Président', 'particulier', 'demande', 'Direction', 'Etudes']
 
 ['Le', 'quorum', 'requis', 'délibérer', 'moitié', 'membres']
 
-['Délibérations', '\n\n\n', 'Les', 'délibérations', 'lieu', 'huis', 'clos']
+['Les', 'délibérations', 'lieu', 'huis', 'clos']
 
 ['Les', 'décisions', 'prises', 'vote', 'majorité', 'absolue', 'membres', 'présents', 'représentés']
 
@@ -942,17 +680,17 @@
 
 ['En', 'cas', 'égalité', 'vote', 'voix', 'Président', 'prépondérante']
 
-['Eléments', 'pris', 'compte', '\n\n\n\n', 'Un', 'jury', 'examiner', 'validation', 'dune', 'UE', 'lissue', 'dune', 'session', 'dexamens', 'lintégralité', 'notes', 'compétence', 'AF', 'lUE', 'concernée', 'été', 'transmises', 'Service', 'Scolarité']
+['Un', 'jury', 'examiner', 'validation', 'UE', 'issue', 'session', 'examens', 'intégralité', 'notes', 'compétence', 'AF', 'UE', 'concernée', 'été', 'transmises', 'Service', 'Scolarité']
 
-['Pour', 'prendre', 'décisions', 'Jurys', ' ', 'étudient', 'lensemble', 'éléments', 'dossier', 'lélève', 'lauditeur', 'fiches', 'synthèse', 'relevés', 'notes', 'certificats', 'validation', 'dactivités', 'relevés', 'dabsences', 'avis', 'formulés', 'responsables', 'dUnité', 'dEnseignement', 'dactivités', 'coordonnées', 'etc.', 'prennent', 'connaissance', 'cas', 'échéant', 'dune', 'demande', 'redoublement', 'raison', 'médicale', 'étudier', 'cas', 'échéant', 'respect', 'engagements', 'pris', 'lélève', 'lauditeur', 'dune', 'convocation', 'précédence', 'réunion', 'Jury']
+['Pour', 'prendre', 'décisions', 'Jurys', 'étudient', 'ensemble', 'éléments', 'dossier', 'élève', 'auditeur', 'fiches', 'synthèse', 'relevés', 'notes', 'certificats', 'validation', 'activités', 'relevés', 'absences', 'avis', 'formulés', 'responsables', 'Unité', 'Enseignement', 'activités', 'coordonnées', '..', 'prennent', 'connaissance', 'cas', 'échéant', 'demande', 'redoublement', 'raison', 'médicale', 'étudier', 'cas', 'échéant', 'respect', 'engagements', 'pris', 'élève', 'auditeur', 'convocation', 'précédence', 'réunion', 'Jury']
 
-['Audition', 'dun', 'élève', 'dun', 'auditeur', '\n', 'Un', 'élève', 'auditeur', 'situation', 'justifie', 'convoqué', 'Jury', 'auditionné', 'Jury', 'but', 'préventif', 'commission', 'issue', 'Jury', 'but', 'compléter', 'éléments', 'dossier', 'prise', 'décision', 'Jury', 'compte-rendu', 'laudition', 'rédigé', 'commission', 'transmis', 'Jury', 'archivé', 'dossier']
+['Un', 'élève', 'auditeur', 'situation', 'justifie', 'convoqué', 'Jury', 'auditionné', 'Jury', 'but', 'préventif', 'commission', 'issue', 'Jury', 'but', 'compléter', 'éléments', 'dossier', 'prise', 'décision', 'Jury', 'compte-rendu', 'audition', 'rédigé', 'commission', 'transmis', 'Jury', 'archivé', 'dossier']
 
-['Pour', 'auditions', 'lélève', 'lauditeur', 'dépose', 'Service', 'Scolarité', 'document', 'écrit', 'signé', 'exposant', 'élément', 'jugé', 'pertinent']
+['Pour', 'auditions', 'élève', 'auditeur', 'dépose', 'Service', 'Scolarité', 'document', 'écrit', 'signé', 'exposant', 'élément', 'jugé', 'pertinent']
 
 ['Ce', 'document', 'transmis', 'Jury', 'archivé', 'dossier']
 
-['Sil', 'désire', 'dune', 'audition', 'lélève', 'lauditeur', 'accompagné', 'élève', 'élu', '\n', 'Conseil', 'Etudes']
+["S'", 'désire', 'audition', 'élève', 'auditeur', 'accompagné', 'élève', 'élu', 'Conseil', 'Etudes']
 
 ['Les', 'Jurys', 'charge', 'appliquer', 'mesures', 'prévues', 'suite', 'exception']
 
@@ -960,31 +698,19 @@
 
 ['Dans', 'cas', 'mesure', 'prise', 'Jury', 'élèves', 'auditeurs', 'avertis', 'courrier', 'recommandé', 'accusé', 'réception']
 
-['Jury', 'Tronc', 'Commun', '\n\n\n', 'Le', 'Jury', 'Tronc', 'Commun', 'délibère', 'prend', 'décisions', 'élèves', 'promotion']
+['Le', 'Jury', 'Tronc', 'Commun', 'délibère', 'prend', 'décisions', 'élèves', 'promotion']
 
-['Suivis', 'semestres', 'S5', 'S6', 'S7', '  ', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'Ecole', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admis', 'cadre', 'double', 'diplôme', 'Ecole', 'Nationale', 'Supérieure', 'Architecture', '\n', 'Lyon', 'admis', 'cadre', 'double', 'diplôme', 'EMLyon', 'Business', 'School']
+['Suivis', 'semestres', 'S5', 'S6', 'S7', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admis', 'cadre', 'double', 'diplôme', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admis', 'cadre', 'double', 'diplôme', 'EMLyon', 'Business', 'School']
 
-['Suivis', 'semestres', 'S5', 'S6', 'S7', 'S8', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'EMLyon', 'Business', 'School', 'Ecole', 'Normale', 'Supérieure', 'Lyon', 'université', 'étrangère', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+['Suivis', 'semestres', 'S5', 'S6', 'S7', 'S8', 'admis', 'concours', 'commun', 'titres', 'engagés', 'double', 'diplôme', 'EMLyon', 'Business', 'School', 'École', 'Normale', 'Supérieure', 'Lyon', 'université', 'étrangère', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
 
-['Il', 'réunit', 'fin', 'second', 'cours', 'semestres', 'faire', 'point', 'élèves', 'situation', 'échec', 'nécessaire', 'convocation', 'procéder', 'audition', 'Jury', 'commission', 'issue', 'Jury', 'examiner', 'élève', 'validation', 'UE', 'seconde', 'session', 'examens', 'cas', 'échéant', 'prendre', 'mesures', 'élèves', 'été', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', ' ', 'cas', 'échéant', 'proposer', 'Directeur', 'Ecole', 'prendre', 'mesures', 'élèves', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+['Il', 'réunit', 'fin', 'second', 'cours', 'semestres', 'faire', 'point', 'élèves', 'situation', 'échec', 'nécessaire', 'convocation', 'procéder', 'audition', 'Jury', 'commission', 'issue', 'Jury', 'examiner', 'élève', 'validation', 'UE', 'seconde', 'session', 'examens', 'cas', 'échéant', 'prendre', 'mesures', 'élèves', 'été', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'cas', 'échéant', 'proposer', 'Directeur', 'École', 'prendre', 'mesures', 'élèves', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
 
-['Jury', 'Parcours', 'Electif', '\n\n', 'Validation', 'Parcours', 'validation', 'compensation', 'UE', 'non', 'validées', '\n\n', 'Un', 'élève', 'valider', 'Tronc', 'Commun', 'resp']
+['Un', 'élève', 'valider', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'issue', 'semestre', 'validé', 'ensemble', 'UE', 'semestres', 'S5', 'S6', 'S7', 'respectivement', 'S8', 'S9', 'S10', 'UE', 'Stage']
 
-['Parcours', 'Electif', 'lissue', 'semestre', 'sil', 'validé', 'lensemble', 'UE', 'semestres', 'S5', 'S6', 'S7', 'resp']
+['Un', 'élève', 'valider', 'Tronc', 'Commun', 'Etendu', 'respectivement', 'Parcours', 'Electif', 'Etendu', 'issue', 'semestre', 'validé', 'ensemble', 'UE', 'semestres', 'S5', 'S6', 'S7', 'S8', 'respectivement', 'S7', 'S8', 'S9', 'S10', 'UE', 'Stage']
 
-['S8', 'S9', 'S10', 'UE', 'Stage']
-
-['Un', 'élève', '\n', 'valider', 'Tronc', 'Commun', 'Etendu', 'resp']
-
-['Parcours', 'Electif', 'Etendu', 'lissue', 'semestre', 'sil', 'validé', 'lensemble', 'UE', 'semestres', 'S5', 'S6', 'S7', 'S8', 'resp']
-
-['S7', 'S8', 'S9', 'S10', 'UE', 'Stage']
-
-['Pour', 'élève', 'naurait', 'validé', 'UEs', 'Jury', 'Tronc', 'Commun', 'resp']
-
-['Parcours', 'Electif', 'étudie', 'réunions', 'semestre', 'resp']
-
-['fin', 'semestre', 'possibilité', 'valider', 'compensation', 'UE', 'Tronc', 'Commun', 'Tronc', 'Commun', 'Etendu', 'resp.du', 'Parcours', 'Electif', 'Parcours', 'Electif', 'Etendu', 'Parcours', 'Electif', 'Réduit', 'fonction', 'variante', 'cursus', 'ingénieur', 'effectivement', 'suivie', 'voir', 'section', 'A.1', ' ', 'Différentes', 'variantes', 'cursus', 'ingénieur']
+['Pour', 'élève', 'validé', 'UEs', 'Jury', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'étudie', 'réunions', 'semestre', 'respectivement', 'fin', 'semestre', 'possibilité', 'valider', 'compensation', 'UE', 'Tronc', 'Commun', 'Tronc', 'Commun', 'Etendu', 'respectivementdu', 'Parcours', 'Electif', 'Parcours', 'Electif', 'Etendu', 'Parcours', 'Electif', 'Réduit', 'fonction', 'variante', 'cursus', 'ingénieur', 'effectivement', 'suivie', 'voir', 'section', 'A.1', 'Différentes', 'variantes', 'cursus', 'ingénieur']
 
 ["L'", 'objectif', 'Jury', 'assurer', 'élève', 'acquis', 'socle', 'Savoir', 'Savoir', 'Faire', 'socle', 'Compétences', 'Transversales', 'jugés', 'nécessaires', 'exercice', 'fonction', 'ingénieur']
 
@@ -992,35 +718,23 @@
 
 ["D'", 'part', 'face', 'situations', 'variées', 'élèves', 'difficulté', 'réponse', 'unique', 'adaptée']
 
-['La', 'pertinence', 'non', 'validation', 'UE', 'compensation', 'appréciée', 'cas', 'cas', 'examinant', 'globalement', 'scolarité', 'lélève', 'application', 'dune', 'formule', 'mécanique', 'compensation']
+['La', 'pertinence', 'non', 'validation', 'UE', 'compensation', 'appréciée', 'cas', 'cas', 'examinant', 'globalement', 'scolarité', 'élève', 'application', 'formule', 'mécanique', 'compensation']
 
 ['Cette', 'discussion', 'évidemment', 'inclure', 'discussion', 'mesures', 'alternatives', 'compensation']
 
-['Pour', 'guider', 'réexion', 'prise', 'décision', 'jury', 'élève', 'procédure', 'référence', 'proposée']
+['Pour', 'guider', 'réflexion', 'prise', 'décision', 'jury', 'élève', 'procédure', 'référence', 'proposée']
 
 ['Elle', 'intervenir', 'notes', 'Savoir', 'Savoir', 'Faire', 'Compétences', 'Transversales', 'élève', 'évaluation', 'implication', 'Scolarité', 'mesurée', 'absentéisme', 'non', 'autorisé', 'avis', 'Conseil', 'Unités', 'Enseignement', 'Professionnelles', 'cas', 'Parcours', 'Electif', 'avis', 'Conseils', 'Unités', 'Enseignement', 'Parcours', 'Electif']
 
-['La', 'non', 'validation', 'dune', 'UE', 'révéler', 'insuffisance', 'lélève', 'sein', 'périmètre', 'dune', 'discipline']
+['La', 'non', 'validation', 'UE', 'révéler', 'insuffisance', 'élève', 'sein', 'périmètre', 'discipline']
 
-['La', 'question', 'savoir', 'lélève', 'insuffisant', 'Savoir', 'resp']
+['La', 'question', 'savoir', 'élève', 'insuffisant', 'Savoir', 'respectivement', 'Savoir', 'Faire']
 
-['Savoir', 'Faire']
+['Pour', 'jury', 'examine', 'notes', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'élève', 'UE']
 
-['Pour', 'jury', 'examine', 'notes', 'Savoir', 'resp']
+['Afin', 'évaluer', 'élève', 'insuffisant', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'indicateurs', 'globaux', 'calculés', 'sommes', 'pondérées', 'notes', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'élève', 'UE', 'semestre', 'parcours', 'complet']
 
-['Savoir', 'Faire', 'lélève', 'UE']
-
-['Afin', 'dévaluer', 'lélève', 'insuffisant', 'Savoir', 'resp']
-
-['Savoir', 'Faire', 'indicateurs', 'globaux', 'calculés', 'sommes', 'pondérées', 'notes', 'Savoir', 'resp']
-
-['Savoir', 'Faire', 'lélève', 'UE', 'semestre', 'parcours', 'complet']
-
-['Dans', 'sommes', 'coefficient', 'pondération', 'affecté', 'note', 'Savoir', 'resp']
-
-['Savoir', 'Faire', 'dUE', 'calculé', 'partir', 'coefficient', 'pondération', 'note', 'Savoir', 'resp']
-
-['Savoir', 'Faire', 'lUE', 'calcul', 'note', 'globale', 'lUE', 'pondérée', 'nombre', 'crédits', 'ECTS', 'lUE']
+['Dans', 'sommes', 'coefficient', 'pondération', 'affecté', 'note', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'UE', 'calculé', 'partir', 'coefficient', 'pondération', 'note', 'Savoir', 'respectivement', 'Savoir', 'Faire', 'UE', 'calcul', 'note', 'globale', 'UE', 'pondérée', 'nombre', 'crédits', 'ECTS', 'UE']
 
 ['Un', 'élément', 'favorable', 'validation', 'compensation', 'notes', 'soient', 'supérieures', 'égales', 'seuil', '1020']
 
@@ -1030,101 +744,97 @@
 
 ['Cependant', 'cas', '-là', 'jury', 'décider', 'valider', 'compensation', 'UE']
 
-['Acquisition', 'Compétences', 'Transversales', 'élève', '\n\n', 'A', 'lissue', 'Parcours', 'lacquisition', 'compétences', 'transversales', 'lélève', 'appréciée', 'partir', 'notes', 'alphabétiques', 'compétence', 'obtenues', 'règle', 'définie', 'fascicule', 'pédagogique']
+['A', 'issue', 'Parcours', 'acquisition', 'compétences', 'transversales', 'élève', 'appréciée', 'partir', 'notes', 'alphabétiques', 'compétence', 'obtenues', 'règle', 'définie', 'fascicule', 'pédagogique']
 
-['Un', 'élément', 'défavorable', 'validation', 'compensation', 'lapplication', 'règle', 'conclue', 'lacquisition', 'compétences', 'nest', 'satisfaisante']
+['Un', 'élément', 'défavorable', 'validation', 'compensation', 'application', 'règle', 'conclue', 'acquisition', 'compétences', 'satisfaisante']
 
-['Implication', 'élève', 'scolarité', '\n\n', 'La', 'présence', 'obligatoire', 'absentéisme', 'non', 'autorisé', 'traduit', 'manque', 'implication', 'élève', 'scolarité', 'non', 'respet', 'engagements', 'vis', 'àvis', 'Ecole']
+['La', 'présence', 'obligatoire', 'absentéisme', 'non', 'autorisé', 'traduit', 'manque', 'implication', 'élève', 'scolarité', 'non', 'respet', 'engagements', 'vis', 'àvis', 'École']
 
 ['Il', 'élément', 'défavorable', 'validation', 'compensation']
 
-['Un', 'élément', 'extrêmement', 'défavorable', 'validation', 'compensation', 'non-validation', 'dune', 'UE', 'Professionnelle']
+['Un', 'élément', 'extrêmement', 'défavorable', 'validation', 'compensation', 'non-validation', 'UE', 'Professionnelle']
 
-['Le', 'fonctionnement', 'UE', 'Professionnelles', 'basé', 'participation', 'active', 'lélève', 'attitude', 'vis-à-vis', 'situations', 'professionnelles', 'travail', 'équipe', 'long', 'terme', 'construction', 'projet', 'professionnel', '..', 'résultats', 'obtenus', 'élève', 'UE', 'donnent', 'indications', 'précieuses', 'degré', 'réel', 'dimplication', 'lélève', 'scolarité']
+['Le', 'fonctionnement', 'UE', 'Professionnelles', 'basé', 'participation', 'active', 'élève', 'attitude', 'vis-à-vis', 'situations', 'professionnelles', 'travail', 'équipe', 'long', 'terme', 'construction', 'projet', 'professionnel', '..', 'résultats', 'obtenus', 'élève', 'UE', 'donnent', 'indications', 'précieuses', 'degré', 'réel', 'implication', 'élève', 'scolarité']
 
-['Lavis', 'limplication', 'lélève', 'activités', 'UE', 'Professionnelles', 'systématiquement', 'émis', 'Conseil', 'UE', 'Professionnelles', 'cas', 'non', 'validation', 'dune', 'UE', 'Professionnelle', 'élément', 'important', 'létude', 'validation', 'compensation', 'lavis', 'Conseils', 'Unités', 'dEnseignement', 'Parcours', 'Electif', 'Etendu', 'cas', 'Parcours', 'Electif', 'Etendu']
+["L'", 'avis', 'implication', 'élève', 'activités', 'UE', 'Professionnelles', 'systématiquement', 'émis', 'Conseil', 'UE', 'Professionnelles', 'cas', 'non', 'validation', 'UE', 'Professionnelle', 'élément', 'important', 'étude', 'validation', 'compensation', 'avis', 'Conseils', 'Unités', 'Enseignement', 'Parcours', 'Electif', 'Etendu', 'cas', 'Parcours', 'Electif', 'Etendu']
 
 ['Dans', 'cas', 'arguments', 'décision', 'communiqués', 'Direction', 'Etudes']
 
 ['Ils', 'pourront', 'communiqués', 'élève', 'demande', 'écrite', 'auprès', 'Direction', 'Etudes']
 
-['En', 'cas', 'validation', 'compensation', 'UE', 'note', 'obtenue', 'UE', 'note', 'obtenue', 'lUE', 'validée', 'Jury', 'nest', 'modifiée', 'fiche', 'synthèse', 'lélève', 'validation', 'compensation', 'explicitement', 'mentionnée']
+['En', 'cas', 'validation', 'compensation', 'UE', 'note', 'obtenue', 'UE', 'note', 'obtenue', 'UE', 'validée', 'Jury', 'modifiée', 'fiche', 'synthèse', 'élève', 'validation', 'compensation', 'explicitement', 'mentionnée']
 
 ['Les', 'mesures', 'disposition', 'Jury', 'promotion', 'responsabilité', 'définies', 'cidessous']
 
-['Le', 'Jury', 'délivrer', 'fin', 'semestre', 'avertissement', 'signifiant', 'élève', 'nécessité', 'reprendre', ' ', 'Le', 'Jury', 'Tronc', 'Commun', 'attribuer', 'compliments', 'félicitations', 'issue', 'Tronc', 'Commun', 'resp']
+['Le', 'Jury', 'délivrer', 'fin', 'semestre', 'avertissement', 'signifiant', 'élève', 'nécessité', 'reprendre', 'Le', 'Jury', 'Tronc', 'Commun', 'attribuer', 'compliments', 'félicitations', 'issue', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'qualité', 'résultats', 'obtenus', 'Lorsque', 'Jury', 'Tronc', 'Commun', 'constate', 'élève', 'réalisé', 'activité', 'Stage', 'normalement', 'programmée', 'préalablement', 'date', 'réunion', 'jury', 'Jury', 'Tronc', 'Commun', 'informer', 'élève', 'non-réalisation', 'fin', 'semestre', 'placera', 'automatiquement', 'position', 'sursis', 'obtention', 'Diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon']
 
-['Parcours', 'Electif', ' ', 'qualité', 'résultats', 'obtenus', ' ', 'Lorsque', 'Jury', 'Tronc', 'Commun', 'constate', 'élève', 'réalisé', 'activité', 'Stage', 'normalement', 'programmée', 'préalablement', 'date', 'réunion', 'jury', 'Jury', 'Tronc', 'Commun', 'informer', 'élève', 'non-réalisation', 'fin', 'semestre', 'placera', 'automatiquement', 'position', 'sursis', 'obtention', 'Diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon']
+['Il', 'disposera', '4', 'ans', 'partir', 'sortie', 'École', 'fin', 'formation', 'double', 'diplômante', 'établissements', 'réaliser', 'activités']
 
-['Il', 'disposera', '4', 'ans', 'partir', 'sortie', 'Ecole', 'fin', 'formation', 'double', 'diplômante', 'établissements', 'réaliser', 'activités']
+['Au', 'pourra', 'prétendre', 'obtention', 'Diplôme', 'Le', 'Jury', 'décider', 'cas', 'résultats', 'insuffisants', 'langue', 'avis', 'Conseil', 'Unité', 'Enseignement', 'Langues', 'Vivantes', 'limiter', 'inscription', 'élève', 'langue', 'semestre', 'volume', 'horaire', 'renforcé', 'Le', 'Jury', 'Tronc', 'Commun', 'applique', 'cas', 'non-validation', 'Tronc', 'Commun', 'respectivement', 'Parcours', 'Electif', 'mesures', 'cas', 'élèves', 'exception', 'élèves', 'admis', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
 
-['Au', 'pourra', 'prétendre', 'obtention', 'Diplôme', ' ', 'Le', 'Jury', 'décider', 'cas', 'résultats', 'insuffisants', 'langue', 'avis', 'Conseil', 'Unité', 'Enseignement', 'Langues', 'Vivantes', 'limiter', 'inscription', 'élève', 'langue', 'semestre', 'volume', 'horaire', 'renforcé', ' ', 'Le', 'Jury', 'Tronc', 'Commun', 'applique', 'cas', 'non-validation', 'Tronc', 'Commun', 'resp']
+['Dans', 'cas', 'élèves', 'admis', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'mesures', 'proposée', 'Directeur', 'École']
 
-['Parcours', 'Electif', ' ', 'mesures', 'cas', 'élèves', 'exception', 'élèves', 'admis', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+['En', 'cas', 'non-validation', 'Tronc', 'Commun', 'Etendu', 'élève', 'Jury', 'Tronc', 'Commun', 'conduit', 'prendre', 'proposer', 'décisions', 'ci-dessous']
 
-['Dans', 'cas', 'élèves', 'admis', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'mesures', 'proposée', 'Directeur', 'Ecole']
+['Le', 'redoublement', 'École', 'Centrale', 'Lyon', 'exceptionnellement', 'École', 'Centrale', 'Intergroupe', 'Tronc', 'Commun']
 
-['Mesures', 'liées', 'non-validation', 'Tronc', 'Commun', 'Etendu', 'Parcours', 'Electif', ' \n\n', 'En', 'cas', 'non-validation', 'Tronc', 'Commun', 'Etendu', 'élève', 'Jury', 'Tronc', 'Commun', 'conduit', 'prendre', 'proposer', 'décisions', 'ci-dessous']
+['Le', 'redoublement', 'École', 'Centrale', 'Lyon', 'consiste', 'refaire', 'UE', 'non', 'validées', 'éventuellement', 'stage']
 
-['Le', 'redoublement', 'lEcole', 'Centrale', 'Lyon', 'exceptionnellement', 'Ecole', 'Centrale', 'lIntergroupe', 'Tronc', 'Commun']
+['Le', 'redoublement', 'École', 'Centrale', 'Intergroupe', 'consiste', 'faire', 'an', 'Tronc', 'Commun', 'École', 'programme', 'élaboré', 'Président', 'Jury', 'Tronc', 'Commun', 'Directeur', 'Etudes']
 
-['Le', 'redoublement', 'lEcole', 'Centrale', 'Lyon', 'consiste', 'refaire', 'UE', 'non', 'validées', 'éventuellement', 'stage']
+['Il', 'décidé', 'Jury', 'concertation', 'Direction', 'Etudes']
 
-['Le', 'redoublement', 'Ecole', 'Centrale', 'lIntergroupe', 'consiste', 'faire', 'an', 'Tronc', 'Commun', 'Ecole', 'programme', 'élaboré', 'Président', 'Jury', 'Tronc', 'Commun', 'Directeur', 'Etudes']
+['Le', 'redoublement', 'autorisé', 'fois', 'cours', 'scolarité']
 
-['Il', 'décidé', 'Jury', 'quaprès', 'concertation', 'Direction', 'Etudes']
+["L'", 'élève', 'validé', 'année', 'redoublement', 'admis', 'poursuivre', 'formation', 'ingénieur', 'École', 'Centrale', 'Lyon']
 
-['Le', 'redoublement', 'nest', 'autorisé', 'quune', 'fois', 'cours', 'scolarité']
+['Dans', 'cas', 'contraire', 'pourra', 'autorisé', 'inscrire', 'École', 'Centrale', 'Lyon']
 
-['Lélève', 'validé', 'année', 'redoublement', 'admis', 'poursuivre', 'formation', 'ingénieur', 'lEcole', 'Centrale', 'Lyon']
+['Le', 'refus', 'réinscription', 'École', 'Centrale', 'Lyon', 'cas', 'résultats', 'insuffisants', 'associés', 'manque', 'engagement', 'élève', 'formation']
 
-['Dans', 'cas', 'contraire', 'pourra', 'autorisé', 'sinscrire', 'lEcole', 'Centrale', 'Lyon']
-
-['Le', 'refus', 'réinscription', 'lEcole', 'Centrale', 'Lyon', 'cas', 'résultats', 'insuffisants', 'associés', 'manque', 'dengagement', 'lélève', 'formation']
-
-['Une', 'solution', 'préconisée', 'permettre', 'lélève', 'réorienter', 'formation', 'adaptée']
+['Une', 'solution', 'préconisée', 'permettre', 'élève', 'réorienter', 'formation', 'adaptée']
 
 ['Dans', 'cas', 'exceptionnel', 'élève', 'scolarité', 'difficile', 'jury', 'prendre', 'fin', 'second', 'semestre', 'mesures', 'précédentes', 'épreuves', 'seconde', 'session', 'S6', 'été', 'effectuées']
 
-['Modalités', 'redoublement', 'Ecole', 'Centrale', 'Lyon', '\n', "L'", 'objectif', 'redoublement', 'combler', 'lacunes', 'élève', 'mises', 'évidence', 'non', 'validation', 'UE']
+["L'", 'objectif', 'redoublement', 'combler', 'lacunes', 'élève', 'mises', 'évidence', 'non', 'validation', 'UE']
 
 ['Sa', 'durée', 'an', 'cas', 'redoublement', 'Parcours', 'Electif', 'durée', 'raccourcie', 'fonction', 'UE', 'valider']
 
 ['Afin', 'assurer', 'redoublement', 'profitable', 'formation', 'élève', 'Jury', 'propose', 'programme', 'formation', 'adapté', 'prend', 'compte', 'scolarité', 'élève', 'redoublant', 'profil', 'recouvrements', 'temporels', 'activités', 'Actions', 'Formation', 'UE', 'effectuer', 'redoublement']
 
-['Le', 'Jury', 'définit', 'partir', 'liste', 'UE', 'non', 'validées', 'lélève', 'refaire', 'valider', 'redoublant', 'effectuer', 'valider', 'stage', 'cas', 'Jury', 'précise', 'durée', 'stage']
+['Le', 'Jury', 'définit', 'partir', 'liste', 'UE', 'non', 'validées', 'élève', 'refaire', 'valider', 'redoublant', 'effectuer', 'valider', 'stage', 'cas', 'Jury', 'précise', 'durée', 'stage']
 
-['Le', 'Jury', 'possibilité', 'remplacer', 'validation', 'dun', 'stage', '6', 'mois', 'validation', 'dun', 'semestre', 'Université', 'étrangère', '30', 'crédits', 'ECTS', 'équivalent']
+['Le', 'Jury', 'possibilité', 'remplacer', 'validation', 'stage', '6', 'mois', 'validation', 'semestre', 'Université', 'étrangère', '30', 'crédits', 'ECTS', 'équivalent']
 
-['Un', 'redoublant', 'refaire', 'UE', 'refaire', 'lintégralité', 'activités', 'Actions', 'Formation', 'lUE', 'TPs', 'épreuves', 'dexamen', 'contrôle', 'continu']
+['Un', 'redoublant', 'refaire', 'UE', 'refaire', 'intégralité', 'activités', 'Actions', 'Formation', 'UE', 'TPs', 'épreuves', 'examen', 'contrôle', 'continu']
 
-['Refaire', 'UE', 'réduire', 'passer', 'épreuves', 'etou', 'seconde', 'session', 'dexamen', 'UE']
+['Refaire', 'UE', 'réduire', 'passer', 'épreuves', 'etou', 'seconde', 'session', 'examen', 'UE']
 
-['Si', 'lélève', 'refaire', 'UE', 'activités', 'pédagogiques', 'recouvrent', 'temps', 'dispensé', 'dassiduité', 'séances', 'activités', 'UE', 'condition', 'quaucune', 'évaluation', 'TPs', 'épreuves', 'contrôle', 'continu', 'etc.', 'programmée']
+['Si', 'élève', 'refaire', 'UE', 'activités', 'pédagogiques', 'recouvrent', 'temps', 'dispensé', 'assiduité', 'séances', 'activités', 'UE', 'condition', 'aucune', 'évaluation', 'TPs', 'épreuves', 'contrôle', 'continu', '..', 'programmée']
 
-['A', 'lissue', 'stage', 'lélève', 'rédige', 'rapport', 'stage', 'défini', 'TFE', 'fascicule', 'pédagogique']
+['A', 'issue', 'stage', 'élève', 'rédige', 'rapport', 'stage', 'défini', 'TFE', 'fascicule', 'pédagogique']
 
-['La', 'soutenance', 'jury', 'soutenance', 'constitué', 'Tuteur', 'travail', 'Professeur', 'Conseiller', 'Principal', 'lélève', 'dun', 'représentant', 'Jury', 'statuer', 'réintégration']
+['La', 'soutenance', 'jury', 'soutenance', 'constitué', 'Tuteur', 'travail', 'Professeur', 'Conseiller', 'Principal', 'élève', 'représentant', 'Jury', 'statuer', 'réintégration']
 
 ['Les', 'modalités', 'soutenance', 'TFE', 'présentées', 'fascicule', 'pédagogique']
 
-['La', 'soutenance', 'lieu', 'tard', 'début', 'juillet', 'lannée', 'redoublement', 'implique', 'durée', 'passée', 'stage', 'date', 'supérieure', 'égale', 'durée', 'stage', 'imposée', 'Jury']
+['La', 'soutenance', 'lieu', 'tard', 'début', 'juillet', 'année', 'redoublement', 'implique', 'durée', 'passée', 'stage', 'date', 'supérieure', 'égale', 'durée', 'stage', 'imposée', 'Jury']
 
 ['Les', 'rapports', 'parvenir', 'membres', 'jury', 'soutenance', 'tard', '5', 'jours', 'soutenance']
 
-['A', 'lissue', 'lannée', 'redoublement', 'décision', 'réintégration', 'lélève', 'redoublant', 'cursus', 'ingénieur', 'normal', 'prise', 'Jury', 'prononcé', 'décision', 'redoublement', 'Jury', 'nest', 'constitué', 'Jury', 'promotion', 'lélève', 'susceptible', 'réintégrer']
+['A', 'issue', 'année', 'redoublement', 'décision', 'réintégration', 'élève', 'redoublant', 'cursus', 'ingénieur', 'normal', 'prise', 'Jury', 'prononcé', 'décision', 'redoublement', 'Jury', 'constitué', 'Jury', 'promotion', 'élève', 'susceptible', 'réintégrer']
 
-['La', 'décision', 'Jury', 'base', 'lensemble', 'dossier', 'lélève', 'dévaluer', 'bilan', 'redoublement', 'positif']
+['La', 'décision', 'Jury', 'base', 'ensemble', 'dossier', 'élève', 'évaluer', 'bilan', 'redoublement', 'positif']
 
-['En', 'cas', 'décision', 'négative', 'lélève', 'renvoyé', 'lEcole', 'Centrale']
+['En', 'cas', 'décision', 'négative', 'élève', 'renvoyé', 'École', 'Centrale']
 
-['En', 'cas', 'redoublement', 'décidé', 'Jury', 'Tronc', 'Commun', 'non', 'validation', 'dUE', 'S8', 'Jury', 'Parcours', 'Electif', 'rajouter', 'modalités', 'redoublement', 'lobligation', 'refaire', 'partie', 'UE', 'S8', 'non', 'validées']
+['En', 'cas', 'redoublement', 'décidé', 'Jury', 'Tronc', 'Commun', 'non', 'validation', 'UE', 'S8', 'Jury', 'Parcours', 'Electif', 'rajouter', 'modalités', 'redoublement', 'obligation', 'refaire', 'partie', 'UE', 'S8', 'non', 'validées']
 
-['Redoublement', 'raison', 'médicale', '\n\n', 'La', 'décision', 'Jury', 'prendre', 'élève', 'mesures', 'présentées', 'article', 'J.4.1', 'fondée', 'critères', 'pédagogiques', 'prise', 'compte', 'état', 'médical', 'élève', 'relève', 'compétence', 'Jury']
+['La', 'décision', 'Jury', 'prendre', 'élève', 'mesures', 'présentées', 'article', 'J.4.1', 'fondée', 'critères', 'pédagogiques', 'prise', 'compte', 'état', 'médical', 'élève', 'relève', 'compétence', 'Jury']
 
-['Dans', 'cas', 'problème', 'médical', 'élève', 'demander', 'bénéficier', 'redoublement', 'raison', 'médicale', 'condition', 'déposer', 'demande', '15', 'jours', 'tard', 'tenue', 'jury']
+['D', 'ans', 'cas', 'problème', 'médical', 'élève', 'demander', 'bénéficier', 'redoublement', 'raison', 'médicale', 'condition', 'déposer', 'demande', '15', 'jours', 'tard', 'tenue', 'jury']
 
-['La', 'décision', 'prise', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'basant', 'avis', 'médecin', 'traitant', 'Médecine', 'Préventive', 'Ecole', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'Président', 'Jury']
+['La', 'décision', 'prise', 'Directeur', 'École', 'Centrale', 'Lyon', 'basant', 'avis', 'médecin', 'traitant', 'Médecine', 'Préventive', 'École', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'Président', 'Jury']
 
 ['En', 'cas', 'acceptation', 'Président', 'Jury', 'propose', 'programme', 'pédagogique', 'redoublement']
 
@@ -1134,25 +844,25 @@
 
 ['Ce', 'projet', 'validé', 'Direction', 'Etudes', 'représentants', 'Jury', 'concerné']
 
-['Dispositions', 'particulières', 'élèves', 'admis', 'année', 'resp']
-
-['année', 'cadre', 'dun', 'double', 'diplôme', 'université', 'étrangère', '\n\n', 'Les', 'dispositions', 'présentées', 'article', 'portent', 'validation', 'parcours', 'étendu', 'obtention', 'diplôme', 'redoublement', 'valables', 'éléves', 'admis', 'année', ' ', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+['Les', 'dispositions', 'présentées', 'article', 'portent', 'validation', 'parcours', 'étendu', 'obtention', 'diplôme', 'redoublement', 'valables', 'éléves', 'admis', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
 
 ['Les', 'décisions', 'amené', 'prendre', 'Directeur', 'basées', 'nécessités', 'partenariat', 'université', 'étrangère', 'concernée']
 
-['Validation', 'parcours', 'étendu', '\n\n', 'Le', 'Jury', 'transmet', 'proposition', 'mesure', 'basée', 'critères', 'pédagogiques', 'Directeur', 'Ecole', 'Centrale', 'Lyon']
+['Le', 'Jury', 'transmet', 'proposition', 'mesure', 'basée', 'critères', 'pédagogiques', 'Directeur', 'École', 'Centrale', 'Lyon']
 
-['Obtention', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', '\n\n', 'Le', 'Directeur', 'Ecole', 'Centrale', 'Lyon', 'décider', 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'Centrale', 'Lyon', 'ensemble', 'conditions', 'réunies']
+['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'décider', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'ensemble', 'conditions', 'réunies']
 
-['Redoublement', '\n\n', 'Dans', 'cas', 'mesure', 'redoublement', 'durée', 'limitée', '6', 'mois', 'durée', 'U', '\n\n', 'Validation', 'crédits', 'ECT', '\n\n', 'été', 'effectuées']
+['Dans', 'cas', 'mesure', 'redoublement', 'durée', 'limitée', '6', 'mois', 'durée', 'UE', 'non', 'validées']
 
-['Dans', 'cas', 'Directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuves', 'seconde', 'session', 'examen', 'UE', 'non', 'validées', 'dabsences', 'non', 'autorisées', '..', 'jury', 'proposer', 'Directeur', 'lEcole', 'fin', 'second', 'resp']
+['Le', 'semestre', 'rattrapage', 'effectué', 'choisi', 'Jury', 'fonction', 'contraintes', 'liées', 'cursus', 'lélève', 'établissement', 'dorigine']
 
-['semestre', 'parcours', 'mesures', 'précédentes', 'épreuves', 'seconde', 'session', 'second', 'semestre', 'nont', 'été', 'effectuées']
+['Dans', 'cas', 'exceptionnel', 'dun', 'élève', 'admis', 'respectivement', 'année', 'scolarité', 'difficile', 'nombre', 'important', 'dUE', 'non', 'validées', 'dabsences', 'non', 'autorisées', '...', 'jury', 'proposer', 'Directeur', 'lÉcole', 'fin', 'second', 'respectivement', 'semestre', 'parcours', 'mesures', 'précédentes', 'épreuves', 'seconde', 'session', 'second', 'semestre', 'été', 'effectuées']
 
-['Dans', 'cas', 'Directeur', 'décide', 'larrêt', 'scolarité', 'lélève', 'lélève', 'possibilité', 'passer', 'épreuves', 'seconde', 'session', 'dexamen', 'UE', 'quil', 'validé', 'valider', 'crédits', 'ECTS', 'condition', 'réinscrire', 'lEcole', 'Centrale', 'quauditeur', 'libre']
+['Dans', 'cas', 'Directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuves', 'seconde', 'session', 'examen', 'UE', 'non', 'validées', 'absences', 'non', 'autorisées', '..', 'jury', 'proposer', 'Directeur', 'École', 'fin', 'second', 'respectivement', 'semestre', 'parcours', 'mesures', 'précédentes', 'épreuves', 'seconde', 'session', 'second', 'semestre', 'été', 'effectuées']
 
-['Evolution', 'Règlement', 'Scolarité', '\n\n\n', "L'", 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'mieux', 'rapidement', 'retours', 'expérience', 'jury']
+['Dans', 'cas', 'Directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuves', 'seconde', 'session', 'examen', 'UE', 'validé', 'valider', 'crédits', 'ECTS', 'condition', 'réinscrire', 'École', 'Centrale', 'auditeur', 'libre']
+
+["L'", 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'mieux', 'rapidement', 'retours', 'expérience', 'jury']
 
 ['Elle', 'composée', 'membres', 'Jurys', 'courants', 'membre', 'Service', 'Scolarité', 'Directeur', 'Etudes', 'représentant', 'élèves', 'auprès', 'Conseil', 'Etudes', 'représentant', 'enseignants', 'auprès', 'Conseil', 'Etudes']
 
@@ -1162,51 +872,25 @@
 
 ['Elle', 'contribue', 'élaborer', 'jurisprudence', 'partir', 'cas', 'été', 'traités']
 
-['Mobilité', 'linternational', '\n\n\n\n', "L'", 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'demandant', 'valider', 'activité', ' ', 'séjours', 'étranger', ' ', 'cursus', 'ingénieur']
+["L'", 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'demandant', 'valider', 'activité', 'séjours', 'étranger', 'cursus', 'ingénieur']
 
-['Formes', 'mobilité', 'international', '\n', 'Les', 'séjours', 'étranger', 'prennent', 'formes', '  ', 'séjours', 'étranger', '12', 'semaines', 'total', '21', 'semaines', 'cadre', 'stage', 'entreprises', 'équipes', 'recherche', 'Universités', '  ', 'stage', 'Application', '  ', 'travail', 'fin', 'études', '  ', 'stage', 'césure', 'conventionnée', 'redoublement', '  ', 'semestre', 'étude', 'Université', 'étranger', '  ', 'semestre', '  ', 'semestres', 'semestres', 'cas', '\n', 'Université', 'étrangère', 'rentrée', 'printemps', '  ', 'double', 'diplôme', 'Université', 'étrangère', 'partenaire', 'Ecole', 'Centrale', 'Lyon', '  ', 'semestre', 'année', 'césure', '  ', 'activité', 'sabbatique', 'étranger', 'accord', 'Commission', 'Césure']
+['Les', 'séjours', 'étranger', 'prennent', 'formes', 'séjours', 'étranger', '12', 'semaines', 'total', '21', 'semaines', 'cadre', 'stage', 'entreprises', 'équipes', 'recherche', 'Universités', 'stage', 'Application', 'travail', 'fin', 'études', 'stage', 'césure', 'conventionnée', 'redoublement', 'semestre', 'étude', 'Université', 'étranger', 'semestre', 'semestres', 'semestres', 'cas', 'Université', 'étrangère', 'rentrée', 'printemps', 'double', 'diplôme', 'Université', 'étrangère', 'partenaire', 'École', 'Centrale', 'Lyon', 'semestre', 'année', 'césure', 'activité', 'sabbatique', 'étranger', 'accord', 'Commission', 'Césure']
 
 ['Les', 'pays', 'francophones', 'Belgique', 'Suisse', 'Canada', 'Afrique', 'francophone', 'considérés', 'appropriés', 'réalisation', 'séjour', 'étranger']
 
-['Validation', 'lactivité', ' ', 'séjours', 'létranger', '\n\n\n', 'Les', 'crédits', 'ECTS', 'équivalents', 'reconnus', 'Direction', 'Etudes', 'avis', 'dun', 'enseignant', 'chercheurs', 'spécialistes', 'disciplines', 'concernées']
+['Les', 'crédits', 'ECTS', 'équivalents', 'reconnus', 'Direction', 'Etudes', 'avis', 'enseignant', 'chercheurs', 'spécialistes', 'disciplines', 'concernées']
 
-["L'", 'activité', ' ', 'séjours', 'étranger', ' ', 'validée', 'élève', 'valide', '21', 'semaines', 'séjours', 'étranger', 'constituées', 'périodes', '12', 'semaines', 'validées']
+["L'", 'activité', 'séjours', 'étranger', 'validée', 'élève', 'valide', '21', 'semaines', 'séjours', 'étranger', 'constituées', 'périodes', '12', 'semaines', 'validées']
 
-['Les', 'conditions', 'validation', 'périodes', ' ', 'séjours', 'étranger', ' ', 'périodes', 'cadre', 'stages', 'validées', 'interviennent', 'cadre', '  ', 'séjours', 'létranger', '  ', 'Stage', 'Application', 'validé', 'modalités', 'validation', 'Stage', 'Application', 'présentées', 'fascicule', 'pédagogique', '  ', 'Travail', 'Fin', 'dEtudes', 'validé', 'modalités', 'validation', 'TFE', 'présentées', 'fascicule', 'pédagogique', 'stage', 'césure', 'conventionnée', 'validé', 'modalités', 'validation', 'Stage', 'Application', ' ', 'présentées', 'fascicule', 'pédagogique', 'semestre', 'étude', 'Université', 'étranger', 'estsont', 'validé', '  ', 'semestre', 'élève', 'obtenu', '30', 'crédits', 'ECTS', 'équivalent', ' ', 'semestres', 'semestres', 'élève', 'validé', '2', 'semestres', '30', 'crédits', 'ECT', 'expérience', 'socio-culturelle', 'socio-professionnelle', 'international', '12', 'semaines', 'élève', 'rapporter', 'preuve', 'matérielle', 'contrat', 'travail', 'bulletin', 'salaire', 'fiche', 'résultats', 'universitaires', 'certificat', 'bénévolat']
+['Les', 'conditions', 'validation', 'périodes', 'séjours', 'étranger', 'périodes', 'cadre', 'stages', 'validées', 'interviennent', 'cadre', 'séjours', 'étranger', 'Stage', 'Application', 'validé', 'modalités', 'validation', 'Stage', 'Application', 'présentées', 'fascicule', 'pédagogique', 'Travail', 'Fin', 'Etudes', 'validé', 'modalités', 'validation', 'TFE', 'présentées', 'fascicule', 'pédagogique', 'stage', 'césure', 'conventionnée', 'validé', 'modalités', 'validation', 'Stage', 'Application', 'présentées', 'fascicule', 'pédagogique', 'semestre', 'étude', 'Université', 'étranger', 'estsont', 'validé', 'semestre', 'élève', 'obtenu', '30', 'crédits', 'ECTS', 'équivalent', 'semestres', 'semestres', 'élève', 'validé', '2', 'semestres', '30', 'crédits', 'ECT', 'expérience', 'socio-culturelle', 'socio-professionnelle', 'international', '12', 'semaines', 'élève', 'rapporter', 'preuve', 'matérielle', 'contrat', 'travail', 'bulletin', 'salaire', 'fiche', 'résultats', 'universitaires', 'certificat', 'bénévolat']
 
-['La', 'nature', 'preuve', 'précisée', 'départ', 'élève', 'accord', 'Commission', 'Césure', '  ', 'diplôme', 'établissement', 'Ecole', 'Centrale', 'Lyon', 'validé', 'stage', '12', 'maines', 'étranger']
+['La', 'nature', 'preuve', 'précisée', 'départ', 'élève', 'accord', 'Commission', 'Césure', 'diplôme', 'établissement', 'École', 'Centrale', 'Lyon', 'validé', 'stage', '12', 'semaines', 'étranger']
 
-['Dispense', 'allègement', 'mobilité', '\n\n\n', 'Dispense', 'Une', 'demande', 'dispense', 'mobilité', 'demandée', 'auprès', 'Directeur', 'Etudes', 'cas', 'particuliers', '  ', 'élèves', 'élus', 'Conseil', 'Administration', 'Vice-Président', 'élève', 'Conseil', 'Etudes', '  ', 'élèves', 'occupant', 'postes', 'responsabilités', 'associatives', 'proposition', 'président', 'Bureau', 'Des', 'Elèves', '  ', 'élèves', 'admis', 'concours', 'commun', 'titre', 'expérience', 'académique', 'significative', 'international', 'admission', 'Ecole', 'Centrale', 'Lyon', '  ', 'élèves', 'admis', 'concours', 'commun', 'titre', 'Ecole', 'Centrale', 'Lyon', 'engagés', 'doubles-diplômes', 'établissements', 'partenaires', 'France', '  ', 'cas', 'force', 'majeure']
+['Une', 'demande', 'dispense', 'mobilité', 'demandée', 'auprès', 'Directeur', 'Etudes', 'cas', 'particuliers', 'élèves', 'élus', 'Conseil', 'Administration', 'Vice-Président', 'élève', 'Conseil', 'Etudes', 'élèves', 'occupant', 'postes', 'responsabilités', 'associatives', 'proposition', 'président', 'Bureau', 'Des', 'Elèves', 'élèves', 'admis', 'concours', 'commun', 'titre', 'expérience', 'académique', 'significative', 'international', 'admission', 'École', 'Centrale', 'Lyon', 'élèves', 'admis', 'concours', 'commun', 'titre', 'École', 'Centrale', 'Lyon', 'engagés', 'doubles-diplômes', 'établissements', 'partenaires', 'France', 'cas', 'force', 'majeure']
 
 ['Une', 'commission', 'créée', 'assister', 'Direction', 'Etudes', 'analyse', 'demandes']
 
 ['Elle', 'composée', 'responsables', 'Tronc', 'Commun', 'Parcours', 'Electif', 'représentant', 'Direction', 'Relations', 'Internationales', 'Vice-Président', 'élève', 'Conseil', 'Etudes', 'représentant', 'Service', 'Scolarité']
 
 ['En', 'cas', 'refus', 'motifs', 'décision', 'transmis', 'élèves', 'concernés']
-
-['Séjour', 'Etranger', '\n\n \n \n', 'Contexte', '\n \n', 'La', 'transformation', 'entreprises', 'été', 'forte', 'dernières', 'années', 'confère', '\n', 'ingénieur', 'rôle', 'fédérateur', 'marqué']
-
-['Par', 'ailleurs', 'évolutions', 'technologiques', 'estructurations', 'entreprises', 'effets', 'mondialisation', 'modifient', 'fortement', 'leu', 'ontour']
-
-["L'", 'ingénieur', 'amené', 'devenir', 'mobile', 'faire', 'fonctionner', 'systèmes', 'complexes', 'grâce', '\n', 'animation', 'équipes', 'multiculturelles', 'etou', 'réalisation', 'missions', 'haute', 'mobilité', 'ue', 'sein', 'entreprise', 'entreprises']
-
-['Pour', 'raisons', 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'centrale', 'Lyon', 'ubordonnée', 'réalisation', 'séjour', '3', 'mois', 'minimum', 'étranger']
-
-["L'", 'objecti', 'édagogique', 'placer', 'élève', 'ingénieur', 'immersion', 'environnement', 'socio-culture', 't', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'ontexte', 'exercice', 'futur', 'métier', 'ingénieur']
-
-['Les', 'modalités', 'acceptables', 'réalisation', 'séjour', 'obligatoire', 'étranger', 'récisées', 'ci-dessous', 'conditions', 'académiques', 'remplir', 'validatio', 'écessaire', 'obtention', 'diplôme', 'ingénieur', 'ECL']
-
-['Modalités', '\n \n', 'Ce', 'séjour', 'prendre', 'formes', '\n\n', 'stage', 'application', 'stage', 'césure', 'conventionnée', 'étranger', 'emestre', 'S8', 'université', 'étranger', 'emestre', 'césure', 'conventionnée', 'université', 'non', 'partenaire', 'étranger', 'nnée', 'sabbatique', 'accord', 'Commission', 'Césure', '\n\n \n \n \n \n ', 'TFE', 'étranger', '\n ', '3A', 'étranger', 'université', 'étranger', '\n ', 'double', 'diplôme', 'université', 'partenaire', 'étranger']
-
-['Les', 'pays', 'francophones', 'Belgique', 'Suisse', 'Canada', 'Afrique', 'francophone', 'onsidérés', 'appropriés', 'réalisation', 'séjour', 'étranger']
-
-['Validation', 'séjour', 'obtention', 'diplôme', 'ECL', '\n \n', 'Les', 'conditions', 'validation', 'séjour', 'obligatoire', 'étranger', '\n\n \n\n \n\n \n\n \n\n \n\n', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoire', 'cadre', 'stag', 'application', 'TFE', 'validation', 'modalités', 'prévues', 'stages', 'stage', 'entreprise', 'organisme', 'laboratoire', 'cadre', 'césur', 'onventionnée', 'validation', 'modalités', 'stage', 'application', 'travail', 'entreprise', 'organisme', 'laboratoire', 'cadre', 'anné', 'abbatique', 'réalisation', 'travail', 'prévu', 'remise', 'preuve', 'réalisatio', 'onvenue', 'CCS', 'départ', 'étranger', 'validation', 'rapport', 'remis', 'PCP', 'semestre', 'S8', 'université', 'validation', '30', 'crédits', 'ECTS', 'équivalents', '\n', '20', 'disciplines', 'scientifiques', 'semestre', 'universitaire', 'césure', 'conventionnée', 'année', 'sabbatique', '\n', 'validation', '30', 'crédits', 'ECTS', 'équivalents', '\n\n \n\n \n\n', 'cas', '3A', 'validation', 'année', 'académique', 'TFE', 'double', 'diplôme', 'validation', 'diplôme', 'université', 'partenaire', 'cas', '\n', 'échéant', 'TFE']
-
-['Conditions', 'validation', 'mobilité', 'activité', 'post-TFE', 'Situation', 'commune', 'élèves', 'validé', 'mobilité', 'dispensés', 'commission', 'ad', 'hoc', 'placés', 'sursis', 'ans', 'jury', 'Parcours', 'électif']
-
-['Les', 'modalités', 'validations', '1ère', 'possibilité', 'stage', 'mois', 'étranger', 'convention', 'ECL', 'condition', 'élève', 'inscrit', 'ECL', 'année', 'universitaire', 'stage', 'PCP', 'tuteur', 'stage', 'stage', 'donne', 'lieu', 'rapport', 'évaluation', 'entreprise', 'mobilité', 'validée', 'stage', 'lieu', 'rapport', 'validé', 'PCP', 'évaluation', 'entreprise', 'positive', '2ème', 'possibilité', 'activité', 'professionnelle', 'étranger', 'durée', 'égale', 'mois', 'année', 'sabbatique', 'élève', 'rapporte', 'scolarité', 'certificat', 'travail', 'issue', 'période', '3ème', 'possibilité', 'semestre', 'académique', 'université', 'partenaire', 'étranger', 'élève', 'inscrit', 'ECL', 'rapporter', '30', 'ECTS', '4ème', 'possibilité', 'semestre', 'académique', 'université', 'non', 'partenaire', 'étranger', 'élève', 'inscrit', 'ECL', 'rapporter', '30', 'crédits', 'ECTS']
-
-['Sont', 'exclues', 'possibilités', 'activités', 'non', 'professionnelles', 'voyages', 'touristiques']
-
-['Les', 'conditions', 'pays', 'situations', 'DOMTOM', 'étranger', 'pays', 'francophone', 'étranger']
 

@@ -29,13 +29,6 @@ for i in range(len(documents)):
     f.close()
 
 
-with open(path+'total.txt', 'w', encoding="utf-8") as f:
-    f.write(texte)
-    f.close()
-
-
-
-
 
 whitelist = '-\n\',-.0123456789:;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæÇÉÈŒœÙﬁ '
 
@@ -50,8 +43,9 @@ texte = regex.sub(r' +', ' ', texte)
 
 
 
-
-
+with open(path+'total.txt', 'w', encoding="utf-8") as f:
+    f.write(texte)
+    f.close()
 
 
 
@@ -82,16 +76,20 @@ sentences = sent_tokenize(texte, language='french')
 
 
 # tokénisation des mots avec Spacy
+
+
+phrasesSpacy = [nlp(sequence) for sequence in sentences]
+
 tokenizedSentencesSpacy = [[token.text for token in nlp(sentence)] for sentence in sentences]
 for i in range(0, len(tokenizedSentencesSpacy)):
-    tokenizedSentencesSpacy[i] = [word for word in tokenizedSentencesSpacy[i] 
+    tokenizedSentencesSpacy[i] = [word for word in tokenizedSentencesSpacy[i]
                                   if word not in string.punctuation
                                   and word not in stopwordsSpacy]
 
 #  tokénisation des mots avec NLTK
 tokenizedSentencesNLTK = [word_tokenize(sentence, language='french') for sentence in sentences]
 for i in range(0, len(tokenizedSentencesNLTK)):
-    tokenizedSentencesNLTK[i] = [word for word in tokenizedSentencesNLTK[i] 
+    tokenizedSentencesNLTK[i] = [word for word in tokenizedSentencesNLTK[i]
                                  if word not in string.punctuation
                                  and word not in stopwordsNLTK]
 
@@ -107,9 +105,9 @@ textfile.close()
 
 
 
-dimension = 300
+dimension = 150
 
-skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=5, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
+skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=6, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
 
 #word_embedding = skip_gram[skip_gram.wv.vocab] 
 
