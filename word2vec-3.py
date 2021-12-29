@@ -14,7 +14,7 @@ import re as regex
 path = './'
 texte = ''
 
-with open(path+'total.txt', 'r', encoding="utf-8") as f:
+with open('total.txt', 'r', encoding="utf-8") as f:
     texte = f.read()
 texte = texte.replace("\n", " ")
 
