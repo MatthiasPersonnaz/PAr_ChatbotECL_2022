@@ -38,7 +38,7 @@ def enregistrer_texte(fichier):
 
 
 
-whitelist = '\x01\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'’()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~«»ôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæÇÉÈŒœÙﬁ—'
+whitelist = '\x01\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'’()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~«»ôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÆæœÇÉÈŒœÙﬁﬂ—'
 
 
 texte = load_data()
@@ -63,6 +63,7 @@ texte = regex.sub(" +([,.])",u'\1',texte)  # supprimer les espaces avant une vir
 texte = texte.replace("ﬁ", "fi") # remplacement des ligatures
 texte = texte.replace("æ", "ae") 
 texte = texte.replace("œ", "oe")
+texte = texte.replace("ﬂ", "fl")
 texte = texte.replace(u"U+0001", "")
 
 
@@ -70,36 +71,16 @@ texte = texte.replace(u"U+0001", "")
 
 
 texte = regex.sub(r"(.+)\n{1}", r"\1 ", texte) # supprimer les retours à la ligne dans un paragraphe (i.e. sauts de ligne doubles)
-
-
-
-
-
 texte = regex.sub(r'([;:.]) *\n—', r' ', texte) # supprimer les retours à la ligne de listes à puces
-
 texte = regex.sub(r'—', ' ', texte)
-
-
-
 texte = regex.sub(r"(Article [0-9]+ – )", r"\n\n", texte) # rajouter des sauts de ligne entre les articles et virer les titres
-
-
 texte = regex.sub(r"[\n][A-Z]{1}\.{1}[0-9]{1}[^\.\n,]{1}.+\n{1}", "\n\n", texte) # supprimer les titres de paragraphes d'annexes tupe "L.1 Principe \n"
-
-
 texte = regex.sub(r"[A-Z]{1} {1}.+\n{1}", "\n\n", texte) # supprimer les titres de paragraphes d'annexes tupe "L Mobilité à l'international \n"
-
-
-
-
-'''
-
 texte = regex.sub(r"[A-Z]+\.[0-9]\.{1}[0-9]\.{1}[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1.2.3
 texte = regex.sub(r"[A-Z]+\.[0-9]\.{1}[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1.2
 texte = regex.sub(r"[A-Z]+\.[0-9](.+\n{1})", r"\1\n", texte) # supprimer les titres de type B.1
 
 
-'''
 
 enregistrer_texte('./reglement-scolarite-2021.txt')
 

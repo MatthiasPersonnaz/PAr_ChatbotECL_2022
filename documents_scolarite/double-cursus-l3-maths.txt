@@ -3,103 +3,15 @@ Double-cursus Licence 3 Mathématiques
 Le double cursus ingénieur – licence est proposé aux élèves ingénieurs de l’École Centrale de Lyon avec le parcours "Mathématiques générales et applications" de la Licence de mathématiques de l'université Claude Bernard Lyon 1.
 
 L'emploi du temps ne permet pas aux élèves ingénieurs d'assister à l’intégralité des cours et TD. Des séances de TP sont assurées spécifiquement pour les élèves ingénieurs le jeudi après-midi dans les locaux de l’UCBL, sur le campus de la Doua.
-Validation de la L3
+
+
+
 
 5 UE (30 ECTS) sont à valider sur chacun des semestres, chaque UE est dotée de 6 ECTS.
 
 8 UE (48 ECTS) doivent être suivies au sein des enseignements de la L3 à l’UCBL. 2 UE (12 ECTS) peuvent être validées en équivalence avec des enseignements du cursus ingénieur de l’ECL : il s’agit d’UE transversale EPS-LV-SHS du semestre 5 et d’une UE optionnelle au semestre 6.
 
 Les UE et la procédure d’inscription sont décrites dans le document de présentation de la L3.
-Inscription
+
 
 L’inscription se fait auprès du service scolarité du Département de Mathématiques de l’UCBL (bâtiment Braconnier).
-
-
-Le Règlement de scolarité présente les modalités d’admission à l’Ecole Centrale de Lyon, les objectifs et les modalités de l’évaluation des connaissances et des compétences de la formation ingénieur, les modalités de diversification de cette formation et les conditions d’obtention des diplômes del’Ecole Centrale de Lyon, hors diplômes de Master co-accrédités et diplôme d’Ingénieur Energie en Alternance. Le présent Règlement de Scolarité concerne donc exclusivement la formation initiale Ingénieur Généraliste délivrée aux élèves ingénieurs et aux étudiants auditeurs de l’Ecole.
-
-Tout élève et tout auditeur de l’Ecole Centrale de Lyon doit se conformer au Règlement de Scolarité. De même, l’Ecole Centrale de Lyon constituant une communauté, un élève ou un auditeur
-doit respecter les règles élémentaires de la vie en société : respect d’autrui quelque soit son statut,
-respect des locaux et des matériels, etc.. Enfin, la formation de l’Ecole Centrale de Lyon destinant
-les élèves à des postes d’ingénieur hautement qualifié, les élèves doivent faire preuve de professionnalisme : ponctualité, participation active aux activités de formation, respect des engagements pris,
-respect des chartes informatique et anti-plagiat et respect des clauses de confidentialité.
-
-
-Le Règlement de Scolarité est établi dans les conditions et limites fixées par le décret 92-378 du
-1er avril 1992 relatif à l’Ecole Centrale de Lyon. Il est approuvé par le Conseil d’Administration
-de l’Ecole après consultation du Conseil des Etudes. Les modalités pratiques d’application qui en
-découlent sont regroupées dans des Annexes pouvant être révisées annuellement par le Conseil
-d’Administration de l’Ecole, après avis du Conseil des Etudes et sur proposition de la Commission
-d’Evolution du Règlement de Scolarité.
-
-
-Les étudiants admis à l’Ecole Centrale de Lyon dans la formation ingénieur pour préparer le diplôme
-national d’ingénieur de l’Ecole Centrale de Lyon sont appelés « élèves ».
-L’admission en 1ère année de la formation ingénieur s’effectue par la voie du concours commun
-« Centrale-Supélec » et par la voie de l’admission sur titre, soit « CASTing », admission sur titres d’ingénieurs, commun au Groupe des Ecoles Centrales, soit « ENISE ». Le nombre de places offertes au concours
-et à l’admission sur titre est fixé par le ministre chargé de l’enseignement supérieur, après avis du Conseil
-d’Administration. Les élèves admis par ces voies sont appelés « élèves admis sur concours ou sur titres ».
-Dans le cadre des formations double diplômantes, des admissions sur titres sont aussi proposées en première année ou en seconde année par la Commission des Echanges Universitaires définie dans l’Annexe A
-« Personnalisation du cursus ingénieur », page 10. Ces admissions concernent les étudiants inscrits dans
-des établissements partenaires étrangers voir l’Article 15. Des étudiants de l’Ecole Nationale Supérieure
-d’Architecture de Lyon, de l’EMLyon Business School et de l’Ecole Normale Supérieure de Lyon sont
-admis sur dossier pour une formation d’ingénieur double diplômante avec respectivement leur formation
-d’architecture, leur formation de management et leurs formations de Master co-accréditées par l’Ecole
-Normale Supérieure de Lyon et l’Université Claude Bernard Lyon 1. Les élèves admis par ces voies sont
-appelés « élèves admis dans le cadre d’un double diplôme » ou plus simplement « élèves admis en double
-diplôme ».
-Des étudiants en provenance d’universités étrangères ou d’autres établissements français peuvent également être accueillis en 3e année pour suivre une formation ne conduisant pas au diplôme d’ingénieur. Le
-recrutement de ces étudiants est prononcé par le Directeur de l’Ecole Centrale de Lyon, sur proposition de
-la Commission des Echanges Universitaires ou selon les procédures prévues dans les conventions passées
-avec d’autres établissements français.
-
-Les élèves admis à l’Ecole Centrale de Lyon dans le cadre des formations double diplômantes sont
-appelés « élèves admis en double diplôme ». Les étudiants accueillis à l’Ecole Centrale de Lyon pour suivre
-des enseignements de la formation d’ingénieur de l’Ecole Centrale de Lyon sans en préparer le diplôme
-d’ingénieur sont appelés « auditeurs ».
-
-
-La formation ingénieur se déroule en trois années découpées en six semestres, notés S5 à S10, les
-trois premiers semestres (S5, S6, S7), hors stages, constituant un parcours appelé Tronc Commun , les
-deux semestres suivants (S8, S9) constituant hors stage, un parcours appelé Parcours Electif et le dernier
-semestre (S10) correspondant à un stage appelé Travail de Fin d’Etudes (TFE). Un stage est une période
-de formation qui se déroule en milieu professionnel, en France ou à l’étranger, sous le contrôle de l’Ecole,
-sous convention de stage ou contrat d’embauche. Le Parcours Electif est défini par le choix d’une Option et
-d’un Métier, décidé par la Commission Parcours Electif, suivant les modalités présentées dans l’Annexe A
-« Personnalisation du cursus ingénieur », page 10. Le Parcours Electif peut être d’autre part aménagé
-pour effectuer une partie de ce parcours dans des universités étrangères. La formation peut être aménagée
-pour effectuer un double diplôme, voir l’Article 15. La formation dispensée à l’Ecole Centrale de Lyon
-à certains élèves en double diplôme consiste en un Tronc Commun Etendu (Tronc Commun + S8) ou
-en un Parcours Electif Etendu (S7 ou S7 d’intégration + Parcours Electif) ou un Parcours Electif Réduit
-(S9). Les différentes variantes du cursus ingénieur sont présentées dans la section A.1 de l’Annexe A
-« Personnalisation du cursus ingénieur », page 10.
-
-
-Dans un semestre se déroulent plusieurs Unités d’Enseignement au sein desquelles les activités pédagogiques sont regroupées en Actions de Formation. Une Action de Formation est un ensemble cohérent
-d’activités planifiées : Cours Magistraux, Travaux Dirigés, Travaux Pratiques, Bureaux d’Etudes, etc..
-Dans une Action de Formation comprenant des activités de Cours Magistral, ceux-ci présentent le socle
-de connaissances nécessaire au bon déroulement des autres activités de l’Action de Formation. De façon générale, la participation active des élèves aux activités des Actions de Formation est primordiale. Le
-programme pédagogique de chacun des parcours de la formation ingénieur est approuvé par le Conseil
-d’Administration, sur proposition du Directeur de l’Ecole et après avis du Conseil des Etudes. Il définit
-l’ensemble des activités d’une Action de Formation et est présenté dans le fascicule pédagogique.
-Une activité pédagogique ne peut être réalisée par un élève que s’il est administrativement inscrit dans
-l’(les) année(s) universitaires où elle se déroule, le calendrier des années universitaires voté par le Conseil
-d’Administration faisant foi.
-La participation et l’implication des élèves et des auditeurs au cursus de formation initiale sont prioritaires sur tout autre type d’activités. En conséquence, la participation à toutes les activités d’une Action de
-Formation est obligatoire; la présence est contrôlée chaque fois que cela est possible, sous la responsabilité du responsable de l’Action de Formation. Toute absence doit être signalée par l’élève au Service de la
-Scolarité le plus tôt possible et au plus tard dans les cinq jours ouvrables qui suivent le premier jour de l’absence. Seules sont autorisées les absences pour raisons de force majeure (comme des problèmes de santé ou
-des décès familiaux), pour des convocations émanant d’autorités administratives ou pour des motifs précisés
-dans l’Annexe D « Autorisations d’absences », page 23. Les justificatifs doivent être impérativement fournis au Service de la Scolarité lors de la déclaration d’absence. Enfin, le manque de ponctualité étant un frein
-au bon déroulement des activités d’une Action de Formation, les enseignants participent à la promotion du
-respect de la ponctualité.
-
-
-Implication de l’élève dans sa scolarité La présence étant obligatoire, l’absentéisme non autorisé
-traduit un manque d’implication de l’élève dans sa scolarité ainsi qu’un non respet des engagements vis-à-vis de l’Ecole. Il est donc un élément défavorable à la validation par compensation.
-Un autre élément extrêmement défavorable à la validation par compensation est la non-validation d’une
-UE Professionnelle. Le fonctionnement des UE Professionnelles étant basé sur le participation active de
-l’élève et sur son attitude vis-à-vis de situations professionnelles (travail en équipe sur le long terme,
-construction du projet professionnel, etc..), les résultats obtenus par un élève dans ces UE donnent des indications très précieuses sur le degré réel d’implication de l’élève dans sa scolarité. L’avis sur l’implication
-de l’élève dans les activités des UE Professionnelles qui sera systématiquement émis par le Conseil des UE
-Professionnelles en cas de non validation d’une UE Professionnelle sera un élément important dans l’étude
-de la validation par compensation ainsi que l’avis des Conseils des Unités d’Enseignement spécifiques au
-Parcours Electif (Etendu) dans le cas du Parcours Electif (Etendu).

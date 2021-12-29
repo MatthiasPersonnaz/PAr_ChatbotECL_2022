@@ -11,7 +11,7 @@ import re as regex
 
 
 
-path = './documents_scolarite/'
+path = './'
 
 
 
@@ -38,7 +38,7 @@ texte = regex.sub(rf'[^{whitelist}]', "", texte)
 
 texte = texte.replace("\n", " ")
 texte = regex.sub(r' +', ' ', texte)
-
+texte = regex.sub(r' +\.', '\.', texte)
 
 
 
