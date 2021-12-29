@@ -12,16 +12,10 @@ import re as regex
 
 
 path = './'
-
-
-
 texte = ''
 
 with open(path+'total.txt', 'r', encoding="utf-8") as f:
     texte = f.read()
-
-
-
 texte = texte.replace("\n", " ")
 
 
@@ -35,6 +29,7 @@ texte = texte.replace("\n", " ")
 # importation de Spacy
 import spacy
 from spacy import displacy
+from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
 
 
 nlp = spacy.load('fr_core_news_sm')  # fr_core_news_sm pour efficacité
@@ -58,8 +53,8 @@ phrasesSpacy = [nlp(sequence) for sequence in sentences]
 
 # enregistrer les phrases
 with open(path+'phrases.txt', 'w', encoding='utf8') as f:
-    for s in phrasesSpacy:
-        f.write(s.text + "\n\n")
+    for i in range(len(phrasesSpacy)):
+        f.write(f'{str(i)} {phrasesSpacy[i].text}' + "\n\n")
         
         
 
@@ -67,15 +62,32 @@ doc = phrasesSpacy[0]
 print(doc, "\n\n")
 
 for token in doc:
-    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop, token.morph, token.sentiment, token. ent_type, token.ent_type_, token.dep) if token.ent_type_ == 'MISC' else None
+    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop, token.morph, token.sentiment, token. ent_type, token.ent_type_, token.dep) if token.ent_type_ != '' else None
 
 
 
 
-'''
+
 tokenizedSentencesSpacy = []
 for phrase in phrasesSpacy:
-    tokenizedSentencesSpacy.append([token.lemma_ for token in phrase if not token.is_punct])
+    phraseEclatee = []
+    for token in phrase:
+        if not token.is_punct:
+            if token.ent_type_ != '':
+                phraseEclatee.append(token.text) if token.text not in stopwordsSpacy else None
+            else:
+                phraseEclatee.append(token.lemma_) if token.text not in stopwordsSpacy else None
+    tokenizedSentencesSpacy.append(phraseEclatee)
+    
+    
+    
+    
+# enregistrer les phrases
+with open(path+'phrases-tokénisées.txt', 'w', encoding='utf8') as f:
+    for i in range(len(tokenizedSentencesSpacy)):
+        f.write(f'{str(i)} {tokenizedSentencesSpacy[i]}' + "\n\n")
+            
+    
 
 # tokenizedSentencesSpacy = [[token.text for token in nlp(sentence)] for sentence in sentences]
 # for i in range(0, len(tokenizedSentencesSpacy)):
@@ -190,7 +202,7 @@ def tsnescatterplot(model, word, list_names):
     
 tsnescatterplot(skipgram, 'Centrale', [])
  
-'''
+
     
 """
 X = skipgram[skipgram.wv]

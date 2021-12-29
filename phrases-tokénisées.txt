@@ -1,0 +1,1244 @@
+0 ['le', 'Règlement', 'scolarité', 'présente', 'modalité', 'admission', 'École', 'Centrale', 'Lyon', 'objectif', 'modalité', 'évaluation', 'connaissance', 'compétence', 'formation', 'ingénieur', 'modalité', 'diversification', 'formation', 'condition', 'obtention', 'diplôme', 'École', 'Centrale', 'Lyon', 'diplôme', 'Master', 'co-accrédités', 'diplôme', 'Ingénieur', 'Energie', 'Alternance']
+
+1 ['le', 'présent', 'Règlement', 'Scolarité', 'concerne', 'exclusivement', 'formation', 'initial', 'Ingénieur', 'Généraliste', 'délivrer', 'élève', 'ingénieur', 'étudiant', 'auditeur', 'École', 'Tout', 'élève', 'auditeur', 'École', 'Centrale', 'Lyon', 'conformer', 'Règlement', 'Scolarité']
+
+2 ['de', 'École', 'Centrale', 'Lyon', 'constituer', 'communauté', 'élève', 'auditeur', 'respecter', 'règle', 'élémentaire', 'vie', 'société', 'respect', 'statut', 'respect', 'local', 'matériel', 'etc.']
+
+3 ['enfin', 'formation', 'École', 'Centrale', 'Lyon', 'destinant', 'élève', 'poste', 'ingénieur', 'hautement', 'qualifier', 'élève', 'faire', 'preuve', 'professionnalisme', 'ponctualité', 'participation', 'actif', 'activité', 'formation', 'respect', 'engagement', 'prendre', 'respect', 'charte', 'informatique', 'anti-plagiat', 'respect', 'clause', 'confidentialité']
+
+4 ['le', 'Règlement', 'Scolarité', 'établir', 'condition', 'limite', 'fixer', 'décret', '92', '378', 'premier', 'avril', '1992', 'relatif', 'École', 'Centrale', 'Lyon']
+
+5 ['il', 'approuver', 'Conseil', 'Administration', 'École', 'consultation', 'Conseil', 'Etudes']
+
+6 ['le', 'modalité', 'pratique', 'application', 'découlent', 'regrouper', 'Annexes', 'pouvoir', 'réviser', 'annuellement', 'Conseil', 'Administration', 'école', 'avis', 'Conseil', 'Etudes', 'proposition', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'Les', 'Annexes', 'document', 'partie', 'intégral', 'Règlement', 'Scolarité']
+
+7 ['le', 'Règlement', 'Scolarité', 'disponible', 'site', 'WEB', 'École', 'début', 'année', 'scolaire']
+
+8 ['il', 'porter', 'connaissance', 'ensemble', 'personnel', 'École', 'intermédiaire', 'Directeurs', 'Département', 'Directeurs', 'Unité', 'Enseignement']
+
+9 ['le', 'étudiant', 'admettre', 'École', 'Centrale', 'Lyon', 'formation', 'ingénieur', 'préparer', 'diplôme', 'national', 'ingénieur', 'École', 'Centrale', 'Lyon', 'appeler', 'élève']
+
+10 ['le', 'admission', '1ère', 'année', 'formation', 'ingénieur', 'effectue', 'voie', 'concours', 'commun', 'Centrale', 'Supélec', 'voie', 'admission', 'titre', 'casting', 'admission', 'titre', 'ingénieur', 'commun', 'Groupe', 'Écoles', 'Centrales', 'eni']
+
+11 ['le', 'nombre', 'place', 'offerte', 'concours', 'admission', 'titre', 'fixer', 'ministre', 'charger', 'enseignement', 'supérieur', 'avis', 'Conseil', 'Administration']
+
+12 ['le', 'élève', 'admettre', 'voie', 'appeler', 'élève', 'admettre', 'concours', 'titre']
+
+13 ['dans', 'cadre', 'formation', 'double', 'diplômante', 'admission', 'titre', 'proposer', 'année', 'second', 'année', 'Commission', 'Echanges', 'Universitaires', 'définir', 'annexe']
+
+14 ['un', 'étudiant', 'provenance', 'université', 'étranger', 'établissement', 'français', 'accueillir', 'troisième', 'année', 'formation', 'conduire', 'diplôme', 'ingénieur']
+
+15 ['le', 'recrutement', 'étudiant', 'prononcer', 'Directeur', 'École', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires', 'procédure', 'prévoir', 'convention', 'passer', 'établissement', 'français']
+
+16 ['le', 'élève', 'admettre', 'École', 'Centrale', 'Lyon', 'cadre', 'formation', 'double', 'diplômante', 'appeler', 'élève', 'admettre', 'double', 'diplôme']
+
+17 ['le', 'étudiant', 'accueillir', 'École', 'Centrale', 'Lyon', 'enseignement', 'formation', 'ingénieur', 'École', 'Centrale', 'Lyon', 'préparer', 'diplôme', 'ingénieur', 'appeler', 'auditeur']
+
+18 ['le', 'élève', 'auditeur', 'effectivement', 'inscrire', 'École', 'Centrale', 'Lyon', 'lorsque', 'effectuer']
+
+19 ['pour', 'élève', 'signer', 'contrat', 'professionnalisation', 'inscription', 'uniquement', 'pédagogique', 'règlement', 'Droits', 'Universitaires', 'réglementaire']
+
+20 ['il', 'produire', 'jour', 'rentrée', 'dossier', 'personnel', 'composition', 'définir', 'Directeur', 'École', 'Centrale', 'Lyon']
+
+21 ['il', 'imposer', 'souscrire', 'assurance', 'Responsabilité', 'Civile']
+
+22 ['ce', 'assurance', 'valable', 'scolarité', 'période', 'stage']
+
+23 ['le', 'élève', 'obligatoirement', 'assurer', 'responsabilité', 'civil', 'contre', 'risque', 'accident', 'incident', 'pouvoir', 'survenir', 'occasion', 'activité', 'scolaire', 'être', 'obligatoire', 'facultative', 'déroulent', 'intérieur', 'extérieur', 'établissement']
+
+24 ['il', 'lire', 'approuvé', 'signer', 'charte', 'informatique', 'anti-plagiat']
+
+25 ['le', 'formation', 'ingénieur', 'déroule', 'année', 'découper', 'semestre', 'noter', 'S5', 'S10', 'premier', 'semestre', 'stage', 'constituer', 'parcours', 'appeler', 'Tronc', 'Commun', 'semestre', 'constituer', 'stage', 'parcours', 'appeler', 'Parcours', 'Electif', 'dernier', 'semestre', 'correspondre', 'stage', 'appeler', 'Travail', 'Fin', 'Etudes', 'un', 'stage', 'période', 'formation', 'déroule', 'milieu', 'professionnel', 'France', 'étranger', 'contrôle', 'École', 'convention', 'stage', 'contrat', 'embauche']
+
+26 ['le', 'Parcours', 'Electif', 'définir', 'choix', 'Option', 'Métier', 'décider', 'Commission', 'Parcours', 'Electif', 'modalité', 'présenter', 'Annexe', 'personnalisation', 'cursu', 'ingénieur']
+
+27 ['le', 'Parcours', 'Electif', 'part', 'aménager', 'effectuer', 'partie', 'parcours', 'université', 'étranger']
+
+28 ['le', 'formation', 'aménager', 'effectuer', 'double', 'diplôme', 'voir', 'article', '15']
+
+29 ['le', 'formation', 'dispenser', 'École', 'Centrale', 'Lyon', 'élève', 'double', 'diplôm', 'consiste', 'Tronc', 'Commun', 'Etendu', 'Parcours', 'Electif', 'Etendu', 'Parcours', 'Electif', 'Réduit']
+
+30 ['le', 'variante', 'cursu', 'ingénieur', 'présenter', 'section', 'Annexe', 'A', 'Personnalisation', 'cursu', 'ingénieur']
+
+31 ['dans', 'semestre', 'déroulent', 'Unités', 'Enseignement', 'sein', 'activité', 'pédagogique', 'regrouper', 'Actions', 'Formation']
+
+32 ['un', 'action', 'formation', 'ensemble', 'cohérent', 'activité', 'planifier', 'Cours', 'Magistraux', 'Travaux', 'Dirigés', 'Travaux', 'Pratiques', 'Bureaux', 'Etudes', 'etc.']
+
+33 ['dans', 'Action', 'Formation', 'comprendre', 'activité', 'Cours', 'Magistral', 'présenter', 'socle', 'connaissance', 'nécessaire', 'bon', 'déroulement', 'activité', 'Action', 'Formation']
+
+34 ['de', 'général', 'participation', 'actif', 'élève', 'activité', 'Actions', 'Formation', 'primordial']
+
+35 ['le', 'programme', 'pédagogique', 'parcours', 'formation', 'ingénieur', 'approuver', 'Conseil', 'Administration', 'proposition', 'Directeur', 'École', 'avis', 'Conseil', 'Etudes']
+
+36 ['il', 'définir', 'ensemble', 'activité', 'Action', 'Formation', 'présenter', 'fascicule', 'pédagogique']
+
+37 ['un', 'activité', 'pédagogique', 'réaliser', 'élève', 'administrativement', 'inscrire', 'année', 'universitaire', 'déroule', 'calendrier', 'année', 'universitaire', 'voter', 'Conseil', 'Administration', 'foi']
+
+38 ['le', 'participation', 'implication', 'élève', 'auditeur', 'cursus', 'formation', 'initial', 'prioritaire', 'type', 'activité']
+
+39 ['en', 'conséquence', 'participation', 'activité', 'Action', 'Formation', 'obligatoire', 'présence', 'contrôler', 'fois', 'responsabilité', 'responsable', 'Action', 'Formation']
+
+40 ['tout', 'absence', 'signaler', 'élève', 'Service', 'Scolarité', 'tôt', 'tard', 'jour', 'ouvrable', 'suivre', 'jour', 'absence']
+
+41 ['seul', 'autoriser', 'absence', 'raison', 'force', 'majeur', 'convocation', 'émaner', 'autorité', 'administratif', 'motif', 'préciser', 'Annexe', 'autorisation', 'absence']
+
+42 ['le', 'justificatif', 'impérativement', 'fournir', 'Service', 'Scolarité', 'déclaration', 'absence']
+
+43 ['enfin', 'manque', 'ponctualité', 'frein', 'bon', 'déroulement', 'activité', 'Action', 'Formation', 'enseignant', 'participer', 'promotion', 'respect', 'ponctualité']
+
+44 ['chaque', 'élève', 'auditeur', 'objet', 'évaluation', 'continue', 'objectif', 'estimer', 'long', 'année', 'niveau', 'atteindre', 'aider', 'effectuer', 'travail', 'régulier', 'assimilation', 'renseigner', 'progression', 'faciliter', 'choix', 'orientation', 'conduire', 'effectuer']
+
+45 ['le', 'résultat', 'semestriel', 'obtenir', 'élève', 'auditeur', 'consigner', 'dossier', 'individuel', 'Service', 'Scolarité']
+
+46 ['le', 'jury', 'arrêter', 'semestre', 'position', 'global', 'élève', 'rapport', 'demipromotion', 'position', 'global', 'élève', 'rapport', 'promotion', 'barème', 'niveau', 'définir', 'Annexe', 'évaluation', 'connaissance', 'compétence', 'page', '13']
+
+47 ['un', 'synthèse', 'résultat', 'décision', 'Jurys', 'porter', 'connaissance', 'élève', 'auditeur', 'issue', 'délibération']
+
+48 ['ce', 'élément', 'communicable', 'organisme', 'extérieur', 'demande', 'écrite', 'élève', 'auditeur']
+
+49 ['le', 'évaluation', 'élève', 'auditeur', 'porte', 'ensemble', 'programme', 'pédagogique']
+
+50 ['le', 'examen', 'connaissance', 'compétence', 'ressort', 'exclusif', 'enseignant', 'personne', 'vocation', 'enseigner', 'École', 'couvert', 'Conseils', 'Unités', 'Enseignement', 'responsable', 'Parcours', 'assurer', 'cohérence']
+
+51 ['le', 'nature', 'modalité', 'évaluation', 'déterminer', 'enseigner', 'responsable', 'Action', 'Formation', 'collaborateur', 'valider', 'instance', 'statutaire', 'compétent', 'titre', 'programme', 'pédagogique']
+
+52 ['lui', 'publier', 'fascicule', 'pédagogique']
+
+53 ['le', 'modalité', 'pratique', 'organisation', 'définir', 'Annexe', 'évaluation', 'connaissance', 'compétence']
+
+54 ['le', 'fraude', 'plagiat', 'tentative', 'fraude', 'plagiat', 'acte', 'extrêmement', 'grave', 'sanction', 'prévoir', 'Code', 'Education', 'Livre', 'VIII', 'titre', 'ier', 'section', 'procédure', 'disciplinairer']
+
+55 ['le', 'sanction', 'prévoir', 'aller', 'jusque', 'exclusion', 'définitif', 'établissement', 'public', 'enseignement', 'supérieur']
+
+56 ['le', 'sanction', 'prendre', 'Section', 'Disciplinaire', 'École', 'Centrale', 'Lyon', 'être', 'saisir', 'Directeur', 'École', 'Centrale', 'Lyon']
+
+57 ['le', 'objectif', 'charte', 'anti-plagiat', 'sensibiliser', 'élève', 'problème']
+
+58 ['un', 'commission', 'anti-plagiat', 'instituer', 'objectif', 'réunir', 'fait', 'cas', 'présomption', 'plagiat']
+
+59 ['le', 'modalité', 'pratique', 'organisation', 'sanction', 'définir', 'Annexe', 'fraude', 'Plagiats']
+
+60 ['un', 'année', 'césure', 'possibilité', 'offrir', 'élève', 'effectuer', 'année', 'supplémentaire', 'réaliser', 'projet', 'professionnel', 'personnel']
+
+61 ['tout', 'élever', 'solliciter', 'année', 'césure', 'cours', 'scolarité', 'École', 'Centrale', 'Lyon', 'condition', 'préciser', 'Annexe', 'année', 'césure']
+
+62 ['le', 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'contexte', 'exercice', 'futur', 'métier', 'ingénieur']
+
+63 ['le', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonner', 'réalisation', 'séjour', '21', 'semaine', 'minimum', 'étranger', 'forme', 'modalité', 'pratique', 'définir', 'Annexe', 'mobilité', 'international']
+
+64 ['en', 'formation', 'double', 'diplômant', 'effectuer', 'étranger', 'cursu', 'ingénieur', 'personnaliser', 'effectuer', 'partie', 'scolarité', 'École', 'Centrale', 'Lyon', 'modalité', 'remplacer', 'semestre', 'complet', 'École', 'Centrale', 'Lyon', 'nombre', 'semestre', 'suivre', 'établissement', 'remplacer', 'Actions', 'Formation', 'enseignement', 'suivre', 'formation']
+
+65 ['le', 'validation', 'semestre', 'complet', 'prendre', 'forme', 'exclusive', ' ', 'effectuer', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 'S8', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 'S8', 'S9', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'français', 'étranger', 'partenair', 'École', 'Centrale', 'Lyon', 'remplacement', 'semestre', 'S9', 'S10', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'École', 'Centrale', 'Lyon', 'effectuer', 'stage', 'final', 'cursu', 'ingénieur']
+
+66 ['le', 'liste', 'élève', 'autoriser', 'École', 'effectuer', 'semestre', 'établissement', 'étranger', 'élève', 'autoriser', 'École', 'effectuer', 'semestre', 'établissement', 'arrêter', 'Directeur', 'École', 'Centrale', 'Lyon', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+
+67 ['le', 'programme', 'étude', 'élever', 'établissement', 'accueil', 'décrire', 'engagement', 'écrire', 'signer', 'élève', 'approuver', 'Directeur', 'École', 'Centrale', 'Lyon', 'représentant']
+
+68 ['ce', 'document', 'transmettre', 'Jury', 'Parcours', 'Electif', 'habilité', 'valider', 'résultat', 'obtenir', 'établissement', 'accueil']
+
+69 ['le', 'modalité', 'pratique', 'organisation', 'définir', 'Annexe', 'annexe', 'personnalisation', 'cursu', 'ingénieur']
+
+70 ['le', 'remplacement', 'validation', 'Actions', 'Formation', 'Parcours', 'Electif', 'validation', 'cours', 'suivre', 'formation', 'valider', 'commission', 'aménagement', 'Parcours', 'Electif', 'définir', 'annexe', 'personnalisation', 'cursu', 'ingénieur', 'modalité', 'présenter', 'Annexe', 'évaluation', 'connaissance', 'compétence']
+
+71 ['le', 'handicap', 'définir', 'article', 'L.114', 'Code', 'action', 'sociale', 'familles', 'Constitue', 'handicap', 'limitation', 'activité', 'restriction', 'participation', 'vie', 'société', 'subir', 'environnement', 'raison', 'altération', 'substantiel', 'durable', 'définitif', 'fonction', 'physique', 'sensorielle', 'mentales', 'cognitives', 'psychique', 'poly', 'handicap', 'trouble', 'santé', 'invalidant']
+
+72 ['en', 'accord', 'Décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'relatif', 'aménagement', 'examen', 'concours', 'enseignement', 'scolaire', 'enseignement', 'supérieur', 'candidat', 'présenter', 'handicap', 'élève', 'auditeur', 'situation', 'handicap', 'formation', 'ingénieur', 'aménager', 'fonction', 'handicap', 'niveau', 'examen', 'contrôle', 'connaissance', 'compétence', 'niveau', 'déroulement', 'cursu', 'complet']
+
+73 ['le', 'modalité', 'pratique', 'organisation', 'définir', 'annexe', 'Scolarité', 'situation', 'handicap']
+
+74 ['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'constitue', 'année', 'Jury', 'Tronc', 'Commun', 'jury', 'promotion', 'ensemble', 'semestre', 's5', 'S6', 'S7', 'Jury', 'Parcours', 'Electif', 'jury', 'promotion', 'ensemble', 'semestres', 'S8', 'S9', 'S10', 'Commission', 'Echanges', 'Universitaires']
+
+75 ['suite', 'indisponibilité', 'membre', 'Jury', 'Directeur', 'École', 'désigne', 'remplaçant']
+
+76 ['Les', 'Annexe', 'personnalisation', 'cursu', 'ingénieur', 'Annexe', 'J', 'fonctionnement', 'jury', 'préciser', 'règle', 'modalité', 'pratique', 'fonctionnement', 'relatif', 'instance']
+
+77 ['le', 'validation', 'Tronc', 'Commun', 'décider', 'Jury', 'tronc', 'Commun', 'promotion', 'concerner']
+
+78 ['le', 'éloge', 'avertissement', 'mesure', 'prononcer', 'souverainement', 'Jurys', 'définir', 'annexe', 'Fonctionnement', 'Jurys']
+
+79 ['le', 'redoublement', 'autoriser', 'fois', 'cours', 'scolarité', 'cas', 'redoublement', 'raison', 'médical']
+
+80 ['le', 'jury', 'décident', 'redoublement', 'effectuer', 'École', 'Centrale', 'Lyon', 'titre', 'exceptionnel', 'Écoles', 'Centrales', 'Intergroupe']
+
+81 ['dans', 'dernier', 'cas', 'choix', 'École', 'accueillir', 'redoublant', 'résult', 'accord', 'Directions', 'Etudes']
+
+82 ['le', 'modalité', 'pratique', 'relatif', 'redoublement', 'définir', 'Annexe', 'Fonctionnement', 'Jurys']
+
+83 ['pour', 'élève', 'issu', 'concours', 'Jury', 'Parcours', 'Electif', 'examine', 'ensemble', 'scolarité', 'vue', 'proposer', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'délivrer', 'Recteur', 'Académie', 'représentant', 'Ministre', 'chargé', 'Enseignement', 'Supérieur']
+
+84 ['le', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonner', 'validation', 'Tronc', 'Commun', 'validation', 'Parcours', 'Electif', 'réalisation', 'validation', 'ensemble', 'activité', 'définir', 'cadre', 'programme', 'pédagogique', 'préciser', 'Annexe', 'Conditions', 'délivrance', 'diplôme', 'ingénieur']
+
+85 ['dans', 'cadre', 'accord', 'passer', 'université', 'partenaire', 'étranger', 'élève', 'admettre', 'concours', 'titre', 'suivre', 'formation', 'double', 'diplômant']
+
+86 ['le', 'processus', 'sélection', 'élève', 'autoriser', 'formation', 'effectuer', 'Commission', 'Echanges', 'Universitaires']
+
+87 ['ce', 'élève', 'quittent', 'École', 'fin', 'semestre', 'condition', 'validation', 'Tronc', 'Commun', 'élargir', 'S8', 'stage', 'application', 'Jury', 'Tronc', 'Commun']
+
+88 ['il', 'terminer', 'étude', 'université', 'partenair', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'automatiquement', 'décerner', 'lorsque', 'remplir', 'condition', 'obtention', 'diplôme', 'ECL', 'obtenir', 'diplôme', 'correspondre', 'université', 'partenair']
+
+89 ["d'", 'formation', 'double', 'diplômante', 'ouvert', 'élève', 'admettre', 'concours', 'double', 'diplôme', 'Architecture', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'double', 'diplôme', 'Management', 'EMLyon', 'Business', 'School', 'double', 'diplôme', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'double', 'diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'organiser', 'Université', 'Claude', 'Bernard', 'Lyon', '1', 'double', 'diplôme', 'Masters', 'co-accrédité', 'non', 'École', 'Normale', 'Supérieure', 'Lyon', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
+
+90 ['le', 'Diplôme', 'Etudes', 'Supérieures', 'École', 'Centrale', 'Lyon', 'sanctionne', 'validation', 'Unités', 'Enseignement', 'semestres', 'S9', 'S10', 'réalisation', 'activité', 'semestre', 'auditeur', 'voir', 'Annexe', 'Conditions', 'délivrance', 'DESECL']
+
+91 ['le', 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'retour', 'expérience', 'ensemble', 'Jurys', 'améliorer', 'Règlement', 'Scolarité']
+
+92 ['ce', 'commission', 'constituer', 'année', 'Directeur', 'École', 'Centrale', 'Lyon']
+
+93 ['le', 'modalité', 'pratique', 'organisation', 'définir', 'annexe', 'Evolution', 'Règlement', 'Scolarité']
+
+94 ['pour', 'élève', 'admettre', 'concours', 'titre', 'variante', 'cursu', 'ingénieur', ' ', 'représenter', 'tableau', 'ci-dessous']
+
+95 ['ECL', '=', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon']
+
+96 ['ENSAL', '=', 'diplôme', 'état', 'Architecte', 'valoir', 'grade', 'master', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon']
+
+97 ['ENSL', '=', 'diplôme', 'Master', 'co-accrédité', 'École', 'Normale', 'Supérieure', 'Lyon', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
+
+98 ['Médecine', '=', 'Diplôme', 'Formation', 'Approfondie', 'Sciences', 'Médicales', 'Université', 'Claude', 'Bernard', 'Lyon', '1']
+
+99 ['EML', '=', 'diplôme', 'programme', 'Grande', 'École', 'EMLyon', 'Business', 'School']
+
+100 ['ENSAE', '=', 'diplôme', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'Paristech']
+
+101 ['Univ']
+
+102 ['=', 'diplôme', 'Université', 'étrangère', 'partenair']
+
+103 ['le', 'ensemble', 'Parcours', 'Electif', '+', 'Stage', 'Application', '+', 'TFE', 'réaménager']
+
+104 ['Deux', 'semestre', 'académique', 'effectuer', 'université', 'étranger', 'partenair', 'valider', '30', 'crédit', 'ect', 'équivalent', 'ou', 'semestre', 'académique', 'effectuer', 'université', 'étranger', 'non', 'partenair', 'sanctionner', 'diplôme', 'université', 'accueil']
+
+105 ['au', 'semestre', 'académique', 'inclure', 'projet', 'recherche', 'effectuer', 'université', 'étranger', 'non', 'partenair', 'sanctionner', 'diplôme', 'université', 'accueil']
+
+106 ['pour', 'élève', 'admettre', 'formation', 'double-diplômant', 'variante', 'cursu', 'ingénieur', 'représenter', 'tableau', 'ci-dessous']
+
+107 ['ENSAL', 'ECL', 'correspondre', 'élève', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admettre', 'année', 'ENSL', 'ECL', '=', 'correspondre', 'élève', 'École', 'Normale', 'Supérieure', 'Lyon', 'admettre', 'année']
+
+108 ['ENSAE', 'ECL', '=', 'correspondre', 'élève', 'École', 'Nationale', 'Statistique', 'Administration', 'Economique', 'Paristech', 'admettre', 'année']
+
+109 ['EML', 'ECL', 'correspondre', 'élève', 'emlyon', 'Business', 'school', 'admettre', 'année']
+
+110 ['Mahindra', 'ECL', 'correspondre', 'élève', 'Mahindra', 'École', 'Centrale', 'admettre', 'année']
+
+111 ['Médecine', 'ECL', 'correspondre', 'étudiant', 'faculté', 'médecine', 'Université', 'Claude', 'Bernard', 'Lyon', '1', 'admettre', 'année']
+
+112 ['univ.-', 'ECL', 'correspondre', 'étudiant', 'université', 'étranger', 'admettre', 'année']
+
+113 ['univ.-', 'ECL', 'correspondre', 'étudiant', 'université', 'étranger', 'admettre', 'année']
+
+114 ['le', 'Commission', 'Echanges', 'Universitaires', 'mettre', 'place', 'année', '15', 'novembre']
+
+115 ['lui', 'décompose', 'sous-commission']
+
+116 ['le', 'sous-commission', 'charge', 'échange', 'international', 'présider', 'Directeur', 'École', 'Centrale', 'Lyon', 'représentant', 'composer', 'représentant', 'Direction', 'Etudes', 'représentant', 'Direction', 'Relations', 'Internationales', 'représentant', 'Equipe', 'Enseignement', 'langue', 'choisir', 'accord', 'Direction', 'Relations', 'Internationales', 'enseignant', 'correspondant', 'pays']
+
+117 ['le', 'sous-commission', 'charge', 'échange', 'France', 'présider', 'Directeur', 'École', 'Centrale', 'Lyon', 'représentant', 'composer', 'représentant', 'Direction', 'fEtudes', 'représentant', 'Direction', 'Relations', 'Internationales', 'responsable', 'double', 'cursu', 'établissement', 'partenaire', 'France']
+
+118 ['le', 'sous-commission', 'inviter', 'compétent', 'assister', 'travail', 'responsable', 'équipe', 'pédagogique', 'cursu', 'mobilité', 'entrant']
+
+119 ['le', 'CEU', 'internationale', 'examine', 'dossier', 'étudiant', 'candidat', 'recrutement', 'cadre', 'accord', 'international', 'établissement', 'admission', 'qualité', 'élève', 'École', 'Centrale', 'Lyon', 'scolarité', 'an', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'École', 'Centrale', 'Lyon']
+
+120 ['lui', 'examine', 'dossier', 'étudiant', 'candidat', 'scolarité', 'troisième', 'année', 'vue', 'obtention', 'DESECL', 'acquisition', 'crédit', 'ect', 'certificat', 'formation', 'recherche', 'admission', 'échange', 'semestre', 'S8']
+
+121 ['dans', 'cas', 'candidat', 'priorité', 'étudiant', 'proposer', 'université', 'partenaire']
+
+122 ['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'fixe', 'liste', 'élève', 'admettre', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+
+123 ['le', 'CEU', 'internationale', 'examine', 'dossier', 'élève', 'ingénieur', 'centralien', 'candidat', 'formation', 'double', 'diplômant', 'échange', 'université', 'étranger', 'critère', 'présenter', 'dossier', 'demande']
+
+124 ['en', 'cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+125 ['le', 'élève', 'finalement', 'autoriser', 'partir', 'établissement', 'accueil', 'émettre', 'avis', 'favorable', 'accueillir', 'validation', 'Tronc', 'Commun', 'jury', 'Tronc', 'Commun']
+
+126 ['le', 'CEU', 'France', 'examine', 'dossier', 'étudiant', 'candidat', 'recrutement', 'cadre', 'accord', 'établissement', 'partenaire', 'France', 'admission', 'titre', 'qualité', 'élève', 'École', 'Centrale', 'Lyon', 'double', 'diplôm', 'scolarité', 'an', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'École', 'Centrale', 'Lyon']
+
+127 ['lui', 'examine', 'dossier', 'étudiant', 'issu', 'établissement', 'partenaire', 'France', 'candidat', 'scolarité', 'troisième', 'année', 'vue', 'obtention', 'DESECL']
+
+128 ['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'fixe', 'liste', 'élève', 'admettre', 'titre', 'proposition', 'Commission', 'Echanges', 'Universitaires']
+
+129 ['le', 'CEU', 'France', 'examine', 'dossier', 'élève', 'ingénieur', 'centralien', 'candidat', 'formation', 'double', 'diplômant', 'échange', 'établissement', 'partenair', 'France', 'critère', 'présenter', 'dossier', 'demande']
+
+130 ['en', 'cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+131 ['le', 'élève', 'finalement', 'autoriser', 'partir', 'établissement', 'accueil', 'émettre', 'avis', 'favorable', 'accueillir', 'validation', 'Tronc', 'Commun', 'jury', 'Tronc', 'Commun']
+
+132 ['le', 'objectif', 'Commission', 'Parcours', 'Electif', 'élève', 'auditeur', 'effectuer', 'semestre', 'S9', 'École', 'Centrale', 'Lyon', 'affecter', 'Métiers', 'Options']
+
+133 ['lui', 'composer', 'Responsables', 'Métier', 'Responsables', 'Option', 'Directeur', 'Etudes', 'Responsable', 'pédagogique', 'Parcours', 'Electif', 'Directeurs', 'UE', 'Métier', 'UE', 'Secteur']
+
+134 ['le', 'règle', 'affection', 'présenter', 'formulaire', 'inscription']
+
+135 ['après', 'affectation', 'recours', 'auprès', 'Commission', 'Parcours', 'Electif', 'remplir', 'dossier', 'appel']
+
+136 ['le', 'décision', 'final', 'prendre', 'critère', 'présenter', 'dossier']
+
+137 ['en', 'cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+138 ['un', 'élève', 'possibilité', 'aménager', 'Parcours', 'Electif', 'École', 'Centrale', 'Lyon', 'double', 'cursu', 'ingénieur', 'master', 'ingénieur', 'architecte', 'parcours', 'entrepreneur', 'parcours', 'intrapreneur', 'cursu', 'croiser', 'nécessiter', 'emploi', 'temps', 'aménager', 'voire', 'mise', 'place', 'exception', 'suivi', 'Actions', 'Formation', 'établissement', 'extérieur', 'Collègue', 'Hautes', 'etude', 'Lyon', 'science', 'un', 'commission', 'aménagement', 'Parcours', 'Electif', 'mettre', 'place', 'objectif', 'étudier', 'demande', 'responsable', 'cursus', 'nécessaire', 'proposer', 'Conseil', 'Etudes', 'intégrer', 'Règlement', 'Scolarité', 'aménagements', 'nécessaires']
+
+139 ['le', 'commission', 'composer', 'Directeur', 'Etudes', 'responsable', 'pédagogique', 'Parcours', 'Electif', 'représentant', 'Scolarité', 'enseignant', 'étudiant', 'Conseil', 'Etudes', 'représentant', 'Commission', 'Evolution', 'Règlement', 'Scolarité']
+
+140 ['pour', 'élève', 'auditeur', 'reconnaissance', 'niveau', 'connaissance', 'compétence', 'disciplinaire', 'validation', 'Unités', 'Enseignement']
+
+141 ['un', 'UE', 'valider', 'somme', 'pondérer', 'évaluation', 'chiffrer', 'connaissance', 'compétence', 'Action', 'Formation', 'Unité', 'Enseignement', 'supérieur', 'égal', '10/20', 'règle', 'validation']
+
+142 ['le', 'validation', 'UE', 'donne', 'lieu', 'attribution', 'crédit', 'ect', 'nombre', 'définir', 'fascicule', 'pédagogique']
+
+143 ['un', 'UE', 'valider', 'refaire']
+
+144 ['le', 'responsable', 'Actions', 'Formation', 'obligation', 'évaluer', 'connaissance', 'compétence', 'disciplinairer', 'élève', 'étudiant', 'suivre', 'Actions', 'Formation']
+
+145 ['il', 'tenir', 'assurer', 'homogénéité', 'encadrement', 'évaluation', 'groupe', 'travail', 'sein', 'promotion']
+
+146 ['il', 'transmettre', 'Service', 'Scolarité', 'relevé', 'absence']
+
+147 ['le', 'évaluation', 'connaissance', 'compétence', 'disciplinaire', 'combiner', 'configuration', 'épreuve', 'écrite', 'oral', 'planifier', 'Service', 'Scolarité', 'décider', 'Direction', 'Etudes', 'épreuve', 'écrite', 'oral', 'cadre', 'activité', 'Actions', 'Formation', 'Cours', 'Magistraux', 'Travaux', 'Dirigés', 'Bureaux', 'Etudes', 'travail', 'nature', 'réaliser', 'élève', 'cadre', 'Travaux', 'Pratiques', 'travail', 'Autonomie', 'créneau', 'planifier']
+
+148 ['sauf', 'mention', 'particulier', 'préciser', 'suite', 'modalité', 'pratique', 'propre', 'Action', 'Formation', 'défaut', 'Unité', 'Enseignement', 'figurer', 'fascicule', 'pédagogique']
+
+149 ['le', 'responsable', 'Actions', 'Formation', 'tenir', 'informer', 'élève', 'détail', 'organisation', 'épreuve', 'présence', 'non', 'document', 'autoriser', 'épreuve', 'tard', 'dernier', 'séance', 'encadrer', 'Action', 'Formation', 'précédant']
+
+150 ['tout', 'évaluation', 'chiffrer', 'sein', 'Action', 'Formation', 'connaissance', 'compétence', 'disciplinaire', 'exprimer', 'exclusivement', 'échelle', 'unique', '0', '20']
+
+151 ['le', 'évaluation', 'connaissance', 'compétence', 'disciplinairer', 'Action', 'Formation', 'porte', 'Savoir', 'forme', 'traditionnel', 'évaluation', 'examen', 'écrire', 'individualiser', 'porter', 'connaissance', 'théorique', 'présenter', 'Action', 'Formation', 'Savoir', 'faire', 'forme', 'traditionnel', 'évaluation', 'travail', 'effectuer', 'Travaux', 'Pratiques', 'Projet']
+
+152 ['le', 'évaluation', 'Savoir', 'traduire', 'note', '20', 'appeler', 'Note', 'Savoir', 'AF', 'résulter', 'combinaison', 'note', 'Savoir', 'Action', 'Formation']
+
+153 ['par', 'exemple', 'note', 'Savoir', 'consister', 'somme', 'pondérer', 'note', 'examen', 'théorique', 'note', 'Savoir', 'Faire', 'somme', 'pondérer', 'note', 'Travaux', 'Pratiques']
+
+154 ['le', 'évaluation', 'Savoir', 'Faire', 'traduire', 'note', '20', 'appeler', 'Note', 'Savoir', 'Faire', 'AF', 'résulter', 'combinaison', 'note', 'Savoir', 'Faire', 'Action', 'Formation']
+
+155 ['le', 'note', 'global', 'Action', 'Formation', 'obtenir', 'somme', 'pondérer', 'note', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation']
+
+156 ['le', 'note', 'Savoir', 'Savoir', 'Faire', 'Action', 'Formation', 'transmises', 'Service', 'Scolarité', 'responsable', 'Action', 'Formation', 'tard', 'semaine', 'fin', 'Action', 'Formation', 'cas', 'semestre', 'S6', 'transmises', 'semaine', 'fin', 'semestre']
+
+157 ['dans', 'cas', 'épreuve', 'second', 'session', 'note', 'transmises', 'semaine', 'tard', 'épreuve', 'cas', 'épreuve', 'second', 'session', 'semestre', 'S6', 'S7', 'transmises', 'semaine', 'dernier', 'épreuve', 'second', 'session']
+
+158 ['le', 'Service', 'Scolarité', 'publie', 'reporte', 'dossier', 'élève']
+
+159 ['un', 'fois', 'résultat', 'publier', 'éventuel', 'rectification', 'apporter', 'signifier', 'écrit', 'Service', 'Scolarité', 'responsable', 'Action', 'Formation', 'tard', 'délai', 'semaine', 'publication']
+
+160 ['le', 'mesure', 'absence', 'élève', 'auditeur', 'autoriser', 'non']
+
+161 ['en', 'accord', 'Direction', 'Etudes', 'Conseil', 'Unité', 'Enseignement', 'définir', 'ensemble', 'règle', 'mesure', 'précis', 'circonstancier', 'cas', 'absence', 'autoriser', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'séance', 'Travaux', 'Pratiques']
+
+162 ['lui', 'porter', 'possibilité', 'matériel', 'non', 'instaurer', 'rattrapage', 'cas', 'modalité', 'pratique', 'cas', 'prise', 'compte', 'évaluation', 'connaissance']
+
+163 ['ce', 'règle', 'mesure', 'présenter', 'fascicule', 'pédagogique']
+
+164 ['tout', 'absence', 'non', 'autoriser', 'élève', 'auditeur', 'séance', 'TP', 'entraîn', 'minimum', 'attribution', 'note', '0', 'élève', 'auditeur', 'évaluation', 'séance']
+
+165 ['le', 'Conseil', 'Unité', 'Enseignement', 'préciser', 'conséquence', 'absence', 'non', 'autoriser', 'notation', 'déroulement', 'série', 'complet', 'TP', 'élève', 'auditeur', 'absence', 'non', 'autoriser']
+
+166 ['ceci', 'mentionner', 'fascicule', 'pédagogique']
+
+167 ['tout', 'absence', 'non', 'autoriser', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'entraîne', 'attribution', 'note', '0', 'épreuve']
+
+168 ['chaque', 'UE', 'diriger', 'Directeur', 'assister', 'Conseil', 'préside']
+
+169 ['le', 'Conseil', 'Unité', 'Enseignement', 'assure', 'cohésion', 'modalité', 'évaluation', 'connaissance', 'Actions', 'Formation', 'UE', 'concerner']
+
+170 ['le', 'Conseil', 'Unité', 'Enseignement', 'garantir', 'absence', 'disparité', 'flagranter', 'notation', 'Actions', 'Formation']
+
+171 ['plusieurs', 'UE', 'diriger', 'Directeur', 'assister', 'Conseil', 'Unité', 'Enseignement', 'assurer', 'cohérence', 'pédagogique', 'UE']
+
+172 ['pour', 'élève', 'auditeur', 'Unité', 'Enseignement', 'objet', 'évaluation', 'semestriel', 'chiffrer', 'comprendre', 'Savoir', 'évaluer', 'Actions', 'Formation', 'note', 'Savoir', 'UE', 'obtenir', 'somme', 'pondérer', 'note', 'Savoir', 'Actions', 'Formation', 'UE', 'note', 'global', 'UE', 'obtenir', 'somme', 'pondérer', 'note', 'global', 'Action', 'Formation']
+
+173 ['en', 'accord', 'Direction', 'Etudes', 'Conseil', 'Unité', 'Enseignement', 'définir', 'retranscrire', 'fascicule', 'pédagogique', 'Action', 'Formation', 'évaluer', 'évaluation', 'traduire', 'note', '20', 'Action', 'Formation', 'poids', 'note', 'global', 'AF', 'note', 'évaluer', 'AF', 'UE', 'poids', 'note', 'global', 'UE', 'note', 'global', 'Actions', 'Formation']
+
+174 ['a', 'partir', 'poids', 'note', 'Action', 'Formation', 'note', 'Savoir', 'Savoir', 'Faire', 'calculer', 'UE', 'utiliser', 'somme', 'pondérer']
+
+175 ['le', 'note', 'Savoir', 'Savoir', 'faire', 'action', 'formation', 'transmises', 'Service', 'Scolarité', 'responsable', 'Actions', 'Formation', 'charge', 'calculer', 'note', 'global', 'Actions', 'Formation', 'note', 'compétence', 'UE']
+
+176 ['un', 'UE', 'valider', 'élève', 'auditeur', 'note', 'global', 'UE', 'supérieur', 'égal', '10/20', 'règle', 'validation', ' ', 'Le', 'Directeur', 'Conseil', 'Unité', 'Enseignement', 'procéder', 'vérification', 'cohérence', 'ensemble', 'note', 'Savoir', 'Savoir', 'faire', 'UE', 'saisir', 'site', 'WEB', 'Service', 'Scolarité']
+
+177 ["s'", 'juge', 'nécessaire', 'Conseil', 'UE', 'transmettre', 'Service', 'Scolarité', 'informations', 'jugées', 'pertinent', 'strictement', 'destiner', 'renseigner', 'Jury', 'travail', 'comportement', 'général', 'élève', 'auditeur', 'note', 'obtenir', 'permettre', 'valider', 'UE', 'élève', 'auditeur', 'désigner', 'Jury']
+
+178 ['le', 'Unités', 'Enseignement', 'tronc', 'Commun', 'Parcours', 'Electif', 'regrouper', 'type', 'objectif', 'pédagogique', 'modalité', 'fonctionnement']
+
+179 ['le', 'type', 'Unités', 'Enseignement', 'Disciplines', 'Scientifiques', 'Unités', 'Enseignement', 'Professionnelles', 'Stages', 'Unités', 'Enseignement', 'Langues', 'Vivantes', 'Unités', 'Enseignement', 'Parcours', 'Electif']
+
+180 ['le', 'Unités', 'Enseignement', 'Disciplines', 'scientifique', 'évaluer', 'Savoir']
+
+181 ['pour', 'évaluation', 'compétence', 'session', 'examen', 'organiser', 'second', 'session', 'destiner', 'élève', 'auditeur', 'valider', 'UE', 'issue', 'session', 'participation', 'interdire', 'Jury']
+
+182 ['le', 'examen', 'Savoir', 'Unité', 'Enseignement', 'Disciplines', 'scientifique', 'comprendre', 'épreuve', 'terminal', 'écrite', 'individuel', 'planifier', 'Service', 'Scolarité']
+
+183 ['un', 'épreuve', 'terminal', 'épreuve', 'porte', 'ensemble', 'Savoir', 'Action', 'Formation', 'UE']
+
+184 ['le', 'ensemble', 'épreuve', 'terminal', 'porter', 'ensemble', 'savoir', 'UE']
+
+185 ['il', 'constitue', 'session', 'examen']
+
+186 ['le', 'durée', 'total', 'épreuve', 'terminal', 'inférieur', 'heure']
+
+187 ['en', 'épreuve', 'terminal', 'épreuve', 'contrôle', 'continu', 'mettre', 'place']
+
+188 ['ce', 'épreuve', 'lieu', 'cours', 'Action', 'Formation', 'portent', 'partie', 'Savoir']
+
+189 ['lui', 'prendre', 'forme', 'épreuve', 'écrite', 'Questionnaires', 'Choix', 'Multiples', 'travail', 'personnel', 'présenter', 'oralement', 'TD', 'etc.']
+
+190 ['en', 'cas', 'épreuve', 'contrôle', 'continu', 'Action', 'Formation', 'note', 'savoir', 'Action', 'Formation', 'somme', 'pondérer', 'note', 'contrôle', 'continu', 'note', 'examen', 'terminal', 'maximum', 'note', 'examen', 'terminal', 'somme', 'pondérer', 'note', 'contrôle', 'continu', 'note', 'examen', 'terminal']
+
+191 ['ce', 'modalité', 'définir', 'Conseil', 'Unité', 'Enseignement', 'retranscrire', 'fascicule', 'pédagogique']
+
+192 ['le', 'formule', 'établir', 'note', 'global', 'UE', 'contribution', 'épreuve', 'écrite', 'individuel', 'terminal', 'porter', 'Savoir', 'planifier', 'Service', 'Scolarité', 'corresponde', '50', 'note', 'global', 'UE']
+
+193 ['lorsque', 'issue', 'semestre', 'Jury', 'constater', 'UE', 'Disciplines', 'Scientifiques', 'valider', 'élève', 'auditeur', 'note', 'global', 'UE', 'strictement', 'inférieur', '10/20', 'élève', 'auditeur', 'convoquer', 'second', 'session', 'examen', 'planifier', 'Service', 'Scolarité', 'semestre']
+
+194 ['un', 'second', 'session', 'examen', 'valable', 'organiser', 'Service', 'Scolarité']
+
+195 ['le', 'second', 'session', 'UE', 'effectuer', 'condition', 'session', 'épreuve', 'écrite', 'individuel', 'nature', 'durée']
+
+196 ['Deux', 'catégorie', 'élève', 'auditeur', 'concerner', 'passage', 'épreuve', 'terminal', 'second', 'session', 'examen', 'UE', 'élève', 'auditeur', 'absent', 'autorisation', 'absence', 'non', 'épreuve', 'session', 'examen', 'UE', 'élève', 'auditeur', 'valider', 'UE', 'faute', 'note', 'global', 'UE']
+
+197 ['le', 'absence', 'élève', 'auditeur', 'épreuve', 'session', 'entraîne', 'impossibilité', 'Jury', 'valider', 'UE']
+
+198 ['avoir', 'issue', 'session', 'Jury', 'interdis', 'élève', 'auditeur', 'absent', 'participer', 'épreuve', 'correspondant', 'second', 'session', 'examen', 'UE']
+
+199 ['le', 'élève', 'auditeur', 'présenter', 'session', 'second', 'session', 'épreuve', 'entraîne', 'impossibilité', 'valider', 'UE']
+
+200 ['un', 'élève', 'auditeur', 'valider', 'UE', 'note', 'UE', 'insuffisant', 'convoquer', 'épreuve', 'terminal', 'second', 'session', 'examen', 'Actions', 'Formation', 'UE', 'note', 'global', 'Action', 'Formation', 'supérieure', 'égal', '10']
+
+201 ['il', 'décider', 'participer', 'épreuve', 'condition', 'informer', 'Service', 'Scolarité', 'délai', 'fixer', 'cas', '-là', 'note', 'session', 'conserver']
+
+202 ['a', 'défaut', 'prévenir', 'Service', 'Scolarité', 'agir', 'absence', 'autoriser', 'définie', 'élève', 'auditeur', 'note', '0', 'épreuve', 'participer', 'session']
+
+203 ['le', 'catégorie', 'étudiant', 'possibilité', 'repasser', 'rattrapage', 'épreuve', 'UE', 'condition', 'informer', 'Service', 'Scolarité', 'délai', 'fixer']
+
+204 ['dans', 'cas', 'cas', 'participation', 'second', 'session', 'note', 'Savoir', 'Action', 'Formation', 'recalculer', 'partir', 'note', 'épreuve', 'terminal', 'second', 'session', 'prendre', 'compte', 'note', 'éventuel', 'contrôle', 'continu', 'connaissance']
+
+205 ['pour', 'Actions', 'Formation', 'UE', 'concerner', 'note', 'Savoir', 'recalculer']
+
+206 ['le', 'UE', 'valider', 'note', 'global', 'UE', 'calculer', 'partir', 'note', 'Savoir', 'obtenues', 'issue', 'second', 'session', 'examen', 'supérieur', 'égal', '10']
+
+207 ['un', 'UE', 'Disciplines', 'scientifique', 'choix', 'multiple', 'UE', 'Disciplines', 'scientifique', 'Actions', 'Formation', 'suivre', 'élève', 'auditeur', 'déterminer', 'partir', 'choix', 'exprimer']
+
+208 ['dans', 'cas', '-là', 'Savoir', 'évaluer', 'Action', 'Formation', 'épreuve', 'terminal', 'écrite', 'individuel', 'planifier', 'Service', 'Scolarité', 'durée', 'comprendre', 'heure', 'heure']
+
+209 ['le', 'note', 'épreuve', 'terminal', 'compter', '50', 'note', 'global', 'Action', 'Formation']
+
+210 ['le', 'validation', 'Unité', 'Enseignement', 'Professionnelle', 'baser', 'réalisation', 'activité', 'UE', 'élève', 'évaluation', 'Savoir', 'Savoir', 'Faire']
+
+211 ['le', 'règle', 'validation', 'UE', 'professionnel', 'détailler', 'fascicule', 'pédagogique']
+
+212 ['avoir', 'issue', 'semestre', 'cas', 'non', 'validation', 'UE', 'professionnel', 'élève', 'élève', 'guise', 'second', 'session', 'réaliser', 'valider', 'activité', 'supplémentaire', 'semestre', 'modalité', 'présen', 'ter', 'fascicule', 'pédagogique']
+
+213 ['en', 'cas', 'non', 'réalisation', 'validation', 'activité', 'UE', 'Professionnelle', 'considérer', 'non', 'valider', 'issue', 'second', 'session']
+
+214 ['dans', 'cas', '-là', 'Conseil', 'Unités', 'Enseignement', 'Professionnelles', 'transmettre', 'Jury', 'concerner', 'avis', 'participation', 'implication', 'élève', 'UE', 'professionnel']
+
+215 ['un', 'avis', 'négatif', 'élément', 'défavorable', 'important', 'validation', 'Parcours', 'compensation', 'UE']
+
+216 ['chaque', 'stage', 'cursu', 'ingénieur', 'constitue', 'Unité', 'Enseignement']
+
+217 ['si', 'validation', 'UE', 'rentre', 'validation', 'parcours', 'Tronc', 'Commun', 'Parcours', 'Electif', 'validation', 'condition', 'nécessaire', 'obtention', 'diplôme', 'ingénieur', 'voir', 'Annexe', 'G', 'Conditions', 'délivrance', 'diplôme', 'ingénieur', 'page', '26']
+
+218 ['le', 'définition', 'objectif', 'pédagogique', 'modalité', 'pratique', 'stage', 'présenter', 'fascicule', 'pédagogique', 'année', 'concerner']
+
+219 ['le', 'École', 'évalue', 'stage', 'effectuer', 'élève', 'base', 'appréciation', 'donner', 'structure', 'accueil', 'travail', 'effectuer', 'élève', 'rapport', 'présentation', 'oral', 'jury']
+
+220 ['le', 'critère', 'modalité', 'évaluation', 'fonction', 'type', 'stage', 'présenter', 'fascicule', 'pédagogique']
+
+221 ['seul', 'savoir', 'Faire', 'évaluer', 'UE', 'Langues', 'Cultures']
+
+222 ['le', 'note', 'Savoir', 'Faire', 'UE', 'donner', 'note', 'global', 'UE']
+
+223 ['pour', 'Action', 'Formation', 'UE', 'Langues', 'Cultures', 'examen', 'connaissance', 'compétence', 'disciplinaire', 'faire', 'contrôle', 'continu', 'épreuve', 'terminal', 'individuel', 'compter', '50', 'note', 'total', 'Action', 'Formation']
+
+224 ['le', 'note', 'global', 'UE', 'Langues', 'Cultures', 'obtenir', 'moyenne', 'arithmétique', 'note', 'Actions', 'Formation']
+
+225 ['pour', 'UE', 'langue', 'Cultures', 'Tronc', 'Commun', 'paragraphe', 'B.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
+
+226 ['le', 'rattrapage', 'examen', 'terminal', 'Action', 'Formation', 'effectue', 'épreuv', 'écrite', 'individuel', '2', 'heure', 'second', 'session', 'examen']
+
+227 ['pour', 'UE', 'langue', 'Cultures', 'Parcours', 'Electif', 'paragraphe', 'B.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
+
+228 ['il', 'second', 'session', 'organiser']
+
+229 ['en', 'cas', 'absence', 'autoriser', 'épreuve', 'terminal', 'Service', 'Scolarité', 'élèves', 'auditeur', 'épreuve', 'rattrapage', 'proposer', 'modalité', 'épreuve', 'initial', 'élève', 'auditeur', 'condition', 'organisation', 'matériellement']
+
+230 ['ce', 'ensemble', 'UE', 'recouvrir', 'UE', 'Electif', 'UE', 'Modules', 'Ouverts', 'Disciplinaires', 'MOD', 'UE', 'Métier', 'UE', 'Secteur']
+
+231 ['le', 'UE', 'Secteur', 'regroupe', 'type', 'Actions', 'Formation', 'Modules', 'Ouverts', 'Secteur', 'MOS', 'Modules', 'Spécifiques', 'Option', 'MSO']
+
+232 ['Les', 'Actions', 'Formation', 'UE', 'Electif', 'UE', 'MOD', 'MOS', 'UE', 'Secteur', 'Actions', 'Formation', 'multi-disciplinaire', 'choix', 'multiple']
+
+233 ['le', 'évaluation', 'connaissance', 'Action', 'Formation', 'AF', 'comprendre', 'épreuv', 'écrite', 'individuel', 'Savoir', 'durée', 'comprendre', '1h', '2h', 'planifier', 'Service', 'Scolarité']
+
+234 ['il', 'second', 'session', 'organiser']
+
+235 ['en', 'cas', 'absence', 'autoriser', 'Service', 'Scolarité', 'élèves', 'auditeur', 'épreuve', 'rattrapage', 'proposer', 'modalité', 'épreuve', 'initial', 'élève', 'auditeur', 'condition', 'organisation', 'matériellement']
+
+236 ['le', 'contrôle', 'connaissance', 'AF', 'comprendre', 'épreuv', 'écrite', 'individuel', 'Savoir', 'condition', 'comprendre', 'évaluation', 'individuel', 'valider', 'Conseil', 'Unité', 'Enseignement']
+
+237 ['Les', 'Actions', 'Formation', 'UE', 'Métier', 'MSO', 'UE', 'Secteur', 'Actions', 'Formation', 'bon', 'déroulement', 'obtenir', 'travers', 'participation', 'actif', 'élève', 'auditeur']
+
+238 ['avec', 'accord', 'Conseil', 'Unité', 'Enseignement', 'concerner', 'participation', 'présence', 'élève', 'auditeur', 'AF', 'pouvoir', 'faire', 'objet', 'évaluation', 'chiffrer']
+
+239 ['un', 'avis', 'comportement', 'général', 'élève', 'cours', 'activité', 'Actions', 'Formation', 'adaptation', 'intégration', 'vie', 'option', 'présence', 'travail', 'personnel', 'autonomie', 'aptitude', 'travailler', 'équipe', 'exiger', 'élève', 'auditeur']
+
+240 ['le', 'Unités', 'Enseignement', 'Parcours', 'Electif', 'UE', 'AF', 'suivie', 'élève', 'résult', 'choix']
+
+241 ['ce', 'type', 'UE', 'valider', 'élève', 'auditeur', 'note', 'global', 'Action', 'Formation', 'supérieur', 'égal', '10']
+
+242 ['dans', 'cas', 'note', 'global', 'Action', 'Formation', 'élève', 'auditeur', 'strictement', 'inférieur', '10', 'note', 'global', 'UE', 'supérieur', 'égal', '10', 'Conseil', 'Unité', 'Enseignement', 'faire', 'Jury', 'Parcours', 'Electif', 'proposition', 'motiver', 'validation', 'élève', 'auditeur']
+
+243 ['ce', 'proposition', 'fondre', 'appréciation', 'général', 'travail', 'personnel', 'élève', 'implication']
+
+244 ['pour', 'Conseil', 'UE', 'fondre', 'paramètre', 'inclure', 'note', 'compétence', 'UE', 'absentéisme']
+
+245 ['dans', 'cas', 'note', 'global', 'UE', 'strictement', 'inférieur', '10', 'validation', 'UE', 'discuter', 'Jury']
+
+246 ['le', 'contrôle', 'connaissance', 'aménager', 'niveau', 'linguistique', 'scientifique', 'culturel']
+
+247 ['ce', 'aménagement', 'temporaire', 'appliquer', 'étudiant', 'objectif', 'faciliter', 'intégration', 'catégorie', 'étudiant']
+
+248 ['chaque', 'conseil', 'unité', 'enseignement', 'définir', 'évaluation', 'connaissance', 'UE', 'nécessit', 'aménagement', 'niveau', 'linguistique', 'oui', 'définir', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+249 ['le', 'aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', 'etc.']
+
+250 ['le', 'aménagement', 'raison', 'linguistique', 'prévoir', 'étudiant', 'venir', 'préparer', 'Diplôme', 'ingé-', 'nieur', 'École', 'Centrale', 'Lyon', 'issu', 'établissement', 'étranger', 'non', 'francophone', 'non', 'titulaire', 'baccalauréat', 'français']
+
+251 ['tout', 'étudier', 'aménagement', 'prévoir', 'priori', 'faire', 'demande', 'entrée', 'École', 'Centrale', 'Lyon', 'auprès', 'Service', 'Scolarité', 'date', 'fixée', 'Service', 'Scolarité']
+
+252 ['le', 'acceptation', 'non', 'demande', 'dépendre', 'résultat', 'test', 'langue', 'organiser', 'enseignant', 'UE', 'Langues', 'Cultures']
+
+253 ['dans', 'cas', 'aménagement', 'raison', 'linguistique', 'étudier', 'obligation', 'enseignement', 'Français', 'Langue', 'Etrangère', 'enseignement', 'Français', 'écrire', 'décision', 'enseignant', 'langue']
+
+254 ['pour', 'suivi', 'enseignement', 'Langues', 'vivantes', 'étudiant', 'conformer', 'règle', 'définir', 'UE', 'Langues', 'Cultures', 'mentionner', 'fascicule', 'pédagogique']
+
+255 ['le', 'durée', 'aménagement', 'UE', 'dédier', 'Sciences', 'ingénieur', 'limiter', 'an']
+
+256 ['enfin', 'stage', 'réaliser', 'période', 'devoir', 'effectuer', 'France']
+
+257 ['chaque', 'conseil', 'unité', 'enseignement', 'définir', 'évaluation', 'connaissance', 'UE', 'nécessit', 'aménagement', 'raison', 'scientifique', 'oui', 'définir', 'fonction', 'élève', 'concerner', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+258 ['le', 'aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', 'etc.']
+
+259 ['le', 'élève', 'concerner', 'élève', 'élève', 'double', 'diplôme', 'issu', 'université', 'étranger', 'bénéficier', 'aména', 'gement', 'raison', 'linguistique', 'durée', 'aménagement', 'limiter', 'an', 'élève', 'architecte', 'S5', 'S6', 'correspondre', '3', 'premier', 'année', 'étude', 'effec', 'tuer', 'École', 'Centrale', 'parallèle', 'école', 'architecture', 'élève', 'EMLyon', 'Business', 'School', 'double', 'diplôm', 'tronc', 'Commun']
+
+260 ['le', 'Conseil', 'Unité', 'Enseignement', 'relever', 'Sciences', 'Humaines', 'Sociales', 'définir', 'évaluation', 'connaissance', 'UE', 'nécessit', 'aménagement', 'raison', 'culturel', 'oui', 'définir', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+261 ['le', 'élève', 'concerner', 'élève', 'admettre', 'double', 'diplôme', 'issu', 'université', 'étranger']
+
+262 ['un', 'élève', 'ingénieur', 'autorisé', 'participer', 'programme', 'échange', 'Collègue', 'Hautes', 'etude', 'Lyon', 'science', 'bénéficier', 'aménagement', 'S8', 'validation', 'UE', 'Electif', 'remplacer', 'validation', 'UE', 'constituer', 'Action', 'Formation', 'suivre', 'établissement', 'extérieur', 'CHELS', 'modalité', 'contrôle', 'connaissance', 'établissement', 'validation', 'UE', 'constituer', 'nombre', 'réduit', 'Actions', 'Formation', 'UE', 'Electif']
+
+263 ['le', 'nombre', 'n', 'crédit', 'ects', 'décider', 'Direction', 'Etudes', 'base', 'dossier', 'déposer', 'élève']
+
+264 ['un', 'élève', '3ème', 'année', 'ECL', 'inscrire', 'diplôme', 'national', 'Master', 'demander', 'reconnaissance', 'équivalence', 'Modules', 'Modules', 'Ouverts', 'Disciplinaires', 'Modules', 'Ouverts', 'Secteur', 'Modules', 'Spécifiques', 'Option', 'libre', 'choix', 'enseignement', 'Master', 'co-accréditer', 'ECL', 'appartenir', 'liste', 'Masters', 'inscrits', 'fasicule', 'pédagogique', 'module', 'métier']
+
+265 ['le', 'correspondant', 'ECL', 'Master', 'faire', 'demande', 'auprès', 'Direction', 'Études', 'engager', 'fournir', 'Service', 'Scolarité', 'notation', 'chiffrer', 'reporter', 'dossier', 'évaluation', '3èm', 'année', 'ECL', 'élève', 'rubrique', 'Master', 'co-accrédité']
+
+266 ['un', 'soutenance', 'travail', 'recherche', 'master', 'associer', 'soutenance', 'stage', 'final', 'cursu', 'ingénieur', 'respect', 'règle', 'déroulement', 'soutenance', 'TFE']
+
+267 ['pour', 'élève', 'auditeur', 'reconnaissance', 'niveau', 'compétence', 'réferentiel', 'présenter', 'fascicule', 'pédagogique', 'validation', 'composante', 'définir', 'fascicule', 'pédagogique']
+
+268 ['pour', 'composante', 'valider', 'élève', 'obtenir', 'fois', 'niveau', 'acquérir', 'niveau', 'compétent']
+
+269 ['le', 'validation', 'Compétence', 'Transversale', 'donne', 'lieu', 'attribution', 'crédit', 'ECTS']
+
+270 ['Une', 'Compétence', 'valider', 'réévaluer']
+
+271 ['le', 'responsable', 'Parcours', 'obligation', 'assurer', 'Compétences', 'Transversales', 'élève', 'effectivement', 'évaluer', 'issue', 'Parcours', 'responsabilité']
+
+272 ['il', 'désigner', 'particulier', 'enseignant', 'charge', 'évaluation', 'transmission', 'note', 'Service', 'Scolarité']
+
+273 ['le', 'évaluation', 'composante', 'Compétence', 'Transversale', 'exprimer', 'exclusivement', 'lettre', 'appartenir', 'ensemble', 'insuffisant', 'acquérir', 'remarquable']
+
+274 ['le', 'note', 'alphabétique', 'transmises', 'Service', 'Scolarité', 'tard', 'semaine', 'évaluation', 'enseignant', 'charge', 'évaluation']
+
+275 ['le', 'Service', 'Scolarité', 'publie', 'reporte', 'dossier', 'élève']
+
+276 ['un', 'fois', 'résultat', 'publier', 'éventuel', 'rectification', 'apporter', 'signifier', 'écrit', 'Service', 'Scolarité', 'enseignant', 'charge', 'évaluation', 'tard', 'délai', 'semaine', 'publication']
+
+277 ['le', 'mesure', 'appliquer', 'suite', 'absence', 'évaluation', 'décider', 'responsable', 'Parcours', 'mentionner', 'fascicule', 'pédagogique']
+
+278 ['pour', 'élève', 'aménagement', 'décider', 'responsable', 'Parcours', 'partir', 'examen', 'Compétences', 'Transversales', 'cas', 'demande']
+
+279 ['le', 'ensemble', 'note', 'transmettre', 'Jury', 'fin', 'semestre', 'Service', 'Scolarité']
+
+280 ['le', 'Service', 'Scolarité', 'constitue', 'élever', 'dossier', 'scolaire', 'comprendre', 'feuille', 'synthèse', 'semestriel', 'inclure', 'décision', 'jury', 'relevé', 'résultat', 'relatif', 'Unité', 'Enseignement', 'activité', 'relevé', 'résultat', 'relatif', 'Compétence', 'Transversale', 'information', 'éventuellement', 'fournir', 'Conseils', 'Unité', 'Enseignement', 'document', 'personnaliser', 'traire', 'scolarité', 'élève', 'éventuel', 'complément', 'information', 'transmettre', 'élève', 'PVs', 'audition', 'commission', 'issu', 'Jury', 'certificat', 'médical', 'relevé', 'absence', 'éventuel', 'avertissement', 'blâme']
+
+281 ['le', 'modalité', 'gestion', 'fraude', 'définir', 'Code', 'Education', 'Livre', 'VIII', 'titre', 'ier', 'section', '2']
+
+282 ['ce', 'texte', 'décrire', 'précise', 'procédure']
+
+283 ['le', 'plagiat', 'consiste', 'faire', 'passer', 'travail', 'fragment', 'travail', 'produire']
+
+284 ['en', 'atteinte', 'droit', 'auteur', 'propriété', 'intellectuel', 'plagiat', 'assimiler', 'délit', 'contrefaçon']
+
+285 ['il', 'faire', 'objet', 'sanction', 'civil', 'sanction', 'pénal', 'le', 'plagiat', 'considérer', 'fraude']
+
+286 ['le', 'procédure', 'définir', 'Code', 'Education', 'applique']
+
+287 ['un', 'commission', 'anti-plagiat', 'instituer', 'objectif', 'réunir', 'fait', 'cas', 'présomption', 'plagiat', 'consigner', 'rapport']
+
+288 ['ce', 'rapport', 'utiliser', 'Directeur', 'École', 'décider', 'saisie', 'section', 'disciplinaire', 'transmettre', 'Section', 'Disciplinaire', 'instruction', 'celleci', 'élève', 'auditeur', 'présumer', 'plagiaire']
+
+289 ['le', 'commission', 'anti-plagiat', 'constituer', 'expert', 'technique', 'TICE', 'membre', 'Service', 'Scolarité', 'représentant', 'Unités', 'Enseignement', 'enseigner', 'concerner', 'plagiat', 'présence', 'représentant', 'Unité', 'Enseignement', 'enseigner', 'concerner', 'obligatoire']
+
+290 ['en', 'complément', 'Article', '3', 'Règlement', 'Scolarité', 'élève', 'ingénieur', 'auditeur', 'bénéficier', 'autorisation', 'absence', 'délivrer', 'Direction', 'Etudes', 'activité', 'encadrer', 'Actions', 'Formation', 'cas', 'convocation', 'contrôle', 'connaissance', 'examen', 'cadre', 'complément', 'formation', 'inscrire', 'fascicule', 'pédagogique', 'planification', 'relever', 'École', 'participation', 'activité', 'responsable', 'Association', 'élèves', 'convocation', 'officiel', 'jury', 'conseil', 'commission', 'École', 'Centrale', 'Lyon', 'convocation', 'émaner', 'autorité', 'administratif', 'convenance', 'personnel', 'condition', 'concerne', 'séance', 'contrôle', 'connaissance']
+
+291 ['dans', 'cas', 'convocation', 'contrôle', 'connaissance', 'cadre', 'complément', 'formation', 'inscrire', 'fascicule', 'pédagogique', 'planification', 'relever', 'École', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposer', 'élève', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jour', 'ouvrable', 'précéder', 'date', 'contrôle', 'cas', 'inscription', 'licence', 'inscription', 'effectuer', 'Université', 'Lyon', 'déclarer', 'Service', 'Scolarité', 'fin', 'octobre', 'année', 'inscription']
+
+292 ['dans', 'cas', 'participation', 'activité', 'relever', 'Association', 'Elèves', 'École', 'Centrale', 'Lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposer', 'auprès', 'Service', 'Scolarité', 'tôt', 'tard', '5', 'jour', 'ouvrable', 'jour', 'activité', 'forme', 'liste', 'élève', 'concerner', 'activité', 'arrêter', 'responsabilité', 'VP', 'concerné']
+
+293 ['pour', 'motif', 'caractère', 'exceptionnel', 'Directeur', 'École', 'habilité', 'traiter', 'mande', 'formuler', 'forme', 'délai']
+
+294 ['le', 'élève', 'auditeur', 'disposer', 'justification', 'absence', 'sens', 'Article', '3', 'Règlement', 'Scolarité', 'procédure', 'procurer', 'propre', 'initiative', 'séance', 'rattrapage', 'contenu', 'travailler', 'cours', 'magistral', 'travail', 'dirigé', 'prendre', 'contact', 'tôt', 'responsable', 'Actions', 'Formation', 'séance', 'pratique', 'séance', 'Autonomie', 'rattraper', 'matériellement', 'règle', 'modalité', 'fixer', 'Conseil', 'Unité', 'Enseignement']
+
+295 ['un', 'année', 'césure', 'accomplir', 'élève', 'fois', 'cours', 'scolarité', 'École', 'Centrale', 'Lyon']
+
+296 ['lui', 'déroule', 'semestre', 'S6', 'semestre', 's8', 'cursu', 'ingénieur', 'École']
+
+297 ['dans', 'cas', 'élève', 'double-diplôme', 'accord', 'établissement', 'partenair', 'nécessaire']
+
+298 ['lors', 'année', 'césure', 'élève', 'conserve', 'statut', 'étudiant']
+
+299 ['cela', 'correspondre', 'parenthèse', 'formation', 'élève', 'cours', 'latitude', 'réaliser', 'projet', 'personnel', 'professionnel']
+
+300 ['le', 'décision', 'accorder', 'année', 'césure', 'revenir', 'Directeur', 'École', 'Centrale', 'Lyon', 'demande', 'motiver', 'élève', 'validation', 'dossier', 'Commission', 'Césure']
+
+301 ['le', 'Commission', 'Césure', 'mettre', 'place', 'année', '15', 'décembre']
+
+302 ['lui', 'composer', 'Directeur', 'Etudes', 'représentant', 'Service', 'Scolarité', 'Responsable', 'Tronc', 'Commun', 'Responsable', 'Parcours', 'Electif', 'permanent', 'membre', 'Conseil', 'Etudes', 'élève', 'membre', 'Conseil', 'Etudes']
+
+303 ['exceptionnellement', 'Directeur', 'École', 'Centrale', 'Lyon', 'accorder', 'césure', 'dossier', 'demande', 'être', 'valider', 'Commission', 'Césure']
+
+304 ['le', 'décision', 'accorder', 'césure', 'conditionner', 'absence', 'mesure', 'redoublement', 'renvoi', 'prendre', 'Jury', 'Tronc', 'Commun', 'Parcours', 'Electif']
+
+305 ['de', 'décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'élève', 'auditeur', 'présenter', 'handicap', 'bénéficier', 'aménagement', 'porter', 'condition', 'déroulement', 'épreuve', 'nature', 'permettre', 'bénéficier', 'condition', 'matériel', 'aide', 'technique', 'aide', 'humain', 'approprier', 'situation', 'majoration', 'temps', 'impartir', 'épreuve', 'excéder', 'tiers', 'temps', 'normalement', 'prévoir']
+
+306 ['toutefois', 'majoration', 'allonger', 'égard', 'situation', 'exceptionnel', 'candidat', 'demande', 'motiver', 'médecin', 'conservation', 'an', 'note', 'épreuve', 'unité', 'obtenir', 'examen', 'étalement', 'session', 'passage', 'épreuve', 'examen']
+
+307 ['le', 'aménagement', 'prévoir', 'décret', 'mettre', 'oeuvre', 'École', 'Centrale', 'Lyon', 'procédure', 'définir', 'ci-dessous']
+
+308 ['Déclaration', 'élèves', 'auditeur', 'situation', 'handicap', 'handicap', 'permanent', 'déclarer', 'inscription', 'École', 'Centrale', 'Lyon', 'élève', 'déposer', 'demande', 'aménagement', 'auprès', 'Service', 'Scolarité', 'inscription', 'École', 'Centrale', 'Lyon']
+
+309 ['dans', 'cas', 'handicap', 'déclare', 'cours', 'scolarité', 'temporaire', 'non', 'élève', 'déposer', 'demande', 'aménagement', 'lorsque', 'déclare']
+
+310 ['evaluation', 'situation', 'handicap', 'trouve', 'élève', 'auditeur', 'déposer', 'demande', 'aménagement', 'élève', 'auditeur', 'examiner', 'Médecine', 'Préventive', 'Universitaire', 'École', 'Centrale', 'Lyon', 'émettre', 'avis', 'demande', 'aménagement']
+
+311 ['le', 'élève', 'auditeur', 'apporter', 'document', 'médical', 'justifier', 'état']
+
+312 ['décision', 'aménagement', 'nécessaire', 'examen', 'contrôle', 'connaissance', 'Direction', 'Etudes', 'concertation', 'élève', 'auditeur', 'Médecine', 'Préventive', 'Universitaire', 'École', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'décide', 'aménagement', 'nécessaire']
+
+313 ['de', 'décret', 'épreuve', 'dérouler', 'hospitalisation']
+
+314 ['ceci', 'mettre', 'oeuvre', 'mesure', 'matériellement']
+
+315 ['dans', 'cas', 'TPs', 'décision', 'concertation', 'responsable', 'Unité', 'Enseignement']
+
+316 ['suivre', 'cas', 'décision', 'prendre', 'aller', 'réaménagement', 'séance', 'TP', 'dispense']
+
+317 ['décision', 'adaptation', 'déroulement', 'formation', 'ingénieur', 'étaler', 'suivi', 'validation', 'UE', 'période', 'long', 'initialement', 'prévoir', 'exemple', 'UE', 'correspondre', 'semestre', 'suivre', 'semestre', 'UE', 'semestre', 'cas', 'UE', 'non', 'valider', 'donner', 'possibilité', 'conserver', 'note', 'examen', 'UE', 'supérieur', '10/20', 'redoublement', 'UE']
+
+318 ['le', 'note', 'conserver', '5', 'an']
+
+319 ['de', 'application', 'règle', 'entraîner', 'élève', 'auditeur', 'situation', 'handicap', 'dépassement', 'durée', 'maximal', 'inscription', 'École', 'Centrale', 'Lyon', '3', 'plus', '4', 'an']
+
+320 ['pour', 'ensemble', 'élève', 'admettre', 'cursu', 'ingénieur', 'concours', 'commun', 'titre', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'subordonner', 'condition', 'rassembler', 'tableau', 'règlement', 'scolarité']
+
+321 ['de', 'ensemble', 'élève', 'double', 'diplôm', 'soumettre', 'règle', 'général', 'attribution', 'double', 'diplôm']
+
+322 ['le', 'obtention', 'Diplôme', 'Etudes', 'Supérieures', 'École', 'Centrale', 'Lyon', 'subordonner', 'validation', 'cadre', '3èm', 'année', 'ensemble', 'Unités', 'Enseignement', 'définie', 'fascicule', 'pédagogique']
+
+323 ['un', 'étudiant', 'accepter', 'École', 'Centrale', 'Lyon', 'effectuer', 'programme', 'formation', 'permettre', 'valider', 'minimum', '30', 'crédit', 'ECTS', 'programme', 'formation', 'tenir', 'compte', 'étude', 'acquis', 'professionnel', 'constituer', 'validation', 'UE', 'puiser', '3', 'an', 'formation', 'cursu', 'ingénieur', 'École', 'Centrale', 'Lyon', 'réserve', 'contrainte', 'moyen', 'disponible', 'École', 'étudier', 'remet', 'Service', 'Scolarité', 'vérifier', 'conformité', 'responsabilité', 'étudier', 'attester', 'niveau', 'français', 'faute', 'inscription', 'refuser', 'stage', '3', '6', 'mois', 'effectuer', 'laboratoire', 'École', 'Centrale', 'Lyon', 'responsabilité', 'enseignant', 'chercheur', 'École', 'permettre', 'valider', 'minimum', '15', 'crédit', 'ECTS']
+
+324 ['le', 'obtention', 'crédit', 'ects', 'accompagne', 'délivrance', 'diplôme']
+
+325 ['le', 'Jury', 'Tronc', 'Commun', 'Jury', 'Parcours', 'Electif', 'comprendre', '13', 'membre', 'appartenir', 'Equipes', 'Enseignement', 'École', 'Centrale', 'Lyon', 'recouvrir', 'thématique', 'enseigné', 'École']
+
+326 ['au', 'membre', 'Jury', 'Parcours', 'Electif', 'renouveler', 'année']
+
+327 ['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'membre', 'droit', 'Jury']
+
+328 ['le', 'mise', 'place', 'Jurys', 'ajustement', 'renouvellement', 'membre', 'prononcer', 'Directeur', 'École', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
+
+329 ['chaque', 'Jury', 'choisir', 'membre', 'président', 'Vice-Président', 'Secrétaire', 'Secrétaire', 'Adjoint', 'constitue', 'Bureau', 'Jury']
+
+330 ['le', 'président', 'choisir', 'membre', 'rang', 'Professeur', 'Universités']
+
+331 ['le', 'mise', 'place', 'Jurys', 'ajustement', 'renouvellement', 'membre', 'prononcer', 'Directeur', 'École', 'Centrale', 'Lyon', 'début', 'S5', 'Jury', 'Tronc', 'Commun', 'début', 'S8', 'Jury', 'Parcours', 'Electif']
+
+332 ['chaque', 'Jury', 'choisir', 'membre', 'président', 'Vice-Président', 'Secrétaire', 'Secrétaire', 'Adjoint', 'constitue', 'Bureau', 'Jury']
+
+333 ['le', 'président', 'choisir', 'membre', 'rang', 'Professeur', 'Universités']
+
+334 ['un', 'Jury', 'convoquer', 'initiative', 'président', 'particulier', 'demande', 'Direction', 'Etudes']
+
+335 ['le', 'quorum', 'requérir', 'délibérer', 'moitié', 'membre']
+
+336 ['le', 'délibération', 'lieu', 'huis', 'clore']
+
+337 ['le', 'décision', 'prendre', 'vote', 'majorité', 'absolu', 'membre', 'présent', 'représenté']
+
+338 ['un', 'membre', 'recevoir', 'pouvoir', 'membre']
+
+339 ['le', 'vote', 'bulletin', 'secret', 'organiser', 'demande', 'membre']
+
+340 ['en', 'cas', 'égalité', 'vote', 'voix', 'Président', 'prépondérant']
+
+341 ['un', 'jury', 'examiner', 'validation', 'UE', 'issue', 'session', 'examen', 'intégralité', 'note', 'compétence', 'AF', 'UE', 'concerner', 'être', 'transmettre', 'Service', 'Scolarité']
+
+342 ['pour', 'prendre', 'décision', 'jury', 'étudier', 'ensemble', 'élément', 'dossier', 'élève', 'auditeur', 'fiche', 'synthèse', 'relever', 'note', 'certificat', 'validation', 'activité', 'relever', 'absence', 'avis', 'formuler', 'responsable', 'Unité', 'Enseignement', 'activité', 'coordonner', 'etc.', 'prendre', 'connaissance', 'cas', 'échéant', 'demande', 'redoublement', 'raison', 'médical', 'étudier', 'cas', 'échoir', 'respect', 'engagement', 'prendre', 'élève', 'auditeur', 'convocation', 'précédence', 'réunion', 'Jury']
+
+343 ['un', 'élève', 'auditeur', 'situation', 'justifie', 'convoquer', 'Jury', 'auditionner', 'Jury', 'but', 'préventif', 'commission', 'issu', 'Jury', 'but', 'compléter', 'élément', 'dossier', 'prise', 'décision', 'Jury', 'compte-rendu', 'audition', 'rédiger', 'commission', 'transmettre', 'Jury', 'archiver', 'dossier']
+
+344 ['pour', 'audition', 'élève', 'auditeur', 'dépos', 'Service', 'Scolarité', 'document', 'écrire', 'signer', 'exposer', 'élément', 'juger', 'pertinent']
+
+345 ['ce', 'document', 'transmettre', 'Jury', 'archiver', 'dossier']
+
+346 ["s'", 'désire', 'audition', 'élève', 'auditeur', 'accompagner', 'élève', 'élu', 'Conseil', 'Etudes']
+
+347 ['Les', 'Jurys', 'charge', 'appliquer', 'mesure', 'prévoir', 'suite', 'exception']
+
+348 ['le', 'élève', 'auditeur', 'convoquer', 'auditionner', 'avertir', 'courrier', 'papier', 'électronique']
+
+349 ['dans', 'cas', 'mesure', 'prendre', 'Jury', 'élève', 'auditeur', 'avertir', 'courrier', 'recommander', 'accuser', 'réception']
+
+350 ['le', 'Jury', 'Tronc', 'Commun', 'délibère', 'prendre', 'décision', 'élève', 'promotion']
+
+351 ['Suivis', 'semestre', 's5', 'S6', 'S7', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôm', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôme', 'École', 'Nationale', 'Supérieure', 'Architecture', 'Lyon', 'admettre', 'cadre', 'double', 'diplôme', 'École', 'Nationale', 'Supérieure', 'Architecture', ' ', 'Lyon', 'admettre', 'cadre', 'double', 'diplôme', 'EMLyon', 'Business', 'School']
+
+352 ['Suivis', 'semestre', 'S5', 'S6', 'S7', 'S8', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôme', 'EMLyon', 'Business', 'School', 'École', 'Normale', 'Supérieure', 'Lyon', 'université', 'étrangère', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+353 ['il', 'réunir', 'fin', 'second', 'cours', 'semestre', 'faire', 'point', 'élève', 'situation', 'échec', 'nécessaire', 'convocation', 'procéder', 'audition', 'Jury', 'commission', 'issu', 'Jury', 'examiner', 'élever', 'validation', 'UE', 'second', 'session', 'examen', 'cas', 'échéant', 'prendre', 'mesure', 'élève', 'être', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'cas', 'échéant', 'proposer', 'Directeur', 'École', 'prendre', 'mesure', 'élève', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+354 ['un', 'élève', 'valider', 'Tronc', 'Commun', 'issue', 'semestre', 'valider', 'ensemble', 'UE', 'semestre', 's5', 'S6', 'S7', 'UE', 'Stage']
+
+355 ['un', 'élève', 'valider', 'Tronc', 'Commun', 'Etendu', 'issue', 'semestre', 'valider', 'ensemble', 'UE', 'semestre', 'S5', 'S6', 'S7', 'S8', 'UE', 'Stage']
+
+356 ['pour', 'élève', 'valider', 'UE', 'Jury', 'Tronc', 'Commun', 'étudier', 'réunion', 'semestre', 'possibilité', 'valider', 'compensation', 'UE', 'tronc', 'Commun', 'Tronc', 'Commun', 'Etendu', 'fonction', 'variante', 'cursu', 'ingénieur', 'effectivement', 'suivre', 'voir', 'section', 'A.1', 'différents', 'variante', 'cursu', 'ingénieur']
+
+357 ['le', 'objectif', 'Jury', 'assurer', 'élève', 'acquérir', 'socle', 'Savoir', 'Savoir', 'Faire', 'socle', 'Compétences', 'Transversales', 'juger', 'nécessaire', 'exercice', 'fonction', 'ingénieur']
+
+358 ['le', 'fonction', 'ingénieur', 'multiforme', 'définir', 'profil', 'unique', 'connaissance', 'compétence']
+
+359 ['de', 'part', 'face', 'situation', 'varier', 'élève', 'difficulté', 'réponse', 'unique', 'adapter']
+
+360 ['le', 'pertinence', 'non', 'validation', 'UE', 'compensation', 'apprécier', 'cas', 'cas', 'examiner', 'globalemer', 'scolarité', 'élève', 'application', 'formule', 'mécanique', 'compensation']
+
+361 ['ce', 'discussion', 'évidemment', 'inclure', 'discussion', 'mesure', 'alternatif', 'compensation']
+
+362 ['pour', 'guider', 'réflexion', 'prise', 'décision', 'jury', 'élève', 'procédure', 'référence', 'proposer']
+
+363 ['lui', 'intervenir', 'note', 'Savoir', 'Savoir', 'faire', 'compétence', 'Transversales', 'élève', 'évaluation', 'implication', 'Scolarité', 'mesurée', 'absentéisme', 'non', 'autorisé', 'avis', 'Conseil', 'unité', 'Enseignement', 'Professionnelles', 'cas', 'Parcours', 'Electif', 'avis', 'Conseils', 'Unités', 'Enseignement', 'Parcours', 'Electif']
+
+364 ['le', 'non', 'validation', 'UE', 'révéler', 'insuffisance', 'élève', 'sein', 'périmètre', 'discipline']
+
+365 ['le', 'question', 'savoir', 'élève', 'insuffisant', 'Savoir']
+
+366 ['pour', 'jury', 'examine', 'note', 'Savoir', 'élève', 'UE']
+
+367 ['afin', 'évaluer', 'élève', 'insuffisant', 'Savoir', 'indicateur', 'global', 'calculer', 'somme', 'pondérée', 'note', 'Savoir', 'élève', 'UE', 'semestre', 'parcours', 'complet']
+
+368 ['dans', 'somme', 'coefficient', 'pondération', 'affecté', 'note', 'Savoir', 'UE', 'calculer', 'partir', 'coefficient', 'pondération', 'note', 'Savoir', 'UE', 'calcul', 'note', 'global', 'UE', 'pondérer', 'nombre', 'crédit', 'ect', 'UE']
+
+369 ['un', 'élément', 'favorable', 'validation', 'compensation', 'note', 'être', 'supérieur', 'égal', 'seuil', '10/20']
+
+370 ['cependant', 'cas', '-là', 'Jury', 'décider', 'valider', 'compensation', 'UE']
+
+371 ['un', 'élément', 'défavorable', 'validation', 'compensation', 'note', 'strictement', 'inférieur', 'seuil', '10/20']
+
+372 ['cependant', 'cas', '-là', 'jury', 'décider', 'valider', 'compensation', 'UE']
+
+373 ['avoir', 'issue', 'Parcours', 'acquisition', 'compétence', 'transversal', 'élève', 'apprécier', 'partir', 'note', 'alphabétique', 'compétence', 'obtenir', 'règle', 'définir', 'fascicule', 'pédagogique']
+
+374 ['un', 'élément', 'défavorable', 'validation', 'compensation', 'application', 'règle', 'conclure', 'acquisition', 'compétence', 'satisfaisant']
+
+375 ['le', 'présence', 'obligatoire', 'absentéisme', 'non', 'autoriser', 'traduit', 'manque', 'implication', 'élève', 'scolarité', 'non', 'respet', 'engagement', 'vi', 'àvis', 'École']
+
+376 ['il', 'élément', 'défavorable', 'validation', 'compensation']
+
+377 ['un', 'élément', 'extrêmement', 'défavorable', 'validation', 'compensation', 'non-validation', 'UE', 'professionnel']
+
+378 ['le', 'fonctionnement', 'UE', 'Professionnelles', 'baser', 'participation', 'actif', 'élève', 'attitude', 'vis-à-vis', 'situation', 'professionnel', 'résultat', 'obtenir', 'élève', 'UE', 'donner', 'indication', 'précieux', 'degré', 'réel', 'implication', 'élève', 'scolarité']
+
+379 ['le', 'avis', 'implication', 'élève', 'activité', 'UE', 'Professionnelles', 'systématiquement', 'émettre', 'Conseil', 'UE', 'Professionnelles', 'cas', 'non', 'validation', 'UE', 'professionnelle', 'élément', 'important', 'étude', 'validation', 'compensation', 'avis', 'Conseils', 'Unités', 'Enseignement', 'Parcours', 'Electif', 'cas', 'Parcours', 'Electif']
+
+380 ['dans', 'cas', 'argument', 'décision', 'communiquer', 'Direction', 'Etudes']
+
+381 ['il', 'pouvoir', 'communiquer', 'élève', 'demande', 'écrite', 'auprès', 'Direction', 'Etudes']
+
+382 ['en', 'cas', 'validation', 'compensation', 'UE', 'note', 'obtenir', 'UE', 'note', 'obtenir', 'UE', 'valider', 'Jury', 'modifier', 'fiche', 'synthèse', 'élève', 'validation', 'compensation', 'explicitement', 'mentionner']
+
+383 ['le', 'mesure', 'disposition', 'Jury', 'promotion', 'responsabilité', 'définir', 'cidessou']
+
+384 ['le', 'Jury', 'délivrer', 'fin', 'semestre', 'avertissement', 'signifier', 'élever', 'nécessité', 'reprendre', 'Le', 'Jury', 'Tronc', 'Commun', 'attribuer', 'compliment', 'félicitation', 'issue', 'Tronc', 'Commun', 'qualité', 'résultat', 'obtenir', 'Lorsque', 'Jury', 'Tronc', 'Commun', 'constate', 'élève', 'réaliser', 'activité', 'Stage', 'normalement', 'programmer', 'préalablement', 'date', 'réunion', 'jury', 'Jury', 'Tronc', 'Commun', 'informer', 'élève', 'non-réalisation', 'fin', 'semestre', 'placer', 'automatiquement', 'position', 'sursis', 'obtention', 'Diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon']
+
+385 ['il', 'disposer', '4', 'an', 'partir', 'sortie', 'École', 'fin', 'formation', 'double', 'diplômant', 'établissement', 'réaliser', 'activité']
+
+386 ['au', 'pouvoir', 'prétendr', 'obtention', 'Diplôme', 'le', 'Jury', 'décider', 'cas', 'résultat', 'insuffisant', 'langue', 'avis', 'Conseil', 'Unité', 'Enseignement', 'Langues', 'Vivantes', 'limiter', 'inscription', 'élève', 'langue', 'semestre', 'volume', 'horaire', 'renforcer', 'Le', 'Jury', 'Tronc', 'Commun', 'applique', 'cas', 'non-validation', 'Tronc', 'Commun', 'mesure', 'cas', 'élève', 'exception', 'élève', 'admettre', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+387 ['dans', 'cas', 'élève', 'admettre', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'mesure', 'proposer', 'Directeur', 'École']
+
+388 ['en', 'cas', 'non-validation', 'Tronc', 'Commun', 'Etendu', 'élève', 'Jury', 'Tronc', 'Commun', 'conduire', 'prendre', 'proposer', 'décision', 'ci-dessous']
+
+389 ['le', 'redoublement', 'École', 'Centrale', 'Lyon', 'exceptionnellement', 'École', 'Centrale', 'Intergroupe']
+
+390 ['le', 'redoublement', 'École', 'Centrale', 'Lyon', 'consiste', 'refaire', 'UE', 'non', 'valider', 'éventuellement', 'stage']
+
+391 ['le', 'redoublement', 'École', 'Centrale', 'Intergroupe', 'consiste', 'faire', 'an', 'Tronc', 'Commun', 'école', 'programme', 'élaborer', 'Président', 'Jury', 'Tronc', 'Commun', 'Directeur', 'Etudes']
+
+392 ['il', 'décider', 'Jury', 'concertation', 'Direction', 'Etudes']
+
+393 ['le', 'redoublement', 'autoriser', 'fois', 'cours', 'scolarité']
+
+394 ['le', 'élève', 'valider', 'année', 'redoublement', 'admettre', 'poursuivre', 'formation', 'ingénieur', 'École', 'Centrale', 'Lyon']
+
+395 ['dans', 'cas', 'contraire', 'pouvoir', 'autoriser', 'inscrire', 'École', 'Centrale', 'Lyon']
+
+396 ['le', 'refus', 'réinscription', 'École', 'Centrale', 'Lyon', 'cas', 'résultat', 'insuffisant', 'associer', 'manque', 'engagement', 'élève', 'formation']
+
+397 ['un', 'solution', 'préconiser', 'permettre', 'élève', 'réorienter', 'formation', 'adaptée']
+
+398 ['dans', 'cas', 'exceptionnel', 'élève', 'scolarité', 'difficile', 'jury', 'prendre', 'fin', 'second', 'semestre', 'mesure', 'précédent', 'épreuve', 'second', 'session', 'S6', 'être', 'effectuer']
+
+399 ['le', 'objectif', 'redoublement', 'combler', 'lacune', 'élève', 'mettre', 'évidence', 'non', 'validation', 'UE']
+
+400 ['son', 'durée', 'an', 'cas', 'redoublement', 'Parcours', 'Electif', 'durée', 'raccourcir', 'fonction', 'UE', 'valider']
+
+401 ['afin', 'assurer', 'redoublement', 'profitable', 'formation', 'élève', 'Jury', 'propose', 'programme', 'formation', 'adapter', 'prendre', 'compte', 'scolarité', 'élève', 'redoubler', 'profil', 'recouvrement', 'temporel', 'activité', 'Actions', 'Formation', 'UE', 'effectuer', 'redoublement']
+
+402 ['le', 'Jury', 'définir', 'partir', 'liste', 'UE', 'non', 'valider', 'élève', 'refaire', 'valider', 'redoublant', 'effectuer', 'valider', 'stage', 'cas', 'Jury', 'précise', 'durée', 'stage']
+
+403 ['le', 'Jury', 'possibilité', 'remplacer', 'validation', 'stage', '6', 'mois', 'validation', 'semestre', 'Université', 'étrangère']
+
+404 ['un', 'redoubler', 'refaire', 'UE', 'refaire', 'intégralité', 'activité', 'Actions', 'Formation', 'UE', 'TPs', 'épreuve', 'examen', 'contrôle', 'continu']
+
+405 ['refaire', 'UE', 'réduire', 'passer', 'épreuve', 'UE']
+
+406 ['si', 'élève', 'refaire', 'UE', 'activité', 'pédagogique', 'recouvrir', 'temps', 'dispenser', 'assiduité', 'séance', 'activité', 'UE', 'condition', 'aucun', 'évaluation', 'programmer']
+
+407 ['avoir', 'issue', 'stage', 'élève', 'rédig', 'rapport', 'stage', 'définir', 'TFE', 'fascicule', 'pédagogique']
+
+408 ['le', 'soutenance', 'jury', 'soutenance', 'constituer', 'Tuteur', 'travail', 'Professeur', 'Conseiller', 'Principal', 'élève', 'représentant', 'Jury', 'statuer', 'réintégration']
+
+409 ['le', 'modalité', 'soutenance', 'TFE', 'présenter', 'fascicule', 'pédagogique']
+
+410 ['le', 'soutenance', 'lieu', 'tard', 'début', 'juillet', 'année', 'redoublement', 'implique', 'durée', 'passer', 'stage', 'date', 'supérieur', 'égal', 'durée', 'stage', 'imposer', 'Jury']
+
+411 ['le', 'rapport', 'parvenir', 'membre', 'jury', 'soutenance', 'tard', '5', 'jour', 'soutenance']
+
+412 ['avoir', 'issue', 'année', 'redoublement', 'décision', 'réintégration', 'élève', 'redoubler', 'cursu', 'ingénieur', 'normal', 'prendre', 'Jury', 'prononcer', 'décision', 'redoublement', 'Jury', 'constituer', 'Jury', 'promotion', 'élève', 'susceptible', 'réintégrer']
+
+413 ['le', 'décision', 'Jury', 'base', 'ensemble', 'dossier', 'élève', 'évaluer', 'bilan', 'redoublement', 'positif']
+
+414 ['en', 'cas', 'décision', 'négatif', 'élève', 'renvoyer', 'École', 'Centrale']
+
+415 ['en', 'cas', 'redoublement', 'décider', 'Jury', 'Tronc', 'Commun', 'non', 'validation', 'UE', 's8', 'Jury', 'Parcours', 'Electif', 'rajouter', 'modalité', 'redoublement', 'obligation', 'refaire', 'partie', 'UE', 'S8', 'non', 'valider']
+
+416 ['le', 'décision', 'Jury', 'prendre', 'élève', 'mesure', 'présenter', 'article', 'J.4.1', 'fonder', 'critère', 'pédagogique', 'prise', 'compte', 'état', 'médical', 'élève', 'relever', 'compétence', 'Jury']
+
+417 ['d', 'ans', 'cas', 'problème', 'médical', 'élève', 'demander', 'bénéficier', 'redoublement', 'raison', 'médical', 'condition', 'déposer', 'demande', '15', 'jour', 'tard', 'tenue', 'jury']
+
+418 ['le', 'décision', 'prise', 'Directeur', 'École', 'Centrale', 'Lyon', 'baser', 'avis', 'médecin', 'traitant', 'Médecine', 'Préventive', 'École', 'Centrale', 'Lyon', 'Direction', 'Etudes', 'Président', 'Jury']
+
+419 ['en', 'cas', 'acceptation', 'Président', 'Jury', 'propose', 'programme', 'pédagogique', 'redoublement']
+
+420 ['dans', 'cas', 'Jury', 'prendre', 'élève', 'mesure', 'redoublement', 'raison', 'médical', 'substitue', 'mesure']
+
+421 ['si', 'redoublant', 'raison', 'médical', 'effectuer', 'stage', 'déposer', 'projet', 'activité', 'complémentaire', 'remplacement', 'stage']
+
+422 ['ce', 'projet', 'valider', 'Direction', 'Etudes', 'représentant', 'Jury', 'concerner']
+
+423 ['le', 'disposition', 'présenter', 'article', 'portent', 'validation', 'parcours', 'étendre', 'obtention', 'diplôme', 'redoublement', 'valable', 'éléve', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+424 ['le', 'décision', 'amener', 'prendre', 'Directeur', 'baser', 'nécessité', 'partenariat', 'université', 'étrangère', 'concerner']
+
+425 ['le', 'Jury', 'transmettre', 'proposition', 'mesure', 'baser', 'critère', 'pédagogique', 'Directeur', 'École', 'Centrale', 'Lyon']
+
+426 ['Le', 'Directeur', 'École', 'Centrale', 'Lyon', 'décider', 'obtention', 'diplôme', 'ingénieur', 'École', 'Centrale', 'Lyon', 'ensemble', 'condition', 'réunir']
+
+427 ['dans', 'cas', 'mesure', 'redoublement', 'durée', 'limiter', '6', 'mois', 'durée', 'UE', 'non', 'valider']
+
+428 ['le', 'semestre', 'rattrapage', 'effectuer', 'choisir', 'Jury', 'fonction', 'contrainte', 'lier', 'cursus', 'élève', 'établissement', 'origine']
+
+429 ['dans', 'cas', 'exceptionnel', 'élève', 'admettre', 'année', 'scolarité', 'difficile', 'jury', 'proposer', 'Directeur', 'École', 'fin', 'second', 'semestre', 'parcours', 'mesure', 'précédent', 'épreuve', 'second', 'session', 'second', 'semestre', 'être', 'effectuer']
+
+430 ['dans', 'cas', 'Directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuve', 'second', 'session', 'examen', 'UE', 'non', 'valider', 'absence', 'non', 'autoriser', 'etc.', 'jury', 'proposer', 'Directeur', 'École', 'fin', 'second', 'semestre', 'parcours', 'mesure', 'précédent', 'épreuve', 'second', 'session', 'second', 'semestre', 'être', 'effectuer']
+
+431 ['dans', 'cas', 'Directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuve', 'second', 'session', 'examen', 'UE', 'valider', 'valider', 'crédit', 'ECTS', 'condition', 'réinscrire', 'École', 'Centrale', 'auditeur', 'libre']
+
+432 ['le', 'objectif', 'Commission', 'Evolution', 'Règlement', 'Scolarité', 'profiter', 'mieux', 'rapidement', 'retour', 'expérience', 'jury']
+
+433 ['lui', 'composer', 'membre', 'Jurys', 'courants', 'membre', 'Service', 'Scolarité', 'Directeur', 'Etudes', 'représentant', 'élève', 'auprès', 'Conseil', 'Etudes', 'représentant', 'enseignant', 'auprès', 'Conseil', 'Etudes']
+
+434 ['lui', 'réunir', 'fois', 'an', 'convocation', 'Directeur', 'Etudes', 'exemple', 'rentrée', 'septembre', 'faire', 'bilan', 'année', 'scolaire', 'écouler']
+
+435 ['il', 'agir', 'nécessaire', 'proposer', 'évolution', 'Règlement', 'Scolarité', 'niveau', 'modalité', 'règle', 'définir', 'Annexe', 'Règlement', 'Scolarité']
+
+436 ['lui', 'contribue', 'élaborer', 'jurisprudence', 'partir', 'cas', 'être', 'traiter']
+
+437 ['le', 'objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'demander', 'valider', 'activité', 'séjour', 'étranger', 'cursu', 'ingénieur']
+
+438 ['le', 'séjour', 'étranger', 'prennent', 'forme', 'séjour', 'étranger', '12', 'semaine', 'total', '21', 'semaine', 'cadre', 'stage', 'entreprise', 'équipe', 'recherche', 'Universités', 'stage', 'Application', 'travail', 'fin', 'étude', 'stage', 'césure', 'conventionner', 'redoublement', 'semestre', 'étude', 'Université', 'étranger', 'semestre', 'semestre', 'semestre', 'cas', ' ', 'Université', 'étrangère', 'rentrée', 'printemps', 'double', 'diplôm', 'Université', 'étrangère', 'partenair', 'École', 'Centrale', 'Lyon', 'semestr', 'année', 'césur', 'activité', 'sabbatique', 'étranger', 'accord', 'Commission', 'Césure']
+
+439 ['le', 'pays', 'francophone', 'Belgique', 'Suisse', 'Canada', 'Afrique', 'francophone', 'considérer', 'approprié', 'réalisation', 'séjour', 'étranger']
+
+440 ['le', 'crédit', 'ECTS', 'équivalent', 'reconnaître', 'Direction', 'Etudes', 'avis', 'enseignant', 'chercheur', 'spécialiste', 'discipline', 'concerner']
+
+441 ['le', 'activité', 'séjour', 'étranger', 'valider', 'élève', 'valide', '21', 'semaine', 'séjour', 'étranger', 'constituer', 'période', '12', 'semaine', 'valider']
+
+442 ['le', 'condition', 'validation', 'période', 'séjour', 'étranger', 'période', 'cadre', 'stage', 'valider', 'interviennent', 'cadre', 'séjour', 'étranger', 'Stage', 'Application', 'valider', 'modalité', 'validation', 'Stage', 'Application', 'présenter', 'fascicule', 'pédagogique', 'Travail', 'Fin', 'Etudes', 'valider', 'modalité', 'validation', 'TFE', 'présenter', 'fascicule', 'pédagogique', 'stage', 'césure', 'conventionner', 'valider', 'modalité', 'validation', 'Stage', 'Application', 'présenter', 'fascicule', 'pédagogique', 'semestre', 'étude', 'Université', 'étranger', 'valider', 'semestre', 'élève', 'obtenir', '30', 'crédit', 'ect', 'équivalent', 'semestre', 'semestre', 'élève', 'valider', '2', 'semestre', '30', 'crédit', 'ect', 'expérience', 'socio-culturell', 'socio-professionnell', 'international', '12', 'semaine', 'élève', 'rapporter', 'preuve', 'matériel', 'contrat', 'travail', 'bulletin', 'salaire', 'fiche', 'résultat', 'universitaire', 'certificat', 'bénévolat']
+
+443 ['le', 'nature', 'preuve', 'préciser', 'départ', 'élève', 'accord', 'Commission', 'Césure', 'diplôm', 'établissement', 'École', 'Centrale', 'Lyon', 'valider', 'stage', '12', 'semaine', 'étranger']
+
+444 ['un', 'demande', 'dispense', 'mobilité', 'demander', 'auprès', 'Directeur', 'Etudes', 'cas', 'particulier', 'élève', 'élu', 'Conseil', 'Administration', 'Vice-Président', 'élève', 'Conseil', 'Etudes', 'élève', 'occuper', 'poste', 'responsabilité', 'associatif', 'proposition', 'président', 'Bureau', 'Des', 'Elèves', 'élève', 'admettre', 'concours', 'commun', 'titre', 'expérience', 'académique', 'significatif', 'international', 'admission', 'École', 'Centrale', 'Lyon', 'élève', 'admettre', 'concours', 'commun', 'titre', 'École', 'Centrale', 'Lyon', 'engager', 'doubles-diplôme', 'établissement', 'partenaire', 'France', 'cas', 'force', 'majeur']
+
+445 ['un', 'commission', 'créer', 'assister', 'Direction', 'Etudes', 'analyse', 'demande']
+
+446 ['lui', 'composer', 'responsable', 'Tronc', 'Commun', 'Parcours', 'Electif', 'représentant', 'Direction', 'Relations', 'Internationales', 'Vice-Président', 'élever', 'Conseil', 'Etudes', 'représentant', 'Service', 'Scolarité']
+
+447 ['en', 'cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+448 ['le', 'obligation', 'mobilité', 'inscrit', 'règlement', 'scolarité', 'valable', 'contexte', 'actuel']
+
+449 ['toutefois', 'difficulté', 'lier', 'crise', 'sanitaire', 'prendre', 'compte', 'travers', 'dispositif', 'reconnaissance', 'dispense', 'mobilité', 'outil', 'exister', 'ECL']
+
+450 ['le', 'prise', 'décision', 'relèv', 'direction', 'étude', 'adjoindre', 'commission', 'regrouper', 'directeur', 'adjoint', 'étude', 'directeur', 'relation', 'international', 'responsable', 'scolarité', 'VP', 'étudier', 'ce']
+
+451 ['le', 'élève', 'souhaiter', 'expérience', 'mobilité', 'partiel', 'reconnaître', 'obtenir', 'dispense', 'mobilité', 'constituer', 'dossier', 'indiqué', 'page', 'intranet']
+
+452 ['le', 'demande', 'transmises', 'service', 'scolarité']
+
+453 ['mobilité', 'distance']
+
+454 ['il', 'être', 'indiquer', 'début', 'avril', 'stage', 'mobilité', 'académique', 'effectuer', 'contexte', 'actuel', 'totalement', 'distance', 'France', 'éligible', 'reconnaissance', 'mobilité', 'dépôt', 'dossier', 'commission', 'mobilité']
+
+455 ['on', 'demande', 'élève', 'concerner', 'insérer', 'élément', 'analyse', 'expérience', 'travail', 'contexte', 'international', 'distance']
+
+456 ['le', 'demande', 'transmettre', 'fin', 'stage', 'séjour', 'académique']
+
+457 ['Mobilités', 'annulées']
+
+458 ['pour', 'TFE', 'planifier', 'étranger', 'effectuer', 'raison', 'crise', 'sanitaire', 'dossier', 'demande', 'dispense', 'mobilité', 'effectuer']
+
+459 ['pour', 'stage', 'application', 'césure', 'étranger', 'annuler', 'demande', 'effectuer', 'année', 'mobilité', 'effectuer', 'TFE']
+
+460 ['de', 'semestre', 'anner', 'échange', 'double', 'diplôme', 'international', 'être', 'compromettre', 'crise', 'sanitaire', 'demande', 'faire', 'année', 'mobilité', 'effectuer', 'TFE']
+
+461 ['le', 'principe', 'appliquer', 'mobilité', 'raccourcie', 'raison', 'crise', 'sanitaire']
+
+462 ['Dispense', 'mobilité', 'obligatoire']
+
+463 ['le', 'présence', 'responsable', 'association', 'élève', 'campus', 'proximité', 'nécessaire', 'bon', 'fonctionnement', 'qualité', 'vie', 'campus']
+
+464 ['un', 'demande', 'être', 'faire', 'BDE', 'pouvoir', 'dispenser', 'obligation', 'mobilité']
+
+465 ['il', 'pouvoir', 'actifs', 'S8', 'stage', '2A', 'intégralité', '3a.']
+
+466 ['un', 'liste', 'générique', 'être', 'établir', 'demande', 'dispense', 'BDE', 'président', 'vice-président', 'charger', 'communication', 'externe', 'Trésoriers', 'BDE', 'trésorier', 'général', 'BDS', 'président', 'trésorier', 'Trésoriers', 'Bar', 'responsable', 'comptabilité', 'responsable', 'foyer', 'Association', 'ECLAIR', 'président', 'responsable', 'matériel', 'serveur']
+
+467 ['le', 'accord', 'ce', 'demander', 'autoriser', 'dispense', 'mobilité']
+
+468 ['nous', 'proposer', 'année', 'président', 'BDE', 'transmette', 'liste', 'nominatif', 'demande', 'dispense', 'établir', 'partir', 'liste', 'générique', 'direction', 'étude', 'transmission', 'scolarité', 'président', 'jury', 'diplômant']
+
+469 ['mobilité', '3A', 'international', 'explication', 'procédure', 'Constitution', 'dossier', 'candidature', 'français', 'temps', '  ', '1', 'un', 'formulaire', 'ligne', 'comporter', 'information', 'pouvoir', 'préparer', 'amont', 'Paragraphe', 'activité', 'responsabilité', 'artistique', 'associative', 'sportif']
+
+470 ['Lettre', 'motivation', 'lettre', 'choix', 'établissement', 'accueil']
+
+471 ['recommander', 'langue', 'nom', 'professeur', 'langue', 'fournir', 'appréciation', 'compétence', 'linguistique', 'nom', 'choisir', 'liste', 'déroulant', 'professeur', 'ECL', 'Mobility', 'Online']
+
+472 ['le', 'langue', 'sélectionner', 'enseignement', 'cursus', 'suivre']
+
+473 ['a', 'priori', 'agir', 'nom', 'professeur', '1A.']
+
+474 ['si', 'langue', 'cursus', 'langue', 'pays', 'pouvoir', 'solliciter', 'professeur', 'langue', 'pays', 'transmettre', 'appréciation', 'référent', 'langu', 'inclure', 'appréciation']
+
+475 ['par', 'exemple', 'partir', 'Italie', 'cursu', 'déroule', 'langue', 'anglaise', 'référent', 'langue', 'professeur', 'anglais']
+
+476 ['mais', 'pouvoir', 'demander', 'professeur', 'italien', 'transmettre', 'appréciation', 'référent', 'langue']
+
+477 ['Attention', 'langue', 'cursus', 'français', 'référent', 'langue', 'professeur', 'anglais']
+
+478 ['si', 'avoir', 'être', 'dispenser', 'cours', 'langue', 'falloir', 'contacter', 'responsable', 'langue']
+
+479 ['le', 'professeur', 'langue', 'contacter', 'MobilityOnline', 'connecter', 'saisir', 'recommandation', 'conseiller', 'contacter', 'amont', 'côté', 'projet']
+
+480 ['Recommandant', 'PCP', 'tuteur', 'PCP', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
+
+481 ['vous', 'devoir', 'contacter', 'amont', 'informer', 'projet', 'indiquer', 'recevoir', 'mail', 'saisir', 'recommandation', 'MobilityOnline']
+
+482 ['Recommandant', 'facultatif', 'souhaiter', 'rajouter', 'recommandant', 'contacter', 'MobilityOnline', 'adresse', 'e-mail', 'avoir', 'indiquer']
+
+483 ['2', 'Constitution', 'complément', 'dossier', 'Mobility', 'Online', 'un', 'unique', 'document', 'compiler', 'descriptif', 'cursus', 'envisager', 'choix', 'établissement', 'accueil', 'joindre', 'dossier']
+
+484 ['fonctionnement', 'CEU', 'Avant', 'CEU', 'dossier', 'expertiser', 'correspondant', 'pays', 'déposer', 'évaluation', 'ensemble', 'projet']
+
+485 ['lors', 'CEU', 'membre', 'commission', 'évaluer', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
+
+486 ['entre', 'commission', 'étudier', 'élément', 'ci-dessous', 'le', 'résultat', 'académique', 'La', 'destination', 'priorité', 'accorder', 'pays', 'université', 'partenaire', 'compte', 'quota', 'université', 'demander', 'Le', 'type', 'mobilité', 'priorité', 'donner', 'cursu', 'déroulent', 'cadre', 'accord', 'échange', 'ECL']
+
+487 ['le', 'dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demander', 'domaine', 'envisager', 'motivation', 'niveau', 'langue']
+
+488 ['tout', 'dossier', 'forcément', 'retenir']
+
+489 ['un', 'réponse', 'positif', 'CEU', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'être', 'valider', 'reporter', 'décision', 'indiquer', 'document']
+
+490 ['un', 'fois', 'réponse', 'positif', 'CEU', 'recevoir', 'e-mail', 'avoir', '5', 'jour', 'confirmer', 'renoncer', 'intention', 'partir']
+
+491 ['au', '5', 'jour', 'réponse', 'part', 'considérer', 'renoncer', 'mobilité']
+
+492 ['pour', 'confirmer', 'signer', 'fiche', 'engagement', 'partir']
+
+493 ['si', 'tard', 'annuler', 'mobilité', 'être', 'prioritaire', 'affectation', 'option', 'métier', '3ème', 'année', 'ECL', 'situation', 'communiquer', 'jury', 'diplômant']
+
+494 ['choix', 'établissement', 'accueil', 'pour', 'constitution', 'dossier', 'avoir', 'maximum', 'choix']
+
+495 ['Choix', '1', 'Partenaire', 'Choix', '2', 'partenaire', 'si', 'CEU', 'considérer', 'qualité', 'dossier', 'suffisamment', 'bon', 'postuler', 'université', 'autoriser', 'candidater', 'choix']
+
+496 ['Choix', '1', 'Partenaire', 'Choix', '2', 'Hors', 'Partenariat', 'Vous', 'serez', 'autoriser', 'postuler', 'partenaire']
+
+497 ['le', 'CEU', 'décider', 'qualité', 'dossier', 'nombre', 'place', 'disponible']
+
+498 ['Choix', '1', 'hors', 'Partenariat', 'Choix', '2', 'partenaire', 'le', 'partenaire', 'rester', 'privilégier', 'être', 'facilement', 'basculer', 'choix', 'partenariat', 'université', 'partenair', 'demander', 'réserve', 'qualité', 'dossier']
+
+499 ['Choix', '1', 'hors', 'Partenariat', 'Choix', '2', 'hors', 'Partenariat', 'le', 'partenaire', 'privilégier']
+
+500 ['le', 'autorisation', 'candidater', 'partenaire', 'dépendre', 'qualité', 'dossier', 'nombre', 'place', 'disponible']
+
+501 ['quelque', 'info', 'conseil']
+
+502 ['même', 'Mobility', 'Online', 'pouvoir', 'ores-et-déjà', 'commencer', 'préparer', 'dossier', 'texte', 'lettre', 'motivation', 'paragraphe', 'activité', 'responsabilité', 'descriptif', 'cursu', 'envisager', 'sorte', 'avoir', 'faire', 'copier', 'coller', 'moment', 'venir']
+
+503 ['Vérifiez', 'ouverture', 'campagne', 'saisie', 'établissement', 'souhaiter', 'postuler', 'existe', 'bien', 'base', 'formulaire', 'candidature']
+
+504 ['si', 'cas', 'falloir', 'créer', 'service', 'Relations', 'Internationales', 'avoir', 'main']
+
+505 ['cela', 'immédiat', 'vérifiez', 'bien', 'attendre', 'dernier', 'minute']
+
+506 ['dans', 'cas', 'uniquement', 'cas', 'envoyez', 'mail', 'information', 'établissement', 'dri@ec', 'lyon.fr']
+
+507 ['compte', 'tenir', 'situation', 'sanitaire', 'actuel', 'imprévisibilité', 'évolution', 'conseiller', 'porter', 'choix', 'université', 'européen']
+
+508 ['le', 'partie', 'dossier', 'fois', 'devoir', 'aller', 'bout', 'processus', 'enregistrer', 'base']
+
+509 ['si', 'quitter', 'page', 'valider', 'devoir', 'recommencer', 'procédure']
+
+510 ['après', 'valider', 'recevoir', 'mail', 'confirmation', 'adresse', 'centralienn']
+
+511 ['votre', 'note', 'récupérer', 'Scolarité', 'fois', 'candidature', 'mettre', 'jour', 'veille', 'CEU']
+
+512 ['plusieurs', 'acteur', 'solliciter', 'impliquer', 'constitution', 'dossier']
+
+513 ['nous', 'inviter', 'entrer', 'contact', 'aussitôt']
+
+514 ['enfin', 'déposer', 'dossier', 'dernier', 'moment']
+
+515 ['responsable', 'langue']
+
+516 ['Allemand', 'Waltraut', 'WUNDER', 'Anglais', 'Alain', 'DOUGNAC', 'Arabe', 'Florence', 'MILON', 'Chinois', 'Cheng', 'SUN', 'Espagnol', 'Nathalie', 'PASTOR', 'Italien', 'Giannetto', 'FRANCESCO', 'Japonais', 'Mariko', 'AKUTSU', 'Portugais', 'Florence', 'MILON', 'Russe', 'florence', 'milon.le', 'descriptif', 'double-diplôme', 'France', 'disponible', 'rubrique', 'Double-Diplômes', 'intranet']
+
+517 ['mobilité', 'international', 'dispense', 'mobilité', 'post-tf']
+
+518 ['pour', 'entrant', '2017', 'séjour', 'étranger', '3', 'mois', 'minimum', 'obligatoire', 'scolarité']
+
+519 ['le', 'document', 'ci-dessous', 'explique', 'modalité', 'déroulement', 'validation']
+
+520 ['le', 'séjour', 'international']
+
+521 ['pour', 'entrant', '2018', 'le', 'conseil', 'étude', '18', 'mai', '2018', 'conseil', 'administration', '28', 'juin', '2018', 'voter', 'allongement', 'durée', 'minimal', 'mobilité', '5', 'mois']
+
+522 ['le', 'texte', 'voter', 'conseil', 'corriger', 'document', 'précédent', 'aspect', 'durée']
+
+523 ['lorsque', 'élève', 'souhaite', 'valider', 'mobilité', 'activité', 'sabbatique', 'impérativement', 'remplir', 'page', '3', 'dossier', 'césure', 'définir', 'preuve', 'réalisation', 'mission', 'élève', 'engager', 'rapporter', 'issue']
+
+524 ['ce', 'formulaire', 'normalement', 'remplir', 'dépot', 'dossier', 'césur', 'envoyer', 'tard', 'projet', 'mieux', 'définir']
+
+525 ['a', 'renvoyer', 'service', 'scolarité']
+
+526 ['le', 'conseil', 'Etudes', 'décider', 'situation', 'pouvoir', 'conduire', 'dispense', 'obligation', 'mobilité']
+
+527 ['ce', 'disposition', 'concerne', 'élève', 'élève', 'élu', 'Conseil', 'Administration', 'Vice-Président', 'élève', 'Conseil', 'Etudes', 'élève', 'occuper', 'poste', 'responsabilité', 'associatif', 'proposition', 'président', 'Bureau', 'élève', 'élève', 'admettre', 'concours', 'expérience', 'académique', 'significatif', 'international', 'admission', 'Ecole', 'centrale', 'Lyon', 'élève', 'admettre', 'concours', 'suivre', 'cursus', 'ENSAL', 'élève', 'admettre', 'ENSAL', 'suivre', 'cursu', 'ingénieur', 'ECL', 'élève', 'raison', 'force', 'majeur', 'empêcher', 'départ', 'planifier']
+
+528 ['le', 'ce', 'recommande', 'toutefois', 'mobilité', 'élève', 'dispenser']
+
+529 ['en', 'raison', 'crise', 'sanitaire', 'aménagement', 'reconnaissance', 'mobilité', 'prévoir']
+
+530 ['le', 'document', 'diffuser', 'juillet', '2020', 'précise', 'cadre']
+
+531 ['le', 'demande', 'dispense', 'reconnaissance', 'effectuer', 'dépôt', 'formulaire', 'remplir', 'auprès', 'Mme', 'Moragues', 'premier', 'mars', 'année', '3a.']
+
+532 ['le', 'décision', 'prendre', 'commission', 'mobilité', 'réunir', 'mois', 'élève', 'avertir', 'semaine', 'suivre', 'réunion']
+
+533 ['tout', 'élever', 'séjour', 'international', 'cadre', 'cursus', 'ECL', 'référer', 'Fiche', 'sécurité', 'séjour', 'étranger', 'lire', 'respecter', 'consigne', 'indiquer', 'séjour', 'étranger']
+
+534 ['le', 'validation', 'mobilité', 'fin', 'scolarité', 'respecter', 'condition', 'voir', 'document', 'explicatif', 'Documents', 'service', 'relation', 'international']
+
+535 ['le', 'modalité', 'césure', 'le', 'césure', 'existe', 'uniquement', 'forme', 'année', 'plein', 'premier', 'septembre', 'année', 'N', '31', 'août', 'anner', 'N+1']
+
+536 ['tout', 'élever', 'inscrire', 'formation', 'initial', 'statut', 'étudiant', 'faire', 'demande']
+
+537 ['il', 'remplir', 'dossier', 'demande', 'disponible', 'intranet', 'précise', 'projet', 'personnel', 'professionnel', 'période']
+
+538 ['il', 'indique', 'démarche', 'entreprise', 'plan', 'financement', 'réalisation', 'projet']
+
+539 ['le', 'calendrier', 'processus', 'publier', 'site', 'intranet', 'école']
+
+540 ['le', 'commission', 'césur', 'examine', 'dossier', 'recommandation', 'émettre', 'avis', 'destination', 'directeur', 'école']
+
+541 ['le', 'départ', 'césure', 'conditionner', 'décision', 'jury', 'prononcer', 'poursuite', 'cursus', 'étudier']
+
+542 ['en', 'cas', 'redoublement', 'prononcer', 'jury', 'prioritaire']
+
+543 ['le', 'directeur', 'école', 'prendre', 'finalement', 'décision', 'autoriser', 'non', 'césure']
+
+544 ['en', 'cas', 'acceptation', 'année', 'césure', 'convention', 'signer', 'école', 'directeur', 'étudiant']
+
+545 ['le', 'inscription', 'césure', 'effectuer', 'stage', 'convention', 'école', 'élève', 'inscrire', 'certificat', 'diplôme', 'organiser', 'ECL', 'délivrer', '200h', 'formation', 'requérir', 'obtention', 'convention', 'stage']
+
+546 ['conformémer', 'règlementation', 'activité', 'effectuer', 'année', 'césure', 'demande', 'étudier', 'donner', 'droit', 'dispense', 'reconnaissance', 'total', 'partiel', 'enseignement', 'stage', 'relever', 'cursus', 'étudier']
+
+547 ['le', 'modalité', 'demande', 'validation', 'établir', 'Conseil', 'Etudes']
+
+548 ['pour', 'bénéficier', 'validation', 'étudiant', 'exercer', 'année', 'césure', 'activité', 'engagement', 'limitativement', 'énumérer', 'article', 'L.']
+
+549 ['611', '9', 'activité', 'bénévole', 'sein', 'association', 'activité', 'professionnel', 'activité', 'militaire', 'réserve', 'opérationnel', 'engagement', 'sapeur', 'pompier', 'volontaire', 'engagement', 'service', 'civique', 'engagement', 'volontariat', 'armée']
+
+550 ['le', 'fiche', 'disponible', 'ici', 'demander', 'validation', 'obligation', 'stage', 'application', 'exécution', 'mission', 'réaliser', 'césure']
+
+551 ['le', 'dossier', 'césure', 'description', 'certificat', 'MOODLE']
+
+552 ['pour', '3A', 'Ecole', 'Centrale', 'ENTPE', 'enise', 'dossier', 'demande', '3A', 'EC', 'ENTPE', 'ENISE', 'disponible', 'ci-dessous']
+
+553 ['le', 'dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'Mme', 'Guinamard', 'premier', 'mars', '2022']
+
+554 ['le', 'liste', 'pièce', 'préciser', 'dossier']
+
+555 ['Veuillez', 'noter', 'demande', 'porter', 'parcours', 'formation', 'relation', 'projet', 'professionnel']
+
+556 ['dossier', 'demande', '3A', 'EC', 'indispensable', 'référer', 'tableau', 'Options', 'Métiers', 'GEC', 'remplir', 'dossier', 'candidature', 'Dossier', 'demande', '3A', 'ENTPE', 'Dossier', 'demande', '3A', 'ENISE']
+
+557 ['NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partager', 'Tutorat']
+
+558 ['3A', 'Ecole', 'Management', 'Lyon', 'le', 'candidature', '3A', 'Ecole', 'Management', 'Lyon', '2022', '2023', 'approuver', 'ECL', 'EML']
+
+559 ['le', 'information', 'disponible', 'MOODLE']
+
+560 ['le', 'dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'Mme', 'Guinamard', '7', 'janvier', '2022']
+
+561 ['le', 'liste', 'pièce', 'préciser', 'dossier']
+
+562 ['dossier', 'demande', '3èm', 'année', 'échange', 'EML', 'nb', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partager', 'Tutorat']
+
+563 ['pour', 'renseignement', 'complémentaire', 'contacter', 'Mme', 'Sylvie', 'MIRA', 'BONNARDEL', 'responsable', 'ECL', 'échange', 'ECL', '/eml', 'Double', 'Diplôme', 'Ecole', 'management', 'Lyon']
+
+564 ['le', 'dossier', 'ECL', 'demande', 'Double', 'Diplôme', 'Ecole', 'Management', 'Lyon', '2022', '2024', 'disponible', 'ci-dessous']
+
+565 ['le', 'dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'Mme', 'Guinamard', 'premier', 'mars', '2022']
+
+566 ['le', 'liste', 'pièce', 'préciser', 'dossier']
+
+567 ['dossier', 'demande', 'double', 'Diplôme', 'EML', 'nb', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partager', 'Tutorat']
+
+568 ['le', 'site', 'inscription', 'EML', 'janvier', 'février']
+
+569 ['double', 'Diplôme', 'Ecole', 'Normale', 'Supérieure', 'Lyon', 'le', 'volet', 'dossier', 'ECL', 'demande', 'DD', 'ENSL', '2022', '2024', 'disponible', 'ci-dessous']
+
+570 ['le', 'volet', 'remettre', 'Mme', 'Guinamard', 'scolarité', 'tard', '6', 'janvier', '2022']
+
+571 ['le', '2èm', 'volet', 'remettre', 'pièce', 'nécessaire', 'Mme', 'Guinamard', 'premier', 'mars', '2022']
+
+572 ['le', 'liste', 'pièce', 'préciser', 'dossier']
+
+573 ['dossier', 'demande', 'double', 'Diplôme', 'ENSL', 'Volet', '1', 'Prévenir', 'responsable', 'cours', 'ENS', 'janvier', 'jerome.calvet@ens-lyon.fr', 'Dossier', 'demande', 'Double', 'Diplôme', 'ENSL', 'Volet', '2', 'nb', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partager', 'Tutorat']
+
+574 ['Double-Diplôme', 'ensae', 'dossier', 'ECL', 'demande', 'Double', 'Diplôme', 'Ecole', 'Nationale', 'Statistique', 'Administration', 'Economique', '2022', '2024', 'disponible', 'ci-dessous']
+
+575 ['le', 'dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'Mme', 'Guinamard', 'premier', 'mars', '2022']
+
+576 ['le', 'liste', 'pièce', 'préciser', 'dossier']
+
+577 ['dossier', 'demande', 'double', 'Diplôme', 'ENSAE', 'NB', 'fiche', 'avis', 'tuteur', 'PCP', 'disponible', 'Espace', 'partager', 'Tutorat']
+
+578 ['contrat', 'professionnalisation', 'voie', 'obtention', 'diplôme', 'ingénieur', 'ECL', 'proposer', 'élève', 'ingénieur', 'issue', 'année', 'agir', 'contrat', 'professionnalisation']
+
+579 ['pour', 'renseignement', 'aller', 'page', 'Contrat', 'PRO']
+
+580 ['mobilité', 'international', 'projet', 'réfléchir', 'mûrir']
+
+581 ['avant', 'déposer', 'demande', 'assurer', 'vous', 'projet', 'réaliste', 'cohérent', 'concerter', 'autoriser']
+
+582 ['nous', 'inviter', 'bien', 'consulter', 'rubrique', 'Dans', 'cadre', 'partir']
+
+583 ['le', 'dossier', 'constituer', 'français', '  ', 'Paragraphe', 'activité', 'responsabilité', 'artistique', 'associative', 'sportif']
+
+584 ['Lettre', 'motivation', 'lettre', 'choix', 'établissement', 'accueil']
+
+585 ['Recommandant', 'PCP', 'tuteur', 'PCP', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
+
+586 ['recommander', 'langue', 'nom', 'professeur', 'langue', 'fournir', 'appréciation', 'compétence', 'linguistique', 'nom', 'choisir', 'liste', 'déroulant', 'professeur', 'École', 'Centrale', 'Mobility', 'Online']
+
+587 ['Recommandant', 'facultatif', 'souhaiter', 'rajouter', 'recommandant']
+
+588 ['il', 'contacter', 'MobilityOnline', 'adresse', 'e-mail', 'avoir', 'indiquer']
+
+589 ['un', 'unique', 'document', 'compiler', 'descriptif', 'cursus', 'envisager', 'choix', 'établissement', 'accueil', 'joindre', 'dossier']
+
+590 ['ne', 'préparer', 'dossier', 'dernier', 'moment', 'élement', 'préparer', 'amont']
+
+591 ['fonctionnement', 'Commission', 'Échanges', 'Universitaires', ' ', 'avant', 'CEU', 'dossier', 'expertiser', 'correspondant', 'pays', 'dépose', 'évaluation', 'ensemble', 'projet']
+
+592 ['lors', 'CEU', 'membre', 'commission', 'évaluer', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
+
+593 ['entre', 'commission', 'étudier', 'élément', 'ci-dessous', '  ', 'le', 'résultat', 'académique', ' ', 'le', 'destination', 'priorité', 'accorder', 'pays', 'université', 'partenaire', 'compte', 'quota', 'université', 'demander', ' ', 'le', 'type', 'mobilité', 'priorité', 'donner', 'cursu', 'déroulent', 'cadre', 'accord', 'échange', 'École', 'Centrale', 'Lyon']
+
+594 ['le', 'dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demander', 'domaine', 'envisager', 'motivation', 'niveau', 'langue']
+
+595 ['tout', 'dossier', 'forcément', 'retenir']
+
+596 ['un', 'réponse', 'positif', 'CEU', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'être', 'valider', 'reporter', 'décision', 'indiquer', 'document']
+
+597 ['un', 'fois', 'réponse', 'positif', 'CEU', 'recevoir', 'e-mail', 'avoir', '5', 'jour', 'confirmer', 'renoncer', 'intention', 'partir']
+
+598 ['au', '5', 'jour', 'réponse', 'part', 'considérer', 'renoncer', 'mobilité']
+
+599 ['pour', 'confirmer', 'signer', 'fiche', 'engagement', 'partir']
+
+600 ['si', 'tard', 'annuler', 'mobilité', 'être', 'prioritaire', 'affectation', 'option', 'métier', 'troisième', 'année', 'École', 'Centrale', 'situation', 'communiquer', 'jury', 'diplômant']
+
+601 ['le', 'transformation', 'entreprise', 'être', 'fort', 'dernier', 'année', 'confère', 'ingénieur', 'rôle', 'fédérateur', 'marquer']
+
+602 ['par', 'ailleurs', 'évolution', 'technologique', 'estructuration', 'entreprise', 'effet', 'mondialisation', 'modifier', 'fortement', 'leu', 'ontour']
+
+603 ['le', 'ingénieur', 'amener', 'devenir', 'mobile', 'faire', 'fonctionner', 'système', 'complexe', 'grâce', 'animation', 'équipe', 'multiculturel', 'réalisation', 'mission', 'haute', 'mobilité', 'ue', 'sein', 'entreprise', 'entreprise']
+
+604 ['pour', 'raison', 'obtention', 'diplôme', 'ingénieur', 'Ecole', 'centrale', 'Lyon', 'ubordonnée', 'réalisation', 'séjour', '3', 'mois', 'minimum', 'étranger']
+
+605 ['le', 'objecti', 'édagogiqu', 'placer', 'élève', 'ingénieur', 'immersion', 'environnement', 'socio-cultur', 't', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'ontexte', 'exercice', 'futur', 'métier', 'ingénieur']
+
+606 ['le', 'modalité', 'acceptable', 'réalisation', 'séjour', 'obligatoire', 'étranger', 'récisée', 'ci-dessous', 'condition', 'académique', 'remplir', 'validatio', 'écessair', 'obtention', 'diplôme', 'ingénieur', 'ECL']
+
+607 ['ce', 'séjour', 'prendre', 'forme', 'stage', 'application', 'stage', 'césure', 'conventionner', 'étranger', 'emestr', 'S8', 'université', 'étranger', 'emestre', 'césure', 'conventionner', 'université', 'non', 'partenair', 'étranger', 'année', 'sabbatique', 'accord', 'Commission', 'Césure', 'TFE', 'étranger', '3A', 'étranger', 'université', 'étranger', 'double', 'diplôme', 'université', 'partenair', 'étranger']
+
+608 ['le', 'pays', 'francophone', 'Belgique', 'Suisse', 'Canada', 'Afrique', 'francophone', 'onsidéré', 'approprié', 'réalisation', 'séjour', 'étranger']
+
+609 ['le', 'condition', 'validation', 'séjour', 'obligatoire', 'étranger', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'stage', 'application', 'TFE', 'validation', 'modalité', 'prévoir', 'stage', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'césure', 'conventionner', 'validation', 'modalité', 'stage', 'application', 'cas', 'travail', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'anné', 'sabbatique', 'réalisation', 'travail', 'prévoir', 'remettre', 'preuve', 'réalisation', 'convenir', 'CCS', 'départ', 'étranger', 'validation', 'rapport', 'remettre', 'PCP', 'cas', 'semestre', 'S8', 'université', 'validation', '30', 'crédit', 'ect', 'équivalent', '20', 'discipline', 'scientifique', 'cas', 'semestre', 'universitaire', 'césure', 'conventionner', 'année', 'sabbatique', '   ', 'le', 'condition', 'validation', 'séjour', 'obligatoire', 'étranger', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'stage', 'application', 'TFE', 'validation', 'modalité', 'prévoir', 'stage', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'césure', 'conventionner', 'validation', 'modalité', 'stage', 'application', 'cas', 'travail', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'anné', 'sabbatique', 'réalisation', 'travail', 'prévoir', 'remettre', 'preuve', 'réalisation', 'convenir', 'CCS', 'départ', 'étranger', 'validation', 'rapport', 'remettre', 'PCP', 'cas', 'semestre', 'S8', 'université', 'validation', '30', 'crédit', 'ect', 'équivalent', '20', 'discipline', 'scientifique', 'cas', 'semestre', 'universitaire', 'césure', 'conventionner', 'année', 'sabbatique', 'validation', '30', 'crédit', 'ect', 'équivalent', 'cas', '3a', 'validation', 'année', 'académique', 'TFE', 'cas', 'double', 'diplôm', 'validation', 'diplôme', 'université', 'partenair', 'cas', 'échéant', 'TFE']
+
+610 ['Conditions', 'validation', 'mobilité', 'activité', 'post-tf', 'situation', 'commun', 'élève', 'valider', 'mobilité', 'dispenser', 'commission', 'ad', 'hoc', 'placer', 'sursis', 'an', 'jury', 'Parcours', 'électif']
+
+611 ['le', 'modalité', 'validation', '1ère', 'possibilité', 'stage', 'mois', 'étranger', 'convention', 'ECL', 'condition', 'élève', 'inscrire', 'ECL', 'année', 'universitaire', 'stage', 'PCP', 'tuteur', 'stage', 'stage', 'donne', 'lieu', 'rapport', 'évaluation', 'entreprise', 'mobilité', 'valider', 'stage', 'lieu', 'rapport', 'valider', 'PCP', 'évaluation', 'entreprise', 'positif', '2èm', 'possibilité', 'activité', 'professionnel', 'étranger', 'durée', 'égal', 'mois', 'année', 'sabbatique', 'élève', 'rapporte', 'scolarité', 'certificat', 'travail', 'issue', 'période', '3ème', 'possibilité', 'semestr', 'académique', 'université', 'partenair', 'étranger', 'élève', 'inscrire', 'ECL', 'rapporter', '30', 'ect', '4ème', 'possibilité', 'semestr', 'académique', 'université', 'non', 'partenair', 'étranger', 'élève', 'inscrire', 'ECL', 'rapporter', '30', 'crédit', 'ECTS']
+
+612 ['être', 'exclure', 'possibilité', 'activité', 'non', 'professionnel', 'voyage', 'touristique']
+
+613 ['le', 'condition', 'pays', 'situation', 'DOM', 'TOM', 'étranger', 'pays', 'francophone', 'étranger']
+
+614 ['double-cursus', 'licence', '3', 'mathématique', ' ', 'le', 'double', 'cursu', 'ingénieur', 'licence', 'proposer', 'élève', 'ingénieur', 'École', 'Centrale', 'Lyon', 'parcours', 'Mathématiques', 'général', 'application', 'Licence', 'mathématiques', 'université', 'Claude', 'Bernard', 'Lyon', '1']
+
+615 ['le', 'emploi', 'temps', 'élève', 'ingénieur', 'assister', 'intégralité', 'cours', 'TD']
+
+616 ['un', 'séance', 'tp', 'assurer', 'spécifiquement', 'élève', 'ingénieur', 'jeudi', 'après-midi', 'local', 'UCBL', 'campus', 'Doua']
+
+617 ['5', 'UE', 'valider', 'semestre', 'UE', 'doter', '6', 'ect']
+
+618 ['8', 'UE', 'suivre', 'sein', 'enseignement', 'L3', 'UCBL']
+
+619 ['2', 'UE', 'valider', 'équivalence', 'enseignement', 'cursu', 'ingénieur', 'ECL', 'agir', 'UE', 'transversal', 'ep', 'LV', 'sh', 'semestre', '5', 'UE', 'optionnel', 'semestre', '6']
+
+620 ['le', 'UE', 'procédure', 'inscription', 'décrire', 'document', 'présentation', 'L3']
+
+621 ['le', 'inscription', 'auprès', 'service', 'scolarité', 'Département', 'Mathématiques', 'UCBL']
+
