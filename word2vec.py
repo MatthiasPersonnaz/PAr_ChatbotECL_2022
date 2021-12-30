@@ -187,7 +187,7 @@ class WordEmbedding():
     
     
 if __name__ == "__main__":
-    path = './données_scolarité_acquises/'
+    path = './documents_scolarité/données_scolarité_propres/'
     wr = WordEmbedding(path)
     wr.importerCorpus('corpus.txt')
     sentences = wr.segmenterTexteNLTK()
