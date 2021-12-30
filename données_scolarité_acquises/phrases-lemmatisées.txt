@@ -1,0 +1,1244 @@
+['règlement', 'scolarité', 'présente', 'modalité', 'admission', 'école', 'centrale', 'lyon', 'objectif', 'modalité', 'évaluation', 'connaissance', 'compétence', 'formation', 'ingénieur', 'modalité', 'diversification', 'formation', 'condition', 'obtention', 'diplôme', 'école', 'centrale', 'lyon', 'diplôme', 'master', 'co-accrédités', 'diplôme', 'ingénieur', 'energie', 'alternance']
+
+['présent', 'règlement', 'scolarité', 'concerne', 'exclusivement', 'formation', 'initial', 'ingénieur', 'généraliste', 'délivrer', 'élève', 'ingénieur', 'étudiant', 'auditeur', 'école', 'élève', 'auditeur', 'école', 'centrale', 'lyon', 'conformer', 'règlement', 'scolarité']
+
+['école', 'centrale', 'lyon', 'constituer', 'communauté', 'élève', 'auditeur', 'respecter', 'règle', 'élémentaire', 'vie', 'société', 'respect', 'statut', 'respect', 'local', 'matériel', 'etc.']
+
+['formation', 'école', 'centrale', 'lyon', 'destinant', 'élève', 'poste', 'ingénieur', 'hautement', 'qualifier', 'élève', 'faire', 'preuve', 'professionnalisme', 'ponctualité', 'participation', 'actif', 'activité', 'formation', 'respect', 'engagement', 'prendre', 'respect', 'charte', 'informatique', 'anti-plagiat', 'respect', 'clause', 'confidentialité']
+
+['règlement', 'scolarité', 'établir', 'condition', 'limite', 'fixer', 'décret', '92', '378', 'premier', 'avril', '1992', 'relatif', 'école', 'centrale', 'lyon']
+
+['approuver', 'conseil', 'administration', 'école', 'consultation', 'conseil', 'etudes']
+
+['modalité', 'pratique', 'application', 'découlent', 'regrouper', 'annexes', 'pouvoir', 'réviser', 'annuellement', 'conseil', 'administration', 'école', 'avis', 'conseil', 'etudes', 'proposition', 'commission', 'evolution', 'règlement', 'scolarité', 'annexes', 'document', 'partie', 'intégral', 'règlement', 'scolarité']
+
+['règlement', 'scolarité', 'disponible', 'site', 'web', 'école', 'début', 'année', 'scolaire']
+
+['porter', 'connaissance', 'ensemble', 'personnel', 'école', 'intermédiaire', 'directeurs', 'département', 'directeurs', 'unité', 'enseignement']
+
+['étudiant', 'admettre', 'école', 'centrale', 'lyon', 'formation', 'ingénieur', 'préparer', 'diplôme', 'national', 'ingénieur', 'école', 'centrale', 'lyon', 'appeler', 'élève']
+
+['admission', '1ère', 'année', 'formation', 'ingénieur', 'effectue', 'voie', 'concours', 'commun', 'centrale', 'supélec', 'voie', 'admission', 'titre', 'casting', 'admission', 'titre', 'ingénieur', 'commun', 'groupe', 'écoles', 'centrales', 'eni']
+
+['nombre', 'place', 'offerte', 'concours', 'admission', 'titre', 'fixer', 'ministre', 'charger', 'enseignement', 'supérieur', 'avis', 'conseil', 'administration']
+
+['élève', 'admettre', 'voie', 'appeler', 'élève', 'admettre', 'concours', 'titre']
+
+['cadre', 'formation', 'double', 'diplômante', 'admission', 'titre', 'proposer', 'année', 'second', 'année', 'commission', 'echanges', 'universitaires', 'définir', 'annexe']
+
+['étudiant', 'provenance', 'université', 'étranger', 'établissement', 'français', 'accueillir', 'troisième', 'année', 'formation', 'conduire', 'diplôme', 'ingénieur']
+
+['recrutement', 'étudiant', 'prononcer', 'directeur', 'école', 'centrale', 'lyon', 'proposition', 'commission', 'echanges', 'universitaires', 'procédure', 'prévoir', 'convention', 'passer', 'établissement', 'français']
+
+['élève', 'admettre', 'école', 'centrale', 'lyon', 'cadre', 'formation', 'double', 'diplômante', 'appeler', 'élève', 'admettre', 'double', 'diplôme']
+
+['étudiant', 'accueillir', 'école', 'centrale', 'lyon', 'enseignement', 'formation', 'ingénieur', 'école', 'centrale', 'lyon', 'préparer', 'diplôme', 'ingénieur', 'appeler', 'auditeur']
+
+['élève', 'auditeur', 'effectivement', 'inscrire', 'école', 'centrale', 'lyon', 'lorsque', 'effectuer']
+
+['élève', 'signer', 'contrat', 'professionnalisation', 'inscription', 'uniquement', 'pédagogique', 'règlement', 'droits', 'universitaires', 'réglementaire']
+
+['produire', 'jour', 'rentrée', 'dossier', 'personnel', 'composition', 'définir', 'directeur', 'école', 'centrale', 'lyon']
+
+['imposer', 'souscrire', 'assurance', 'responsabilité', 'civile']
+
+['assurance', 'valable', 'scolarité', 'période', 'stage']
+
+['élève', 'obligatoirement', 'assurer', 'responsabilité', 'civil', 'contre', 'risque', 'accident', 'incident', 'pouvoir', 'survenir', 'occasion', 'activité', 'scolaire', 'être', 'obligatoire', 'facultative', 'déroulent', 'intérieur', 'extérieur', 'établissement']
+
+['lire', 'approuvé', 'signer', 'charte', 'informatique', 'anti-plagiat']
+
+['formation', 'ingénieur', 'déroule', 'année', 'découper', 'semestre', 'noter', 's5', 's10', 'premier', 'semestre', 'stage', 'constituer', 'parcours', 'appeler', 'tronc', 'commun', 'semestre', 'constituer', 'stage', 'parcours', 'appeler', 'parcours', 'electif', 'dernier', 'semestre', 'correspondre', 'stage', 'appeler', 'travail', 'fin', 'etudes', 'stage', 'période', 'formation', 'déroule', 'milieu', 'professionnel', 'france', 'étranger', 'contrôle', 'école', 'convention', 'stage', 'contrat', 'embauche']
+
+['parcours', 'electif', 'définir', 'choix', 'option', 'métier', 'décider', 'commission', 'parcours', 'electif', 'modalité', 'présenter', 'annexe', 'personnalisation', 'cursu', 'ingénieur']
+
+['parcours', 'electif', 'part', 'aménager', 'effectuer', 'partie', 'parcours', 'université', 'étranger']
+
+['formation', 'aménager', 'effectuer', 'double', 'diplôme', 'voir', 'article', '15']
+
+['formation', 'dispenser', 'école', 'centrale', 'lyon', 'élève', 'double', 'diplôm', 'consiste', 'tronc', 'commun', 'etendu', 'parcours', 'electif', 'etendu', 'parcours', 'electif', 'réduit']
+
+['variante', 'cursu', 'ingénieur', 'présenter', 'section', 'annexe', 'personnalisation', 'cursu', 'ingénieur']
+
+['semestre', 'déroulent', 'unités', 'enseignement', 'sein', 'activité', 'pédagogique', 'regrouper', 'actions', 'formation']
+
+['action', 'formation', 'ensemble', 'cohérent', 'activité', 'planifier', 'cours', 'magistraux', 'travaux', 'dirigés', 'travaux', 'pratiques', 'bureaux', 'etudes', 'etc.']
+
+['action', 'formation', 'comprendre', 'activité', 'cours', 'magistral', 'présenter', 'socle', 'connaissance', 'nécessaire', 'bon', 'déroulement', 'activité', 'action', 'formation']
+
+['général', 'participation', 'actif', 'élève', 'activité', 'actions', 'formation', 'primordial']
+
+['programme', 'pédagogique', 'parcours', 'formation', 'ingénieur', 'approuver', 'conseil', 'administration', 'proposition', 'directeur', 'école', 'avis', 'conseil', 'etudes']
+
+['définir', 'ensemble', 'activité', 'action', 'formation', 'présenter', 'fascicule', 'pédagogique']
+
+['activité', 'pédagogique', 'réaliser', 'élève', 'administrativement', 'inscrire', 'année', 'universitaire', 'déroule', 'calendrier', 'année', 'universitaire', 'voter', 'conseil', 'administration', 'foi']
+
+['participation', 'implication', 'élève', 'auditeur', 'cursus', 'formation', 'initial', 'prioritaire', 'type', 'activité']
+
+['conséquence', 'participation', 'activité', 'action', 'formation', 'obligatoire', 'présence', 'contrôler', 'fois', 'responsabilité', 'responsable', 'action', 'formation']
+
+['absence', 'signaler', 'élève', 'service', 'scolarité', 'tôt', 'tard', 'jour', 'ouvrable', 'suivre', 'jour', 'absence']
+
+['autoriser', 'absence', 'raison', 'force', 'majeur', 'convocation', 'émaner', 'autorité', 'administratif', 'motif', 'préciser', 'annexe', 'autorisation', 'absence']
+
+['justificatif', 'impérativement', 'fournir', 'service', 'scolarité', 'déclaration', 'absence']
+
+['manque', 'ponctualité', 'frein', 'bon', 'déroulement', 'activité', 'action', 'formation', 'enseignant', 'participer', 'promotion', 'respect', 'ponctualité']
+
+['élève', 'auditeur', 'objet', 'évaluation', 'continue', 'objectif', 'estimer', 'long', 'année', 'niveau', 'atteindre', 'aider', 'effectuer', 'travail', 'régulier', 'assimilation', 'renseigner', 'progression', 'faciliter', 'choix', 'orientation', 'conduire', 'effectuer']
+
+['résultat', 'semestriel', 'obtenir', 'élève', 'auditeur', 'consigner', 'dossier', 'individuel', 'service', 'scolarité']
+
+['jury', 'arrêter', 'semestre', 'position', 'global', 'élève', 'rapport', 'demipromotion', 'position', 'global', 'élève', 'rapport', 'promotion', 'barème', 'niveau', 'définir', 'annexe', 'évaluation', 'connaissance', 'compétence', 'page', '13']
+
+['synthèse', 'résultat', 'décision', 'jurys', 'porter', 'connaissance', 'élève', 'auditeur', 'issue', 'délibération']
+
+['élément', 'communicable', 'organisme', 'extérieur', 'demande', 'écrite', 'élève', 'auditeur']
+
+['évaluation', 'élève', 'auditeur', 'porte', 'ensemble', 'programme', 'pédagogique']
+
+['examen', 'connaissance', 'compétence', 'ressort', 'exclusif', 'enseignant', 'personne', 'vocation', 'enseigner', 'école', 'couvert', 'conseils', 'unités', 'enseignement', 'responsable', 'parcours', 'assurer', 'cohérence']
+
+['nature', 'modalité', 'évaluation', 'déterminer', 'enseigner', 'responsable', 'action', 'formation', 'collaborateur', 'valider', 'instance', 'statutaire', 'compétent', 'titre', 'programme', 'pédagogique']
+
+['publier', 'fascicule', 'pédagogique']
+
+['modalité', 'pratique', 'organisation', 'définir', 'annexe', 'évaluation', 'connaissance', 'compétence']
+
+['fraude', 'plagiat', 'tentative', 'fraude', 'plagiat', 'acte', 'extrêmement', 'grave', 'sanction', 'prévoir', 'code', 'education', 'livre', 'viii', 'titre', 'ier', 'section', 'procédure', 'disciplinairer']
+
+['sanction', 'prévoir', 'aller', 'jusque', 'exclusion', 'définitif', 'établissement', 'public', 'enseignement', 'supérieur']
+
+['sanction', 'prendre', 'section', 'disciplinaire', 'école', 'centrale', 'lyon', 'être', 'saisir', 'directeur', 'école', 'centrale', 'lyon']
+
+['objectif', 'charte', 'anti-plagiat', 'sensibiliser', 'élève', 'problème']
+
+['commission', 'anti-plagiat', 'instituer', 'objectif', 'réunir', 'fait', 'cas', 'présomption', 'plagiat']
+
+['modalité', 'pratique', 'organisation', 'sanction', 'définir', 'annexe', 'fraude', 'plagiats']
+
+['année', 'césure', 'possibilité', 'offrir', 'élève', 'effectuer', 'année', 'supplémentaire', 'réaliser', 'projet', 'professionnel', 'personnel']
+
+['élever', 'solliciter', 'année', 'césure', 'cours', 'scolarité', 'école', 'centrale', 'lyon', 'condition', 'préciser', 'annexe', 'année', 'césure']
+
+['objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'contexte', 'exercice', 'futur', 'métier', 'ingénieur']
+
+['obtention', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'subordonner', 'réalisation', 'séjour', '21', 'semaine', 'minimum', 'étranger', 'forme', 'modalité', 'pratique', 'définir', 'annexe', 'mobilité', 'international']
+
+['formation', 'double', 'diplômant', 'effectuer', 'étranger', 'cursu', 'ingénieur', 'personnaliser', 'effectuer', 'partie', 'scolarité', 'école', 'centrale', 'lyon', 'modalité', 'remplacer', 'semestre', 'complet', 'école', 'centrale', 'lyon', 'nombre', 'semestre', 'suivre', 'établissement', 'remplacer', 'actions', 'formation', 'enseignement', 'suivre', 'formation']
+
+['validation', 'semestre', 'complet', 'prendre', 'forme', 'exclusive', ' ', 'effectuer', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 's8', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'école', 'centrale', 'lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'étranger', 'remplacement', 'semestre', 's8', 's9', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'école', 'centrale', 'lyon', 'effectuer', 'semestre', 'semestre', 'établissement', 'français', 'étranger', 'partenair', 'école', 'centrale', 'lyon', 'remplacement', 'semestre', 's9', 's10', 'condition', 'effectuer', 'premier', 'semestre', 'sein', 'école', 'centrale', 'lyon', 'effectuer', 'stage', 'final', 'cursu', 'ingénieur']
+
+['liste', 'élève', 'autoriser', 'école', 'effectuer', 'semestre', 'établissement', 'étranger', 'élève', 'autoriser', 'école', 'effectuer', 'semestre', 'établissement', 'arrêter', 'directeur', 'école', 'centrale', 'lyon', 'proposition', 'commission', 'echanges', 'universitaires']
+
+['programme', 'étude', 'élever', 'établissement', 'accueil', 'décrire', 'engagement', 'écrire', 'signer', 'élève', 'approuver', 'directeur', 'école', 'centrale', 'lyon', 'représentant']
+
+['document', 'transmettre', 'jury', 'parcours', 'electif', 'habilité', 'valider', 'résultat', 'obtenir', 'établissement', 'accueil']
+
+['modalité', 'pratique', 'organisation', 'définir', 'annexe', 'annexe', 'personnalisation', 'cursu', 'ingénieur']
+
+['remplacement', 'validation', 'actions', 'formation', 'parcours', 'electif', 'validation', 'cours', 'suivre', 'formation', 'valider', 'commission', 'aménagement', 'parcours', 'electif', 'définir', 'annexe', 'personnalisation', 'cursu', 'ingénieur', 'modalité', 'présenter', 'annexe', 'évaluation', 'connaissance', 'compétence']
+
+['handicap', 'définir', 'article', 'l.114', 'code', 'action', 'sociale', 'familles', 'constitue', 'handicap', 'limitation', 'activité', 'restriction', 'participation', 'vie', 'société', 'subir', 'environnement', 'raison', 'altération', 'substantiel', 'durable', 'définitif', 'fonction', 'physique', 'sensorielle', 'mentales', 'cognitives', 'psychique', 'poly', 'handicap', 'trouble', 'santé', 'invalidant']
+
+['accord', 'décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'relatif', 'aménagement', 'examen', 'concours', 'enseignement', 'scolaire', 'enseignement', 'supérieur', 'candidat', 'présenter', 'handicap', 'élève', 'auditeur', 'situation', 'handicap', 'formation', 'ingénieur', 'aménager', 'fonction', 'handicap', 'niveau', 'examen', 'contrôle', 'connaissance', 'compétence', 'niveau', 'déroulement', 'cursu', 'complet']
+
+['modalité', 'pratique', 'organisation', 'définir', 'annexe', 'scolarité', 'situation', 'handicap']
+
+['directeur', 'école', 'centrale', 'lyon', 'constitue', 'année', 'jury', 'tronc', 'commun', 'jury', 'promotion', 'ensemble', 'semestre', 's5', 's6', 's7', 'jury', 'parcours', 'electif', 'jury', 'promotion', 'ensemble', 'semestres', 's8', 's9', 's10', 'commission', 'echanges', 'universitaires']
+
+['suite', 'indisponibilité', 'membre', 'jury', 'directeur', 'école', 'désigne', 'remplaçant']
+
+['annexe', 'personnalisation', 'cursu', 'ingénieur', 'annexe', 'j', 'fonctionnement', 'jury', 'préciser', 'règle', 'modalité', 'pratique', 'fonctionnement', 'relatif', 'instance']
+
+['validation', 'tronc', 'commun', 'décider', 'jury', 'tronc', 'commun', 'promotion', 'concerner']
+
+['éloge', 'avertissement', 'mesure', 'prononcer', 'souverainement', 'jurys', 'définir', 'annexe', 'fonctionnement', 'jurys']
+
+['redoublement', 'autoriser', 'fois', 'cours', 'scolarité', 'cas', 'redoublement', 'raison', 'médical']
+
+['jury', 'décident', 'redoublement', 'effectuer', 'école', 'centrale', 'lyon', 'titre', 'exceptionnel', 'écoles', 'centrales', 'intergroupe']
+
+['dernier', 'cas', 'choix', 'école', 'accueillir', 'redoublant', 'résult', 'accord', 'directions', 'etudes']
+
+['modalité', 'pratique', 'relatif', 'redoublement', 'définir', 'annexe', 'fonctionnement', 'jurys']
+
+['élève', 'issu', 'concours', 'jury', 'parcours', 'electif', 'examine', 'ensemble', 'scolarité', 'vue', 'proposer', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'délivrer', 'recteur', 'académie', 'représentant', 'ministre', 'chargé', 'enseignement', 'supérieur']
+
+['obtention', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'subordonner', 'validation', 'tronc', 'commun', 'validation', 'parcours', 'electif', 'réalisation', 'validation', 'ensemble', 'activité', 'définir', 'cadre', 'programme', 'pédagogique', 'préciser', 'annexe', 'conditions', 'délivrance', 'diplôme', 'ingénieur']
+
+['cadre', 'accord', 'passer', 'université', 'partenaire', 'étranger', 'élève', 'admettre', 'concours', 'titre', 'suivre', 'formation', 'double', 'diplômant']
+
+['processus', 'sélection', 'élève', 'autoriser', 'formation', 'effectuer', 'commission', 'echanges', 'universitaires']
+
+['élève', 'quittent', 'école', 'fin', 'semestre', 'condition', 'validation', 'tronc', 'commun', 'élargir', 's8', 'stage', 'application', 'jury', 'tronc', 'commun']
+
+['terminer', 'étude', 'université', 'partenair', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'automatiquement', 'décerner', 'lorsque', 'remplir', 'condition', 'obtention', 'diplôme', 'ecl', 'obtenir', 'diplôme', 'correspondre', 'université', 'partenair']
+
+['formation', 'double', 'diplômante', 'ouvert', 'élève', 'admettre', 'concours', 'double', 'diplôme', 'architecture', 'école', 'nationale', 'supérieure', 'architecture', 'lyon', 'double', 'diplôme', 'management', 'emlyon', 'business', 'school', 'double', 'diplôme', 'école', 'nationale', 'statistique', 'administration', 'economique', 'double', 'diplôme', 'formation', 'approfondie', 'sciences', 'médicales', 'organiser', 'université', 'claude', 'bernard', 'lyon', '1', 'double', 'diplôme', 'masters', 'co-accrédité', 'non', 'école', 'normale', 'supérieure', 'lyon', 'université', 'claude', 'bernard', 'lyon', '1']
+
+['diplôme', 'etudes', 'supérieures', 'école', 'centrale', 'lyon', 'sanctionne', 'validation', 'unités', 'enseignement', 'semestres', 's9', 's10', 'réalisation', 'activité', 'semestre', 'auditeur', 'voir', 'annexe', 'conditions', 'délivrance', 'desecl']
+
+['objectif', 'commission', 'evolution', 'règlement', 'scolarité', 'profiter', 'retour', 'expérience', 'ensemble', 'jurys', 'améliorer', 'règlement', 'scolarité']
+
+['commission', 'constituer', 'année', 'directeur', 'école', 'centrale', 'lyon']
+
+['modalité', 'pratique', 'organisation', 'définir', 'annexe', 'evolution', 'règlement', 'scolarité']
+
+['élève', 'admettre', 'concours', 'titre', 'variante', 'cursu', 'ingénieur', ' ', 'représenter', 'tableau', 'ci-dessous']
+
+['ecl', '=', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon']
+
+['ensal', '=', 'diplôme', 'état', 'architecte', 'valoir', 'grade', 'master', 'école', 'nationale', 'supérieure', 'architecture', 'lyon']
+
+['ensl', '=', 'diplôme', 'master', 'co-accrédité', 'école', 'normale', 'supérieure', 'lyon', 'université', 'claude', 'bernard', 'lyon', '1']
+
+['médecine', '=', 'diplôme', 'formation', 'approfondie', 'sciences', 'médicales', 'université', 'claude', 'bernard', 'lyon', '1']
+
+['eml', '=', 'diplôme', 'programme', 'grande', 'école', 'emlyon', 'business', 'school']
+
+['ensae', '=', 'diplôme', 'école', 'nationale', 'statistique', 'administration', 'economique', 'paristech']
+
+['univ']
+
+['=', 'diplôme', 'université', 'étrangère', 'partenair']
+
+['ensemble', 'parcours', 'electif', '+', 'stage', 'application', '+', 'tfe', 'réaménager']
+
+['semestre', 'académique', 'effectuer', 'université', 'étranger', 'partenair', 'valider', '30', 'crédit', 'ect', 'équivalent', 'semestre', 'académique', 'effectuer', 'université', 'étranger', 'non', 'partenair', 'sanctionner', 'diplôme', 'université', 'accueil']
+
+['semestre', 'académique', 'inclure', 'projet', 'recherche', 'effectuer', 'université', 'étranger', 'non', 'partenair', 'sanctionner', 'diplôme', 'université', 'accueil']
+
+['élève', 'admettre', 'formation', 'double-diplômant', 'variante', 'cursu', 'ingénieur', 'représenter', 'tableau', 'ci-dessous']
+
+['ensal', 'ecl', 'correspondre', 'élève', 'école', 'nationale', 'supérieure', 'architecture', 'lyon', 'admettre', 'année', 'ensl', 'ecl', '=', 'correspondre', 'élève', 'école', 'normale', 'supérieure', 'lyon', 'admettre', 'année']
+
+['ensae', 'ecl', '=', 'correspondre', 'élève', 'école', 'nationale', 'statistique', 'administration', 'economique', 'paristech', 'admettre', 'année']
+
+['eml', 'ecl', 'correspondre', 'élève', 'emlyon', 'business', 'school', 'admettre', 'année']
+
+['mahindra', 'ecl', 'correspondre', 'élève', 'mahindra', 'école', 'centrale', 'admettre', 'année']
+
+['médecine', 'ecl', 'correspondre', 'étudiant', 'faculté', 'médecine', 'université', 'claude', 'bernard', 'lyon', '1', 'admettre', 'année']
+
+['univ.-', 'ecl', 'correspondre', 'étudiant', 'université', 'étranger', 'admettre', 'année']
+
+['univ.-', 'ecl', 'correspondre', 'étudiant', 'université', 'étranger', 'admettre', 'année']
+
+['commission', 'echanges', 'universitaires', 'mettre', 'place', 'année', '15', 'novembre']
+
+['décompose', 'sous-commission']
+
+['sous-commission', 'charge', 'échange', 'international', 'présider', 'directeur', 'école', 'centrale', 'lyon', 'représentant', 'composer', 'représentant', 'direction', 'etudes', 'représentant', 'direction', 'relations', 'internationales', 'représentant', 'equipe', 'enseignement', 'langue', 'choisir', 'accord', 'direction', 'relations', 'internationales', 'enseignant', 'correspondant', 'pays']
+
+['sous-commission', 'charge', 'échange', 'france', 'présider', 'directeur', 'école', 'centrale', 'lyon', 'représentant', 'composer', 'représentant', 'direction', 'fetudes', 'représentant', 'direction', 'relations', 'internationales', 'responsable', 'double', 'cursu', 'établissement', 'partenaire', 'france']
+
+['sous-commission', 'inviter', 'compétent', 'assister', 'travail', 'responsable', 'équipe', 'pédagogique', 'cursu', 'mobilité', 'entrant']
+
+['ceu', 'internationale', 'examine', 'dossier', 'étudiant', 'candidat', 'recrutement', 'cadre', 'accord', 'international', 'établissement', 'admission', 'qualité', 'élève', 'école', 'centrale', 'lyon', 'scolarité', 'an', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'école', 'centrale', 'lyon']
+
+['examine', 'dossier', 'étudiant', 'candidat', 'scolarité', 'troisième', 'année', 'vue', 'obtention', 'desecl', 'acquisition', 'crédit', 'ect', 'certificat', 'formation', 'recherche', 'admission', 'échange', 'semestre', 's8']
+
+['cas', 'candidat', 'priorité', 'étudiant', 'proposer', 'université', 'partenaire']
+
+['directeur', 'école', 'centrale', 'lyon', 'fixe', 'liste', 'élève', 'admettre', 'titre', 'proposition', 'commission', 'echanges', 'universitaires']
+
+['ceu', 'internationale', 'examine', 'dossier', 'élève', 'ingénieur', 'centralien', 'candidat', 'formation', 'double', 'diplômant', 'échange', 'université', 'étranger', 'critère', 'présenter', 'dossier', 'demande']
+
+['cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+['élève', 'finalement', 'autoriser', 'partir', 'établissement', 'accueil', 'émettre', 'avis', 'favorable', 'accueillir', 'validation', 'tronc', 'commun', 'jury', 'tronc', 'commun']
+
+['ceu', 'france', 'examine', 'dossier', 'étudiant', 'candidat', 'recrutement', 'cadre', 'accord', 'établissement', 'partenaire', 'france', 'admission', 'titre', 'qualité', 'élève', 'école', 'centrale', 'lyon', 'double', 'diplôm', 'scolarité', 'an', 'vue', 'obtention', 'diplôme', 'ingénieur', 'généraliste', 'école', 'centrale', 'lyon']
+
+['examine', 'dossier', 'étudiant', 'issu', 'établissement', 'partenaire', 'france', 'candidat', 'scolarité', 'troisième', 'année', 'vue', 'obtention', 'desecl']
+
+['directeur', 'école', 'centrale', 'lyon', 'fixe', 'liste', 'élève', 'admettre', 'titre', 'proposition', 'commission', 'echanges', 'universitaires']
+
+['ceu', 'france', 'examine', 'dossier', 'élève', 'ingénieur', 'centralien', 'candidat', 'formation', 'double', 'diplômant', 'échange', 'établissement', 'partenair', 'france', 'critère', 'présenter', 'dossier', 'demande']
+
+['cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+['élève', 'finalement', 'autoriser', 'partir', 'établissement', 'accueil', 'émettre', 'avis', 'favorable', 'accueillir', 'validation', 'tronc', 'commun', 'jury', 'tronc', 'commun']
+
+['objectif', 'commission', 'parcours', 'electif', 'élève', 'auditeur', 'effectuer', 'semestre', 's9', 'école', 'centrale', 'lyon', 'affecter', 'métiers', 'options']
+
+['composer', 'responsables', 'métier', 'responsables', 'option', 'directeur', 'etudes', 'responsable', 'pédagogique', 'parcours', 'electif', 'directeurs', 'ue', 'métier', 'ue', 'secteur']
+
+['règle', 'affection', 'présenter', 'formulaire', 'inscription']
+
+['affectation', 'recours', 'auprès', 'commission', 'parcours', 'electif', 'remplir', 'dossier', 'appel']
+
+['décision', 'final', 'prendre', 'critère', 'présenter', 'dossier']
+
+['cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+['élève', 'possibilité', 'aménager', 'parcours', 'electif', 'école', 'centrale', 'lyon', 'double', 'cursu', 'ingénieur', 'master', 'ingénieur', 'architecte', 'parcours', 'entrepreneur', 'parcours', 'intrapreneur', 'cursu', 'croiser', 'nécessiter', 'emploi', 'temps', 'aménager', 'voire', 'mise', 'place', 'exception', 'suivi', 'actions', 'formation', 'établissement', 'extérieur', 'collègue', 'hautes', 'etude', 'lyon', 'science', 'commission', 'aménagement', 'parcours', 'electif', 'mettre', 'place', 'objectif', 'étudier', 'demande', 'responsable', 'cursus', 'nécessaire', 'proposer', 'conseil', 'etudes', 'intégrer', 'règlement', 'scolarité', 'aménagements', 'nécessaires']
+
+['commission', 'composer', 'directeur', 'etudes', 'responsable', 'pédagogique', 'parcours', 'electif', 'représentant', 'scolarité', 'enseignant', 'étudiant', 'conseil', 'etudes', 'représentant', 'commission', 'evolution', 'règlement', 'scolarité']
+
+['élève', 'auditeur', 'reconnaissance', 'niveau', 'connaissance', 'compétence', 'disciplinaire', 'validation', 'unités', 'enseignement']
+
+['ue', 'valider', 'somme', 'pondérer', 'évaluation', 'chiffrer', 'connaissance', 'compétence', 'action', 'formation', 'unité', 'enseignement', 'supérieur', 'égal', '10/20', 'règle', 'validation']
+
+['validation', 'ue', 'donne', 'lieu', 'attribution', 'crédit', 'ect', 'nombre', 'définir', 'fascicule', 'pédagogique']
+
+['ue', 'valider', 'refaire']
+
+['responsable', 'actions', 'formation', 'obligation', 'évaluer', 'connaissance', 'compétence', 'disciplinairer', 'élève', 'étudiant', 'suivre', 'actions', 'formation']
+
+['tenir', 'assurer', 'homogénéité', 'encadrement', 'évaluation', 'groupe', 'travail', 'sein', 'promotion']
+
+['transmettre', 'service', 'scolarité', 'relevé', 'absence']
+
+['évaluation', 'connaissance', 'compétence', 'disciplinaire', 'combiner', 'configuration', 'épreuve', 'écrite', 'oral', 'planifier', 'service', 'scolarité', 'décider', 'direction', 'etudes', 'épreuve', 'écrite', 'oral', 'cadre', 'activité', 'actions', 'formation', 'cours', 'magistraux', 'travaux', 'dirigés', 'bureaux', 'etudes', 'travail', 'nature', 'réaliser', 'élève', 'cadre', 'travaux', 'pratiques', 'travail', 'autonomie', 'créneau', 'planifier']
+
+['mention', 'particulier', 'préciser', 'suite', 'modalité', 'pratique', 'propre', 'action', 'formation', 'défaut', 'unité', 'enseignement', 'figurer', 'fascicule', 'pédagogique']
+
+['responsable', 'actions', 'formation', 'tenir', 'informer', 'élève', 'détail', 'organisation', 'épreuve', 'présence', 'non', 'document', 'autoriser', 'épreuve', 'tard', 'dernier', 'séance', 'encadrer', 'action', 'formation', 'précédant']
+
+['évaluation', 'chiffrer', 'sein', 'action', 'formation', 'connaissance', 'compétence', 'disciplinaire', 'exprimer', 'exclusivement', 'échelle', 'unique', '0', '20']
+
+['évaluation', 'connaissance', 'compétence', 'disciplinairer', 'action', 'formation', 'porte', 'savoir', 'forme', 'traditionnel', 'évaluation', 'examen', 'écrire', 'individualiser', 'porter', 'connaissance', 'théorique', 'présenter', 'action', 'formation', 'savoir', 'faire', 'forme', 'traditionnel', 'évaluation', 'travail', 'effectuer', 'travaux', 'pratiques', 'projet']
+
+['évaluation', 'savoir', 'traduire', 'note', '20', 'appeler', 'note', 'savoir', 'af', 'résulter', 'combinaison', 'note', 'savoir', 'action', 'formation']
+
+['exemple', 'note', 'savoir', 'consister', 'somme', 'pondérer', 'note', 'examen', 'théorique', 'note', 'savoir', 'faire', 'somme', 'pondérer', 'note', 'travaux', 'pratiques']
+
+['évaluation', 'savoir', 'faire', 'traduire', 'note', '20', 'appeler', 'note', 'savoir', 'faire', 'af', 'résulter', 'combinaison', 'note', 'savoir', 'faire', 'action', 'formation']
+
+['note', 'global', 'action', 'formation', 'obtenir', 'somme', 'pondérer', 'note', 'savoir', 'savoir', 'faire', 'action', 'formation']
+
+['note', 'savoir', 'savoir', 'faire', 'action', 'formation', 'transmises', 'service', 'scolarité', 'responsable', 'action', 'formation', 'tard', 'semaine', 'fin', 'action', 'formation', 'cas', 'semestre', 's6', 'transmises', 'semaine', 'fin', 'semestre']
+
+['cas', 'épreuve', 'second', 'session', 'note', 'transmises', 'semaine', 'tard', 'épreuve', 'cas', 'épreuve', 'second', 'session', 'semestre', 's6', 's7', 'transmises', 'semaine', 'dernier', 'épreuve', 'second', 'session']
+
+['service', 'scolarité', 'publie', 'reporte', 'dossier', 'élève']
+
+['fois', 'résultat', 'publier', 'éventuel', 'rectification', 'apporter', 'signifier', 'écrit', 'service', 'scolarité', 'responsable', 'action', 'formation', 'tard', 'délai', 'semaine', 'publication']
+
+['mesure', 'absence', 'élève', 'auditeur', 'autoriser', 'non']
+
+['accord', 'direction', 'etudes', 'conseil', 'unité', 'enseignement', 'définir', 'ensemble', 'règle', 'mesure', 'précis', 'circonstancier', 'cas', 'absence', 'autoriser', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'séance', 'travaux', 'pratiques']
+
+['porter', 'possibilité', 'matériel', 'non', 'instaurer', 'rattrapage', 'cas', 'modalité', 'pratique', 'cas', 'prise', 'compte', 'évaluation', 'connaissance']
+
+['règle', 'mesure', 'présenter', 'fascicule', 'pédagogique']
+
+['absence', 'non', 'autoriser', 'élève', 'auditeur', 'séance', 'tp', 'entraîn', 'minimum', 'attribution', 'note', '0', 'élève', 'auditeur', 'évaluation', 'séance']
+
+['conseil', 'unité', 'enseignement', 'préciser', 'conséquence', 'absence', 'non', 'autoriser', 'notation', 'déroulement', 'série', 'complet', 'tp', 'élève', 'auditeur', 'absence', 'non', 'autoriser']
+
+['mentionner', 'fascicule', 'pédagogique']
+
+['absence', 'non', 'autoriser', 'élève', 'auditeur', 'épreuve', 'contrôle', 'continu', 'entraîne', 'attribution', 'note', '0', 'épreuve']
+
+['ue', 'diriger', 'directeur', 'assister', 'conseil', 'préside']
+
+['conseil', 'unité', 'enseignement', 'assure', 'cohésion', 'modalité', 'évaluation', 'connaissance', 'actions', 'formation', 'ue', 'concerner']
+
+['conseil', 'unité', 'enseignement', 'garantir', 'absence', 'disparité', 'flagranter', 'notation', 'actions', 'formation']
+
+['ue', 'diriger', 'directeur', 'assister', 'conseil', 'unité', 'enseignement', 'assurer', 'cohérence', 'pédagogique', 'ue']
+
+['élève', 'auditeur', 'unité', 'enseignement', 'objet', 'évaluation', 'semestriel', 'chiffrer', 'comprendre', 'savoir', 'évaluer', 'actions', 'formation', 'note', 'savoir', 'ue', 'obtenir', 'somme', 'pondérer', 'note', 'savoir', 'actions', 'formation', 'ue', 'note', 'global', 'ue', 'obtenir', 'somme', 'pondérer', 'note', 'global', 'action', 'formation']
+
+['accord', 'direction', 'etudes', 'conseil', 'unité', 'enseignement', 'définir', 'retranscrire', 'fascicule', 'pédagogique', 'action', 'formation', 'évaluer', 'évaluation', 'traduire', 'note', '20', 'action', 'formation', 'poids', 'note', 'global', 'af', 'note', 'évaluer', 'af', 'ue', 'poids', 'note', 'global', 'ue', 'note', 'global', 'actions', 'formation']
+
+['partir', 'poids', 'note', 'action', 'formation', 'note', 'savoir', 'savoir', 'faire', 'calculer', 'ue', 'utiliser', 'somme', 'pondérer']
+
+['note', 'savoir', 'savoir', 'faire', 'action', 'formation', 'transmises', 'service', 'scolarité', 'responsable', 'actions', 'formation', 'charge', 'calculer', 'note', 'global', 'actions', 'formation', 'note', 'compétence', 'ue']
+
+['ue', 'valider', 'élève', 'auditeur', 'note', 'global', 'ue', 'supérieur', 'égal', '10/20', 'règle', 'validation', ' ', 'directeur', 'conseil', 'unité', 'enseignement', 'procéder', 'vérification', 'cohérence', 'ensemble', 'note', 'savoir', 'savoir', 'faire', 'ue', 'saisir', 'site', 'web', 'service', 'scolarité']
+
+['juge', 'nécessaire', 'conseil', 'ue', 'transmettre', 'service', 'scolarité', 'informations', 'jugées', 'pertinent', 'strictement', 'destiner', 'renseigner', 'jury', 'travail', 'comportement', 'général', 'élève', 'auditeur', 'note', 'obtenir', 'permettre', 'valider', 'ue', 'élève', 'auditeur', 'désigner', 'jury']
+
+['unités', 'enseignement', 'tronc', 'commun', 'parcours', 'electif', 'regrouper', 'type', 'objectif', 'pédagogique', 'modalité', 'fonctionnement']
+
+['type', 'unités', 'enseignement', 'disciplines', 'scientifiques', 'unités', 'enseignement', 'professionnelles', 'stages', 'unités', 'enseignement', 'langues', 'vivantes', 'unités', 'enseignement', 'parcours', 'electif']
+
+['unités', 'enseignement', 'disciplines', 'scientifique', 'évaluer', 'savoir']
+
+['évaluation', 'compétence', 'session', 'examen', 'organiser', 'second', 'session', 'destiner', 'élève', 'auditeur', 'valider', 'ue', 'issue', 'session', 'participation', 'interdire', 'jury']
+
+['examen', 'savoir', 'unité', 'enseignement', 'disciplines', 'scientifique', 'comprendre', 'épreuve', 'terminal', 'écrite', 'individuel', 'planifier', 'service', 'scolarité']
+
+['épreuve', 'terminal', 'épreuve', 'porte', 'ensemble', 'savoir', 'action', 'formation', 'ue']
+
+['ensemble', 'épreuve', 'terminal', 'porter', 'ensemble', 'savoir', 'ue']
+
+['constitue', 'session', 'examen']
+
+['durée', 'total', 'épreuve', 'terminal', 'inférieur', 'heure']
+
+['épreuve', 'terminal', 'épreuve', 'contrôle', 'continu', 'mettre', 'place']
+
+['épreuve', 'lieu', 'cours', 'action', 'formation', 'portent', 'partie', 'savoir']
+
+['prendre', 'forme', 'épreuve', 'écrite', 'questionnaires', 'choix', 'multiples', 'travail', 'personnel', 'présenter', 'oralement', 'td', 'etc.']
+
+['cas', 'épreuve', 'contrôle', 'continu', 'action', 'formation', 'note', 'savoir', 'action', 'formation', 'somme', 'pondérer', 'note', 'contrôle', 'continu', 'note', 'examen', 'terminal', 'maximum', 'note', 'examen', 'terminal', 'somme', 'pondérer', 'note', 'contrôle', 'continu', 'note', 'examen', 'terminal']
+
+['modalité', 'définir', 'conseil', 'unité', 'enseignement', 'retranscrire', 'fascicule', 'pédagogique']
+
+['formule', 'établir', 'note', 'global', 'ue', 'contribution', 'épreuve', 'écrite', 'individuel', 'terminal', 'porter', 'savoir', 'planifier', 'service', 'scolarité', 'corresponde', '50', 'note', 'global', 'ue']
+
+['lorsque', 'issue', 'semestre', 'jury', 'constater', 'ue', 'disciplines', 'scientifiques', 'valider', 'élève', 'auditeur', 'note', 'global', 'ue', 'strictement', 'inférieur', '10/20', 'élève', 'auditeur', 'convoquer', 'second', 'session', 'examen', 'planifier', 'service', 'scolarité', 'semestre']
+
+['second', 'session', 'examen', 'valable', 'organiser', 'service', 'scolarité']
+
+['second', 'session', 'ue', 'effectuer', 'condition', 'session', 'épreuve', 'écrite', 'individuel', 'nature', 'durée']
+
+['catégorie', 'élève', 'auditeur', 'concerner', 'passage', 'épreuve', 'terminal', 'second', 'session', 'examen', 'ue', 'élève', 'auditeur', 'absent', 'autorisation', 'absence', 'non', 'épreuve', 'session', 'examen', 'ue', 'élève', 'auditeur', 'valider', 'ue', 'faute', 'note', 'global', 'ue']
+
+['absence', 'élève', 'auditeur', 'épreuve', 'session', 'entraîne', 'impossibilité', 'jury', 'valider', 'ue']
+
+['issue', 'session', 'jury', 'interdis', 'élève', 'auditeur', 'absent', 'participer', 'épreuve', 'correspondant', 'second', 'session', 'examen', 'ue']
+
+['élève', 'auditeur', 'présenter', 'session', 'second', 'session', 'épreuve', 'entraîne', 'impossibilité', 'valider', 'ue']
+
+['élève', 'auditeur', 'valider', 'ue', 'note', 'ue', 'insuffisant', 'convoquer', 'épreuve', 'terminal', 'second', 'session', 'examen', 'actions', 'formation', 'ue', 'note', 'global', 'action', 'formation', 'supérieure', 'égal', '10']
+
+['décider', 'participer', 'épreuve', 'condition', 'informer', 'service', 'scolarité', 'délai', 'fixer', 'cas', '-là', 'note', 'session', 'conserver']
+
+['défaut', 'prévenir', 'service', 'scolarité', 'agir', 'absence', 'autoriser', 'définie', 'élève', 'auditeur', 'note', '0', 'épreuve', 'participer', 'session']
+
+['catégorie', 'étudiant', 'possibilité', 'repasser', 'rattrapage', 'épreuve', 'ue', 'condition', 'informer', 'service', 'scolarité', 'délai', 'fixer']
+
+['cas', 'cas', 'participation', 'second', 'session', 'note', 'savoir', 'action', 'formation', 'recalculer', 'partir', 'note', 'épreuve', 'terminal', 'second', 'session', 'prendre', 'compte', 'note', 'éventuel', 'contrôle', 'continu', 'connaissance']
+
+['actions', 'formation', 'ue', 'concerner', 'note', 'savoir', 'recalculer']
+
+['ue', 'valider', 'note', 'global', 'ue', 'calculer', 'partir', 'note', 'savoir', 'obtenues', 'issue', 'second', 'session', 'examen', 'supérieur', 'égal', '10']
+
+['ue', 'disciplines', 'scientifique', 'choix', 'multiple', 'ue', 'disciplines', 'scientifique', 'actions', 'formation', 'suivre', 'élève', 'auditeur', 'déterminer', 'partir', 'choix', 'exprimer']
+
+['cas', '-là', 'savoir', 'évaluer', 'action', 'formation', 'épreuve', 'terminal', 'écrite', 'individuel', 'planifier', 'service', 'scolarité', 'durée', 'comprendre', 'heure', 'heure']
+
+['note', 'épreuve', 'terminal', 'compter', '50', 'note', 'global', 'action', 'formation']
+
+['validation', 'unité', 'enseignement', 'professionnelle', 'baser', 'réalisation', 'activité', 'ue', 'élève', 'évaluation', 'savoir', 'savoir', 'faire']
+
+['règle', 'validation', 'ue', 'professionnel', 'détailler', 'fascicule', 'pédagogique']
+
+['issue', 'semestre', 'cas', 'non', 'validation', 'ue', 'professionnel', 'élève', 'élève', 'guise', 'second', 'session', 'réaliser', 'valider', 'activité', 'supplémentaire', 'semestre', 'modalité', 'présen', 'ter', 'fascicule', 'pédagogique']
+
+['cas', 'non', 'réalisation', 'validation', 'activité', 'ue', 'professionnelle', 'considérer', 'non', 'valider', 'issue', 'second', 'session']
+
+['cas', '-là', 'conseil', 'unités', 'enseignement', 'professionnelles', 'transmettre', 'jury', 'concerner', 'avis', 'participation', 'implication', 'élève', 'ue', 'professionnel']
+
+['avis', 'négatif', 'élément', 'défavorable', 'important', 'validation', 'parcours', 'compensation', 'ue']
+
+['stage', 'cursu', 'ingénieur', 'constitue', 'unité', 'enseignement']
+
+['validation', 'ue', 'rentre', 'validation', 'parcours', 'tronc', 'commun', 'parcours', 'electif', 'validation', 'condition', 'nécessaire', 'obtention', 'diplôme', 'ingénieur', 'voir', 'annexe', 'g', 'conditions', 'délivrance', 'diplôme', 'ingénieur', 'page', '26']
+
+['définition', 'objectif', 'pédagogique', 'modalité', 'pratique', 'stage', 'présenter', 'fascicule', 'pédagogique', 'année', 'concerner']
+
+['école', 'évalue', 'stage', 'effectuer', 'élève', 'base', 'appréciation', 'donner', 'structure', 'accueil', 'travail', 'effectuer', 'élève', 'rapport', 'présentation', 'oral', 'jury']
+
+['critère', 'modalité', 'évaluation', 'fonction', 'type', 'stage', 'présenter', 'fascicule', 'pédagogique']
+
+['savoir', 'faire', 'évaluer', 'ue', 'langues', 'cultures']
+
+['note', 'savoir', 'faire', 'ue', 'donner', 'note', 'global', 'ue']
+
+['action', 'formation', 'ue', 'langues', 'cultures', 'examen', 'connaissance', 'compétence', 'disciplinaire', 'faire', 'contrôle', 'continu', 'épreuve', 'terminal', 'individuel', 'compter', '50', 'note', 'total', 'action', 'formation']
+
+['note', 'global', 'ue', 'langues', 'cultures', 'obtenir', 'moyenne', 'arithmétique', 'note', 'actions', 'formation']
+
+['ue', 'langue', 'cultures', 'tronc', 'commun', 'paragraphe', 'b.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
+
+['rattrapage', 'examen', 'terminal', 'action', 'formation', 'effectue', 'épreuv', 'écrite', 'individuel', '2', 'heure', 'second', 'session', 'examen']
+
+['ue', 'langue', 'cultures', 'parcours', 'electif', 'paragraphe', 'b.2.8', 'applique', 'rattrapage', 'contrôle', 'continu']
+
+['second', 'session', 'organiser']
+
+['cas', 'absence', 'autoriser', 'épreuve', 'terminal', 'service', 'scolarité', 'élèves', 'auditeur', 'épreuve', 'rattrapage', 'proposer', 'modalité', 'épreuve', 'initial', 'élève', 'auditeur', 'condition', 'organisation', 'matériellement']
+
+['ensemble', 'ue', 'recouvrir', 'ue', 'electif', 'ue', 'modules', 'disciplinaires', 'mod', 'ue', 'métier', 'ue', 'secteur']
+
+['ue', 'secteur', 'regroupe', 'type', 'actions', 'formation', 'modules', 'secteur', 'mos', 'modules', 'option', 'mso']
+
+['actions', 'formation', 'ue', 'electif', 'ue', 'mod', 'mos', 'ue', 'secteur', 'actions', 'formation', 'multi-disciplinaire', 'choix', 'multiple']
+
+['évaluation', 'connaissance', 'action', 'formation', 'af', 'comprendre', 'épreuv', 'écrite', 'individuel', 'savoir', 'durée', 'comprendre', '1h', '2h', 'planifier', 'service', 'scolarité']
+
+['second', 'session', 'organiser']
+
+['cas', 'absence', 'autoriser', 'service', 'scolarité', 'élèves', 'auditeur', 'épreuve', 'rattrapage', 'proposer', 'modalité', 'épreuve', 'initial', 'élève', 'auditeur', 'condition', 'organisation', 'matériellement']
+
+['contrôle', 'connaissance', 'af', 'comprendre', 'épreuv', 'écrite', 'individuel', 'savoir', 'condition', 'comprendre', 'évaluation', 'individuel', 'valider', 'conseil', 'unité', 'enseignement']
+
+['actions', 'formation', 'ue', 'métier', 'mso', 'ue', 'secteur', 'actions', 'formation', 'bon', 'déroulement', 'obtenir', 'travers', 'participation', 'actif', 'élève', 'auditeur']
+
+['accord', 'conseil', 'unité', 'enseignement', 'concerner', 'participation', 'présence', 'élève', 'auditeur', 'af', 'pouvoir', 'faire', 'objet', 'évaluation', 'chiffrer']
+
+['avis', 'comportement', 'général', 'élève', 'cours', 'activité', 'actions', 'formation', 'adaptation', 'intégration', 'vie', 'option', 'présence', 'travail', 'personnel', 'autonomie', 'aptitude', 'travailler', 'équipe', 'exiger', 'élève', 'auditeur']
+
+['unités', 'enseignement', 'parcours', 'electif', 'ue', 'af', 'suivie', 'élève', 'résult', 'choix']
+
+['type', 'ue', 'valider', 'élève', 'auditeur', 'note', 'global', 'action', 'formation', 'supérieur', 'égal', '10']
+
+['cas', 'note', 'global', 'action', 'formation', 'élève', 'auditeur', 'strictement', 'inférieur', '10', 'note', 'global', 'ue', 'supérieur', 'égal', '10', 'conseil', 'unité', 'enseignement', 'faire', 'jury', 'parcours', 'electif', 'proposition', 'motiver', 'validation', 'élève', 'auditeur']
+
+['proposition', 'fondre', 'appréciation', 'général', 'travail', 'personnel', 'élève', 'implication']
+
+['conseil', 'ue', 'fondre', 'paramètre', 'inclure', 'note', 'compétence', 'ue', 'absentéisme']
+
+['cas', 'note', 'global', 'ue', 'strictement', 'inférieur', '10', 'validation', 'ue', 'discuter', 'jury']
+
+['contrôle', 'connaissance', 'aménager', 'niveau', 'linguistique', 'scientifique', 'culturel']
+
+['aménagement', 'temporaire', 'appliquer', 'étudiant', 'objectif', 'faciliter', 'intégration', 'catégorie', 'étudiant']
+
+['conseil', 'unité', 'enseignement', 'définir', 'évaluation', 'connaissance', 'ue', 'nécessit', 'aménagement', 'niveau', 'linguistique', 'oui', 'définir', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+['aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', 'etc.']
+
+['aménagement', 'raison', 'linguistique', 'prévoir', 'étudiant', 'venir', 'préparer', 'diplôme', 'ingé-', 'nieur', 'école', 'centrale', 'lyon', 'issu', 'établissement', 'étranger', 'non', 'francophone', 'non', 'titulaire', 'baccalauréat', 'français']
+
+['étudier', 'aménagement', 'prévoir', 'priori', 'faire', 'demande', 'entrée', 'école', 'centrale', 'lyon', 'auprès', 'service', 'scolarité', 'date', 'fixée', 'service', 'scolarité']
+
+['acceptation', 'non', 'demande', 'dépendre', 'résultat', 'test', 'langue', 'organiser', 'enseignant', 'ue', 'langues', 'cultures']
+
+['cas', 'aménagement', 'raison', 'linguistique', 'étudier', 'obligation', 'enseignement', 'français', 'langue', 'etrangère', 'enseignement', 'français', 'écrire', 'décision', 'enseignant', 'langue']
+
+['suivi', 'enseignement', 'langues', 'vivantes', 'étudiant', 'conformer', 'règle', 'définir', 'ue', 'langues', 'cultures', 'mentionner', 'fascicule', 'pédagogique']
+
+['durée', 'aménagement', 'ue', 'dédier', 'sciences', 'ingénieur', 'limiter', 'an']
+
+['stage', 'réaliser', 'période', 'devoir', 'effectuer', 'france']
+
+['conseil', 'unité', 'enseignement', 'définir', 'évaluation', 'connaissance', 'ue', 'nécessit', 'aménagement', 'raison', 'scientifique', 'oui', 'définir', 'fonction', 'élève', 'concerner', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+['aménagement', 'consister', 'octroi', 'tiers', 'temps', 'supplémentaire', 'sujet', 'différencié', 'etc.']
+
+['élève', 'concerner', 'élève', 'élève', 'double', 'diplôme', 'issu', 'université', 'étranger', 'bénéficier', 'aména', 'gement', 'raison', 'linguistique', 'durée', 'aménagement', 'limiter', 'an', 'élève', 'architecte', 's5', 's6', 'correspondre', '3', 'premier', 'année', 'étude', 'effec', 'tuer', 'école', 'centrale', 'parallèle', 'école', 'architecture', 'élève', 'emlyon', 'business', 'school', 'double', 'diplôm', 'tronc', 'commun']
+
+['conseil', 'unité', 'enseignement', 'relever', 'sciences', 'humaines', 'sociales', 'définir', 'évaluation', 'connaissance', 'ue', 'nécessit', 'aménagement', 'raison', 'culturel', 'oui', 'définir', 'règle', 'précis', 'aménagement', 'mentionner', 'fascicule', 'pédagogique']
+
+['élève', 'concerner', 'élève', 'admettre', 'double', 'diplôme', 'issu', 'université', 'étranger']
+
+['élève', 'ingénieur', 'autorisé', 'participer', 'programme', 'échange', 'collègue', 'hautes', 'etude', 'lyon', 'science', 'bénéficier', 'aménagement', 's8', 'validation', 'ue', 'electif', 'remplacer', 'validation', 'ue', 'constituer', 'action', 'formation', 'suivre', 'établissement', 'extérieur', 'chels', 'modalité', 'contrôle', 'connaissance', 'établissement', 'validation', 'ue', 'constituer', 'nombre', 'réduit', 'actions', 'formation', 'ue', 'electif']
+
+['nombre', 'n', 'crédit', 'ects', 'décider', 'direction', 'etudes', 'base', 'dossier', 'déposer', 'élève']
+
+['élève', '3ème', 'année', 'ecl', 'inscrire', 'diplôme', 'national', 'master', 'demander', 'reconnaissance', 'équivalence', 'modules', 'modules', 'disciplinaires', 'modules', 'secteur', 'modules', 'option', 'libre', 'choix', 'enseignement', 'master', 'co-accréditer', 'ecl', 'appartenir', 'liste', 'masters', 'inscrits', 'fasicule', 'pédagogique', 'module', 'métier']
+
+['correspondant', 'ecl', 'master', 'faire', 'demande', 'auprès', 'direction', 'études', 'engager', 'fournir', 'service', 'scolarité', 'notation', 'chiffrer', 'reporter', 'dossier', 'évaluation', '3èm', 'année', 'ecl', 'élève', 'rubrique', 'master', 'co-accrédité']
+
+['soutenance', 'travail', 'recherche', 'master', 'associer', 'soutenance', 'stage', 'final', 'cursu', 'ingénieur', 'respect', 'règle', 'déroulement', 'soutenance', 'tfe']
+
+['élève', 'auditeur', 'reconnaissance', 'niveau', 'compétence', 'réferentiel', 'présenter', 'fascicule', 'pédagogique', 'validation', 'composante', 'définir', 'fascicule', 'pédagogique']
+
+['composante', 'valider', 'élève', 'obtenir', 'fois', 'niveau', 'acquérir', 'niveau', 'compétent']
+
+['validation', 'compétence', 'transversale', 'donne', 'lieu', 'attribution', 'crédit', 'ects']
+
+['compétence', 'valider', 'réévaluer']
+
+['responsable', 'parcours', 'obligation', 'assurer', 'compétences', 'transversales', 'élève', 'effectivement', 'évaluer', 'issue', 'parcours', 'responsabilité']
+
+['désigner', 'particulier', 'enseignant', 'charge', 'évaluation', 'transmission', 'note', 'service', 'scolarité']
+
+['évaluation', 'composante', 'compétence', 'transversale', 'exprimer', 'exclusivement', 'lettre', 'appartenir', 'ensemble', 'insuffisant', 'acquérir', 'remarquable']
+
+['note', 'alphabétique', 'transmises', 'service', 'scolarité', 'tard', 'semaine', 'évaluation', 'enseignant', 'charge', 'évaluation']
+
+['service', 'scolarité', 'publie', 'reporte', 'dossier', 'élève']
+
+['fois', 'résultat', 'publier', 'éventuel', 'rectification', 'apporter', 'signifier', 'écrit', 'service', 'scolarité', 'enseignant', 'charge', 'évaluation', 'tard', 'délai', 'semaine', 'publication']
+
+['mesure', 'appliquer', 'suite', 'absence', 'évaluation', 'décider', 'responsable', 'parcours', 'mentionner', 'fascicule', 'pédagogique']
+
+['élève', 'aménagement', 'décider', 'responsable', 'parcours', 'partir', 'examen', 'compétences', 'transversales', 'cas', 'demande']
+
+['ensemble', 'note', 'transmettre', 'jury', 'fin', 'semestre', 'service', 'scolarité']
+
+['service', 'scolarité', 'constitue', 'élever', 'dossier', 'scolaire', 'comprendre', 'feuille', 'synthèse', 'semestriel', 'inclure', 'décision', 'jury', 'relevé', 'résultat', 'relatif', 'unité', 'enseignement', 'activité', 'relevé', 'résultat', 'relatif', 'compétence', 'transversale', 'information', 'éventuellement', 'fournir', 'conseils', 'unité', 'enseignement', 'document', 'personnaliser', 'traire', 'scolarité', 'élève', 'éventuel', 'complément', 'information', 'transmettre', 'élève', 'pvs', 'audition', 'commission', 'issu', 'jury', 'certificat', 'médical', 'relevé', 'absence', 'éventuel', 'avertissement', 'blâme']
+
+['modalité', 'gestion', 'fraude', 'définir', 'code', 'education', 'livre', 'viii', 'titre', 'ier', 'section', '2']
+
+['texte', 'décrire', 'précise', 'procédure']
+
+['plagiat', 'consiste', 'faire', 'passer', 'travail', 'fragment', 'travail', 'produire']
+
+['atteinte', 'droit', 'auteur', 'propriété', 'intellectuel', 'plagiat', 'assimiler', 'délit', 'contrefaçon']
+
+['faire', 'objet', 'sanction', 'civil', 'sanction', 'pénal', 'plagiat', 'considérer', 'fraude']
+
+['procédure', 'définir', 'code', 'education', 'applique']
+
+['commission', 'anti-plagiat', 'instituer', 'objectif', 'réunir', 'fait', 'cas', 'présomption', 'plagiat', 'consigner', 'rapport']
+
+['rapport', 'utiliser', 'directeur', 'école', 'décider', 'saisie', 'section', 'disciplinaire', 'transmettre', 'section', 'disciplinaire', 'instruction', 'celleci', 'élève', 'auditeur', 'présumer', 'plagiaire']
+
+['commission', 'anti-plagiat', 'constituer', 'expert', 'technique', 'tice', 'membre', 'service', 'scolarité', 'représentant', 'unités', 'enseignement', 'enseigner', 'concerner', 'plagiat', 'présence', 'représentant', 'unité', 'enseignement', 'enseigner', 'concerner', 'obligatoire']
+
+['complément', 'article', '3', 'règlement', 'scolarité', 'élève', 'ingénieur', 'auditeur', 'bénéficier', 'autorisation', 'absence', 'délivrer', 'direction', 'etudes', 'activité', 'encadrer', 'actions', 'formation', 'cas', 'convocation', 'contrôle', 'connaissance', 'examen', 'cadre', 'complément', 'formation', 'inscrire', 'fascicule', 'pédagogique', 'planification', 'relever', 'école', 'participation', 'activité', 'responsable', 'association', 'élèves', 'convocation', 'officiel', 'jury', 'conseil', 'commission', 'école', 'centrale', 'lyon', 'convocation', 'émaner', 'autorité', 'administratif', 'convenance', 'personnel', 'condition', 'concerne', 'séance', 'contrôle', 'connaissance']
+
+['cas', 'convocation', 'contrôle', 'connaissance', 'cadre', 'complément', 'formation', 'inscrire', 'fascicule', 'pédagogique', 'planification', 'relever', 'école', 'centrale', 'lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposer', 'élève', 'auprès', 'service', 'scolarité', 'tôt', 'tard', '5', 'jour', 'ouvrable', 'précéder', 'date', 'contrôle', 'cas', 'inscription', 'licence', 'inscription', 'effectuer', 'université', 'lyon', 'déclarer', 'service', 'scolarité', 'fin', 'octobre', 'année', 'inscription']
+
+['cas', 'participation', 'activité', 'relever', 'association', 'elèves', 'école', 'centrale', 'lyon', 'demande', 'autorisation', 'absence', 'recevable', 'déposer', 'auprès', 'service', 'scolarité', 'tôt', 'tard', '5', 'jour', 'ouvrable', 'jour', 'activité', 'forme', 'liste', 'élève', 'concerner', 'activité', 'arrêter', 'responsabilité', 'vp', 'concerné']
+
+['motif', 'caractère', 'exceptionnel', 'directeur', 'école', 'habilité', 'traiter', 'mande', 'formuler', 'forme', 'délai']
+
+['élève', 'auditeur', 'disposer', 'justification', 'absence', 'sens', 'article', '3', 'règlement', 'scolarité', 'procédure', 'procurer', 'propre', 'initiative', 'séance', 'rattrapage', 'contenu', 'travailler', 'cours', 'magistral', 'travail', 'dirigé', 'prendre', 'contact', 'tôt', 'responsable', 'actions', 'formation', 'séance', 'pratique', 'séance', 'autonomie', 'rattraper', 'matériellement', 'règle', 'modalité', 'fixer', 'conseil', 'unité', 'enseignement']
+
+['année', 'césure', 'accomplir', 'élève', 'fois', 'cours', 'scolarité', 'école', 'centrale', 'lyon']
+
+['déroule', 'semestre', 's6', 'semestre', 's8', 'cursu', 'ingénieur', 'école']
+
+['cas', 'élève', 'double-diplôme', 'accord', 'établissement', 'partenair', 'nécessaire']
+
+['année', 'césure', 'élève', 'conserve', 'statut', 'étudiant']
+
+['correspondre', 'parenthèse', 'formation', 'élève', 'cours', 'latitude', 'réaliser', 'projet', 'personnel', 'professionnel']
+
+['décision', 'accorder', 'année', 'césure', 'revenir', 'directeur', 'école', 'centrale', 'lyon', 'demande', 'motiver', 'élève', 'validation', 'dossier', 'commission', 'césure']
+
+['commission', 'césure', 'mettre', 'place', 'année', '15', 'décembre']
+
+['composer', 'directeur', 'etudes', 'représentant', 'service', 'scolarité', 'responsable', 'tronc', 'commun', 'responsable', 'parcours', 'electif', 'permanent', 'membre', 'conseil', 'etudes', 'élève', 'membre', 'conseil', 'etudes']
+
+['exceptionnellement', 'directeur', 'école', 'centrale', 'lyon', 'accorder', 'césure', 'dossier', 'demande', 'être', 'valider', 'commission', 'césure']
+
+['décision', 'accorder', 'césure', 'conditionner', 'absence', 'mesure', 'redoublement', 'renvoi', 'prendre', 'jury', 'tronc', 'commun', 'parcours', 'electif']
+
+['décret', 'numéro', '2005', '1617', '21', 'décembre', '2005', 'élève', 'auditeur', 'présenter', 'handicap', 'bénéficier', 'aménagement', 'porter', 'condition', 'déroulement', 'épreuve', 'nature', 'permettre', 'bénéficier', 'condition', 'matériel', 'aide', 'technique', 'aide', 'humain', 'approprier', 'situation', 'majoration', 'temps', 'impartir', 'épreuve', 'excéder', 'tiers', 'temps', 'normalement', 'prévoir']
+
+['toutefois', 'majoration', 'allonger', 'égard', 'situation', 'exceptionnel', 'candidat', 'demande', 'motiver', 'médecin', 'conservation', 'an', 'note', 'épreuve', 'unité', 'obtenir', 'examen', 'étalement', 'session', 'passage', 'épreuve', 'examen']
+
+['aménagement', 'prévoir', 'décret', 'mettre', 'oeuvre', 'école', 'centrale', 'lyon', 'procédure', 'définir', 'ci-dessous']
+
+['déclaration', 'élèves', 'auditeur', 'situation', 'handicap', 'handicap', 'permanent', 'déclarer', 'inscription', 'école', 'centrale', 'lyon', 'élève', 'déposer', 'demande', 'aménagement', 'auprès', 'service', 'scolarité', 'inscription', 'école', 'centrale', 'lyon']
+
+['cas', 'handicap', 'déclare', 'cours', 'scolarité', 'temporaire', 'non', 'élève', 'déposer', 'demande', 'aménagement', 'lorsque', 'déclare']
+
+['evaluation', 'situation', 'handicap', 'trouve', 'élève', 'auditeur', 'déposer', 'demande', 'aménagement', 'élève', 'auditeur', 'examiner', 'médecine', 'préventive', 'universitaire', 'école', 'centrale', 'lyon', 'émettre', 'avis', 'demande', 'aménagement']
+
+['élève', 'auditeur', 'apporter', 'document', 'médical', 'justifier', 'état']
+
+['décision', 'aménagement', 'nécessaire', 'examen', 'contrôle', 'connaissance', 'direction', 'etudes', 'concertation', 'élève', 'auditeur', 'médecine', 'préventive', 'universitaire', 'école', 'centrale', 'lyon', 'direction', 'etudes', 'décide', 'aménagement', 'nécessaire']
+
+['décret', 'épreuve', 'dérouler', 'hospitalisation']
+
+['mettre', 'oeuvre', 'mesure', 'matériellement']
+
+['cas', 'tps', 'décision', 'concertation', 'responsable', 'unité', 'enseignement']
+
+['cas', 'décision', 'prendre', 'aller', 'réaménagement', 'séance', 'tp', 'dispense']
+
+['décision', 'adaptation', 'déroulement', 'formation', 'ingénieur', 'étaler', 'suivi', 'validation', 'ue', 'période', 'long', 'initialement', 'prévoir', 'exemple', 'ue', 'correspondre', 'semestre', 'suivre', 'semestre', 'ue', 'semestre', 'cas', 'ue', 'non', 'valider', 'donner', 'possibilité', 'conserver', 'note', 'examen', 'ue', 'supérieur', '10/20', 'redoublement', 'ue']
+
+['note', 'conserver', '5', 'an']
+
+['application', 'règle', 'entraîner', 'élève', 'auditeur', 'situation', 'handicap', 'dépassement', 'durée', 'maximal', 'inscription', 'école', 'centrale', 'lyon', '3', 'plus', '4', 'an']
+
+['ensemble', 'élève', 'admettre', 'cursu', 'ingénieur', 'concours', 'commun', 'titre', 'obtention', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'subordonner', 'condition', 'rassembler', 'tableau', 'règlement', 'scolarité']
+
+['ensemble', 'élève', 'double', 'diplôm', 'soumettre', 'règle', 'général', 'attribution', 'double', 'diplôm']
+
+['obtention', 'diplôme', 'etudes', 'supérieures', 'école', 'centrale', 'lyon', 'subordonner', 'validation', 'cadre', '3èm', 'année', 'ensemble', 'unités', 'enseignement', 'définie', 'fascicule', 'pédagogique']
+
+['étudiant', 'accepter', 'école', 'centrale', 'lyon', 'effectuer', 'programme', 'formation', 'permettre', 'valider', 'minimum', '30', 'crédit', 'ects', 'programme', 'formation', 'tenir', 'compte', 'étude', 'acquis', 'professionnel', 'constituer', 'validation', 'ue', 'puiser', '3', 'an', 'formation', 'cursu', 'ingénieur', 'école', 'centrale', 'lyon', 'réserve', 'contrainte', 'moyen', 'disponible', 'école', 'étudier', 'remet', 'service', 'scolarité', 'vérifier', 'conformité', 'responsabilité', 'étudier', 'attester', 'niveau', 'français', 'faute', 'inscription', 'refuser', 'stage', '3', '6', 'mois', 'effectuer', 'laboratoire', 'école', 'centrale', 'lyon', 'responsabilité', 'enseignant', 'chercheur', 'école', 'permettre', 'valider', 'minimum', '15', 'crédit', 'ects']
+
+['obtention', 'crédit', 'ects', 'accompagne', 'délivrance', 'diplôme']
+
+['jury', 'tronc', 'commun', 'jury', 'parcours', 'electif', 'comprendre', '13', 'membre', 'appartenir', 'equipes', 'enseignement', 'école', 'centrale', 'lyon', 'recouvrir', 'thématique', 'enseigné', 'école']
+
+['membre', 'jury', 'parcours', 'electif', 'renouveler', 'année']
+
+['directeur', 'école', 'centrale', 'lyon', 'membre', 'droit', 'jury']
+
+['mise', 'place', 'jurys', 'ajustement', 'renouvellement', 'membre', 'prononcer', 'directeur', 'école', 'centrale', 'lyon', 'début', 's5', 'jury', 'tronc', 'commun', 'début', 's8', 'jury', 'parcours', 'electif']
+
+['jury', 'choisir', 'membre', 'président', 'vice-président', 'secrétaire', 'secrétaire', 'adjoint', 'constitue', 'bureau', 'jury']
+
+['président', 'choisir', 'membre', 'rang', 'professeur', 'universités']
+
+['mise', 'place', 'jurys', 'ajustement', 'renouvellement', 'membre', 'prononcer', 'directeur', 'école', 'centrale', 'lyon', 'début', 's5', 'jury', 'tronc', 'commun', 'début', 's8', 'jury', 'parcours', 'electif']
+
+['jury', 'choisir', 'membre', 'président', 'vice-président', 'secrétaire', 'secrétaire', 'adjoint', 'constitue', 'bureau', 'jury']
+
+['président', 'choisir', 'membre', 'rang', 'professeur', 'universités']
+
+['jury', 'convoquer', 'initiative', 'président', 'particulier', 'demande', 'direction', 'etudes']
+
+['quorum', 'requérir', 'délibérer', 'moitié', 'membre']
+
+['délibération', 'lieu', 'huis', 'clore']
+
+['décision', 'prendre', 'vote', 'majorité', 'absolu', 'membre', 'présent', 'représenté']
+
+['membre', 'recevoir', 'pouvoir', 'membre']
+
+['vote', 'bulletin', 'secret', 'organiser', 'demande', 'membre']
+
+['cas', 'égalité', 'vote', 'voix', 'président', 'prépondérant']
+
+['jury', 'examiner', 'validation', 'ue', 'issue', 'session', 'examen', 'intégralité', 'note', 'compétence', 'af', 'ue', 'concerner', 'être', 'transmettre', 'service', 'scolarité']
+
+['prendre', 'décision', 'jury', 'étudier', 'ensemble', 'élément', 'dossier', 'élève', 'auditeur', 'fiche', 'synthèse', 'relever', 'note', 'certificat', 'validation', 'activité', 'relever', 'absence', 'avis', 'formuler', 'responsable', 'unité', 'enseignement', 'activité', 'coordonner', 'etc.', 'prendre', 'connaissance', 'cas', 'échéant', 'demande', 'redoublement', 'raison', 'médical', 'étudier', 'cas', 'échoir', 'respect', 'engagement', 'prendre', 'élève', 'auditeur', 'convocation', 'précédence', 'réunion', 'jury']
+
+['élève', 'auditeur', 'situation', 'justifie', 'convoquer', 'jury', 'auditionner', 'jury', 'but', 'préventif', 'commission', 'issu', 'jury', 'but', 'compléter', 'élément', 'dossier', 'prise', 'décision', 'jury', 'compte-rendu', 'audition', 'rédiger', 'commission', 'transmettre', 'jury', 'archiver', 'dossier']
+
+['audition', 'élève', 'auditeur', 'dépos', 'service', 'scolarité', 'document', 'écrire', 'signer', 'exposer', 'élément', 'juger', 'pertinent']
+
+['document', 'transmettre', 'jury', 'archiver', 'dossier']
+
+['désire', 'audition', 'élève', 'auditeur', 'accompagner', 'élève', 'élu', 'conseil', 'etudes']
+
+['jurys', 'charge', 'appliquer', 'mesure', 'prévoir', 'suite', 'exception']
+
+['élève', 'auditeur', 'convoquer', 'auditionner', 'avertir', 'courrier', 'papier', 'électronique']
+
+['cas', 'mesure', 'prendre', 'jury', 'élève', 'auditeur', 'avertir', 'courrier', 'recommander', 'accuser', 'réception']
+
+['jury', 'tronc', 'commun', 'délibère', 'prendre', 'décision', 'élève', 'promotion']
+
+['suivis', 'semestre', 's5', 's6', 's7', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôm', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôme', 'école', 'nationale', 'supérieure', 'architecture', 'lyon', 'admettre', 'cadre', 'double', 'diplôme', 'école', 'nationale', 'supérieure', 'architecture', ' ', 'lyon', 'admettre', 'cadre', 'double', 'diplôme', 'emlyon', 'business', 'school']
+
+['suivis', 'semestre', 's5', 's6', 's7', 's8', 'admettre', 'concours', 'commun', 'titre', 'engager', 'double', 'diplôme', 'emlyon', 'business', 'school', 'école', 'normale', 'supérieure', 'lyon', 'université', 'étrangère', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+['réunir', 'fin', 'second', 'cours', 'semestre', 'faire', 'point', 'élève', 'situation', 'échec', 'nécessaire', 'convocation', 'procéder', 'audition', 'jury', 'commission', 'issu', 'jury', 'examiner', 'élever', 'validation', 'ue', 'second', 'session', 'examen', 'cas', 'échéant', 'prendre', 'mesure', 'élève', 'être', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'cas', 'échéant', 'proposer', 'directeur', 'école', 'prendre', 'mesure', 'élève', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+['élève', 'valider', 'tronc', 'commun', 'issue', 'semestre', 'valider', 'ensemble', 'ue', 'semestre', 's5', 's6', 's7', 'ue', 'stage']
+
+['élève', 'valider', 'tronc', 'commun', 'etendu', 'issue', 'semestre', 'valider', 'ensemble', 'ue', 'semestre', 's5', 's6', 's7', 's8', 'ue', 'stage']
+
+['élève', 'valider', 'ue', 'jury', 'tronc', 'commun', 'étudier', 'réunion', 'semestre', 'possibilité', 'valider', 'compensation', 'ue', 'tronc', 'commun', 'tronc', 'commun', 'etendu', 'fonction', 'variante', 'cursu', 'ingénieur', 'effectivement', 'suivre', 'voir', 'section', 'a.1', 'variante', 'cursu', 'ingénieur']
+
+['objectif', 'jury', 'assurer', 'élève', 'acquérir', 'socle', 'savoir', 'savoir', 'faire', 'socle', 'compétences', 'transversales', 'juger', 'nécessaire', 'exercice', 'fonction', 'ingénieur']
+
+['fonction', 'ingénieur', 'multiforme', 'définir', 'profil', 'unique', 'connaissance', 'compétence']
+
+['part', 'face', 'situation', 'varier', 'élève', 'difficulté', 'réponse', 'unique', 'adapter']
+
+['pertinence', 'non', 'validation', 'ue', 'compensation', 'apprécier', 'cas', 'cas', 'examiner', 'globalemer', 'scolarité', 'élève', 'application', 'formule', 'mécanique', 'compensation']
+
+['discussion', 'évidemment', 'inclure', 'discussion', 'mesure', 'alternatif', 'compensation']
+
+['guider', 'réflexion', 'prise', 'décision', 'jury', 'élève', 'procédure', 'référence', 'proposer']
+
+['intervenir', 'note', 'savoir', 'savoir', 'faire', 'compétence', 'transversales', 'élève', 'évaluation', 'implication', 'scolarité', 'mesurée', 'absentéisme', 'non', 'autorisé', 'avis', 'conseil', 'unité', 'enseignement', 'professionnelles', 'cas', 'parcours', 'electif', 'avis', 'conseils', 'unités', 'enseignement', 'parcours', 'electif']
+
+['non', 'validation', 'ue', 'révéler', 'insuffisance', 'élève', 'sein', 'périmètre', 'discipline']
+
+['question', 'savoir', 'élève', 'insuffisant', 'savoir']
+
+['jury', 'examine', 'note', 'savoir', 'élève', 'ue']
+
+['évaluer', 'élève', 'insuffisant', 'savoir', 'indicateur', 'global', 'calculer', 'somme', 'pondérée', 'note', 'savoir', 'élève', 'ue', 'semestre', 'parcours', 'complet']
+
+['somme', 'coefficient', 'pondération', 'affecté', 'note', 'savoir', 'ue', 'calculer', 'partir', 'coefficient', 'pondération', 'note', 'savoir', 'ue', 'calcul', 'note', 'global', 'ue', 'pondérer', 'nombre', 'crédit', 'ect', 'ue']
+
+['élément', 'favorable', 'validation', 'compensation', 'note', 'être', 'supérieur', 'égal', 'seuil', '10/20']
+
+['cas', '-là', 'jury', 'décider', 'valider', 'compensation', 'ue']
+
+['élément', 'défavorable', 'validation', 'compensation', 'note', 'strictement', 'inférieur', 'seuil', '10/20']
+
+['cas', '-là', 'jury', 'décider', 'valider', 'compensation', 'ue']
+
+['issue', 'parcours', 'acquisition', 'compétence', 'transversal', 'élève', 'apprécier', 'partir', 'note', 'alphabétique', 'compétence', 'obtenir', 'règle', 'définir', 'fascicule', 'pédagogique']
+
+['élément', 'défavorable', 'validation', 'compensation', 'application', 'règle', 'conclure', 'acquisition', 'compétence', 'satisfaisant']
+
+['présence', 'obligatoire', 'absentéisme', 'non', 'autoriser', 'traduit', 'manque', 'implication', 'élève', 'scolarité', 'non', 'respet', 'engagement', 'vi', 'àvis', 'école']
+
+['élément', 'défavorable', 'validation', 'compensation']
+
+['élément', 'extrêmement', 'défavorable', 'validation', 'compensation', 'non-validation', 'ue', 'professionnel']
+
+['fonctionnement', 'ue', 'professionnelles', 'baser', 'participation', 'actif', 'élève', 'attitude', 'vis-à-vis', 'situation', 'professionnel', 'résultat', 'obtenir', 'élève', 'ue', 'donner', 'indication', 'précieux', 'degré', 'réel', 'implication', 'élève', 'scolarité']
+
+['avis', 'implication', 'élève', 'activité', 'ue', 'professionnelles', 'systématiquement', 'émettre', 'conseil', 'ue', 'professionnelles', 'cas', 'non', 'validation', 'ue', 'professionnelle', 'élément', 'important', 'étude', 'validation', 'compensation', 'avis', 'conseils', 'unités', 'enseignement', 'parcours', 'electif', 'cas', 'parcours', 'electif']
+
+['cas', 'argument', 'décision', 'communiquer', 'direction', 'etudes']
+
+['pouvoir', 'communiquer', 'élève', 'demande', 'écrite', 'auprès', 'direction', 'etudes']
+
+['cas', 'validation', 'compensation', 'ue', 'note', 'obtenir', 'ue', 'note', 'obtenir', 'ue', 'valider', 'jury', 'modifier', 'fiche', 'synthèse', 'élève', 'validation', 'compensation', 'explicitement', 'mentionner']
+
+['mesure', 'disposition', 'jury', 'promotion', 'responsabilité', 'définir', 'cidessou']
+
+['jury', 'délivrer', 'fin', 'semestre', 'avertissement', 'signifier', 'élever', 'nécessité', 'reprendre', 'jury', 'tronc', 'commun', 'attribuer', 'compliment', 'félicitation', 'issue', 'tronc', 'commun', 'qualité', 'résultat', 'obtenir', 'jury', 'tronc', 'commun', 'constate', 'élève', 'réaliser', 'activité', 'stage', 'normalement', 'programmer', 'préalablement', 'date', 'réunion', 'jury', 'jury', 'tronc', 'commun', 'informer', 'élève', 'non-réalisation', 'fin', 'semestre', 'placer', 'automatiquement', 'position', 'sursis', 'obtention', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon']
+
+['disposer', '4', 'an', 'partir', 'sortie', 'école', 'fin', 'formation', 'double', 'diplômant', 'établissement', 'réaliser', 'activité']
+
+['pouvoir', 'prétendr', 'obtention', 'diplôme', 'jury', 'décider', 'cas', 'résultat', 'insuffisant', 'langue', 'avis', 'conseil', 'unité', 'enseignement', 'langues', 'vivantes', 'limiter', 'inscription', 'élève', 'langue', 'semestre', 'volume', 'horaire', 'renforcer', 'jury', 'tronc', 'commun', 'applique', 'cas', 'non-validation', 'tronc', 'commun', 'mesure', 'cas', 'élève', 'exception', 'élève', 'admettre', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+['cas', 'élève', 'admettre', 'année', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère', 'mesure', 'proposer', 'directeur', 'école']
+
+['cas', 'non-validation', 'tronc', 'commun', 'etendu', 'élève', 'jury', 'tronc', 'commun', 'conduire', 'prendre', 'proposer', 'décision', 'ci-dessous']
+
+['redoublement', 'école', 'centrale', 'lyon', 'exceptionnellement', 'école', 'centrale', 'intergroupe']
+
+['redoublement', 'école', 'centrale', 'lyon', 'consiste', 'refaire', 'ue', 'non', 'valider', 'éventuellement', 'stage']
+
+['redoublement', 'école', 'centrale', 'intergroupe', 'consiste', 'faire', 'an', 'tronc', 'commun', 'école', 'programme', 'élaborer', 'président', 'jury', 'tronc', 'commun', 'directeur', 'etudes']
+
+['décider', 'jury', 'concertation', 'direction', 'etudes']
+
+['redoublement', 'autoriser', 'fois', 'cours', 'scolarité']
+
+['élève', 'valider', 'année', 'redoublement', 'admettre', 'poursuivre', 'formation', 'ingénieur', 'école', 'centrale', 'lyon']
+
+['cas', 'contraire', 'pouvoir', 'autoriser', 'inscrire', 'école', 'centrale', 'lyon']
+
+['refus', 'réinscription', 'école', 'centrale', 'lyon', 'cas', 'résultat', 'insuffisant', 'associer', 'manque', 'engagement', 'élève', 'formation']
+
+['solution', 'préconiser', 'permettre', 'élève', 'réorienter', 'formation', 'adaptée']
+
+['cas', 'exceptionnel', 'élève', 'scolarité', 'difficile', 'jury', 'prendre', 'fin', 'second', 'semestre', 'mesure', 'précédent', 'épreuve', 'second', 'session', 's6', 'être', 'effectuer']
+
+['objectif', 'redoublement', 'combler', 'lacune', 'élève', 'mettre', 'évidence', 'non', 'validation', 'ue']
+
+['durée', 'an', 'cas', 'redoublement', 'parcours', 'electif', 'durée', 'raccourcir', 'fonction', 'ue', 'valider']
+
+['assurer', 'redoublement', 'profitable', 'formation', 'élève', 'jury', 'propose', 'programme', 'formation', 'adapter', 'prendre', 'compte', 'scolarité', 'élève', 'redoubler', 'profil', 'recouvrement', 'temporel', 'activité', 'actions', 'formation', 'ue', 'effectuer', 'redoublement']
+
+['jury', 'définir', 'partir', 'liste', 'ue', 'non', 'valider', 'élève', 'refaire', 'valider', 'redoublant', 'effectuer', 'valider', 'stage', 'cas', 'jury', 'précise', 'durée', 'stage']
+
+['jury', 'possibilité', 'remplacer', 'validation', 'stage', '6', 'mois', 'validation', 'semestre', 'université', 'étrangère']
+
+['redoubler', 'refaire', 'ue', 'refaire', 'intégralité', 'activité', 'actions', 'formation', 'ue', 'tps', 'épreuve', 'examen', 'contrôle', 'continu']
+
+['refaire', 'ue', 'réduire', 'passer', 'épreuve', 'ue']
+
+['élève', 'refaire', 'ue', 'activité', 'pédagogique', 'recouvrir', 'temps', 'dispenser', 'assiduité', 'séance', 'activité', 'ue', 'condition', 'aucun', 'évaluation', 'programmer']
+
+['issue', 'stage', 'élève', 'rédig', 'rapport', 'stage', 'définir', 'tfe', 'fascicule', 'pédagogique']
+
+['soutenance', 'jury', 'soutenance', 'constituer', 'tuteur', 'travail', 'professeur', 'conseiller', 'principal', 'élève', 'représentant', 'jury', 'statuer', 'réintégration']
+
+['modalité', 'soutenance', 'tfe', 'présenter', 'fascicule', 'pédagogique']
+
+['soutenance', 'lieu', 'tard', 'début', 'juillet', 'année', 'redoublement', 'implique', 'durée', 'passer', 'stage', 'date', 'supérieur', 'égal', 'durée', 'stage', 'imposer', 'jury']
+
+['rapport', 'parvenir', 'membre', 'jury', 'soutenance', 'tard', '5', 'jour', 'soutenance']
+
+['issue', 'année', 'redoublement', 'décision', 'réintégration', 'élève', 'redoubler', 'cursu', 'ingénieur', 'normal', 'prendre', 'jury', 'prononcer', 'décision', 'redoublement', 'jury', 'constituer', 'jury', 'promotion', 'élève', 'susceptible', 'réintégrer']
+
+['décision', 'jury', 'base', 'ensemble', 'dossier', 'élève', 'évaluer', 'bilan', 'redoublement', 'positif']
+
+['cas', 'décision', 'négatif', 'élève', 'renvoyer', 'école', 'centrale']
+
+['cas', 'redoublement', 'décider', 'jury', 'tronc', 'commun', 'non', 'validation', 'ue', 's8', 'jury', 'parcours', 'electif', 'rajouter', 'modalité', 'redoublement', 'obligation', 'refaire', 'partie', 'ue', 's8', 'non', 'valider']
+
+['décision', 'jury', 'prendre', 'élève', 'mesure', 'présenter', 'article', 'j.4.1', 'fonder', 'critère', 'pédagogique', 'prise', 'compte', 'état', 'médical', 'élève', 'relever', 'compétence', 'jury']
+
+['d', 'ans', 'cas', 'problème', 'médical', 'élève', 'demander', 'bénéficier', 'redoublement', 'raison', 'médical', 'condition', 'déposer', 'demande', '15', 'jour', 'tard', 'tenue', 'jury']
+
+['décision', 'prise', 'directeur', 'école', 'centrale', 'lyon', 'baser', 'avis', 'médecin', 'traitant', 'médecine', 'préventive', 'école', 'centrale', 'lyon', 'direction', 'etudes', 'président', 'jury']
+
+['cas', 'acceptation', 'président', 'jury', 'propose', 'programme', 'pédagogique', 'redoublement']
+
+['cas', 'jury', 'prendre', 'élève', 'mesure', 'redoublement', 'raison', 'médical', 'substitue', 'mesure']
+
+['redoublant', 'raison', 'médical', 'effectuer', 'stage', 'déposer', 'projet', 'activité', 'complémentaire', 'remplacement', 'stage']
+
+['projet', 'valider', 'direction', 'etudes', 'représentant', 'jury', 'concerner']
+
+['disposition', 'présenter', 'article', 'portent', 'validation', 'parcours', 'étendre', 'obtention', 'diplôme', 'redoublement', 'valable', 'éléve', 'admettre', 'année', 'cadre', 'double', 'diplôme', 'université', 'étrangère']
+
+['décision', 'amener', 'prendre', 'directeur', 'baser', 'nécessité', 'partenariat', 'université', 'étrangère', 'concerner']
+
+['jury', 'transmettre', 'proposition', 'mesure', 'baser', 'critère', 'pédagogique', 'directeur', 'école', 'centrale', 'lyon']
+
+['directeur', 'école', 'centrale', 'lyon', 'décider', 'obtention', 'diplôme', 'ingénieur', 'école', 'centrale', 'lyon', 'ensemble', 'condition', 'réunir']
+
+['cas', 'mesure', 'redoublement', 'durée', 'limiter', '6', 'mois', 'durée', 'ue', 'non', 'valider']
+
+['semestre', 'rattrapage', 'effectuer', 'choisir', 'jury', 'fonction', 'contrainte', 'lier', 'cursus', 'élève', 'établissement', 'origine']
+
+['cas', 'exceptionnel', 'élève', 'admettre', 'année', 'scolarité', 'difficile', 'jury', 'proposer', 'directeur', 'école', 'fin', 'second', 'semestre', 'parcours', 'mesure', 'précédent', 'épreuve', 'second', 'session', 'second', 'semestre', 'être', 'effectuer']
+
+['cas', 'directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuve', 'second', 'session', 'examen', 'ue', 'non', 'valider', 'absence', 'non', 'autoriser', 'etc.', 'jury', 'proposer', 'directeur', 'école', 'fin', 'second', 'semestre', 'parcours', 'mesure', 'précédent', 'épreuve', 'second', 'session', 'second', 'semestre', 'être', 'effectuer']
+
+['cas', 'directeur', 'décide', 'arrêt', 'scolarité', 'élève', 'élève', 'possibilité', 'passer', 'épreuve', 'second', 'session', 'examen', 'ue', 'valider', 'valider', 'crédit', 'ects', 'condition', 'réinscrire', 'école', 'centrale', 'auditeur', 'libre']
+
+['objectif', 'commission', 'evolution', 'règlement', 'scolarité', 'profiter', 'mieux', 'rapidement', 'retour', 'expérience', 'jury']
+
+['composer', 'membre', 'jurys', 'courants', 'membre', 'service', 'scolarité', 'directeur', 'etudes', 'représentant', 'élève', 'auprès', 'conseil', 'etudes', 'représentant', 'enseignant', 'auprès', 'conseil', 'etudes']
+
+['réunir', 'fois', 'an', 'convocation', 'directeur', 'etudes', 'exemple', 'rentrée', 'septembre', 'faire', 'bilan', 'année', 'scolaire', 'écouler']
+
+['agir', 'nécessaire', 'proposer', 'évolution', 'règlement', 'scolarité', 'niveau', 'modalité', 'règle', 'définir', 'annexe', 'règlement', 'scolarité']
+
+['contribue', 'élaborer', 'jurisprudence', 'partir', 'cas', 'être', 'traiter']
+
+['objectif', 'pédagogique', 'mobilité', 'international', 'placer', 'élève', 'immersion', 'environnement', 'socio-culturel', 'socio-professionnel', 'demander', 'valider', 'activité', 'séjour', 'étranger', 'cursu', 'ingénieur']
+
+['séjour', 'étranger', 'prennent', 'forme', 'séjour', 'étranger', '12', 'semaine', 'total', '21', 'semaine', 'cadre', 'stage', 'entreprise', 'équipe', 'recherche', 'universités', 'stage', 'application', 'travail', 'fin', 'étude', 'stage', 'césure', 'conventionner', 'redoublement', 'semestre', 'étude', 'université', 'étranger', 'semestre', 'semestre', 'semestre', 'cas', ' ', 'université', 'étrangère', 'rentrée', 'printemps', 'double', 'diplôm', 'université', 'étrangère', 'partenair', 'école', 'centrale', 'lyon', 'semestr', 'année', 'césur', 'activité', 'sabbatique', 'étranger', 'accord', 'commission', 'césure']
+
+['pays', 'francophone', 'belgique', 'suisse', 'canada', 'afrique', 'francophone', 'considérer', 'approprié', 'réalisation', 'séjour', 'étranger']
+
+['crédit', 'ects', 'équivalent', 'reconnaître', 'direction', 'etudes', 'avis', 'enseignant', 'chercheur', 'spécialiste', 'discipline', 'concerner']
+
+['activité', 'séjour', 'étranger', 'valider', 'élève', 'valide', '21', 'semaine', 'séjour', 'étranger', 'constituer', 'période', '12', 'semaine', 'valider']
+
+['condition', 'validation', 'période', 'séjour', 'étranger', 'période', 'cadre', 'stage', 'valider', 'interviennent', 'cadre', 'séjour', 'étranger', 'stage', 'application', 'valider', 'modalité', 'validation', 'stage', 'application', 'présenter', 'fascicule', 'pédagogique', 'travail', 'fin', 'etudes', 'valider', 'modalité', 'validation', 'tfe', 'présenter', 'fascicule', 'pédagogique', 'stage', 'césure', 'conventionner', 'valider', 'modalité', 'validation', 'stage', 'application', 'présenter', 'fascicule', 'pédagogique', 'semestre', 'étude', 'université', 'étranger', 'valider', 'semestre', 'élève', 'obtenir', '30', 'crédit', 'ect', 'équivalent', 'semestre', 'semestre', 'élève', 'valider', '2', 'semestre', '30', 'crédit', 'ect', 'expérience', 'socio-culturell', 'socio-professionnell', 'international', '12', 'semaine', 'élève', 'rapporter', 'preuve', 'matériel', 'contrat', 'travail', 'bulletin', 'salaire', 'fiche', 'résultat', 'universitaire', 'certificat', 'bénévolat']
+
+['nature', 'preuve', 'préciser', 'départ', 'élève', 'accord', 'commission', 'césure', 'diplôm', 'établissement', 'école', 'centrale', 'lyon', 'valider', 'stage', '12', 'semaine', 'étranger']
+
+['demande', 'dispense', 'mobilité', 'demander', 'auprès', 'directeur', 'etudes', 'cas', 'particulier', 'élève', 'élu', 'conseil', 'administration', 'vice-président', 'élève', 'conseil', 'etudes', 'élève', 'occuper', 'poste', 'responsabilité', 'associatif', 'proposition', 'président', 'bureau', 'elèves', 'élève', 'admettre', 'concours', 'commun', 'titre', 'expérience', 'académique', 'significatif', 'international', 'admission', 'école', 'centrale', 'lyon', 'élève', 'admettre', 'concours', 'commun', 'titre', 'école', 'centrale', 'lyon', 'engager', 'doubles-diplôme', 'établissement', 'partenaire', 'france', 'cas', 'force', 'majeur']
+
+['commission', 'créer', 'assister', 'direction', 'etudes', 'analyse', 'demande']
+
+['composer', 'responsable', 'tronc', 'commun', 'parcours', 'electif', 'représentant', 'direction', 'relations', 'internationales', 'vice-président', 'élever', 'conseil', 'etudes', 'représentant', 'service', 'scolarité']
+
+['cas', 'refus', 'motif', 'décision', 'transmettre', 'élève', 'concerner']
+
+['obligation', 'mobilité', 'inscrit', 'règlement', 'scolarité', 'valable', 'contexte', 'actuel']
+
+['toutefois', 'difficulté', 'lier', 'crise', 'sanitaire', 'prendre', 'compte', 'travers', 'dispositif', 'reconnaissance', 'dispense', 'mobilité', 'outil', 'exister', 'ecl']
+
+['prise', 'décision', 'relèv', 'direction', 'étude', 'adjoindre', 'commission', 'regrouper', 'directeur', 'adjoint', 'étude', 'directeur', 'relation', 'international', 'responsable', 'scolarité', 'vp', 'étudier']
+
+['élève', 'souhaiter', 'expérience', 'mobilité', 'partiel', 'reconnaître', 'obtenir', 'dispense', 'mobilité', 'constituer', 'dossier', 'indiqué', 'page', 'intranet']
+
+['demande', 'transmises', 'service', 'scolarité']
+
+['mobilité', 'distance']
+
+['être', 'indiquer', 'début', 'avril', 'stage', 'mobilité', 'académique', 'effectuer', 'contexte', 'actuel', 'totalement', 'distance', 'france', 'éligible', 'reconnaissance', 'mobilité', 'dépôt', 'dossier', 'commission', 'mobilité']
+
+['demande', 'élève', 'concerner', 'insérer', 'élément', 'analyse', 'expérience', 'travail', 'contexte', 'international', 'distance']
+
+['demande', 'transmettre', 'fin', 'stage', 'séjour', 'académique']
+
+['mobilités', 'annulées']
+
+['tfe', 'planifier', 'étranger', 'effectuer', 'raison', 'crise', 'sanitaire', 'dossier', 'demande', 'dispense', 'mobilité', 'effectuer']
+
+['stage', 'application', 'césure', 'étranger', 'annuler', 'demande', 'effectuer', 'année', 'mobilité', 'effectuer', 'tfe']
+
+['semestre', 'anner', 'échange', 'double', 'diplôme', 'international', 'être', 'compromettre', 'crise', 'sanitaire', 'demande', 'faire', 'année', 'mobilité', 'effectuer', 'tfe']
+
+['principe', 'appliquer', 'mobilité', 'raccourcie', 'raison', 'crise', 'sanitaire']
+
+['dispense', 'mobilité', 'obligatoire']
+
+['présence', 'responsable', 'association', 'élève', 'campus', 'proximité', 'nécessaire', 'bon', 'fonctionnement', 'qualité', 'vie', 'campus']
+
+['demande', 'être', 'faire', 'bde', 'pouvoir', 'dispenser', 'obligation', 'mobilité']
+
+['pouvoir', 'actifs', 's8', 'stage', '2a', 'intégralité', '3a.']
+
+['liste', 'générique', 'être', 'établir', 'demande', 'dispense', 'bde', 'président', 'vice-président', 'charger', 'communication', 'externe', 'trésoriers', 'bde', 'trésorier', 'général', 'bds', 'président', 'trésorier', 'trésoriers', 'bar', 'responsable', 'comptabilité', 'responsable', 'foyer', 'association', 'eclair', 'président', 'responsable', 'matériel', 'serveur']
+
+['accord', 'demander', 'autoriser', 'dispense', 'mobilité']
+
+['proposer', 'année', 'président', 'bde', 'transmette', 'liste', 'nominatif', 'demande', 'dispense', 'établir', 'partir', 'liste', 'générique', 'direction', 'étude', 'transmission', 'scolarité', 'président', 'jury', 'diplômant']
+
+['mobilité', '3a', 'international', 'explication', 'procédure', 'constitution', 'dossier', 'candidature', 'français', 'temps', '  ', '1', 'formulaire', 'ligne', 'comporter', 'information', 'pouvoir', 'préparer', 'amont', 'paragraphe', 'activité', 'responsabilité', 'artistique', 'associative', 'sportif']
+
+['lettre', 'motivation', 'lettre', 'choix', 'établissement', 'accueil']
+
+['recommander', 'langue', 'nom', 'professeur', 'langue', 'fournir', 'appréciation', 'compétence', 'linguistique', 'nom', 'choisir', 'liste', 'déroulant', 'professeur', 'ecl', 'mobility', 'online']
+
+['langue', 'sélectionner', 'enseignement', 'cursus', 'suivre']
+
+['priori', 'agir', 'nom', 'professeur', '1a.']
+
+['langue', 'cursus', 'langue', 'pays', 'pouvoir', 'solliciter', 'professeur', 'langue', 'pays', 'transmettre', 'appréciation', 'référent', 'langu', 'inclure', 'appréciation']
+
+['exemple', 'partir', 'italie', 'cursu', 'déroule', 'langue', 'anglaise', 'référent', 'langue', 'professeur', 'anglais']
+
+['pouvoir', 'demander', 'professeur', 'italien', 'transmettre', 'appréciation', 'référent', 'langue']
+
+['attention', 'langue', 'cursus', 'français', 'référent', 'langue', 'professeur', 'anglais']
+
+['avoir', 'être', 'dispenser', 'cours', 'langue', 'falloir', 'contacter', 'responsable', 'langue']
+
+['professeur', 'langue', 'contacter', 'mobilityonline', 'connecter', 'saisir', 'recommandation', 'conseiller', 'contacter', 'amont', 'côté', 'projet']
+
+['recommandant', 'pcp', 'tuteur', 'pcp', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
+
+['devoir', 'contacter', 'amont', 'informer', 'projet', 'indiquer', 'recevoir', 'mail', 'saisir', 'recommandation', 'mobilityonline']
+
+['recommandant', 'facultatif', 'souhaiter', 'rajouter', 'recommandant', 'contacter', 'mobilityonline', 'adresse', 'e-mail', 'avoir', 'indiquer']
+
+['2', 'constitution', 'complément', 'dossier', 'mobility', 'online', 'unique', 'document', 'compiler', 'descriptif', 'cursus', 'envisager', 'choix', 'établissement', 'accueil', 'joindre', 'dossier']
+
+['fonctionnement', 'ceu', 'ceu', 'dossier', 'expertiser', 'correspondant', 'pays', 'déposer', 'évaluation', 'ensemble', 'projet']
+
+['ceu', 'membre', 'commission', 'évaluer', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
+
+['commission', 'étudier', 'élément', 'ci-dessous', 'résultat', 'académique', 'destination', 'priorité', 'accorder', 'pays', 'université', 'partenaire', 'compte', 'quota', 'université', 'demander', 'type', 'mobilité', 'priorité', 'donner', 'cursu', 'déroulent', 'cadre', 'accord', 'échange', 'ecl']
+
+['dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demander', 'domaine', 'envisager', 'motivation', 'niveau', 'langue']
+
+['dossier', 'forcément', 'retenir']
+
+['réponse', 'positif', 'ceu', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'être', 'valider', 'reporter', 'décision', 'indiquer', 'document']
+
+['fois', 'réponse', 'positif', 'ceu', 'recevoir', 'e-mail', 'avoir', '5', 'jour', 'confirmer', 'renoncer', 'intention', 'partir']
+
+['5', 'jour', 'réponse', 'part', 'considérer', 'renoncer', 'mobilité']
+
+['confirmer', 'signer', 'fiche', 'engagement', 'partir']
+
+['tard', 'annuler', 'mobilité', 'être', 'prioritaire', 'affectation', 'option', 'métier', '3ème', 'année', 'ecl', 'situation', 'communiquer', 'jury', 'diplômant']
+
+['choix', 'établissement', 'accueil', 'constitution', 'dossier', 'avoir', 'maximum', 'choix']
+
+['choix', '1', 'partenaire', 'choix', '2', 'partenaire', 'ceu', 'considérer', 'qualité', 'dossier', 'suffisamment', 'bon', 'postuler', 'université', 'autoriser', 'candidater', 'choix']
+
+['choix', '1', 'partenaire', 'choix', '2', 'partenariat', 'serez', 'autoriser', 'postuler', 'partenaire']
+
+['ceu', 'décider', 'qualité', 'dossier', 'nombre', 'place', 'disponible']
+
+['choix', '1', 'partenariat', 'choix', '2', 'partenaire', 'partenaire', 'rester', 'privilégier', 'être', 'facilement', 'basculer', 'choix', 'partenariat', 'université', 'partenair', 'demander', 'réserve', 'qualité', 'dossier']
+
+['choix', '1', 'partenariat', 'choix', '2', 'partenariat', 'partenaire', 'privilégier']
+
+['autorisation', 'candidater', 'partenaire', 'dépendre', 'qualité', 'dossier', 'nombre', 'place', 'disponible']
+
+['info', 'conseil']
+
+['mobility', 'online', 'pouvoir', 'ores-et-déjà', 'commencer', 'préparer', 'dossier', 'texte', 'lettre', 'motivation', 'paragraphe', 'activité', 'responsabilité', 'descriptif', 'cursu', 'envisager', 'sorte', 'avoir', 'faire', 'copier', 'coller', 'moment', 'venir']
+
+['vérifiez', 'ouverture', 'campagne', 'saisie', 'établissement', 'souhaiter', 'postuler', 'existe', 'bien', 'base', 'formulaire', 'candidature']
+
+['cas', 'falloir', 'créer', 'service', 'relations', 'internationales', 'avoir', 'main']
+
+['immédiat', 'vérifiez', 'bien', 'attendre', 'dernier', 'minute']
+
+['cas', 'uniquement', 'cas', 'envoyez', 'mail', 'information', 'établissement', 'dri@ec', 'lyon.fr']
+
+['compte', 'tenir', 'situation', 'sanitaire', 'actuel', 'imprévisibilité', 'évolution', 'conseiller', 'porter', 'choix', 'université', 'européen']
+
+['partie', 'dossier', 'fois', 'devoir', 'aller', 'bout', 'processus', 'enregistrer', 'base']
+
+['quitter', 'page', 'valider', 'devoir', 'recommencer', 'procédure']
+
+['valider', 'recevoir', 'mail', 'confirmation', 'adresse', 'centralienn']
+
+['note', 'récupérer', 'scolarité', 'fois', 'candidature', 'mettre', 'jour', 'veille', 'ceu']
+
+['acteur', 'solliciter', 'impliquer', 'constitution', 'dossier']
+
+['inviter', 'entrer', 'contact', 'aussitôt']
+
+['déposer', 'dossier', 'dernier', 'moment']
+
+['responsable', 'langue']
+
+['allemand', 'waltraut', 'wunder', 'anglais', 'alain', 'dougnac', 'arabe', 'florence', 'milon', 'chinois', 'cheng', 'sun', 'espagnol', 'nathalie', 'pastor', 'italien', 'giannetto', 'francesco', 'japonais', 'mariko', 'akutsu', 'portugais', 'florence', 'milon', 'russe', 'florence', 'milon.le', 'descriptif', 'double-diplôme', 'france', 'disponible', 'rubrique', 'double-diplômes', 'intranet']
+
+['mobilité', 'international', 'dispense', 'mobilité', 'post-tf']
+
+['entrant', '2017', 'séjour', 'étranger', '3', 'mois', 'minimum', 'obligatoire', 'scolarité']
+
+['document', 'ci-dessous', 'explique', 'modalité', 'déroulement', 'validation']
+
+['séjour', 'international']
+
+['entrant', '2018', 'conseil', 'étude', '18', 'mai', '2018', 'conseil', 'administration', '28', 'juin', '2018', 'voter', 'allongement', 'durée', 'minimal', 'mobilité', '5', 'mois']
+
+['texte', 'voter', 'conseil', 'corriger', 'document', 'précédent', 'aspect', 'durée']
+
+['lorsque', 'élève', 'souhaite', 'valider', 'mobilité', 'activité', 'sabbatique', 'impérativement', 'remplir', 'page', '3', 'dossier', 'césure', 'définir', 'preuve', 'réalisation', 'mission', 'élève', 'engager', 'rapporter', 'issue']
+
+['formulaire', 'normalement', 'remplir', 'dépot', 'dossier', 'césur', 'envoyer', 'tard', 'projet', 'mieux', 'définir']
+
+['renvoyer', 'service', 'scolarité']
+
+['conseil', 'etudes', 'décider', 'situation', 'pouvoir', 'conduire', 'dispense', 'obligation', 'mobilité']
+
+['disposition', 'concerne', 'élève', 'élève', 'élu', 'conseil', 'administration', 'vice-président', 'élève', 'conseil', 'etudes', 'élève', 'occuper', 'poste', 'responsabilité', 'associatif', 'proposition', 'président', 'bureau', 'élève', 'élève', 'admettre', 'concours', 'expérience', 'académique', 'significatif', 'international', 'admission', 'ecole', 'centrale', 'lyon', 'élève', 'admettre', 'concours', 'suivre', 'cursus', 'ensal', 'élève', 'admettre', 'ensal', 'suivre', 'cursu', 'ingénieur', 'ecl', 'élève', 'raison', 'force', 'majeur', 'empêcher', 'départ', 'planifier']
+
+['recommande', 'toutefois', 'mobilité', 'élève', 'dispenser']
+
+['raison', 'crise', 'sanitaire', 'aménagement', 'reconnaissance', 'mobilité', 'prévoir']
+
+['document', 'diffuser', 'juillet', '2020', 'précise', 'cadre']
+
+['demande', 'dispense', 'reconnaissance', 'effectuer', 'dépôt', 'formulaire', 'remplir', 'auprès', 'mme', 'moragues', 'premier', 'mars', 'année', '3a.']
+
+['décision', 'prendre', 'commission', 'mobilité', 'réunir', 'mois', 'élève', 'avertir', 'semaine', 'suivre', 'réunion']
+
+['élever', 'séjour', 'international', 'cadre', 'cursus', 'ecl', 'référer', 'fiche', 'sécurité', 'séjour', 'étranger', 'lire', 'respecter', 'consigne', 'indiquer', 'séjour', 'étranger']
+
+['validation', 'mobilité', 'fin', 'scolarité', 'respecter', 'condition', 'voir', 'document', 'explicatif', 'documents', 'service', 'relation', 'international']
+
+['modalité', 'césure', 'césure', 'existe', 'uniquement', 'forme', 'année', 'plein', 'premier', 'septembre', 'année', 'n', '31', 'août', 'anner', 'n+1']
+
+['élever', 'inscrire', 'formation', 'initial', 'statut', 'étudiant', 'faire', 'demande']
+
+['remplir', 'dossier', 'demande', 'disponible', 'intranet', 'précise', 'projet', 'personnel', 'professionnel', 'période']
+
+['indique', 'démarche', 'entreprise', 'plan', 'financement', 'réalisation', 'projet']
+
+['calendrier', 'processus', 'publier', 'site', 'intranet', 'école']
+
+['commission', 'césur', 'examine', 'dossier', 'recommandation', 'émettre', 'avis', 'destination', 'directeur', 'école']
+
+['départ', 'césure', 'conditionner', 'décision', 'jury', 'prononcer', 'poursuite', 'cursus', 'étudier']
+
+['cas', 'redoublement', 'prononcer', 'jury', 'prioritaire']
+
+['directeur', 'école', 'prendre', 'finalement', 'décision', 'autoriser', 'non', 'césure']
+
+['cas', 'acceptation', 'année', 'césure', 'convention', 'signer', 'école', 'directeur', 'étudiant']
+
+['inscription', 'césure', 'effectuer', 'stage', 'convention', 'école', 'élève', 'inscrire', 'certificat', 'diplôme', 'organiser', 'ecl', 'délivrer', '200h', 'formation', 'requérir', 'obtention', 'convention', 'stage']
+
+['conformémer', 'règlementation', 'activité', 'effectuer', 'année', 'césure', 'demande', 'étudier', 'donner', 'droit', 'dispense', 'reconnaissance', 'total', 'partiel', 'enseignement', 'stage', 'relever', 'cursus', 'étudier']
+
+['modalité', 'demande', 'validation', 'établir', 'conseil', 'etudes']
+
+['bénéficier', 'validation', 'étudiant', 'exercer', 'année', 'césure', 'activité', 'engagement', 'limitativement', 'énumérer', 'article', 'l.']
+
+['611', '9', 'activité', 'bénévole', 'sein', 'association', 'activité', 'professionnel', 'activité', 'militaire', 'réserve', 'opérationnel', 'engagement', 'sapeur', 'pompier', 'volontaire', 'engagement', 'service', 'civique', 'engagement', 'volontariat', 'armée']
+
+['fiche', 'disponible', 'ici', 'demander', 'validation', 'obligation', 'stage', 'application', 'exécution', 'mission', 'réaliser', 'césure']
+
+['dossier', 'césure', 'description', 'certificat', 'moodle']
+
+['3a', 'ecole', 'centrale', 'entpe', 'enise', 'dossier', 'demande', '3a', 'ec', 'entpe', 'enise', 'disponible', 'ci-dessous']
+
+['dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'mme', 'guinamard', 'premier', 'mars', '2022']
+
+['liste', 'pièce', 'préciser', 'dossier']
+
+['veuillez', 'noter', 'demande', 'porter', 'parcours', 'formation', 'relation', 'projet', 'professionnel']
+
+['dossier', 'demande', '3a', 'ec', 'indispensable', 'référer', 'tableau', 'options', 'métiers', 'gec', 'remplir', 'dossier', 'candidature', 'dossier', 'demande', '3a', 'entpe', 'dossier', 'demande', '3a', 'enise']
+
+['nb', 'fiche', 'avis', 'tuteur', 'pcp', 'disponible', 'espace', 'partager', 'tutorat']
+
+['3a', 'ecole', 'management', 'lyon', 'candidature', '3a', 'ecole', 'management', 'lyon', '2022', '2023', 'approuver', 'ecl', 'eml']
+
+['information', 'disponible', 'moodle']
+
+['dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'mme', 'guinamard', '7', 'janvier', '2022']
+
+['liste', 'pièce', 'préciser', 'dossier']
+
+['dossier', 'demande', '3èm', 'année', 'échange', 'eml', 'nb', 'fiche', 'avis', 'tuteur', 'pcp', 'disponible', 'espace', 'partager', 'tutorat']
+
+['renseignement', 'complémentaire', 'contacter', 'mme', 'sylvie', 'mira', 'bonnardel', 'responsable', 'ecl', 'échange', 'ecl', '/eml', 'double', 'diplôme', 'ecole', 'management', 'lyon']
+
+['dossier', 'ecl', 'demande', 'double', 'diplôme', 'ecole', 'management', 'lyon', '2022', '2024', 'disponible', 'ci-dessous']
+
+['dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'mme', 'guinamard', 'premier', 'mars', '2022']
+
+['liste', 'pièce', 'préciser', 'dossier']
+
+['dossier', 'demande', 'double', 'diplôme', 'eml', 'nb', 'fiche', 'avis', 'tuteur', 'pcp', 'disponible', 'espace', 'partager', 'tutorat']
+
+['site', 'inscription', 'eml', 'janvier', 'février']
+
+['double', 'diplôme', 'ecole', 'normale', 'supérieure', 'lyon', 'volet', 'dossier', 'ecl', 'demande', 'dd', 'ensl', '2022', '2024', 'disponible', 'ci-dessous']
+
+['volet', 'remettre', 'mme', 'guinamard', 'scolarité', 'tard', '6', 'janvier', '2022']
+
+['2èm', 'volet', 'remettre', 'pièce', 'nécessaire', 'mme', 'guinamard', 'premier', 'mars', '2022']
+
+['liste', 'pièce', 'préciser', 'dossier']
+
+['dossier', 'demande', 'double', 'diplôme', 'ensl', 'volet', '1', 'prévenir', 'responsable', 'cours', 'ens', 'janvier', 'jerome.calvet@ens-lyon.fr', 'dossier', 'demande', 'double', 'diplôme', 'ensl', 'volet', '2', 'nb', 'fiche', 'avis', 'tuteur', 'pcp', 'disponible', 'espace', 'partager', 'tutorat']
+
+['double-diplôme', 'ensae', 'dossier', 'ecl', 'demande', 'double', 'diplôme', 'ecole', 'nationale', 'statistique', 'administration', 'economique', '2022', '2024', 'disponible', 'ci-dessous']
+
+['dossier', 'élève', 'candidat', 'devoir', 'remettre', 'pièce', 'nécessaire', 'mme', 'guinamard', 'premier', 'mars', '2022']
+
+['liste', 'pièce', 'préciser', 'dossier']
+
+['dossier', 'demande', 'double', 'diplôme', 'ensae', 'nb', 'fiche', 'avis', 'tuteur', 'pcp', 'disponible', 'espace', 'partager', 'tutorat']
+
+['contrat', 'professionnalisation', 'voie', 'obtention', 'diplôme', 'ingénieur', 'ecl', 'proposer', 'élève', 'ingénieur', 'issue', 'année', 'agir', 'contrat', 'professionnalisation']
+
+['renseignement', 'aller', 'page', 'contrat', 'pro']
+
+['mobilité', 'international', 'projet', 'réfléchir', 'mûrir']
+
+['déposer', 'demande', 'assurer', 'vous', 'projet', 'réaliste', 'cohérent', 'concerter', 'autoriser']
+
+['inviter', 'bien', 'consulter', 'rubrique', 'cadre', 'partir']
+
+['dossier', 'constituer', 'français', '  ', 'paragraphe', 'activité', 'responsabilité', 'artistique', 'associative', 'sportif']
+
+['lettre', 'motivation', 'lettre', 'choix', 'établissement', 'accueil']
+
+['recommandant', 'pcp', 'tuteur', 'pcp', 'sollicité', 'automatiquement', 'fournir', 'appréciation', 'projet', 'mobilité']
+
+['recommander', 'langue', 'nom', 'professeur', 'langue', 'fournir', 'appréciation', 'compétence', 'linguistique', 'nom', 'choisir', 'liste', 'déroulant', 'professeur', 'école', 'centrale', 'mobility', 'online']
+
+['recommandant', 'facultatif', 'souhaiter', 'rajouter', 'recommandant']
+
+['contacter', 'mobilityonline', 'adresse', 'e-mail', 'avoir', 'indiquer']
+
+['unique', 'document', 'compiler', 'descriptif', 'cursus', 'envisager', 'choix', 'établissement', 'accueil', 'joindre', 'dossier']
+
+['préparer', 'dossier', 'dernier', 'moment', 'élement', 'préparer', 'amont']
+
+['fonctionnement', 'commission', 'échanges', 'universitaires', ' ', 'ceu', 'dossier', 'expertiser', 'correspondant', 'pays', 'dépose', 'évaluation', 'ensemble', 'projet']
+
+['ceu', 'membre', 'commission', 'évaluer', 'qualité', 'dossier', 'capacité', 'formation', 'cohérence', 'projet']
+
+['commission', 'étudier', 'élément', 'ci-dessous', '  ', 'résultat', 'académique', ' ', 'destination', 'priorité', 'accorder', 'pays', 'université', 'partenaire', 'compte', 'quota', 'université', 'demander', ' ', 'type', 'mobilité', 'priorité', 'donner', 'cursu', 'déroulent', 'cadre', 'accord', 'échange', 'école', 'centrale', 'lyon']
+
+['dossier', 'personnel', 'adéquation', 'cursus', 'souhaité', 'projet', 'expertise', 'université', 'demander', 'domaine', 'envisager', 'motivation', 'niveau', 'langue']
+
+['dossier', 'forcément', 'retenir']
+
+['réponse', 'positif', 'ceu', 'donne', 'autorisation', 'candidater', 'suite', 'choix', 'être', 'valider', 'reporter', 'décision', 'indiquer', 'document']
+
+['fois', 'réponse', 'positif', 'ceu', 'recevoir', 'e-mail', 'avoir', '5', 'jour', 'confirmer', 'renoncer', 'intention', 'partir']
+
+['5', 'jour', 'réponse', 'part', 'considérer', 'renoncer', 'mobilité']
+
+['confirmer', 'signer', 'fiche', 'engagement', 'partir']
+
+['tard', 'annuler', 'mobilité', 'être', 'prioritaire', 'affectation', 'option', 'métier', 'troisième', 'année', 'école', 'centrale', 'situation', 'communiquer', 'jury', 'diplômant']
+
+['transformation', 'entreprise', 'être', 'fort', 'dernier', 'année', 'confère', 'ingénieur', 'rôle', 'fédérateur', 'marquer']
+
+['ailleurs', 'évolution', 'technologique', 'estructuration', 'entreprise', 'effet', 'mondialisation', 'modifier', 'fortement', 'leu', 'ontour']
+
+['ingénieur', 'amener', 'devenir', 'mobile', 'faire', 'fonctionner', 'système', 'complexe', 'grâce', 'animation', 'équipe', 'multiculturel', 'réalisation', 'mission', 'haute', 'mobilité', 'ue', 'sein', 'entreprise', 'entreprise']
+
+['raison', 'obtention', 'diplôme', 'ingénieur', 'ecole', 'centrale', 'lyon', 'ubordonnée', 'réalisation', 'séjour', '3', 'mois', 'minimum', 'étranger']
+
+['objecti', 'édagogiqu', 'placer', 'élève', 'ingénieur', 'immersion', 'environnement', 'socio-cultur', 't', 'socio-professionnel', 'étranger', 'manière', 'former', 'évoluer', 'ontexte', 'exercice', 'futur', 'métier', 'ingénieur']
+
+['modalité', 'acceptable', 'réalisation', 'séjour', 'obligatoire', 'étranger', 'récisée', 'ci-dessous', 'condition', 'académique', 'remplir', 'validatio', 'écessair', 'obtention', 'diplôme', 'ingénieur', 'ecl']
+
+['séjour', 'prendre', 'forme', 'stage', 'application', 'stage', 'césure', 'conventionner', 'étranger', 'emestr', 's8', 'université', 'étranger', 'emestre', 'césure', 'conventionner', 'université', 'non', 'partenair', 'étranger', 'année', 'sabbatique', 'accord', 'commission', 'césure', 'tfe', 'étranger', '3a', 'étranger', 'université', 'étranger', 'double', 'diplôme', 'université', 'partenair', 'étranger']
+
+['pays', 'francophone', 'belgique', 'suisse', 'canada', 'afrique', 'francophone', 'onsidéré', 'approprié', 'réalisation', 'séjour', 'étranger']
+
+['condition', 'validation', 'séjour', 'obligatoire', 'étranger', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'stage', 'application', 'tfe', 'validation', 'modalité', 'prévoir', 'stage', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'césure', 'conventionner', 'validation', 'modalité', 'stage', 'application', 'cas', 'travail', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'anné', 'sabbatique', 'réalisation', 'travail', 'prévoir', 'remettre', 'preuve', 'réalisation', 'convenir', 'ccs', 'départ', 'étranger', 'validation', 'rapport', 'remettre', 'pcp', 'cas', 'semestre', 's8', 'université', 'validation', '30', 'crédit', 'ect', 'équivalent', '20', 'discipline', 'scientifique', 'cas', 'semestre', 'universitaire', 'césure', 'conventionner', 'année', 'sabbatique', '   ', 'condition', 'validation', 'séjour', 'obligatoire', 'étranger', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'stage', 'application', 'tfe', 'validation', 'modalité', 'prévoir', 'stage', 'cas', 'stage', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'césure', 'conventionner', 'validation', 'modalité', 'stage', 'application', 'cas', 'travail', 'entreprise', 'organisme', 'laboratoir', 'cadre', 'anné', 'sabbatique', 'réalisation', 'travail', 'prévoir', 'remettre', 'preuve', 'réalisation', 'convenir', 'ccs', 'départ', 'étranger', 'validation', 'rapport', 'remettre', 'pcp', 'cas', 'semestre', 's8', 'université', 'validation', '30', 'crédit', 'ect', 'équivalent', '20', 'discipline', 'scientifique', 'cas', 'semestre', 'universitaire', 'césure', 'conventionner', 'année', 'sabbatique', 'validation', '30', 'crédit', 'ect', 'équivalent', 'cas', '3a', 'validation', 'année', 'académique', 'tfe', 'cas', 'double', 'diplôm', 'validation', 'diplôme', 'université', 'partenair', 'cas', 'échéant', 'tfe']
+
+['conditions', 'validation', 'mobilité', 'activité', 'post-tf', 'situation', 'commun', 'élève', 'valider', 'mobilité', 'dispenser', 'commission', 'ad', 'hoc', 'placer', 'sursis', 'an', 'jury', 'parcours', 'électif']
+
+['modalité', 'validation', '1ère', 'possibilité', 'stage', 'mois', 'étranger', 'convention', 'ecl', 'condition', 'élève', 'inscrire', 'ecl', 'année', 'universitaire', 'stage', 'pcp', 'tuteur', 'stage', 'stage', 'donne', 'lieu', 'rapport', 'évaluation', 'entreprise', 'mobilité', 'valider', 'stage', 'lieu', 'rapport', 'valider', 'pcp', 'évaluation', 'entreprise', 'positif', '2èm', 'possibilité', 'activité', 'professionnel', 'étranger', 'durée', 'égal', 'mois', 'année', 'sabbatique', 'élève', 'rapporte', 'scolarité', 'certificat', 'travail', 'issue', 'période', '3ème', 'possibilité', 'semestr', 'académique', 'université', 'partenair', 'étranger', 'élève', 'inscrire', 'ecl', 'rapporter', '30', 'ect', '4ème', 'possibilité', 'semestr', 'académique', 'université', 'non', 'partenair', 'étranger', 'élève', 'inscrire', 'ecl', 'rapporter', '30', 'crédit', 'ects']
+
+['exclure', 'possibilité', 'activité', 'non', 'professionnel', 'voyage', 'touristique']
+
+['condition', 'pays', 'situation', 'dom', 'tom', 'étranger', 'pays', 'francophone', 'étranger']
+
+['double-cursus', 'licence', '3', 'mathématique', ' ', 'double', 'cursu', 'ingénieur', 'licence', 'proposer', 'élève', 'ingénieur', 'école', 'centrale', 'lyon', 'parcours', 'mathématiques', 'général', 'application', 'licence', 'mathématiques', 'université', 'claude', 'bernard', 'lyon', '1']
+
+['emploi', 'temps', 'élève', 'ingénieur', 'assister', 'intégralité', 'cours', 'td']
+
+['séance', 'tp', 'assurer', 'spécifiquement', 'élève', 'ingénieur', 'jeudi', 'après-midi', 'local', 'ucbl', 'campus', 'doua']
+
+['5', 'ue', 'valider', 'semestre', 'ue', 'doter', '6', 'ect']
+
+['8', 'ue', 'suivre', 'sein', 'enseignement', 'l3', 'ucbl']
+
+['2', 'ue', 'valider', 'équivalence', 'enseignement', 'cursu', 'ingénieur', 'ecl', 'agir', 'ue', 'transversal', 'ep', 'lv', 'sh', 'semestre', '5', 'ue', 'optionnel', 'semestre', '6']
+
+['ue', 'procédure', 'inscription', 'décrire', 'document', 'présentation', 'l3']
+
+['inscription', 'auprès', 'service', 'scolarité', 'département', 'mathématiques', 'ucbl']
+

@@ -88,7 +88,7 @@ class TraitementDocuments():
 if __name__ == '__main__':
     liste_documents = ['reglement-scolarite-2021_clean.txt', 'consignes-mobilite-covid19.txt', 'dispense-de-mobilite-obligatoire.txt', 'mobilite-3a-explication-de-la-procedure-intranet.txt', 'mobilite-cesure-choix-post-2a.txt', 'procedure-selection-ceu.txt', 'sejour-international.txt', 'validation-post-tfe.txt', 'double-cursus-l3-maths.txt']
     
-    t = TraitementDocuments('./documents_scolarite/', liste_documents, 'total.txt')
+    t = TraitementDocuments('./documents_scolarite/', liste_documents, 'corpus.txt')
     t.importerDocument()
     t.nettoyerDoc()
 

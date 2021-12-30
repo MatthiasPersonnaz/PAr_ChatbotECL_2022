@@ -13,7 +13,7 @@ import re as regex
 path = './données_scolarité_acquises/'
 texte = ''
 
-with open(path+'total.txt', 'r', encoding="utf-8") as f:
+with open(path+'corpus.txt', 'r', encoding="utf-8") as f:
     texte = f.read()
 texte = texte.replace("\n", " ")
 
@@ -41,7 +41,7 @@ sentences = sent_tokenize(texte, language='french')
 
 
 # tokénisation des mots avec Spacy
-phrasesSpacy = [nlp(sequence) for sequence in sentences]
+phrasesSpacy = [nlp(sequence) for sequence in sentences] # liste d'éléments de type spacy.tokens.doc.Doc
 
 
 
@@ -94,18 +94,18 @@ with open(path+'phrases-tokénisées.txt', 'w', encoding='utf8') as f:
 
 
 
+#%%
 
 
 
 
 
-
-dimension = 250
-taille_fenetre = 6
+dimension = 300
+taille_fenetre = 5
 
 skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=taille_fenetre, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
 
-#word_embedding = skip_gram[skip_gram.wv.vocab] 
+
 
 
 
@@ -202,7 +202,6 @@ def tsnescatterplot(model, word, list_names):
 
 
 
-
 def visualiserMotsFrequents(model,nbmax):
     whitelist = re.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
     mots_selectionnes = [word for word in model.wv.index_to_key[:nbmax] if whitelist.search(word) is None]
@@ -240,7 +239,7 @@ def visualiserMotsFrequents(model,nbmax):
                      y="y",
                      fit_reg=False,
                      marker="o",
-                     scatter_kws={'s': 40,
+                     scatter_kws={'s': 30,
                                   'facecolors': df['color']
                                  }
                     )
@@ -251,7 +250,7 @@ def visualiserMotsFrequents(model,nbmax):
                  df['y'][line],
                  '  ' + df["words"][line].title(),
                  horizontalalignment='left',
-                 verticalalignment='bottom', size='small',
+                 verticalalignment='bottom', size='xx-small',
                  color=df['color'][line],
                  weight='normal'
                 ).set_size(15)
