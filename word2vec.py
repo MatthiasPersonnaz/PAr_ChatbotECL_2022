@@ -7,9 +7,18 @@ import gensim
 import nltk
 
 import sklearn
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
 import re as regex
 import string
 import spacy
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+         
+import seaborn as sns
+sns.set_style("darkgrid")
+        
 
 
 # création des ensembles de stopwords
@@ -116,14 +125,6 @@ class WordEmbedding():
     
     
     def visualiserMotsFrequents(self,model,nbmax):
-        import numpy as np
-        import matplotlib.pyplot as plt
-        import pandas as pd
-         
-        import seaborn as sns
-        sns.set_style("darkgrid")
-        
-
         whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
         mots_selectionnes = [word for word in model.wv.index_to_key[:nbmax] if whitelist.search(word) is None]
         vecteurs = np.empty((len(mots_selectionnes), self.dimension), dtype='f')
@@ -139,11 +140,11 @@ class WordEmbedding():
         np.set_printoptions(suppress=True)        
         # Réduire la domention de 300 à 10 avec PCA
         pca_components = 10
-        reduc = sklearn.decomposition.PCA(n_components=pca_components).fit_transform(vecteurs)
+        reduc = PCA(n_components=pca_components).fit_transform(vecteurs)
         
         
         
-        Y = sklearn.manifold.TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
+        Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
         
         # Fabriquer le cadre pour le plot
         df = pd.DataFrame({'x': [x for x in Y[:, 0]],
@@ -199,5 +200,7 @@ if __name__ == "__main__":
     wr.enregistrerPhrases(phrasesLemmatiseesSpacy,'phrases-lemmatisées.txt')
     skipgram = wr.word2vec(phrasesLemmatiseesSpacy,dimension=250,taille_fenetre=6,mode=1)
     wr.visualiserMotsFrequents(skipgram,50)
-    
+    print(phrasesTokeniseesSpacy[15],'\n')
+    wr.visualiserTokensPhrase(phrasesTokeniseesSpacy[15])
+    # wr.visualiserArbreDependancePhrase(phrasesTokeniseesSpacy[15].text)
     
