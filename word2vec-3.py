@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-
+import re
 import gensim
-
 import string
 from gensim.models import Word2Vec
 from sklearn.decomposition import PCA
@@ -11,17 +10,14 @@ import re as regex
 
 
 
-path = './'
+path = './données_scolarité_acquises/'
 texte = ''
 
-with open('total.txt', 'r', encoding="utf-8") as f:
+with open(path+'total.txt', 'r', encoding="utf-8") as f:
     texte = f.read()
 texte = texte.replace("\n", " ")
 
 
-
-
-# texte = "Ils ont produit, le jour de la rentrée, un dossier personnel dont la composition est définie par le Directeur de l’Ecole Centrale de Lyon. Il est en outre imposé de souscrire à une assurance Responsabilité Civile. Cette assurance doit être valable pendant toute leur scolarité, y compris la période des stages. Les étudiants admis à l'École Centrale de Lyon dans la formation ingénieur pour préparer le diplôme national d'ingénieur de l'École Centrale de Lyon sont appelés élèves."
 
 
 
@@ -74,9 +70,9 @@ for phrase in phrasesSpacy:
     for token in phrase:
         if not token.is_punct:
             if token.ent_type_ != '':
-                phraseEclatee.append(token.text) if token.text not in stopwordsSpacy else None
+                phraseEclatee.append(token.text.lower()) if token.text.lower() not in stopwordsSpacy else None
             else:
-                phraseEclatee.append(token.lemma_) if token.text not in stopwordsSpacy else None
+                phraseEclatee.append(token.lemma_.lower()) if token.text.lower() not in stopwordsSpacy else None
     tokenizedSentencesSpacy.append(phraseEclatee)
     
     
@@ -104,9 +100,10 @@ with open(path+'phrases-tokénisées.txt', 'w', encoding='utf8') as f:
 
 
 
-dimension = 150
+dimension = 250
+taille_fenetre = 6
 
-skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=6, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
+skipgram = Word2Vec(sentences=tokenizedSentencesSpacy, window=taille_fenetre, min_count=1, sg=1, vector_size=dimension) # 1 pour skip gram, 0 pour cbow
 
 #word_embedding = skip_gram[skip_gram.wv.vocab] 
 
@@ -161,7 +158,7 @@ def tsnescatterplot(model, word, list_names):
     # Trouver les coordonnées de  t-SNE en deux dimensions
     np.set_printoptions(suppress=True)
     
-    Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
+    ## Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
     
     # Fabriquer le cadre pour le plot
     df = pd.DataFrame({'x': [x for x in reduc[:, 0]],
@@ -189,7 +186,7 @@ def tsnescatterplot(model, word, list_names):
                  df['y'][line],
                  '  ' + df["words"][line].title(),
                  horizontalalignment='left',
-                 verticalalignment='bottom', size='medium',
+                 verticalalignment='bottom', size='small',
                  color=df['color'][line],
                  weight='normal'
                 ).set_size(15)
@@ -200,9 +197,73 @@ def tsnescatterplot(model, word, list_names):
             
     plt.title('visualisation t-SNE for {}'.format(word.title()))
     
-tsnescatterplot(skipgram, 'Centrale', [])
+# tsnescatterplot(skipgram, 'Centrale', [])
  
 
+
+
+
+def visualiserMotsFrequents(model,nbmax):
+    whitelist = re.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
+    mots_selectionnes = [word for word in model.wv.index_to_key[:nbmax] if whitelist.search(word) is None]
+    vecteurs = np.empty((len(mots_selectionnes), dimension), dtype='f')
+    
+    for i in range(len(mots_selectionnes)):
+        vecteurs[i] = model.wv[mots_selectionnes[i]]
+    
+    
+    color_list  = len(mots_selectionnes) * ['blue']
+    
+    
+    # Trouver les coordonnées de  t-SNE en deux dimensions
+    np.set_printoptions(suppress=True)        
+    # Réduire la domention de 300 à 10 avec PCA
+    pca_components = 10
+    reduc = PCA(n_components=pca_components).fit_transform(vecteurs)
+    
+    
+    
+    Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
+    
+    # Fabriquer le cadre pour le plot
+    df = pd.DataFrame({'x': [x for x in Y[:, 0]],
+                       'y': [y for y in Y[:, 1]],
+                       'words': mots_selectionnes,
+                       'color': color_list})
+    
+    fig, _ = plt.subplots()
+    fig.set_size_inches(9, 9)
+    
+    # Faire le plot des mots
+    p1 = sns.regplot(data=df,
+                     x="x",
+                     y="y",
+                     fit_reg=False,
+                     marker="o",
+                     scatter_kws={'s': 40,
+                                  'facecolors': df['color']
+                                 }
+                    )
+    
+    # Ajouter les annotations avec une boucle
+    for line in range(0, df.shape[0]):
+         p1.text(df["x"][line],
+                 df['y'][line],
+                 '  ' + df["words"][line].title(),
+                 horizontalalignment='left',
+                 verticalalignment='bottom', size='small',
+                 color=df['color'][line],
+                 weight='normal'
+                ).set_size(15)
+    
+    
+    plt.xlim(Y[:, 0].min()*1.05, Y[:, 0].max()*1.05)
+    plt.ylim(Y[:, 1].min()*1.05, Y[:, 1].max()*1.05)
+            
+    plt.title(f'Visualisation des {nbmax} mots les plus fréquents\nDimension départ {dimension} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {taille_fenetre}', size='medium')
+    
+visualiserMotsFrequents(skipgram,50)
+    
     
 """
 X = skipgram[skipgram.wv]
