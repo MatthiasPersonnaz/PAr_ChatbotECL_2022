@@ -1,0 +1,32 @@
+conda install -c conda-forge python=3.9.9 # tf supporte pas 3.10
+conda install -c conda-forge spyder
+pip install tensorflow-gpu # il a mis la 2.7.0
+pip install tensorflow # ??? (update non inutile)
+conda install -c conda-forge cudnn # et a mis la 8.2.1.32 et cudatoolkit 11.5.0 en dependency
+
+
+
+mon path au détour d'une installation
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\libnvvp
+C:\ProgramData\Anaconda3
+C:\ProgramData\Anaconda3\Library\mingw-w64\bin
+C:\ProgramData\Anaconda3\Library\bin
+C:\ProgramData\Anaconda3\Scripts
+C:\Windows\system32
+C:\Windows
+C:\Windows\System32\Wbem
+C:\Windows\System32\WindowsPowerShell\v1.0\
+C:\Windows\System32\OpenSSH\
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+C:\Program Files\MATLAB\R2020b\runtime\win64
+C:\Program Files\MATLAB\R2020b\bin
+C:\Program Files (x86)\Gpg4win\..\GnuPG\bin
+C:\Program Files\Inkscape\bin
+C:\Program Files\NVIDIA Corporation\Nsight Compute 2021.3.0\
+C:\Users\matth\AppData\Local\Microsoft\WindowsApps
+C:\Users\matth\AppData\Local\gitkraken\bin
+C:\Users\matth\AppData\Local\Programs\MiKTeX\miktex\bin\x64\
+C:\Users\matth\AppData\Local\GitHubDesktop\bin
+C:\Users\matth\AppData\Local\Programs\Microsoft VS Code\bin
+C:\Program Files\Graphviz\bin

@@ -1,0 +1,3 @@
+Une UE est validée par un élève ou par un auditeur si la note globale de l'UE est supérieure ou égale à 10/20 sauf règles spécifiques de validation
+
+Le Directeur du Conseil de l'Unité d'Enseignement procède à la vérification de la cohérence de l'ensemble des notes de Savoir et/ou de Savoir-Faire d'UE saisies sur le site WEB du Service de la Scolarité.
