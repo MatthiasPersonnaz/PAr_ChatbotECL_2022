@@ -13,13 +13,13 @@ from tensorflow import keras
 import gensim
 import re
 
-batch_size = 1   # Batch size for training.
-epochs = 5  # Number of epochs to train for.
-latent_dim = 300  # Latent dimensionality of the encoding space.
-num_samples = 1  # Number of samples to train on.
-taille_vec_mot = 50
+batch_size = 64   # Batch size for training.
+epochs = 100  # Number of epochs to train for.
+latent_dim = 500  # Latent dimensionality of the encoding space.
+num_samples = 600  # Number of samples to train on.
+taille_vec_mot = 100
 # Path to the data txt file on disk.
-data_path = 'C:/Users/cleme/OneDrive/Documents/GitHub/par102-chatbot/documents_scolarité/phrases.txt'
+data_path = 'phrases_reglement.txt'
 
 
 # Vectorize the data.
@@ -46,7 +46,7 @@ lines = [u.replace('.', '') for u in lines]
 import nltk
 import spacy
 from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
-path = 'C:/Users/matth/Documents/GitHub/par102-chatbot/documents_scolarité/données_scolarité_propres/corpus.txt'
+path = 'corpus.txt'
 
 with open(path, 'r', encoding='utf-8') as f:
     texte = f.read()
@@ -81,7 +81,7 @@ entrees = [[skipgram.wv[u] for u in s] for s in lemmatizedSentencesSpacy]
 
 
 
-sorties = [[[skipgram.wv['<begin>']]+skipgram.wv[u]+[skipgram.wv['<end>']] for u in s] for s  in lemmatizedSentencesSpacy]
+sorties = [[skipgram.wv['<begin>']]+[skipgram.wv[u]+[skipgram.wv['<end>']] for u in s] for s in lemmatizedSentencesSpacy]
 
 
 
@@ -112,16 +112,16 @@ decoder_target_data = np.zeros(
 
 print("Génération des données d'entrainement")
 
-for i, (input_text, target_text) in enumerate(zip(input_texts, target_texts)):
+for i, (input_text, target_text) in enumerate(zip(entrees , sorties)):
     for t, mot in enumerate(input_text):
-        encoder_input_data[i, t] = entrees[i,t]
+        encoder_input_data[i, t] = mot
     for t, mot in enumerate(target_text):
         # decoder_target_data is ahead of decoder_input_data by one timestep 
-        decoder_input_data[i, t] = entrees[i,t] # je crois que ça ne sert qu'a ininitialiser, donc on peut mettre rnd ???? (jsp)
+        decoder_input_data[i, t] = mot 
         if t > 0:
             # decoder_target_data will be ahead by one timestep
             # and will not include the start character. 
-            decoder_target_data[i, t - 1] = entrees[i,t] # je crois que ça ne sert qu'a ininitialiser, donc on peut mettre rnd ???? (jsp)
+            decoder_target_data[i, t - 1] = mot # je crois que ça ne sert qu'a ininitialiser, donc on peut mettre rnd ???? (jsp)
 
 print('Génération du modèle')
 
@@ -143,7 +143,7 @@ decoder_inputs = keras.Input(shape=(None, taille_vec_mot))
 # return states in the training model, but we will use them in inference.
 decoder_lstm = keras.layers.LSTM(latent_dim, return_sequences=True, return_state=True)
 decoder_outputs, _, _ = decoder_lstm(decoder_inputs, initial_state=encoder_states)
-decoder_dense = keras.layers.Dense(taille_vec_mot, activation="sigmoid")
+decoder_dense = keras.layers.Dense(taille_vec_mot, activation="relu")
 decoder_outputs = decoder_dense(decoder_outputs)
 
 # Define the model that will turn
@@ -151,7 +151,7 @@ decoder_outputs = decoder_dense(decoder_outputs)
 model = keras.Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
 model.compile(
-    optimizer="rmsprop", loss="mean_squared_error", metrics=["accuracy"]
+    optimizer="adam", loss='categorical_crossentropy', metrics=["accuracy"]
 )
 #model.compile(
 #    optimizer="rmsprop", loss="categorical_crossentropy", metrics=["accuracy"]
@@ -242,6 +242,7 @@ for seq_index in range(1):
     print("-")
     print("Input sentence:", lemmatizedSentencesSpacy[seq_index])
     print("Decoded sentence:", decoded_sentence)
-    #print("vecteurs entrée:", input_seq[0])
-    #print("Vecteurs_sorti:", vecteurs_sortie)
+    #print("Vecteurs entrée:", input_seq[0])
+    #print("Vecteurs sortie:", sorties[seq_index : seq_index + 1 ])
+
 
