@@ -1,0 +1,1 @@
+Une UE est dite validée si une somme pondérée des évaluations chiffrées des connaissances et compétences des Action de Formation de l'Unité d'Enseignement est supérieure ou égale à 10/20 sauf règles spécifiques de validation.

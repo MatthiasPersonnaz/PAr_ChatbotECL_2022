@@ -5,11 +5,22 @@
 import gensim
 
 import nltk
+import matplotlib
 
 import sklearn
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
+from sklearn.cluster import KMeans
 import re as regex
 import string
 import spacy
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+         
+import seaborn as sns
+sns.set_style("darkgrid")
+        
 
 
 # création des ensembles de stopwords
@@ -115,36 +126,57 @@ class WordEmbedding():
         return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension) 
     
     
-    def visualiserMotsFrequents(self,model,nbmax):
-        import numpy as np
-        import matplotlib.pyplot as plt
-        import pandas as pd
-         
-        import seaborn as sns
-        sns.set_style("darkgrid")
-        
+    
 
+
+        
+    def modele2vecteurs(self,model,nbmax=-1):
         whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
-        mots_selectionnes = [word for word in model.wv.index_to_key[:nbmax] if whitelist.search(word) is None]
-        vecteurs = np.empty((len(mots_selectionnes), self.dimension), dtype='f')
-        
-        for i in range(len(mots_selectionnes)):
-            vecteurs[i] = model.wv[mots_selectionnes[i]]
-        
-        
-        color_list  = len(mots_selectionnes) * ['blue']
+        mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None]
+        vecteurs = np.empty((len(mots), self.dimension), dtype='f')
+        for i in range(len(mots)):
+            vecteurs[i] = model.wv[mots[i]]
+        return mots[:nbmax], vecteurs[:nbmax]
         
         
+        
+        
+        
+    def visualiserMotsFrequentsCategorises(self,model,nbmax=150,nbcat=5):
+        mots_selectionnes, vecteurs = self.modele2vecteurs(model,nbmax)
         # Trouver les coordonnées de  t-SNE en deux dimensions
         np.set_printoptions(suppress=True)        
         # Réduire la domention de 300 à 10 avec PCA
         pca_components = 10
-        reduc = sklearn.decomposition.PCA(n_components=pca_components).fit_transform(vecteurs)
+        reduc = PCA(n_components=pca_components).fit_transform(vecteurs)
+        Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
+
+        kmeans = KMeans(n_clusters=nbcat)
+        kmeans.fit(vecteurs)
+        categories = kmeans.predict(vecteurs)
+        fig = plt.figure(edgecolor='black', dpi=400)
+        ax = fig.add_subplot(111)
+        ax.scatter(Y[:, 0], Y[:, 1], c=categories, s=40, cmap='rainbow', marker=".")
+        ax.set_aspect('equal')
+        for i in range(np.shape(Y)[0]):
+            ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
+        plt.title(f'Visualisation des {nbmax} mots les plus fréquents\nDimension départ {self.dimension} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
+
+
+    
+    
+    def visualiserMotsFrequents(self,model,nbmax):  
+        mots_selectionnes, vecteurs = self.modele2vecteurs(model,nbmax)
+        color_list  = len(mots_selectionnes) * ['blue']
+        # Trouver les coordonnées de  t-SNE en deux dimensions
+        np.set_printoptions(suppress=True)        
+        # Réduire la domention de 300 à 10 avec PCA
+        pca_components = 10
+        reduc = PCA(n_components=pca_components).fit_transform(vecteurs)
         
-        
-        
-        Y = sklearn.manifold.TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
-        
+        Y = TSNE(n_components=2, random_state=0, perplexity=15).fit_transform(reduc)
+
+    
         # Fabriquer le cadre pour le plot
         df = pd.DataFrame({'x': [x for x in Y[:, 0]],
                            'y': [y for y in Y[:, 1]],
@@ -160,7 +192,7 @@ class WordEmbedding():
                          y="y",
                          fit_reg=False,
                          marker="o",
-                         scatter_kws={'s': 30,
+                         scatter_kws={'s': 50,
                                       'facecolors': df['color']
                                      }
                         )
@@ -174,30 +206,41 @@ class WordEmbedding():
                      verticalalignment='bottom', size='xx-small',
                      color=df['color'][line],
                      weight='normal'
-                    ).set_size(15)
-        
+                    ).set_size(8)
         
         plt.xlim(Y[:, 0].min()*1.05, Y[:, 0].max()*1.05)
         plt.ylim(Y[:, 1].min()*1.05, Y[:, 1].max()*1.05)
                 
         plt.title(f'Visualisation des {nbmax} mots les plus fréquents\nDimension départ {self.dimension} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
         
-    
+        
+
+            
     
     
     
 if __name__ == "__main__":
-    path = './données_scolarité_acquises/'
+    path = './documents_scolarité/données_scolarité_propres/'
     wr = WordEmbedding(path)
     wr.importerCorpus('corpus.txt')
+    print("corpus importé\ncommencement segmentation+tokénisation+lemmatisation")
     sentences = wr.segmenterTexteNLTK()
     wr.definirModeleSpacy('fr_core_news_sm')
-    phrases = wr.segmenterTexteNLTK()
+    phrases = wr.segmenterTexteNLTK() # semble plus rapide et moins gourmand que Spacy
     phrasesTokeniseesSpacy = wr.tokeniserPhrasesSpacy(phrases)
     wr.enregistrerPhrases(phrasesTokeniseesSpacy,'phrases.txt')
+    print("phrases tokénisées et enregistrées")
     phrasesLemmatiseesSpacy = wr.lemmatiserPhrasesSpacy(phrasesTokeniseesSpacy)
     wr.enregistrerPhrases(phrasesLemmatiseesSpacy,'phrases-lemmatisées.txt')
+    print("phrases lemmatisées")
     skipgram = wr.word2vec(phrasesLemmatiseesSpacy,dimension=250,taille_fenetre=6,mode=1)
-    wr.visualiserMotsFrequents(skipgram,50)
-    
+    print("word2vec achevé")
+    skipgram.save("skipgram.model")
+    # wr.visualiserMotsFrequents(skipgram,50)
+    # print(phrasesTokeniseesSpacy[15],'\n')
+    # wr.visualiserTokensPhrase(phrasesTokeniseesSpacy[15])
+    # wr.visualiserArbreDependancePhrase(phrasesTokeniseesSpacy[15].text)
+    mots,vecteurs = wr.modele2vecteurs(skipgram)
+    wr.visualiserMotsFrequentsCategorises(skipgram,50,4)
+    plt.savefig('./word2vec.pdf')
     

@@ -1,0 +1,1 @@
+Dans le cas où la note globale d'UE est strictement inférieure à 10, la validation de l'UE serait directement discutée par le Jury.

@@ -1,0 +1,1 @@
+Dans ces sommes, le coefficient de pondération affecté à une note de Savoir d'UE est calculé à partir du coefficient de pondération de la note de Savoir de l'UE dans le calcul de la note globale de l'UE pondérée par le nombre de crédits ECTS de l'UE.

@@ -1,0 +1,1 @@
+Toute absence non autorisée d'un élève ou d'un auditeur à une séance de TP entraîne au minimum l'attribution de la note de 0 à cet élève ou à cet auditeur pour l'évaluation de la séance.
