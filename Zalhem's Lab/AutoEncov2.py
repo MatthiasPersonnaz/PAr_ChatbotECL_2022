@@ -10,11 +10,11 @@ import tensorflow as tf
 from tensorflow import keras
 import gensim
 
-batch_size = 64  # Batch size for training.
+batch_size = 256    # Batch size for training.
 epochs = 100  # Number of epochs to train for.
-latent_dim = 252  # Latent dimensionality of the encoding space.
-num_samples = 1000  # Number of samples to train on.
-taille_vec_mot = 64
+latent_dim = 50  # Latent dimensionality of the encoding space.
+num_samples = 8000  # Number of samples to train on.
+taille_vec_mot = 20
 # Path to the data txt file on disk.
 data_path = "PhrasesAng.txt"
 
@@ -141,8 +141,11 @@ decoder_outputs = decoder_dense(decoder_outputs)
 model = keras.Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
 model.compile(
-    optimizer="rmsprop", loss="MeanSquaredError", metrics=["accuracy"]
+    optimizer="rmsprop", loss="mean_squared_error", metrics=["accuracy"]
 )
+#model.compile(
+#    optimizer="rmsprop", loss="categorical_crossentropy", metrics=["accuracy"]
+#)
 
 print("Entrainement")
 
@@ -154,13 +157,13 @@ model.fit(
     validation_split=0.2,
 )
 # Save model
-model.save("s2sae")
+#model.save("s2sae")
 
 
 
 # Define sampling models
 # Restore the model and construct the encoder and decoder.
-model = keras.models.load_model("s2sae")
+#model = keras.models.load_model("s2sae")
 
 encoder_inputs = model.input[0]  # input_1
 encoder_outputs, state_h_enc, state_c_enc = model.layers[2].output  # lstm_1
@@ -186,10 +189,9 @@ decoder_model = keras.Model(
 
 
 def decode_sequence(input_seq):
+    vecteurs_sortie =[]
     # Encode the input as state vectors.
     states_value = encoder_model.predict(input_seq)
-
-
     # Generate empty target sequence of length 1.
     target_seq = np.array([[modelv.wv["<begin>"]]])
 
@@ -201,6 +203,7 @@ def decode_sequence(input_seq):
     nb_mot =0
     while not stop_condition:
         output_tokens, h, c = decoder_model.predict([target_seq] + states_value)
+        vecteurs_sortie.append(output_tokens[0][0])
         # Sample a token
         mot_decode = modelv.wv.similar_by_vector(output_tokens[0][0],topn=1)[0][0]
         # Exit condition: either hit max length
@@ -216,17 +219,19 @@ def decode_sequence(input_seq):
 
         # Update states
         states_value = [h, c]
-    return decoded_sentence
+    return decoded_sentence, vecteurs_sortie
 
 
 print("Des tests")
 
-for seq_index in range(20):
+for seq_index in range(1):
     # Take one sequence (part of the training set)
     # for trying out decoding.
     input_seq = encoder_input_data[seq_index : seq_index + 1]
-    decoded_sentence = decode_sequence(input_seq)
+    decoded_sentence,vecteurs_sortie = decode_sequence(input_seq)
     print("-")
     print("Input sentence:", input_texts[seq_index])
     print("Decoded sentence:", decoded_sentence)
+    print("vecteurs entrée:", input_seq[0])
+    print("Vecteurs_sorti:", vecteurs_sortie)
 
