@@ -1,0 +1,1 @@
+Toute absence non autorisee d'un eleve ou d'un auditeur a une seance de TP entraine au minimum l'attribution de la note de  a cet eleve ou a cet auditeur pour l'evaluation de la seance.

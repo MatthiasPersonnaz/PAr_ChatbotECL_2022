@@ -1,0 +1,1 @@
+Recommandant langue : nom du professeur de langue qui fournira l'appreciation de vos competences linguistiques ; ce nom est a choisir parmi la liste deroulante des professeurs de l'ECL sur Mobility Online.

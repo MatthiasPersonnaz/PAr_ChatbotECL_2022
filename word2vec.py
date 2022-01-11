@@ -109,7 +109,7 @@ class WordEmbedding():
             explodedSentence = []
             for token in p:
                 if not token.is_punct:
-                    if token.ent_type_ != '':
+                    if token.ent_type_ != '': # déterminer si le token fait partie d'une entité
                         explodedSentence.append(token.text.lower()) if token.text.lower() not in stopwordsSpacy else None
                     else:
                         explodedSentence.append(token.lemma_.lower()) if token.text.lower() not in stopwordsSpacy else None

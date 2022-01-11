@@ -1,0 +1,1 @@
+Verifiez lors de l'ouverture de la campagne de saisie que l'etablissement dans lequel vous souhaitez postuler existe bien dans la base du formulaire de candidature.
