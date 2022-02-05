@@ -21,14 +21,14 @@ import gensim
 
 
 path = './word2vec_docs_scol_traités/'
-vec = np.load(path+'phrases-vecteurs.npy')[:,:,:] # x premières phrases, 20 premiers mots de chaque phrase et toutes les dimensions
+vec = np.load(path+'word2vec-phrases-vecteurs.npy')[:,:,:] # x premières phrases, 20 premiers mots de chaque phrase et toutes les dimensions
 s = np.shape(vec)
 
 print(np.shape(vec))
 nb_phrases = s[0]
 nb_mots_max = s[1]
 embedding_dim = s[2]
-latent_dim = 512
+latent_dim = 128
 
 
 d = nb_mots_max*embedding_dim
@@ -42,7 +42,7 @@ class Autoencoder(Model):
 
         self.encoder = tf.keras.Sequential([
           #layers.Flatten(),
-          layers.GRU(128,activation='tanh', recurrent_activation='sigmoid',kernel_initializer='glorot_uniform',return_sequences=False),
+          layers.LSTM(128,activation='tanh', recurrent_activation='sigmoid',kernel_initializer='glorot_uniform',return_sequences=False),
           layers.Dense(latent_dim, activation='tanh'),
         ])
         self.decoder = tf.keras.Sequential([
@@ -64,7 +64,7 @@ autoencoder.compile(optimizer='adam', loss=losses.CosineSimilarity(), metrics =[
 
 
 history = autoencoder.fit(vec, vec,
-                epochs=300,
+                epochs=20,
                 shuffle=True,
                 validation_data=(vec, vec))
 
@@ -81,7 +81,7 @@ plt.ylabel("similarité cosinus")
 plt.title("métrique VS itération")
 np.linalg.norm(phrases_decodees[0][0]-vec[0][0])
 
-skipgram = gensim.models.Word2Vec.load(path+"skipgram.model")
+skipgram = gensim.models.Word2Vec.load(path+"Skip-Gram.model")
 
 
 def phrase2vec(phrase):

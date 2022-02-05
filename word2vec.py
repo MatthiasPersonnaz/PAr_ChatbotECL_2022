@@ -30,17 +30,22 @@ print('\nimportation des bibliothèques achevée\n')
 
 
 
+from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
+
+stopwordsNLTK = set(nltk.corpus.stopwords.words('french'))
+
+
 
 # librement inspiré du tutpo Gensim sur Kaggle
 class WordEmbedding():
     def __init__(self, chemin):
         self.text = None
         self.path = chemin
-        self.dimension = None
+        self.dimensionEmbedding = None
         self.win_size = None
         self.mode = None
-        self.stopwordsSpacy = spacy.lang.fr.stop_words.STOP_WORDS
-        self.stopwordsNLTK = set(nltk.corpus.stopwords.words('french'))
+        
+        
         
 
     def importerCorpus(self,nomfichier):
@@ -115,23 +120,23 @@ class WordEmbedding():
             for token in p:
                 if not token.is_punct:
                     if token.ent_type_ != '': # déterminer si le token fait partie d'une entité
-                        explodedSentence.append(token.text.lower()) # if token.text.lower() not in self.stopwordsSpacy else None
+                        explodedSentence.append(token.text.lower()) # if token.text.lower() not in stopwordsSpacy else None
                     else:
-                        explodedSentence.append(token.lemma_.lower()) # if token.text.lower() not in self.stopwordsSpacy else None
-            lemmatizedSentencesSpacy.append(explodedSentence)
+                        explodedSentence.append(token.lemma_.lower()) # if token.text.lower() not in stopwordsSpacy else None
+            lemmatizedSentencesSpacy.append(' '.join(explodedSentence))
         return lemmatizedSentencesSpacy
         
    
     def simplifierPhrasesSpacy(self,phrases):
         '''phrases est une liste de phrases de type spacy.tokens.doc.Doc
-           renvoie une liste strings donc chaque string est une phrases
+           renvoie une liste strings donc chaque string est une phrase
            en minuscules, lemmatisé sans ponctuation et sans stopwords'''
         simplifiedSentencesSpacy = []
         for p in phrases:
             explodedSentence = []
             for token in p:
                 if not token.is_punct:
-                    explodedSentence.append(token.lemma_.lower()) # if token.text.lower() not in self.stopwordsSpacy else None
+                    explodedSentence.append(token.lemma_.lower()) # if token.text.lower() not in stopwordsSpacy else None
             simplifiedSentencesSpacy.append(' '.join(explodedSentence))
         return simplifiedSentencesSpacy
     
@@ -140,7 +145,7 @@ class WordEmbedding():
     def word2vec(self,phrases,dimension=250,taille_fenetre=6,mode=1):
         '''phrases doit être une liste de liste de strings dont chacun est un mot
            mode 1 pour skip gram, 0 pour cbow'''
-        self.dimension = dimension
+        self.dimensionEmbedding = dimension
         self.win_size = taille_fenetre
         self.mode = 'Skip-Gram' if mode == 1 else 'CBOW'
         return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4) 
@@ -148,7 +153,7 @@ class WordEmbedding():
             
         
     def visualiserMotsFrequentsCategorises(self,model,nbmax=150,pca_components=10,nbcat=5):
-        mots_selectionnes, vecteurs = self.modele2vecteurs(model,nbmax)
+        mots_selectionnes, vecteurs = self.modele2vecteursWV(model,nbmax)
         # Trouver les coordonnées de  t-SNE en deux dimensions
         np.set_printoptions(suppress=True)        
         # Réduire la domention de 300 à 10 avec PCA
@@ -164,13 +169,13 @@ class WordEmbedding():
         ax.set_aspect('equal')
         for i in range(np.shape(Y)[0]):
             ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
-        plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimension} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
+        plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimensionEmbedding} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
 
 
     
     
     def visualiserMotsFrequents(self,model,nbmax,pca_components):  
-        mots_selectionnes, vecteurs = self.modele2vecteurs(model,nbmax)
+        mots_selectionnes, vecteurs = self.modele2vecteursWV(model,nbmax)
         color_list  = len(mots_selectionnes) * ['blue']
         # Trouver les coordonnées de  t-SNE en deux dimensions
         np.set_printoptions(suppress=True)        
@@ -214,36 +219,48 @@ class WordEmbedding():
         plt.xlim(Y[:, 0].min()*1.05, Y[:, 0].max()*1.05)
         plt.ylim(Y[:, 1].min()*1.05, Y[:, 1].max()*1.05)
                 
-        plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimension} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
+        plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimensionEmbedding} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
         
         
-    def modele2vecteurs(self,model,nbmax=-1):
+    def modele2vecteursWV(self,model,nbmax=-1):
         '''renvoie la liste des nbmax premiers mots sous la forme d'une liste
         et leurs vecteurs sous la forme d'un array'''
         whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
-        mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None and word not in self.stopwordsSpacy]
-        vecteurs = np.empty((len(mots), self.dimension), dtype='f')
+        mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None and word not in stopwordsSpacy]
+        vecteurs = np.empty((len(mots), self.dimensionEmbedding), dtype='f')
         for i in range(len(mots)):
             vecteurs[i] = model.wv[mots[i]]
         return mots[:nbmax], vecteurs[:nbmax]
             
     
-    def phrases2tenseur(self,model,phrases):
+    def phrases2tenseurWV(self,model,phrases):
         '''renvoie un array numpy de dimension
         nb_phrases x nb_max_mots x dim_embedding'''
-        tenseurPhrases = np.zeros((len(phrases),max([len(p) for p in phrases]), self.dimension))
+        tenseurPhrases = np.zeros((len(phrases),max([len(p) for p in phrases]), self.dimensionEmbedding))
         for p in range(len(phrases)):
             for m in range(len(phrases[p])):
-                tenseurPhrases[p][m][:] = model.wv[phrases[p][m]]
+                tenseurPhrases[p][m][:] = model.wv[phrases[p][m]] # on append le vecteur
         return tenseurPhrases
+    
+    def oneHotEncoding(self,model,phrases):
+        '''renvoie un one-hot encoding sous forme de liste'''
+        return model.wv.key_to_index.copy(), model.wv.index_to_key.copy()
 
-
-    def enregistrerTenseurPhrases(self,tenseur,fichier):
-        '''enregistre l'array numpy des vecteurs de toutes les phrases'''
+    def phrases2tenseurOHE(self,model,phrases):
+        tenseurPhrases = np.zeros((len(phrases),max([len(p) for p in phrases]),1),dtype=np.int32)
+        for p in range(len(phrases)):
+            for m in range(len(phrases[p])):
+                tenseurPhrases[p][m][0] = model.wv.key_to_index[phrases[p][m]]+1
+                # on append l'index du mot + 1 pour que 0 représente l'absence de mot
+        return tenseurPhrases
+    
+    
+    def enregistrerTenseur(self,tenseur,fichier):
+        '''enregistre l'array numpy'''
         np.save(self.path+fichier,tenseur)
         
             
-    def enregistrerVecteursVocabulaire(self,model,vocabulaire,fichier_vocabulaire,vecteurs,fichier_vecteurs):
+    def enregistrerVecteursVocabulaireWV(self,model,vocabulaire,fichier_vocabulaire,vecteurs,fichier_vecteurs):
         '''enregistre les mots dans le fichier 'vocabulaire.txt'
         et leurs vecteurs dans le fichier vecteurs.npy (en binaire numpy'''
         np.save(fichier_vecteurs, vecteurs)
@@ -252,25 +269,32 @@ class WordEmbedding():
     
     
 if __name__ == "__main__":
+    #%% PRÉTRAITEMENT NLP
     path = './word2vec_docs_scol_traités/'
     wr = WordEmbedding(path)
     print("importation du corpus\n")
     wr.importerCorpus('corpus.txt')
     print("commencement segmentation+tokénisation+lemmatisation\n")
     sentences = wr.segmenterTexteNLTK()
-    print("importation du modèle spacy")
-    wr.definirModeleSpacy('fr_core_news_sm') #fr_core_news_sm erreur cursus fr_core_news_md fr_dep_news_trf
-    print("tokénisation des phrases")
+    model = 'fr_core_news_sm'
+    print("importation du modèle spacy "+model)
+    wr.definirModeleSpacy(model) #fr_core_news_sm erreur cursus fr_core_news_md fr_dep_news_trf
+    print("tokénisation des phrases\n")
     phrases = wr.segmenterTexteNLTK() # semble plus rapide et moins gourmand que Spacy
     phrasesTokeniseesSpacy = wr.tokeniserPhrasesSpacy(phrases)
     wr.enregistrerPhrases(phrasesTokeniseesSpacy,'phrases.txt')
     print("phrases tokénisées et enregistrées !\n")
     
+    
+    #%% CHUNKING
     print('lemmatisation des phrases\n')
     phrasesLemmatisees = wr.lemmatiserPhrasesSpacy(phrasesTokeniseesSpacy)
     phrasesSimplifiees = wr.simplifierPhrasesSpacy(phrasesTokeniseesSpacy)
+    
+    phrasesLemmatiseesEclatees = [p.split(' ') for p in phrasesLemmatisees]
     phrasesSimplifieesEclatees = [p.split(' ') for p in phrasesSimplifiees]
-
+    
+    
     
     print('enregistrement des phrases lemmatisées\n')
     wr.enregistrerPhrases(phrasesLemmatisees,'phrases-lemmatisées.txt')
@@ -279,28 +303,37 @@ if __name__ == "__main__":
     wr.enregistrerPhrases(phrasesSimplifiees,'phrases-simplifiées.txt')
     
     
-
-    dimension = 256
+    #%% WORD2VEC
+    dimension = 128
     print('commencement word2vec\n')
-    skipgram = wr.word2vec(phrasesSimplifieesEclatees,dimension=dimension,taille_fenetre=6,mode=1)
+    skipgram = wr.word2vec(phrasesLemmatiseesEclatees,dimension=dimension,taille_fenetre=12,mode=1)
     print("word2vec achevé\n")
-    skipgram.save(path+"skipgram.model")
+    
+    skipgram.save(path+f"{wr.mode}.model")
+    
+    print('création du word2vec achevé et enregistré')
+    
+    # k2i,i2k = wr.oneHotEncoding(skipgram)
     
     # wr.visualiserMotsFrequents(skipgram,50,10)
     # print(phrasesTokeniseesSpacy[15],'\n')
     # wr.visualiserTokensPhrase(phrasesTokeniseesSpacy[15])
     # wr.visualiserArbreDependancePhrase(phrasesTokeniseesSpacy[15].text)
     
-    vocabulaire,vecteurs = wr.modele2vecteurs(skipgram)
-    wr.enregistrerVecteursVocabulaire(skipgram,vocabulaire,'vocabulaire.txt',vecteurs,'vecteurs.npy')
-    print('enregistrement vocabulaire et vecteurs\n')
+    vocabulaire,vecteurs = wr.modele2vecteursWV(skipgram)
+    wr.enregistrerVecteursVocabulaireWV(skipgram,vocabulaire,'vocabulaire.txt',vecteurs,'word2vec-mots-vecteurs.npy')
+    print(f'enregistrement vocabulaire et vecteurs et modèle {wr.mode} terminé\n')
     
     
-    phrasesSimplifieesEclatees = [p for p in phrasesSimplifieesEclatees if len(p) <= 100] # ne sélectionner que les phrases les plus courtes
+    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 20] # ne sélectionner que les phrases les plus courtes
     
-    tenseurPhrases = wr.phrases2tenseur(skipgram,phrasesSimplifieesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
-    wr.enregistrerTenseurPhrases(tenseurPhrases,'phrases-vecteurs.npy')
+    tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesLemmatiseesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
+    wr.enregistrerTenseur(tenseurPhrasesWV,'word2vec-phrases-vecteurs.npy')
     
+    tenseurPhrasesOHE = wr.phrases2tenseurOHE(skipgram,phrasesLemmatiseesEclatees)
+    wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
+    
+    #%% VISUALISATIONS
     pca = 8
     nbcat = 4
     nbmots = 70
