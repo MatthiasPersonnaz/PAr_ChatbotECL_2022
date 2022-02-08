@@ -4,13 +4,13 @@ import gensim
 import matplotlib.pyplot as plt
 import random
 
-batch_size = 32   # Batch size for training.
-epochs = 200  # Number of epochs to train for.
+batch_size = 2 # Taille du lot pour l'entrainement
+epochs = 200  # Nombre de cycles d'entrainement
 latent_dim = 128*4   # Latent dimensionality of the encoding space.
-num_samples = 1000  # Number of samples to train on.
-taille_vec_mot = 128
+num_samples = 20  # Number of samples to train on.
+taille_vec_mot = 64
 # Path to the data txt file on disk.
-path = 'PhrasesFr.txt'
+path = 'corpus.txt'
 
 
 # Vectorize the data.
@@ -61,12 +61,19 @@ lemmatizedSentencesSpacy.append(['<begin>'])
 lemmatizedSentencesSpacy.append(['<end>'])
 
     
-skipgram = gensim.models.Word2Vec(sentences=lemmatizedSentencesSpacy, window=6, min_count=1, sg=1, vector_size=taille_vec_mot)
+skipgram = gensim.models.Word2Vec(sentences=lemmatizedSentencesSpacy, window=10, min_count=1, sg=1, vector_size=taille_vec_mot)
 
 
 
 #skipgram.init_sims(replace=True)
 
+
+#on enleve les phrases "<begin>" et "<end>"
+lemmatizedSentencesSpacy = lemmatizedSentencesSpacy[:-2]
+
+#on trie les phrases d'entrée par longueur
+
+lemmatizedSentencesSpacy = sorted(lemmatizedSentencesSpacy, key = len)
 
 
 entrees = [[skipgram.wv[u] for u in s] for s in lemmatizedSentencesSpacy]
@@ -144,7 +151,7 @@ model = keras.Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
 
 model.compile(
-    optimizer="adam", loss='cosine_similarity', metrics=["accuracy","mse","cosine_similarity"]
+    optimizer="adam", loss='mse', metrics=["accuracy","mse","cosine_similarity"]
 )
 #model.compile(
 #    optimizer="rmsprop", loss="categorical_crossentropy", metrics=["accuracy"]
@@ -177,7 +184,7 @@ plt.plot(history.history['val_loss'])
 plt.ylabel('Loss')
 plt.xlabel('epoch')
 plt.legend(['Entraînement', 'Test'], loc='upper left')
-plt.show()
+
 
 
 plt.figure(3)
@@ -257,7 +264,7 @@ def decode_sequence(input_seq):
 
 print("Des tests")
 
-for i in range(20):
+for i in range(3):
     seq_index = random.randint(0,len(entrees)-2)
     # Take one sequence (part of the training set)
     # for trying out decoding.
