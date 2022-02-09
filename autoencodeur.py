@@ -63,10 +63,12 @@ autoencoder.compile(optimizer='adam', loss=losses.CosineSimilarity(), metrics =[
 
 
 
-history = autoencoder.fit(vec, vec,
+history = autoencoder.fit([vec, vec],
                 epochs=20,
+                batch_size=4,
                 shuffle=True,
-                validation_data=(vec, vec))
+                validation_data=(vec, vec),
+                validation_split=0.1)   # à vérifier si ça marche comme ça
 
 autoencoder.summary()
 
