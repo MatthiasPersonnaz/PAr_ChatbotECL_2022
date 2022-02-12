@@ -112,7 +112,7 @@ class WordEmbedding():
     def lemmatiserPhrasesSpacy(self,phrases):
         '''phrases est une liste de phrases de type spacy.tokens.doc.Doc
            renvoie une liste de listes de strings donc chaque string est un mot
-           en minuscules, lemmatisé si ce n'est pas une entité
+           en minuscules, lemmatisé sauf si fait partie d'une entité
            la ponctuation est retirée'''
         lemmatizedSentencesSpacy = []
         for p in phrases:
@@ -263,8 +263,8 @@ class WordEmbedding():
     def enregistrerVecteursVocabulaireWV(self,model,vocabulaire,fichier_vocabulaire,vecteurs,fichier_vecteurs):
         '''enregistre les mots dans le fichier 'vocabulaire.txt'
         et leurs vecteurs dans le fichier vecteurs.npy (en binaire numpy'''
-        np.save(fichier_vecteurs, vecteurs)
-        with open(fichier_vocabulaire, 'w', encoding='utf-8') as f:
+        np.save(self.path+fichier_vecteurs, vecteurs)
+        with open(self.path+fichier_vocabulaire, 'w', encoding='utf-8') as f:
             f.write('\n'.join(vocabulaire))
     
     
@@ -304,9 +304,11 @@ if __name__ == "__main__":
     
     
     #%% WORD2VEC
-    dimension = 128
+    dimension = 64
+    taille_fenetre = 5
+    
     print('commencement word2vec\n')
-    skipgram = wr.word2vec(phrasesLemmatiseesEclatees,dimension=dimension,taille_fenetre=12,mode=1)
+    skipgram = wr.word2vec(phrasesLemmatiseesEclatees,dimension=dimension,taille_fenetre=taille_fenetre,mode=1)
     print("word2vec achevé\n")
     
     skipgram.save(path+f"{wr.mode}.model")
@@ -320,12 +322,12 @@ if __name__ == "__main__":
     # wr.visualiserTokensPhrase(phrasesTokeniseesSpacy[15])
     # wr.visualiserArbreDependancePhrase(phrasesTokeniseesSpacy[15].text)
     
-    vocabulaire,vecteurs = wr.modele2vecteursWV(skipgram)
-    wr.enregistrerVecteursVocabulaireWV(skipgram,vocabulaire,'vocabulaire.txt',vecteurs,'word2vec-mots-vecteurs.npy')
+    mots_vocabulaire,vecteurs_vocabulaire = wr.modele2vecteursWV(skipgram)
+    wr.enregistrerVecteursVocabulaireWV(skipgram,mots_vocabulaire,'vocabulaire.txt',vecteurs_vocabulaire,'word2vec-mots-vecteurs.npy')
     print(f'enregistrement vocabulaire et vecteurs et modèle {wr.mode} terminé\n')
     
     
-    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 20] # ne sélectionner que les phrases les plus courtes
+    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 20] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
     
     tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesLemmatiseesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
     wr.enregistrerTenseur(tenseurPhrasesWV,'word2vec-phrases-vecteurs.npy')
@@ -334,15 +336,26 @@ if __name__ == "__main__":
     wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
     
     #%% VISUALISATIONS
-    pca = 8
+    pca = 40
     nbcat = 4
     nbmots = 70
     wr.visualiserMotsFrequentsCategorises(skipgram,nbmots,pca,nbcat)
     # plt.savefig(f'./word2vec-dim{dimension}-pca{pca}-freq{nbmots}.pdf')
+    
+    
+    
+    
     # faire l'histogramme de la longueur des phrases en mots:
     longueurs = [len(i) for i in phrasesLemmatisees]
-    
     plt.figure()
     plt.hist(longueurs, bins=40)
     plt.xlabel('Longueur en mots')
     plt.ylabel('Nombre de phrases')
+    
+    # faire l'histogramme des normes des vecteurs du vocabulaire
+    normes = [np.log10(np.linalg.norm(v,ord=np.inf)) for v in vecteurs_vocabulaire]
+    plt.figure()
+    plt.hist(normes, bins=20)
+    plt.xlabel(r'$\log_{10}(\|x\|_{\infty})$')
+    plt.ylabel('Nombre de vecteurs')
+

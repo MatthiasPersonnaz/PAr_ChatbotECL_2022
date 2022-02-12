@@ -13,41 +13,47 @@ import tensorflow as tf
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.model_selection import train_test_split
 from tensorflow.keras import layers, losses
-from tensorflow.keras.datasets import fashion_mnist
+# from tensorflow.keras.datasets import fashion_mnist
 from tensorflow.keras.models import Model
+from keras.utils import plot_model
+from sklearn.preprocessing import normalize
 
 
 import gensim
 
 
 path = './word2vec_docs_scol_traités/'
-vec = np.load(path+'word2vec-phrases-vecteurs.npy')[:,:,:] # x premières phrases, 20 premiers mots de chaque phrase et toutes les dimensions
-s = np.shape(vec)
+vec = np.load(path+'word2vec-phrases-vecteurs.npy')[:,:10,:] # x premières phrases; x premiers mots de chaque phrase; dimensions
+dim = np.shape(vec)
+
+
+
 
 print(np.shape(vec))
-nb_phrases = s[0]
-nb_mots_max = s[1]
-embedding_dim = s[2]
-latent_dim = 128
+nb_phrases = dim[0]
+nb_mots_max = dim[1]
+embedding_dim = dim[2]
+
+latent_dim = 128 # dimension du vecteur de pensée
 
 
-d = nb_mots_max*embedding_dim
+d = nb_mots_max * embedding_dim
 
 
 class Autoencoder(Model):
     def __init__(self, latent_dim):
         super(Autoencoder, self).__init__()
-        self.latent_dim = latent_dim   
-
-
+        self.latent_dim = latent_dim
+        
         self.encoder = tf.keras.Sequential([
-          #layers.Flatten(),
-          layers.LSTM(128,activation='tanh', recurrent_activation='sigmoid',kernel_initializer='glorot_uniform',return_sequences=False),
+          layers.Flatten(),
+          #layers.LSTM(128, activation='tanh', recurrent_activation='sigmoid', kernel_initializer='glorot_uniform', return_sequences=False),
           layers.Dense(latent_dim, activation='tanh'),
         ])
+        
         self.decoder = tf.keras.Sequential([
           layers.Dense(d, activation='tanh'),
-          layers.Reshape(s[1:])
+          layers.Reshape(dim[1:])
         ])
 
     def call(self, x):
@@ -62,15 +68,16 @@ autoencoder.compile(optimizer='adam', loss=losses.CosineSimilarity(), metrics =[
 
 
 
-
-history = autoencoder.fit([vec, vec],
+history = autoencoder.fit(vec, vec,
                 epochs=20,
-                batch_size=4,
+                batch_size=16,
                 shuffle=True,
                 validation_data=(vec, vec),
                 validation_split=0.1)   # à vérifier si ça marche comme ça
-
 autoencoder.summary()
+
+
+
 
 
 phrases_encodees = autoencoder.encoder(vec).numpy()
@@ -78,8 +85,8 @@ phrases_decodees = autoencoder.decoder(phrases_encodees).numpy()
 
 plt.plot(history.history["cosine_similarity"])
 plt.grid()
-plt.xlabel("itération")
-plt.ylabel("similarité cosinus")
+plt.xlabel("epoch")
+plt.ylabel("cosine similarity")
 plt.title("métrique VS itération")
 np.linalg.norm(phrases_decodees[0][0]-vec[0][0])
 

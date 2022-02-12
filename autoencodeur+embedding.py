@@ -51,7 +51,7 @@ autoencoder.add(layers.LSTM(128,activation='tanh', recurrent_activation='sigmoid
 autoencoder.add(layers.Dense(latent_dim, activation='tanh'))
 autoencoder.add(layers.Dense(d, activation='tanh'))
 autoencoder.add(layers.Reshape((nb_mots_max,embedding_dim)))
-autoencoder.compile(optimizer='adam', loss=losses.CosineSimilarity(), metrics =["mse", "accuracy", "cosine_similarity"]) # "categorical_crossentropy" losses.MeanSquaredError() losses.CosineSimilarity()
+autoencoder.compile(optimizer='adam', loss=losses.CosineSimilarity(), metrics =["mse", "accuracy", "cosine_similarity"]) # autres possibilitiés "categorical_crossentropy" losses.MeanSquaredError() losses.CosineSimilarity()
 
 
 
