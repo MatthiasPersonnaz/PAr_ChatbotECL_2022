@@ -62,8 +62,9 @@ lemmatizedSentencesSpacy.append(['<end>'])
 
     
 skipgram = gensim.models.Word2Vec(sentences=lemmatizedSentencesSpacy, window=6, min_count=1, sg=1, vector_size=taille_vec_mot)
+skipgram.save("wvsurPhrasesFr.model")
 
-
+lemmatizedSentencesSpacy = lemmatizedSentencesSpacy[:-2]
 
 #skipgram.init_sims(replace=True)
 
@@ -190,7 +191,7 @@ plt.legend(['Entraînement', 'Test'], loc='upper left')
 plt.show()
 
 # Save model
-#model.save("s2sae")
+#model.save("surPhrasesFr")
 
 
 

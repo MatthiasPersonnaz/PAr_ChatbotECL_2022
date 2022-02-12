@@ -4,13 +4,13 @@ import gensim
 import matplotlib.pyplot as plt
 import random
 
-batch_size = 2 # Taille du lot pour l'entrainement
-epochs = 200  # Nombre de cycles d'entrainement
+batch_size = 32   # Batch size for training.
+epochs = 200  # Number of epochs to train for.
 latent_dim = 128*4   # Latent dimensionality of the encoding space.
-num_samples = 20  # Number of samples to train on.
-taille_vec_mot = 64
+num_samples = 1000  # Number of samples to train on.
+taille_vec_mot = 128
 # Path to the data txt file on disk.
-path = 'corpus.txt'
+path = 'FAQMasterInfo.txt'
 
 
 # Vectorize the data.
@@ -61,19 +61,14 @@ lemmatizedSentencesSpacy.append(['<begin>'])
 lemmatizedSentencesSpacy.append(['<end>'])
 
     
-skipgram = gensim.models.Word2Vec(sentences=lemmatizedSentencesSpacy, window=10, min_count=1, sg=1, vector_size=taille_vec_mot)
+skipgram = gensim.models.Word2Vec(sentences=lemmatizedSentencesSpacy, window=6, min_count=1, sg=1, vector_size=taille_vec_mot)
 
 
+#on enleve les begin et end
+lemmatizedSentencesSpacy = lemmatizedSentencesSpacy[:-2]
 
 #skipgram.init_sims(replace=True)
 
-
-#on enleve les phrases "<begin>" et "<end>"
-lemmatizedSentencesSpacy = lemmatizedSentencesSpacy[:-2]
-
-#on trie les phrases d'entrée par longueur
-
-lemmatizedSentencesSpacy = sorted(lemmatizedSentencesSpacy, key = len)
 
 
 entrees = [[skipgram.wv[u] for u in s] for s in lemmatizedSentencesSpacy]
@@ -102,10 +97,6 @@ decoder_input_data = np.zeros(
 decoder_target_data = np.zeros(
     (len(entrees), max_decoder_seq_length, taille_vec_mot), dtype="float32"
 )
-
-
-#il encode en one hot chac par char
-#/!\ 
 
 
 
@@ -142,7 +133,6 @@ decoder_inputs = keras.Input(shape=(None, taille_vec_mot))
 # return states in the training model, but we will use them in inference.
 decoder_lstm = keras.layers.LSTM(latent_dim, return_sequences=True, return_state=True)
 decoder_outputs, _, _ = decoder_lstm(decoder_inputs, initial_state=encoder_states)
-
 decoder_dense = keras.layers.Dense(taille_vec_mot, activation="tanh")
 decoder_outputs = decoder_dense(decoder_outputs)
 
@@ -151,23 +141,8 @@ decoder_outputs = decoder_dense(decoder_outputs)
 model = keras.Model([encoder_inputs, decoder_inputs], decoder_outputs)
 
 
-# ma reconstruction
-# ===================
-keras.Input(shape=(None, taille_vec_mot))
-keras.layers.LSTM(latent_dim, return_state=True)
-encoder_outputs, state_h, state_c = préc(encoder_inputs)
-
-encoder_states = [state_h, state_c]
-
-dec_in = keras.Input(shape=(None, taille_vec_mot))
-keras.layers.LSTM(latent_dim, return_sequences=False, return_state=False)(precédent, initial_state=encoder_states)
-keras.layers.Dense(taille_vec_mot, activation="tanh")
-# ===================
-
-
-
 model.compile(
-    optimizer="adam", loss='mse', metrics=["accuracy","mse","cosine_similarity"]
+    optimizer="adam", loss='cosine_similarity', metrics=["accuracy","mse","cosine_similarity"]
 )
 #model.compile(
 #    optimizer="rmsprop", loss="categorical_crossentropy", metrics=["accuracy"]
@@ -200,7 +175,7 @@ plt.plot(history.history['val_loss'])
 plt.ylabel('Loss')
 plt.xlabel('epoch')
 plt.legend(['Entraînement', 'Test'], loc='upper left')
-
+plt.show()
 
 
 plt.figure(3)
@@ -213,7 +188,7 @@ plt.legend(['Entraînement', 'Test'], loc='upper left')
 plt.show()
 
 # Save model
-#model.save("s2sae")
+#model.save("surFAQ")
 
 
 
@@ -280,7 +255,7 @@ def decode_sequence(input_seq):
 
 print("Des tests")
 
-for i in range(3):
+for i in range(20):
     seq_index = random.randint(0,len(entrees)-2)
     # Take one sequence (part of the training set)
     # for trying out decoding.
