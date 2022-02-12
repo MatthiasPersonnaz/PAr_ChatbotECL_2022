@@ -277,7 +277,7 @@ if __name__ == "__main__":
     print("commencement segmentation+tokénisation+lemmatisation\n")
     sentences = wr.segmenterTexteNLTK()
     model = 'fr_core_news_sm'
-    print("importation du modèle spacy "+model)
+    print("importation du modèle spacy "+model+"\n")
     wr.definirModeleSpacy(model) #fr_core_news_sm erreur cursus fr_core_news_md fr_dep_news_trf
     print("tokénisation des phrases\n")
     phrases = wr.segmenterTexteNLTK() # semble plus rapide et moins gourmand que Spacy
@@ -327,7 +327,7 @@ if __name__ == "__main__":
     print(f'enregistrement vocabulaire et vecteurs et modèle {wr.mode} terminé\n')
     
     
-    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 20] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
+    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 1000] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
     
     tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesLemmatiseesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
     wr.enregistrerTenseur(tenseurPhrasesWV,'word2vec-phrases-vecteurs.npy')
@@ -347,15 +347,19 @@ if __name__ == "__main__":
     
     # faire l'histogramme de la longueur des phrases en mots:
     longueurs = [len(i) for i in phrasesLemmatisees]
-    plt.figure()
+    plt.figure(dpi=600)
+    plt.title('Répartition des longueurs des phrases')
     plt.hist(longueurs, bins=40)
     plt.xlabel('Longueur en mots')
     plt.ylabel('Nombre de phrases')
+    plt.savefig(path+'repartition-longueurs-phrases.png')
     
     # faire l'histogramme des normes des vecteurs du vocabulaire
     normes = [np.log10(np.linalg.norm(v,ord=np.inf)) for v in vecteurs_vocabulaire]
-    plt.figure()
+    plt.figure(dpi=600)
+    plt.title('Répartition des normes des vecteurs des mots')
     plt.hist(normes, bins=20)
     plt.xlabel(r'$\log_{10}(\|x\|_{\infty})$')
     plt.ylabel('Nombre de vecteurs')
+    plt.savefig(path+'repartition-normes-vecteurs-vocabulaire.png')
 
