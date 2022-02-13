@@ -11,9 +11,10 @@ Les modèles de word2vec et d'encodage sont créés dans les fichiers Auto-Encod
 
 À la base, vous trouverez:
 * dans le fichier `word2vec.py` le code pour fabriquer le Word2Vec sur les documents de scolarité (se trouvant dans le dossier `documents_scolarité`), dont les résultats des calculs (modèle Gensim, phrases lemmatisées et extraites, fichiers binaires des vecteurs et vocabulaire) se trouvent dans `word2vec_docs_scol_traités`.
-* dans le fichier `autoencodeur.py` un code d'autoencodeur classique sans résultats probant (avec des couches denses)
-* dans le fichier `autoencodeur2.py` un code d'autoencodeur simple à base de LSTM, sans pouvoir récupérer les vecteurs de contexte
-* dans le fichier `autoencodeur3.py` un code d'autoencodeur permettant de récupérer les vecteurs de contexte
+* dans le fichier `autoencodeur.py` un code d'autoencodeur classique sans résultats probant (avec des couches denses);
+* dans le fichier `autoencodeur2.py` un code d'autoencodeur simple à base de LSTM, sans pouvoir récupérer les vecteurs de contexte;
+* dans le fichier `autoencodeur3.py` un code d'autoencodeur permettant de récupérer les vecteurs de contexte;
+* dans le fichier `acquisition-docs-scol` des méthodes qui ont servi à extraire le texte des documents PDF de la scolarité, ces codes ne servent plus et les acquisitions de texte ont été finalisées et nettoyées à la main, donc ne surtout pas exécuter à nouveau son contenu.
 
 # Installer TensorFlow
 Ci-dessous, la méthode qui a servi à installer TensorFlow avec les versions compativles de cudnn
