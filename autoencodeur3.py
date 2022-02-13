@@ -36,7 +36,7 @@ embedding_dim = dim[2] # features    (dim du word2vec)
 
 
 
-latent_dim = 256 # dimension du vecteur de pensée
+latent_dim = 128 # dimension du vecteur de pensée
 
 
 d = nb_mots_max * embedding_dim
@@ -48,19 +48,19 @@ class Autoencoder(Model):
     def __init__(self):
         super(Autoencoder, self).__init__()
         
-        self.state_h = tf.keras.Input(shape=(None,latent_dim))
-        self.state_c = tf.keras.Input(shape=(None,latent_dim))
+        self.hidden_state = tf.keras.Input(shape=(None,latent_dim))
+        self.cell_state = tf.keras.Input(shape=(None,latent_dim))
         
         # layers
-        self.encoder_lstm = layers.LSTM(latent_dim, return_sequences=True, return_state=True)
-        self.decoder_lstm = layers.LSTM(latent_dim, return_sequences=True, return_state=False)
-        self.decoder_dense = layers.Dense(embedding_dim, activation='tanh')
+        self.enc_lstm = layers.LSTM(latent_dim, return_sequences=True, return_state=True)
+        self.dec_lstm = layers.LSTM(latent_dim, return_sequences=True, return_state=False)
+        self.dec_dense = layers.Dense(embedding_dim, activation='tanh')
 
             
-    def call(self,encoder_input):
-        encoder_output, self.state_h, self.state_c = self.encoder_lstm(encoder_input)
-        decoder_output = self.decoder_lstm(encoder_output, initial_state=[self.state_h,self.state_c])
-        final_output = self.decoder_dense(decoder_output)
+    def call(self,enc_in):
+        enc_out, self.hidden_state, self.cell_state = self.enc_lstm(enc_in)
+        dec_out = self.dec_lstm(enc_out, initial_state=[self.hidden_state,self.cell_state])
+        final_output = self.dec_dense(dec_out)
         return final_output
     
 
@@ -84,7 +84,7 @@ plot_model(autoencoder,
 
 
 history = autoencoder.fit(vec, vec,
-                epochs=400,
+                epochs=600,
                 batch_size=32,
                 shuffle=True,
                 validation_data=(vec, vec),
@@ -144,7 +144,22 @@ phrases = ["vous pouvoir demander un mobilité à le commission de école",
            "le directeur pouvoir accorder un césure sans informer",
            "le jury renvoyer le directeur car il ne avoir pas valider tout son semestre"]
  
+
+phrases = ["vous pouvez demander une mobilité à la commission de l' école",
+           "l' école centrale de lyon est une école d' ingénieur",
+           "vous devez donc le contacter en amont pour l' en informer",
+           "le directeur peut accorder une césure sans informer",
+           "le jury doit renvoyer le directeur , car il n' a pas validé tous ses semestres dans la mesure où son redoublement est autorisé par cette commission"]
+
+
 for phrase in phrases:
     print(phrase+'\n'+autoencodeur(phrase)+'\n\n')
+    
+    
+    
+# autoencoder.save('./models/autoencoder3')
+
+# autoencoder = tf.keras.models.load_model('./models/autoencoder3')
+
 
 

@@ -66,7 +66,7 @@ class WordEmbedding():
     def tokeniserPhrasesNLTK(self,phrases):
         '''prend en entrée phrases: liste de strings
            tokénise les phrases en tokens avec NLTK
-           renvoie une liste d'élements de type string'''
+           renvoie une liste d'élements de type str list'''
         return [nltk.tokenize.word_tokenize(s, language='french') for s in phrases]
     
     ## SPACY
@@ -91,12 +91,19 @@ class WordEmbedding():
            en éléments de type spacy.tokens.token.Token'''
         return [self.nlp(s) for s in phrases]
     
+    def tokenPhrases2strPhrasesSpacy(self,phrases):
+        '''prend en entrée phrases: liste de strings
+           tokénise les phrases en tokens avec Spacy
+           renvoie une str list list'''
+        return [[token.text.lower() for token in doc]for doc in phrases]
     
     def visualiserArbreDependancePhrase(self,s):
         '''renvoie l'arbre de dépendance d'une phrase s de type string'''
         doc = self.nlp(s)
         spacy.displacy.serve(doc, style="dep")
-        
+
+
+
     def visualiserTokensPhrase(self,s):
         for token in self.nlp(s):
             print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop, token.morph, token.sentiment, token. ent_type, token.ent_type_, token.dep)
@@ -223,10 +230,11 @@ class WordEmbedding():
         
         
     def modele2vecteursWV(self,model,nbmax=-1):
-        '''renvoie la liste des nbmax premiers mots sous la forme d'une liste
-        et leurs vecteurs sous la forme d'un array'''
-        whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
-        mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None and word not in stopwordsSpacy]
+        '''renvoie
+                la liste des nbmax premiers mots sous la forme d'une liste
+                et leurs vecteurs sous la forme d'un array'''
+        # whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
+        mots = [word for word in model.wv.index_to_key] # if whitelist.search(word) is None and word not in stopwordsSpacy]
         vecteurs = np.empty((len(mots), self.dimensionEmbedding), dtype='f')
         for i in range(len(mots)):
             vecteurs[i] = model.wv[mots[i]]
@@ -286,6 +294,8 @@ if __name__ == "__main__":
     print("phrases tokénisées et enregistrées !\n")
     
     
+    
+    
     #%% CHUNKING
     print('lemmatisation des phrases\n')
     phrasesLemmatisees = wr.lemmatiserPhrasesSpacy(phrasesTokeniseesSpacy)
@@ -294,7 +304,7 @@ if __name__ == "__main__":
     phrasesLemmatiseesEclatees = [p.split(' ') for p in phrasesLemmatisees]
     phrasesSimplifieesEclatees = [p.split(' ') for p in phrasesSimplifiees]
     
-    
+    phrasesDecoupeesSpacy = wr.tokenPhrases2strPhrasesSpacy(phrasesTokeniseesSpacy)
     
     print('enregistrement des phrases lemmatisées\n')
     wr.enregistrerPhrases(phrasesLemmatisees,'phrases-lemmatisées.txt')
@@ -308,7 +318,9 @@ if __name__ == "__main__":
     taille_fenetre = 5
     
     print('commencement word2vec\n')
-    skipgram = wr.word2vec(phrasesLemmatiseesEclatees,dimension=dimension,taille_fenetre=taille_fenetre,mode=1)
+    # création d'un pointeur sur (ou définition de) l'ensemble de phrases choisi
+    phrasesSkipgram = phrasesDecoupeesSpacy
+    skipgram = wr.word2vec(phrasesSkipgram,dimension=dimension,taille_fenetre=taille_fenetre,mode=1)
     print("word2vec achevé\n")
     
     skipgram.save(path+f"{wr.mode}.model")
@@ -327,12 +339,12 @@ if __name__ == "__main__":
     print(f'enregistrement vocabulaire et vecteurs et modèle {wr.mode} terminé\n')
     
     
-    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 1000] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
+    phrasesSkipgram = [p for p in phrasesSkipgram if len(p) <= 1000] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
     
-    tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesLemmatiseesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
+    tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesSkipgram) # le second argument doit correspondre aux phrases données pour la création du word2vec
     wr.enregistrerTenseur(tenseurPhrasesWV,'word2vec-phrases-vecteurs.npy')
     
-    tenseurPhrasesOHE = wr.phrases2tenseurOHE(skipgram,phrasesLemmatiseesEclatees)
+    tenseurPhrasesOHE = wr.phrases2tenseurOHE(skipgram,phrasesSkipgram)
     wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
     
     #%% VISUALISATIONS
