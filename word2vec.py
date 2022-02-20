@@ -27,14 +27,24 @@ print('\nimportation des bibliothèques achevée\n')
 
 
 # création des ensembles de stopwords
-
-
-
 from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
 
 stopwordsNLTK = set(nltk.corpus.stopwords.words('french'))
 
 
+from gensim.test.utils import common_texts, get_tmpfile
+from gensim.models.callbacks import CallbackAny2Vec
+
+class callback(CallbackAny2Vec): # pour avoir un rendu verbose du word2vec
+    '''Callback to print loss after each epoch.'''
+
+    def __init__(self):
+        self.epoch = 0
+
+    def on_epoch_end(self, model):
+        loss = model.get_latest_training_loss()
+        print('Loss after epoch {}: {}'.format(self.epoch, loss))
+        self.epoch += 1
 
 # librement inspiré du tutpo Gensim sur Kaggle
 class WordEmbedding():
@@ -149,13 +159,13 @@ class WordEmbedding():
     
     
     
-    def word2vec(self,phrases,dimension=250,taille_fenetre=6,mode=1):
+    def word2vec(self,phrases,dimension=250,taille_fenetre=6,mode=1,iterations=5):
         '''phrases doit être une liste de liste de strings dont chacun est un mot
            mode 1 pour skip gram, 0 pour cbow'''
         self.dimensionEmbedding = dimension
         self.win_size = taille_fenetre
         self.mode = 'Skip-Gram' if mode == 1 else 'CBOW'
-        return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4) 
+        return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4,epochs=iterations,callbacks=[callback()]) 
   
             
         
@@ -177,7 +187,7 @@ class WordEmbedding():
         for i in range(np.shape(Y)[0]):
             ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
         plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimensionEmbedding} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
-
+        plt.savefig(self.path+f'./word2vec-dim{dimension}-pca{pca_components}-freq{np.shape(vecteurs)[-1]}.pdf')
 
     
     
@@ -233,8 +243,8 @@ class WordEmbedding():
         '''renvoie
                 la liste des nbmax premiers mots sous la forme d'une liste
                 et leurs vecteurs sous la forme d'un array'''
-        # whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
-        mots = [word for word in model.wv.index_to_key] # if whitelist.search(word) is None and word not in stopwordsSpacy]
+        whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
+        mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None and word not in stopwordsSpacy]
         vecteurs = np.empty((len(mots), self.dimensionEmbedding), dtype='f')
         for i in range(len(mots)):
             vecteurs[i] = model.wv[mots[i]]
@@ -316,11 +326,12 @@ if __name__ == "__main__":
     #%% WORD2VEC
     dimension = 64
     taille_fenetre = 5
+    iterations = 20
     
     print('commencement word2vec\n')
     # création d'un pointeur sur (ou définition de) l'ensemble de phrases choisi
     phrasesSkipgram = phrasesDecoupeesSpacy
-    skipgram = wr.word2vec(phrasesSkipgram,dimension=dimension,taille_fenetre=taille_fenetre,mode=1)
+    skipgram = wr.word2vec(phrasesSkipgram,dimension=dimension,taille_fenetre=taille_fenetre,mode=1,iterations=iterations)
     print("word2vec achevé\n")
     
     skipgram.save(path+f"{wr.mode}.model")
@@ -348,11 +359,11 @@ if __name__ == "__main__":
     wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
     
     #%% VISUALISATIONS
-    pca = 40
+    pca = 55
     nbcat = 4
     nbmots = 70
     wr.visualiserMotsFrequentsCategorises(skipgram,nbmots,pca,nbcat)
-    # plt.savefig(f'./word2vec-dim{dimension}-pca{pca}-freq{nbmots}.pdf')
+    
     
     
     
