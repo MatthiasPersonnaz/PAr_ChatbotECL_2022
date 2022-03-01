@@ -1,0 +1,1 @@
+Un avis negatif est un element defavorable important pour la validation d'un Parcours par compensation d'UE.

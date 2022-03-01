@@ -1,1 +1,0 @@
-ENSAL = diplôme d'état d'Architecte valant grade de master de l'École Nationale Supérieure d'Architecture de Lyon.

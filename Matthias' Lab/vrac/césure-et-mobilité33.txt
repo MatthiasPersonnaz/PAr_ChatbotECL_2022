@@ -1,0 +1,1 @@
+Lors d'une annee de cesure, l'eleve conserve son statut d'etudiant.

@@ -1,0 +1,1 @@
+En cas de validation par compensation d'une UE, la note obtenue pour l'UE, la note obtenue pour l'UE validée par le Jury n'est pas modifiée dans la fiche de synthèse de l'élève; la validation par compensation y est explicitement mentionnée.

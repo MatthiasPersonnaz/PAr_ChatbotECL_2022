@@ -1,0 +1,1 @@
+L'Ecole evalue le stage effectue par un eleve sur la base de l'appreciation donnee par la structure d'accueil, sur le travail effectue par l'eleve ainsi que sur celle d'un rapport etou d'une presentation orale devant un jury.

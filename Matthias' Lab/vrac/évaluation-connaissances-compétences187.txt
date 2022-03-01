@@ -1,0 +1,1 @@
+Afin d'evaluer si l'eleve est insuffisant en Savoir, les indicateurs globaux suivants sont calcules : les sommes ponderees des notes de Savoir de l'eleve pour les differentes UE, par semestre et sur le parcours complet.

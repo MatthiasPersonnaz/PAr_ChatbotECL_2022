@@ -1,0 +1,1 @@
+Dans ces sommes, le coefficient de ponderation affecte a une note de Savoir d'UE est calcule a partir du coefficient de ponderation de la note de Savoir de l'UE dans le calcul de la note globale de l'UE ponderee par le nombre de credits ECTS de l'UE.

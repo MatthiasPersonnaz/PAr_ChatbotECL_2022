@@ -1,0 +1,1 @@
+ECL = diplôme d'ingénieur de l'École Centrale de Lyon.

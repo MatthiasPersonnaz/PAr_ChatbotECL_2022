@@ -1,0 +1,1 @@
+A defaut de prevenir le Service de la Scolarite, s'il ne s'agit pas d'une absence autorisee telle que definie, l'eleve ou l'auditeur aura la note de  a cette epreuve, s'il y a participe en premiere session.

@@ -1,0 +1,1 @@
+Par exemple, une note de Savoir peut consister en une somme pondérée de notes d'examens théoriques et une note de Savoir-Faire en une somme pondérée de notes de Travaux Pratiques.

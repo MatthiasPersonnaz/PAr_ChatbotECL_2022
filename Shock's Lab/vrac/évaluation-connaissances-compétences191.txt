@@ -1,1 +1,0 @@
-Un element defavorable a la validation par compensation est que l'une de ces deux notes soit strictement inferieure a un seuil de .

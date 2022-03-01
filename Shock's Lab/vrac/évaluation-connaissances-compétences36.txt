@@ -1,1 +1,0 @@
-La note globale d'une Action de Formation est obtenue par une somme ponderee des differentes notes de Savoir et de SavoirFaire de l'Action de Formation.

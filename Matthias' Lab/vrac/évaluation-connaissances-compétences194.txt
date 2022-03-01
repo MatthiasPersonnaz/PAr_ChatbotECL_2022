@@ -1,0 +1,1 @@
+Un element defavorable a la validation par compensation est que l'application de cette regle conclue que l'acquisition des competences n'est pas satisfaisante.

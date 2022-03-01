@@ -1,1 +1,0 @@
-ENSALECL correspond aux eleves de l'Ecole Nationale Superieure d'Architecture de Lyon admisen premiere annee;ENSLECL  correspond aux eleves de l'Ecole Normale Superieure de Lyon admis en deuxieme annee.

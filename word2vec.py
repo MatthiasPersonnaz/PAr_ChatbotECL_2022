@@ -27,14 +27,24 @@ print('\nimportation des bibliothèques achevée\n')
 
 
 # création des ensembles de stopwords
-
-
-
 from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
 
 stopwordsNLTK = set(nltk.corpus.stopwords.words('french'))
 
 
+from gensim.test.utils import common_texts, get_tmpfile
+from gensim.models.callbacks import CallbackAny2Vec
+
+class callback(CallbackAny2Vec): # pour avoir un rendu verbose du word2vec
+    '''Callback to print loss after each epoch.'''
+
+    def __init__(self):
+        self.epoch = 0
+
+    def on_epoch_end(self, model):
+        loss = model.get_latest_training_loss()
+        print('Loss after epoch {}: {}'.format(self.epoch, loss))
+        self.epoch += 1
 
 # librement inspiré du tutpo Gensim sur Kaggle
 class WordEmbedding():
@@ -66,7 +76,7 @@ class WordEmbedding():
     def tokeniserPhrasesNLTK(self,phrases):
         '''prend en entrée phrases: liste de strings
            tokénise les phrases en tokens avec NLTK
-           renvoie une liste d'élements de type string'''
+           renvoie une liste d'élements de type str list'''
         return [nltk.tokenize.word_tokenize(s, language='french') for s in phrases]
     
     ## SPACY
@@ -91,12 +101,19 @@ class WordEmbedding():
            en éléments de type spacy.tokens.token.Token'''
         return [self.nlp(s) for s in phrases]
     
+    def tokenPhrases2strPhrasesSpacy(self,phrases):
+        '''prend en entrée phrases: liste de strings
+           tokénise les phrases en tokens avec Spacy
+           renvoie une str list list'''
+        return [[token.text.lower() for token in doc]for doc in phrases]
     
     def visualiserArbreDependancePhrase(self,s):
         '''renvoie l'arbre de dépendance d'une phrase s de type string'''
         doc = self.nlp(s)
         spacy.displacy.serve(doc, style="dep")
-        
+
+
+
     def visualiserTokensPhrase(self,s):
         for token in self.nlp(s):
             print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop, token.morph, token.sentiment, token. ent_type, token.ent_type_, token.dep)
@@ -142,13 +159,13 @@ class WordEmbedding():
     
     
     
-    def word2vec(self,phrases,dimension=250,taille_fenetre=6,mode=1):
+    def word2vec(self,phrases,dimension=250,taille_fenetre=6,mode=1,iterations=5):
         '''phrases doit être une liste de liste de strings dont chacun est un mot
            mode 1 pour skip gram, 0 pour cbow'''
         self.dimensionEmbedding = dimension
         self.win_size = taille_fenetre
         self.mode = 'Skip-Gram' if mode == 1 else 'CBOW'
-        return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4) 
+        return gensim.models.Word2Vec(sentences=phrases, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4,epochs=iterations,callbacks=[callback()]) 
   
             
         
@@ -170,7 +187,7 @@ class WordEmbedding():
         for i in range(np.shape(Y)[0]):
             ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
         plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimensionEmbedding} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
-
+        plt.savefig(self.path+f'./word2vec-dim{dimension}-pca{pca_components}-freq{np.shape(vecteurs)[-1]}.pdf')
 
     
     
@@ -223,8 +240,9 @@ class WordEmbedding():
         
         
     def modele2vecteursWV(self,model,nbmax=-1):
-        '''renvoie la liste des nbmax premiers mots sous la forme d'une liste
-        et leurs vecteurs sous la forme d'un array'''
+        '''renvoie
+                la liste des nbmax premiers mots sous la forme d'une liste
+                et leurs vecteurs sous la forme d'un array'''
         whitelist = regex.compile('[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzôûâîàéêçèùÉÀÈÇÂÊÎÔÛÄËÏÖÜÀÇÉÈÙ]')
         mots = [word for word in model.wv.index_to_key if whitelist.search(word) is None and word not in stopwordsSpacy]
         vecteurs = np.empty((len(mots), self.dimensionEmbedding), dtype='f')
@@ -277,13 +295,15 @@ if __name__ == "__main__":
     print("commencement segmentation+tokénisation+lemmatisation\n")
     sentences = wr.segmenterTexteNLTK()
     model = 'fr_core_news_sm'
-    print("importation du modèle spacy "+model)
+    print("importation du modèle spacy "+model+"\n")
     wr.definirModeleSpacy(model) #fr_core_news_sm erreur cursus fr_core_news_md fr_dep_news_trf
     print("tokénisation des phrases\n")
     phrases = wr.segmenterTexteNLTK() # semble plus rapide et moins gourmand que Spacy
     phrasesTokeniseesSpacy = wr.tokeniserPhrasesSpacy(phrases)
     wr.enregistrerPhrases(phrasesTokeniseesSpacy,'phrases.txt')
     print("phrases tokénisées et enregistrées !\n")
+    
+    
     
     
     #%% CHUNKING
@@ -294,7 +314,7 @@ if __name__ == "__main__":
     phrasesLemmatiseesEclatees = [p.split(' ') for p in phrasesLemmatisees]
     phrasesSimplifieesEclatees = [p.split(' ') for p in phrasesSimplifiees]
     
-    
+    phrasesDecoupeesSpacy = wr.tokenPhrases2strPhrasesSpacy(phrasesTokeniseesSpacy)
     
     print('enregistrement des phrases lemmatisées\n')
     wr.enregistrerPhrases(phrasesLemmatisees,'phrases-lemmatisées.txt')
@@ -306,9 +326,12 @@ if __name__ == "__main__":
     #%% WORD2VEC
     dimension = 64
     taille_fenetre = 5
+    iterations = 20
     
     print('commencement word2vec\n')
-    skipgram = wr.word2vec(phrasesLemmatiseesEclatees,dimension=dimension,taille_fenetre=taille_fenetre,mode=1)
+    # création d'un pointeur sur (ou définition de) l'ensemble de phrases choisi
+    phrasesSkipgram = phrasesDecoupeesSpacy
+    skipgram = wr.word2vec(phrasesSkipgram,dimension=dimension,taille_fenetre=taille_fenetre,mode=1,iterations=iterations)
     print("word2vec achevé\n")
     
     skipgram.save(path+f"{wr.mode}.model")
@@ -327,35 +350,39 @@ if __name__ == "__main__":
     print(f'enregistrement vocabulaire et vecteurs et modèle {wr.mode} terminé\n')
     
     
-    phrasesLemmatiseesEclatees = [p for p in phrasesLemmatiseesEclatees if len(p) <= 20] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
+    phrasesSkipgram = [p for p in phrasesSkipgram if len(p) <= 1000] # ne sélectionner que les phrases les plus courtes pour l'autoencodeur
     
-    tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesLemmatiseesEclatees) # le second argument doit correspondre aux phrases données pour la création du word2vec
+    tenseurPhrasesWV = wr.phrases2tenseurWV(skipgram,phrasesSkipgram) # le second argument doit correspondre aux phrases données pour la création du word2vec
     wr.enregistrerTenseur(tenseurPhrasesWV,'word2vec-phrases-vecteurs.npy')
     
-    tenseurPhrasesOHE = wr.phrases2tenseurOHE(skipgram,phrasesLemmatiseesEclatees)
+    tenseurPhrasesOHE = wr.phrases2tenseurOHE(skipgram,phrasesSkipgram)
     wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
     
     #%% VISUALISATIONS
-    pca = 40
+    pca = 55
     nbcat = 4
     nbmots = 70
     wr.visualiserMotsFrequentsCategorises(skipgram,nbmots,pca,nbcat)
-    # plt.savefig(f'./word2vec-dim{dimension}-pca{pca}-freq{nbmots}.pdf')
+    
     
     
     
     
     # faire l'histogramme de la longueur des phrases en mots:
     longueurs = [len(i) for i in phrasesLemmatisees]
-    plt.figure()
+    plt.figure(dpi=600)
+    plt.title('Répartition des longueurs des phrases')
     plt.hist(longueurs, bins=40)
     plt.xlabel('Longueur en mots')
     plt.ylabel('Nombre de phrases')
+    plt.savefig(path+'repartition-longueurs-phrases.png')
     
     # faire l'histogramme des normes des vecteurs du vocabulaire
     normes = [np.log10(np.linalg.norm(v,ord=np.inf)) for v in vecteurs_vocabulaire]
-    plt.figure()
+    plt.figure(dpi=600)
+    plt.title('Répartition des normes des vecteurs des mots')
     plt.hist(normes, bins=20)
     plt.xlabel(r'$\log_{10}(\|x\|_{\infty})$')
     plt.ylabel('Nombre de vecteurs')
+    plt.savefig(path+'repartition-normes-vecteurs-vocabulaire.png')
 

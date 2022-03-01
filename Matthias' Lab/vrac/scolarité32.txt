@@ -1,0 +1,1 @@
+Une Action de Formation est un ensemble coherent d'activites planifiees : Cours Magistraux, Travaux Diriges, Travaux Pratiques, Bureaux d'Etudes, etc.

@@ -1,1 +1,0 @@
-Une UE est dite validee si une somme ponderee des evaluations chiffrees des connaissances et competences des Action de Formation de l'Unite d'Enseignement est superieure ou egale a  sauf regles specifiques de validation.

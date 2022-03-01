@@ -1,0 +1,1 @@
+Pour qu'une composante soit validee, l'eleve doit obtenir au moins une fois le niveau acquis au niveau competent.

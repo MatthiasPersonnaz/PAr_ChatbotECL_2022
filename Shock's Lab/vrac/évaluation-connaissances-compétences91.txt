@@ -1,1 +1,0 @@
-La validation d'une Unite d'Enseignement Professionnelle est basee sur la realisation d'activites de l'UE par l'eleve et sur une evaluation du Savoir etou SavoirFaire.
