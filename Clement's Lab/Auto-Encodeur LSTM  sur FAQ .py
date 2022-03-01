@@ -175,7 +175,7 @@ plt.plot(history.history['val_loss'])
 plt.ylabel('Loss')
 plt.xlabel('epoch')
 plt.legend(['Entraînement', 'Test'], loc='upper left')
-plt.show()
+
 
 
 plt.figure(3)
