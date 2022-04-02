@@ -25,6 +25,7 @@ nlp = spacy.load('fr_core_news_sm')
 print('modèle spacy importé\n')
 
 path = './word2vec_docs_scol_traités/'
+path_fig = './word2vec_docs_scol_traités/figures-rapport-études-sémantique/'
 
 with open(path+'corpus.txt', 'r', encoding="utf-8") as f:
     text = f.read()
@@ -100,7 +101,7 @@ def visualiserMotsFrequentsCategorises(model,nb_quiver=70,pca_components=10,nbca
     for i in range(np.shape(Y)[0]):
         ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
     plt.title(f'Les {nb_quiver} mots les plus fréquents sur {len(model.wv)}\nDimension départ {dimension} +PCA -> {pca_components} + t-SNE -> 2\n{"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}, {iterations} itérations', size='medium')
-    plt.savefig(path+f'word2vec_pca_dim{dimension}.pdf')
+    plt.savefig(path_fig+f'word2vec_pca_dim{dimension}.pdf')
     plt.show()
     
 def visualiserMatriceCorrelation(model,nb_cor=15):
@@ -117,7 +118,7 @@ def visualiserMatriceCorrelation(model,nb_cor=15):
     plt.xticks(range(nb_cor), mots_selectionnes[:nb_cor], rotation=65, fontsize=10)
     plt.yticks(range(nb_cor), mots_selectionnes[:nb_cor], rotation='horizontal', fontsize=10)
     plt.title(f'Matrice de corrélation des \n{nb_cor} mots les plus fréquents\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"}; fenêtre {taille_fenetre}; {iterations} itérations', size=15)
-    plt.savefig(path+f'matrice_correlation_dim{dimension}.pdf',bbox_inches='tight')
+    plt.savefig(path_fig+f'matrice_correlation_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
 
 def visualiserVecteursGraphes(model,nb_vec=15):
@@ -130,7 +131,7 @@ def visualiserVecteursGraphes(model,nb_vec=15):
         plt.plot(vecteurs[i])
     plt.grid(False)
     plt.title(f'Vecteurs des {nb_vec} mots les plus fréquents\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"}; fenêtre {taille_fenetre}; {iterations} itérations', size=15)
-    plt.savefig(path+f'vecteurs_graphes_dim{dimension}.pdf',bbox_inches='tight')
+    plt.savefig(path_fig+f'vecteurs_graphes_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
 
 
@@ -149,7 +150,7 @@ def visualiserValeursDimensions(model,nb_vec):
         ax.set_xlabel('valeur sur l\'axe de la dimension')
         ax.set_ylabel('nombre de mots')
     fig.suptitle(f'Distribution des valeurs sur les {nb_vec} premiers mots les plus fréquents de l\'embedding\n\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations', size=15)
-    plt.savefig(path+f'distributions_dimensions_dim{dimension}.pdf',bbox_inches='tight')
+    plt.savefig(path_fig+f'distributions_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
 
 def visualiserCorrelationsDimensions(model,nb_dim):
@@ -160,7 +161,7 @@ def visualiserCorrelationsDimensions(model,nb_dim):
     plt.matshow(mat_cor,cmap='RdBu')
     plt.colorbar()
     plt.title(rf'Corrélation des dimensions: $\|M\|_2/d^2=${round(norm,4)} '+f'\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations')
-    plt.savefig(path+f'correlation_dimensions_dim{dimension}.pdf',bbox_inches='tight')
+    plt.savefig(path_fig+f'correlation_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
 
 def visualiserDistributionsDimensions(model,nb_dim):
@@ -168,7 +169,7 @@ def visualiserDistributionsDimensions(model,nb_dim):
     plt.boxplot(vecteurs,showfliers=False)
     plt.grid(True)
     plt.title(f'Données statistique des dimensions\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations')
-    plt.savefig(path+f'boxgraph_dimensions_dim{dimension}.pdf',bbox_inches='tight')
+    plt.savefig(path_fig+f'boxgraph_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
     
     
