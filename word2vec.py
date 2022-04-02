@@ -7,7 +7,9 @@ import gensim
 import nltk
 import matplotlib
 
+
 import sklearn
+from sklearn.metrics import confusion_matrix
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from sklearn.cluster import KMeans
@@ -188,6 +190,22 @@ class WordEmbedding():
             ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
         plt.title(f'Visualisation des {nbmax} mots les plus fréquents sur {len(model.wv)}\nDimension départ {self.dimensionEmbedding} +PCA -> {pca_components} + t-SNE -> 2\nSkip-gram fenêtre {self.win_size}', size='medium')
         plt.savefig(self.path+f'./word2vec-dim{dimension}-pca{pca_components}-freq{np.shape(vecteurs)[-1]}.pdf')
+        
+        
+        for i in range(len(mots_selectionnes)):
+            vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
+
+        mat_corr_np = np.dot(vecteurs,np.transpose(vecteurs)) 
+
+        plt.figure(figsize = (8,8))
+        plt.imshow(mat_corr_np,cmap='GnBu')
+        plt.colorbar()
+        plt.grid(False)
+        plt.xticks(range(len(mots_selectionnes)), mots_selectionnes, rotation=65, fontsize=10)
+        plt.yticks(range(len(mots_selectionnes)), mots_selectionnes, rotation='horizontal', fontsize=10)
+        plt.title(f'Matrice de corrélation des \n{nbmax} mots les plus fréquents', size=15)
+        plt.savefig(self.path+f'matrice_correlation_{nbmax}.pdf',bbox_inches='tight')
+        plt.show()
 
     
     
@@ -285,6 +303,7 @@ class WordEmbedding():
         with open(self.path+fichier_vocabulaire, 'w', encoding='utf-8') as f:
             f.write('\n'.join(vocabulaire))
     
+
     
 if __name__ == "__main__":
     #%% PRÉTRAITEMENT NLP
@@ -326,7 +345,7 @@ if __name__ == "__main__":
     #%% WORD2VEC
     dimension = 64
     taille_fenetre = 5
-    iterations = 20
+    iterations = 10
     
     print('commencement word2vec\n')
     # création d'un pointeur sur (ou définition de) l'ensemble de phrases choisi
@@ -359,9 +378,9 @@ if __name__ == "__main__":
     wr.enregistrerTenseur(tenseurPhrasesOHE,'onehotenc-phrases-vecteurs.npy')
     
     #%% VISUALISATIONS
-    pca = 55
+    pca = 10
     nbcat = 4
-    nbmots = 70
+    nbmots = 25
     wr.visualiserMotsFrequentsCategorises(skipgram,nbmots,pca,nbcat)
     
     
@@ -386,3 +405,25 @@ if __name__ == "__main__":
     plt.ylabel('Nombre de vecteurs')
     plt.savefig(path+'repartition-normes-vecteurs-vocabulaire.png')
 
+
+    #%% OBSERVER LA REPARTITION DES VECTEURS DANS LA SPHERE
+    pca3 = PCA(n_components=3)
+    vect = vecteurs_vocabulaire.copy()
+    s = vect.shape
+    # for i in range(s[0]):
+    #     vect[i,:] = vect[i,:]/np.linalg.norm(vect[i,:])
+    vect_pca = pca3.fit_transform(vect)
+    
+    # for i in range(s[0]):
+    #     vect_pca[i,:] = vect_pca[i,:]/np.linalg.norm(vect_pca[i,:])
+        
+
+    fig = plt.figure()
+    ax = fig.add_subplot(projection='3d')
+    ax.view_init(-140, 60)
+    ax.scatter(vect_pca[:,0], vect_pca[:,1], vect_pca[:,2])
+    ax.set_xlabel('X Label')
+    ax.set_ylabel('Y Label')
+    ax.set_zlabel('Z Label')
+    
+    
