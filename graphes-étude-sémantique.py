@@ -14,6 +14,7 @@ from gensim.models.callbacks import CallbackAny2Vec
 from spacy.lang.fr.stop_words import STOP_WORDS as stopwordsSpacy
 import re as regex
 import pandas as pd
+import scipy
 
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
@@ -55,7 +56,7 @@ class callback(CallbackAny2Vec): # pour avoir un rendu verbose du word2vec
         self.epoch += 1
 
 #%% WORD2VEC
-dimension = 16
+dimension = 25
 taille_fenetre = 5
 iterations = 25
 
@@ -101,10 +102,10 @@ def visualiserMotsFrequentsCategorises(model,nb_quiver=70,pca_components=10,nbca
     for i in range(np.shape(Y)[0]):
         ax.text(Y[i][0],Y[i][1], mots_selectionnes[i], size=5)
     plt.title(f'Les {nb_quiver} mots les plus fréquents sur {len(model.wv)}\nDimension départ {dimension} +PCA -> {pca_components} + t-SNE -> 2\n{"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}, {iterations} itérations', size='medium')
-    plt.savefig(path_fig+f'word2vec_pca_dim{dimension}.pdf')
+    plt.savefig(path_fig+f'word2vec_pca_dim{dimension}.pdf', bbox_inches='tight')
     plt.show()
     
-def visualiserMatriceCorrelation(model,nb_cor=15):
+def visualiserCorrelationMots(model,nb_cor=15):
     mots_selectionnes, vecteurs = modele2vecteursWV(model,nb_cor)
     for i in range(nb_cor):
         vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
@@ -144,23 +145,60 @@ def visualiserValeursDimensions(model,nb_vec):
     for dims_l,ax in zip(groupes_dim,axs.reshape(-1)):
         for d in dims_l:
             histo = np.histogram(vecteurs[:,d],bins=50)
-            ax.fill_between(histo[1][:-1], histo[0], step="post", alpha=0.4, label = f'dim{d+1}')
+            freqs = histo[0]/vecteurs.shape[0]
+            entropy = scipy.stats.entropy(freqs)
+            ax.fill_between(histo[1][:-1], histo[0], step="post", alpha=0.4, label = f'dim{d+1}: H={round(entropy,3)}')
         ax.grid(True)    
         ax.legend()
         ax.set_xlabel('valeur sur l\'axe de la dimension')
         ax.set_ylabel('nombre de mots')
-    fig.suptitle(f'Distribution des valeurs sur les {nb_vec} premiers mots les plus fréquents de l\'embedding\n\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations', size=15)
+    fig.suptitle(f'Distribution des valeurs sur les {vecteurs.shape[0]} premiers mots les plus fréquents de l\'embedding\n50 classes; {dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations', size=15)
     plt.savefig(path_fig+f'distributions_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
+    
+def entropieMoyenne(model):
+    _, vecteurs = modele2vecteursWV(model)
+    H = 0
+    for d in range(vecteurs.shape[1]):
+        histo = np.histogram(vecteurs[:,d],bins=50)
+        freqs = histo[0]/vecteurs.shape[0]
+        H += scipy.stats.entropy(freqs)
+    return H/vecteurs.shape[1]
 
-def visualiserCorrelationsDimensions(model,nb_dim):
-    _, vecteurs = modele2vecteursWV(word2vec,nb_dim)
+def visualiserCorrelationsDimensions(model):
+    _, vecteurs = modele2vecteursWV(word2vec)
+    
+    for i in range(vecteurs.shape[0]):
+        vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
     plt.figure(dpi=400)
     mat_cor = np.cov(vecteurs.T)
-    norm = np.linalg.norm(mat_cor)/(mat_cor.shape[0]**2)
-    plt.matshow(mat_cor,cmap='RdBu')
+    plt.matshow(mat_cor,cmap='RdBu', vmin=-.02, vmax=.02)
     plt.colorbar()
-    plt.title(rf'Corrélation des dimensions: $\|M\|_2/d^2=${round(norm,4)} '+f'\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations')
+    plt.title(rf'Corrélation des dimensions '+f'\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations')
+    plt.savefig(path_fig+f'correlation_dimensions_dim{dimension}.pdf',bbox_inches='tight')
+    plt.show()
+    
+    
+def visualiserDivergence(model):
+    _, vecteurs = modele2vecteursWV(model)
+    l_histo = [np.histogram(vecteurs[:,d],bins=10)[0]/vecteurs.shape[0] for d in range(vecteurs.shape[1])]
+    cross_ent = np.zeros((vecteurs.shape[1],vecteurs.shape[1]),dtype=float)
+    for d1 in range(vecteurs.shape[1]):
+        for d2 in range(vecteurs.shape[1]):
+            cross_ent[d1,d2] = scipy.stats.entropy(l_histo[d1],l_histo[d2])
+    plt.matshow(cross_ent)
+    plt.colorbar()
+    return cross_ent
+
+
+ 
+    for i in range(vecteurs.shape[0]):
+        vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
+    plt.figure(dpi=400)
+    mat_cor = np.cov(vecteurs.T)
+    plt.matshow(mat_cor,cmap='RdBu', vmin=-.02, vmax=.02)
+    plt.colorbar()
+    plt.title(rf'Corrélation des dimensions '+f'\n{dimension} dimensions; {"Skip-gram" if model.sg==1 else "CBOW"} fenêtre {taille_fenetre}; {iterations} itérations')
     plt.savefig(path_fig+f'correlation_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
 
@@ -177,15 +215,17 @@ def visualiserDistributionsDimensions(model,nb_dim):
     
     
 
-visualiserMotsFrequentsCategorises(word2vec,nb_quiver=100,pca_components=10,nbcat=6)
-visualiserMatriceCorrelation(word2vec,nb_cor=100)
-visualiserVecteursGraphes(word2vec,nb_vec=100)
-visualiserValeursDimensions(word2vec,nb_vec=taille_vocab)
-visualiserCorrelationsDimensions(word2vec,taille_vocab)
-visualiserDistributionsDimensions(word2vec,taille_vocab)
+# visualiserMotsFrequentsCategorises(word2vec,nb_quiver=100,pca_components=8,nbcat=6)
+# visualiserCorrelationMots(word2vec,nb_cor=30)
+# visualiserVecteursGraphes(word2vec,nb_vec=100)
+# visualiserValeursDimensions(word2vec,nb_vec=taille_vocab)
+# visualiserCorrelationsDimensions(word2vec)
+# visualiserDistributionsDimensions(word2vec,taille_vocab)
 
-mots_selectionnes, vecteurs = modele2vecteursWV(word2vec,100)
+mots_selectionnes, vecteurs = modele2vecteursWV(word2vec)
 for i in range(vecteurs.shape[-1]):
     vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
 df = pd.DataFrame(vecteurs,columns = [f"dim{n}" for n in range(1,dimension+1)])
+
+print(entropieMoyenne(word2vec))
 
