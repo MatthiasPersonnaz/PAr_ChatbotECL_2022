@@ -56,20 +56,27 @@ class callback(CallbackAny2Vec): # pour avoir un rendu verbose du word2vec
         self.epoch += 1
 
 #%% WORD2VEC
-dimension = 25
-taille_fenetre = 5
-iterations = 25
 
-# 1 pour skipram, 0 pour cbow
-mode=1
 
-word2vec = gensim.models.Word2Vec(sentences=phrasesDecoupeesSpacy, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4,epochs=iterations,callbacks=[callback()]) 
 
-taille_vocab=len(word2vec.wv)
+def entropieMoyenne(vecteurs):
+    H = 0
+    st_dev = [np.std(vecteurs[:,d])     for d in range(vecteurs.shape[1])]
+    moy    = [np.average(vecteurs[:,d]) for d in range(vecteurs.shape[1])]
+    total_std = np.sum(st_dev)
+    for d in range(vecteurs.shape[1]):
+        histo = np.histogram(vecteurs[:,d],bins=50)
+        freqs = histo[0]/vecteurs.shape[0]
+        H += scipy.stats.entropy(freqs)*st_dev[d]**2
+    return vecteurs.shape[1]*H/total_std
+
+
+
+
 
 print('word2vec achevé\n')
 
-def modele2vecteursWV(model,nbmax=-1):
+def modele2vecteursWV(model,dimension,nbmax=-1):
     '''renvoie
             la liste des nbmax premiers mots sous la forme d'une liste
             et leurs vecteurs sous la forme d'un array'''
@@ -80,12 +87,12 @@ def modele2vecteursWV(model,nbmax=-1):
         vecteurs[i] = model.wv[mots[i]]
     return mots[:nbmax], vecteurs[:nbmax]
 
-mots,vecteurs = modele2vecteursWV(word2vec)
+
 
 
 
 def visualiserMotsFrequentsCategorises(model,nb_quiver=70,pca_components=10,nbcat=5):
-    mots_selectionnes, vecteurs = modele2vecteursWV(model,nb_quiver)
+    mots_selectionnes, vecteurs = modele2vecteursWV(model,dimension,nb_quiver)
     # Trouver les coordonnées de  t-SNE en deux dimensions
     np.set_printoptions(suppress=True)        
     # Réduire la domention de 300 à 10 avec PCA
@@ -106,7 +113,7 @@ def visualiserMotsFrequentsCategorises(model,nb_quiver=70,pca_components=10,nbca
     plt.show()
     
 def visualiserCorrelationMots(model,nb_cor=15):
-    mots_selectionnes, vecteurs = modele2vecteursWV(model,nb_cor)
+    mots_selectionnes, vecteurs = modele2vecteursWV(model,dimension,nb_cor)
     for i in range(nb_cor):
         vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
 
@@ -123,7 +130,7 @@ def visualiserCorrelationMots(model,nb_cor=15):
     plt.show()
 
 def visualiserVecteursGraphes(model,nb_vec=15):
-    mots_selectionnes, vecteurs = modele2vecteursWV(model,nb_vec)
+    mots_selectionnes, vecteurs = modele2vecteursWV(model,dimension,nb_vec)
     for i in range(nb_vec):
         vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
 
@@ -137,7 +144,7 @@ def visualiserVecteursGraphes(model,nb_vec=15):
 
 
 def visualiserValeursDimensions(model,nb_vec):
-    _, vecteurs = modele2vecteursWV(model,nb_vec)
+    _, vecteurs = modele2vecteursWV(model,dimension,nb_vec)
 
     fig, axs = plt.subplots(nrows=2, ncols=2,figsize = (12,8))
     
@@ -156,17 +163,10 @@ def visualiserValeursDimensions(model,nb_vec):
     plt.savefig(path_fig+f'distributions_dimensions_dim{dimension}.pdf',bbox_inches='tight')
     plt.show()
     
-def entropieMoyenne(model):
-    _, vecteurs = modele2vecteursWV(model)
-    H = 0
-    for d in range(vecteurs.shape[1]):
-        histo = np.histogram(vecteurs[:,d],bins=50)
-        freqs = histo[0]/vecteurs.shape[0]
-        H += scipy.stats.entropy(freqs)
-    return H/vecteurs.shape[1]
+
 
 def visualiserCorrelationsDimensions(model):
-    _, vecteurs = modele2vecteursWV(word2vec)
+    _, vecteurs = modele2vecteursWV(word2vec,dimension)
     
     for i in range(vecteurs.shape[0]):
         vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
@@ -180,7 +180,7 @@ def visualiserCorrelationsDimensions(model):
     
     
 def visualiserDivergence(model):
-    _, vecteurs = modele2vecteursWV(model)
+    _, vecteurs = modele2vecteursWV(model,dimension)
     l_histo = [np.histogram(vecteurs[:,d],bins=10)[0]/vecteurs.shape[0] for d in range(vecteurs.shape[1])]
     cross_ent = np.zeros((vecteurs.shape[1],vecteurs.shape[1]),dtype=float)
     for d1 in range(vecteurs.shape[1]):
@@ -212,20 +212,33 @@ def visualiserDistributionsDimensions(model,nb_dim):
     
     
 
-    
+dimension = 32
+taille_fenetre = 5
+iterations = 25
+
+# 1 pour skipram, 0 pour cbow
+mode=1
+
+word2vec = gensim.models.Word2Vec(sentences=phrasesDecoupeesSpacy, window=taille_fenetre, min_count=1, sg=mode, vector_size=dimension, workers=4,epochs=iterations,callbacks=[callback()]) 
+
+taille_vocab=len(word2vec.wv)
+mots_selectionnes, vecteurs = modele2vecteursWV(word2vec,dimension)
+
+print(dimension, entropieMoyenne(vecteurs))
+
     
 
-# visualiserMotsFrequentsCategorises(word2vec,nb_quiver=100,pca_components=8,nbcat=6)
-# visualiserCorrelationMots(word2vec,nb_cor=30)
-# visualiserVecteursGraphes(word2vec,nb_vec=100)
-# visualiserValeursDimensions(word2vec,nb_vec=taille_vocab)
-# visualiserCorrelationsDimensions(word2vec)
-# visualiserDistributionsDimensions(word2vec,taille_vocab)
+visualiserMotsFrequentsCategorises(word2vec,nb_quiver=100,pca_components=8,nbcat=6)
+visualiserCorrelationMots(word2vec,nb_cor=30)
+visualiserVecteursGraphes(word2vec,nb_vec=100)
+visualiserValeursDimensions(word2vec,nb_vec=taille_vocab)
+visualiserCorrelationsDimensions(word2vec)
+visualiserDistributionsDimensions(word2vec,dimension)
 
-mots_selectionnes, vecteurs = modele2vecteursWV(word2vec)
+mots_selectionnes, vecteurs = modele2vecteursWV(word2vec,dimension)
 for i in range(vecteurs.shape[-1]):
     vecteurs[i] = vecteurs[i]/np.linalg.norm(vecteurs[i])
 df = pd.DataFrame(vecteurs,columns = [f"dim{n}" for n in range(1,dimension+1)])
 
-print(entropieMoyenne(word2vec))
+
 
