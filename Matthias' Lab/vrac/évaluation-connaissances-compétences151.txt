@@ -1,1 +1,0 @@
-Une Competence deja validee ne peut pas etre reevaluee.

@@ -1,1 +1,0 @@
-L'UE est alors validee si la note globale d'UE calculee a partir des notes de Savoir obtenues a l'issue de la seconde session d'examen est superieure ou egale a .

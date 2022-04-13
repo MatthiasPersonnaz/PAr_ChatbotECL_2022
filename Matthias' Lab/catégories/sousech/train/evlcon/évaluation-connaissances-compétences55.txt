@@ -1,1 +1,0 @@
-A partir des différents poids et notes de chaque Action de Formation, une note de Savoir et/ou de Savoir-Faire est calculée pour l'UE en utilisant une somme pondérée.

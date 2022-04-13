@@ -1,1 +1,0 @@
-EML = diplôme du programme Grande École de l'EMLyon Business School.

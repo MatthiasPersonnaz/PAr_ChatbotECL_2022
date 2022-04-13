@@ -1,1 +1,0 @@
-ENSAE-ECL =correspond aux élèves de l'École Nationale de la Statistique et de l'Administration Economique Paristech admis en deuxième année.

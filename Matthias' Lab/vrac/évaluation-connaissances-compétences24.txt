@@ -1,1 +1,0 @@
-Une UE deja validee ne peut pas etre refaite.

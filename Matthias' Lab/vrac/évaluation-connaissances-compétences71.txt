@@ -1,1 +1,0 @@
-En cas d'epreuves de controle continu pour une Action de Formation, la note de savoir de l'Action de Formation peut etre une somme ponderee entre les differentes notes de controle continu et la note d'examen terminal ou le maximum entre la note d'examen terminal et une somme ponderee entre les differentes notes de controle continu et la note d'examen terminal.

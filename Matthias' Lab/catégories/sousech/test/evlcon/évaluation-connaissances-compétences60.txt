@@ -1,1 +1,0 @@
-Les types sont : les Unités d'Enseignement Disciplines Scientifiques ; les Unités d'Enseignement Professionnelles et Stages ; les Unités d'Enseignement Langues Vivantes ; les Unités d'Enseignement spécifiques au Parcours Electif.

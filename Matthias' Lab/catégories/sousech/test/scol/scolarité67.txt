@@ -1,3 +1,0 @@
-ENSAL-ECL correspond aux élèves de l'École Nationale Supérieure d'Architecture de Lyon admis
-en première année;
-ENSL-ECL = correspond aux élèves de l'École Normale Supérieure de Lyon admis en deuxième année.
